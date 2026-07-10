@@ -1,0 +1,6213 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 16598,
+      "courses": 1608,
+      "rawCoursesWithTargetTerm": 1608,
+      "subjects": 121,
+      "sections": 5136,
+      "meetings": 5850,
+      "warnings": 0
+    }
+  },
+  "subject": "CSCI",
+  "courses": [
+    {
+      "id": "CSCI1120",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "1120",
+      "courseCode": "CSCI1120",
+      "title": "Intro to Computing Using C++ 計算導論（C++語言）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI1120:A:LEC:5742",
+          "rawSection": "A-LEC (5742)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 5742,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAW Yat Chiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "ELB_LT3",
+              "instructor": "Dr. LAW Yat Chiu",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "We 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "LSK_LT2",
+              "instructor": "Dr. LAW Yat Chiu",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI1120:AT01:TUT:no-class-number",
+          "rawSection": "AT01-TUT",
+          "sectionCode": "AT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "ELB_LT3",
+              "instructor": null,
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI1120:B:LEC:5705",
+          "rawSection": "B-LEC (5705)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 5705,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAM King Tin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LSB_LT6",
+              "instructor": "Dr. LAM King Tin",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "We 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "BMS_G18",
+              "instructor": "Dr. LAM King Tin",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI1120:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "BMS_G18",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI1130",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "1130",
+      "courseCode": "CSCI1130",
+      "title": "Intro to Computing Using Java 計算導論（JAVA語言）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI1130:A:LEC:5625",
+          "rawSection": "A-LEC (5625)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 5625,
+          "language": "E",
+          "availability": {
+            "capacity": 160,
+            "enrolled": 0,
+            "availableSeats": 160,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. FUNG Ping Fu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "MMW_LT1",
+              "instructor": "Mr. FUNG Ping Fu",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LSB_LT6",
+              "instructor": "Mr. FUNG Ping Fu",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI1130:AT01:TUT:no-class-number",
+          "rawSection": "AT01-TUT",
+          "sectionCode": "AT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 160,
+            "enrolled": 0,
+            "availableSeats": 160,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "MMW_LT1",
+              "instructor": null,
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI1130:B:LEC:5693",
+          "rawSection": "B-LEC (5693)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 5693,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHUI Yim Pan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSB_LT5",
+              "instructor": "Dr. CHUI Yim Pan",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "SC_L2",
+              "instructor": "Dr. CHUI Yim Pan",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI1130:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "SC_L4",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI1540",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "1540",
+      "courseCode": "CSCI1540",
+      "title": "Fund Comp With C++ 基本計算學（C++語言）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI1540:-:LEC:9829",
+          "rawSection": "--LEC (9829)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9829,
+          "language": "E",
+          "availability": {
+            "capacity": 160,
+            "enrolled": 0,
+            "availableSeats": 160,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAW Yat Chiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSB_LT6",
+              "instructor": "Dr. LAW Yat Chiu",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "We 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "BMS_G18",
+              "instructor": "Dr. LAW Yat Chiu",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI1540:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 160,
+            "enrolled": 0,
+            "availableSeats": 160,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "BMS_G18",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI1550",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "1550",
+      "courseCode": "CSCI1550",
+      "title": "Computer Principles & P Prog 計算機原理及Python程序設計",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI1550:-:LEC:9443",
+          "rawSection": "--LEC (9443)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9443,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAM King Tin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "SC_L1",
+              "instructor": "Dr. LAM King Tin",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSB_LT6",
+              "instructor": "Dr. LAM King Tin",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI1550:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "LSB_LT6",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI1580",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "1580",
+      "courseCode": "CSCI1580",
+      "title": "Visual Programming 可視化編寫",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI1580:-:LEC:5741",
+          "rawSection": "--LEC (5741)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5741,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEONG Chi Hong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "ERB_401",
+              "instructor": "Dr. CHEONG Chi Hong",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "SC_L2",
+              "instructor": "Dr. CHEONG Chi Hong",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI1580:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "SHB_123",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI2040",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "2040",
+      "courseCode": "CSCI2040",
+      "title": "Introduction to Python Python程序語言導論",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI2040:-:LEC:7560",
+          "rawSection": "--LEC (7560)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7560,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHUI Yim Pan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "LSB_LT6",
+              "instructor": "Dr. CHUI Yim Pan",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2040:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LSB_LT6",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI2100",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "2100",
+      "courseCode": "CSCI2100",
+      "title": "Data Structures 數據結構",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI2100:A:LEC:5232",
+          "rawSection": "A-LEC (5232)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 5232,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "LHC_103",
+              "instructor": "Staff",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "BMS_G18",
+              "instructor": "Staff",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2100:AT01:TUT:no-class-number",
+          "rawSection": "AT01-TUT",
+          "sectionCode": "AT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "WMY_303",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2100:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "ERB_404",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2100:B:LEC:6564",
+          "rawSection": "B-LEC (6564)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 6564,
+          "language": "E",
+          "availability": {
+            "capacity": 130,
+            "enrolled": 0,
+            "availableSeats": 130,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIN Ho Fai Hoover"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "MMW_LT1",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "We 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "ERB_1004",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2100:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 130,
+            "enrolled": 0,
+            "availableSeats": 130,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "ERB_1004",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI2510",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "2510",
+      "courseCode": "CSCI2510",
+      "title": "Computer Organization 計算機結構",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI2510:-:LEC:9347",
+          "rawSection": "--LEC (9347)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9347,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YANG Ming Chang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SC_L2",
+              "instructor": "Professor YANG Ming Chang",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Tu 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "LSB_LT5",
+              "instructor": "Professor YANG Ming Chang",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2510:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LSB_LT5",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI2720",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "2720",
+      "courseCode": "CSCI2720",
+      "title": "Building Web Applications 建設網上應用程式",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI2720:-:LEC:5874",
+          "rawSection": "--LEC (5874)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5874,
+          "language": "E",
+          "availability": {
+            "capacity": 180,
+            "enrolled": 0,
+            "availableSeats": 180,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. TSANG Siu Chung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "ERB_LT",
+              "instructor": "Dr. TSANG Siu Chung",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ERB_LT",
+              "instructor": "Dr. TSANG Siu Chung",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2720:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "SHB_123",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2720:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "SHB_123",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2720:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "SHB_123",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2720:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "SHB_123",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI2730",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "2730",
+      "courseCode": "CSCI2730",
+      "title": "Intro to Blockchain Tech & App 區塊鏈技術和應用導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI2730:-:LEC:4847",
+          "rawSection": "--LEC (4847)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4847,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. CHEUNG Yuk Kin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 08:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "08:30",
+              "endTime": "10:15",
+              "startMinutes": 510,
+              "endMinutes": 615,
+              "location": "ERB_407",
+              "instructor": "Mr. CHEUNG Yuk Kin",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ERB_407",
+              "instructor": "Mr. CHEUNG Yuk Kin",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI2730:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 08:30AM - 09:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "08:30",
+              "endTime": "09:15",
+              "startMinutes": 510,
+              "endMinutes": 555,
+              "location": "ERB_407",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI3100",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "3100",
+      "courseCode": "CSCI3100",
+      "title": "Software Engineering 軟件工程",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI3100:-:LEC:5720",
+          "rawSection": "--LEC (5720)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5720,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Shaohua"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "SC_L2",
+              "instructor": "Professor LI Shaohua",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "LSK_LT1",
+              "instructor": "Professor LI Shaohua",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3100:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "ERB_401",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3100:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "ERB_401",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI3130",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "3130",
+      "courseCode": "CSCI3130",
+      "title": "Formal Lang & Automata Theory 形式語言及自動機理論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI3130:-:LEC:5522",
+          "rawSection": "--LEC (5522)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5522,
+          "language": "E",
+          "availability": {
+            "capacity": 170,
+            "enrolled": 0,
+            "availableSeats": 170,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "ERB_LT",
+              "instructor": "Staff",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Tu 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "MMW_LT1",
+              "instructor": "Staff",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3130:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 170,
+            "enrolled": 0,
+            "availableSeats": 170,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "MMW_LT1",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI3150",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "3150",
+      "courseCode": "CSCI3150",
+      "title": "Intro to Operating Systems 操作系統導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI3150:-:LEC:5626",
+          "rawSection": "--LEC (5626)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5626,
+          "language": "E",
+          "availability": {
+            "capacity": 240,
+            "enrolled": 0,
+            "availableSeats": 240,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHAO Zili"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSB_LT1",
+              "instructor": "Professor SHAO Zili",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ERB_LT",
+              "instructor": "Professor SHAO Zili",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3150:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "SHB_123",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3150:-L02:LAB:no-class-number",
+          "rawSection": "-L02-LAB",
+          "sectionCode": "-L02",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "SHB_123",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3150:-L03:LAB:no-class-number",
+          "rawSection": "-L03-LAB",
+          "sectionCode": "-L03",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "SHB_123",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3150:-L04:LAB:no-class-number",
+          "rawSection": "-L04-LAB",
+          "sectionCode": "-L04",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "SHB_123",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3150:-L05:LAB:no-class-number",
+          "rawSection": "-L05-LAB",
+          "sectionCode": "-L05",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "SHB_123",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI3160",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "3160",
+      "courseCode": "CSCI3160",
+      "title": "Design & Analysis of Algo 算法設計及分析",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI3160:-:LEC:5790",
+          "rawSection": "--LEC (5790)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5790,
+          "language": "E",
+          "availability": {
+            "capacity": 210,
+            "enrolled": 0,
+            "availableSeats": 210,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TAO Yufei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "MMW_LT1",
+              "instructor": "Professor TAO Yufei",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LSB_LT1",
+              "instructor": "Professor TAO Yufei",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3160:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ERB_407",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3160:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "LSB_C4",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3160:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "WMY_408",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3160:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "ERB_803",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI3170",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "3170",
+      "courseCode": "CSCI3170",
+      "title": "Intro to Database Systems 數據庫系統導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI3170:-:LEC:7248",
+          "rawSection": "--LEC (7248)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7248,
+          "language": "E",
+          "availability": {
+            "capacity": 190,
+            "enrolled": 0,
+            "availableSeats": 190,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YU Michael Ruisi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "ERB_LT",
+              "instructor": "Dr. YU Michael Ruisi",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "MMW_LT1",
+              "instructor": "Dr. YU Michael Ruisi",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3170:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSB_LT6",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3170:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "LHC_103",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI3190",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "3190",
+      "courseCode": "CSCI3190",
+      "title": "Intro to Discrete Math & Algo 離散數學及算法導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI3190:-:LEC:7571",
+          "rawSection": "--LEC (7571)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7571,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Hanrui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "MMW_702",
+              "instructor": "Professor ZHANG Hanrui",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Tu 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "ERB_803",
+              "instructor": "Professor ZHANG Hanrui",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3190:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "ERB_803",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI3230",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "3230",
+      "courseCode": "CSCI3230",
+      "title": "Fundamentals of AI 人工智能之基本原理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI3230:-:LEC:5523",
+          "rawSection": "--LEC (5523)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5523,
+          "language": "E",
+          "availability": {
+            "capacity": 180,
+            "enrolled": 0,
+            "availableSeats": 180,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor DOU Qi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "SC_L1",
+              "instructor": "Professor DOU Qi",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "LSB_LT1",
+              "instructor": "Professor DOU Qi",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3230:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "SC_L5",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3230:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "SC_L5",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3230:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ERB_803",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3230:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "SC_L3",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI3260",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "3260",
+      "courseCode": "CSCI3260",
+      "title": "Principles of Comp Graphics 計算機圖形學之原理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI3260:-:LEC:5266",
+          "rawSection": "--LEC (5266)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5266,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor FU Chi Wing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ICS_L1",
+              "instructor": "Professor FU Chi Wing",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SC_L2",
+              "instructor": "Professor FU Chi Wing",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3260:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "LHC_104",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI3280",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "3280",
+      "courseCode": "CSCI3280",
+      "title": "Intro to Multimedia Systems 多媒體系統導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI3280:-:LEC:4849",
+          "rawSection": "--LEC (4849)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4849,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "ERB_407",
+              "instructor": "Staff",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSB_LT2",
+              "instructor": "Staff",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3280:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "LSB_LT2",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI3360",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "3360",
+      "courseCode": "CSCI3360",
+      "title": "Intro to Computational Complex 計算複雜度導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI3360:-:LEC:5297",
+          "rawSection": "--LEC (5297)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5297,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIANG Xiao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "LHC_104",
+              "instructor": "Professor LIANG Xiao",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Tu 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "LHC_103",
+              "instructor": "Professor LIANG Xiao",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI3360:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSK_LT1",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI4120",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "4120",
+      "courseCode": "CSCI4120",
+      "title": "Principles of Comp Game SW 電腦遊戲軟件原理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI4120:-:LEC:5298",
+          "rawSection": "--LEC (5298)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5298,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. MAK Wai Ho Wallace"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "LSB_LT5",
+              "instructor": "Mr. MAK Wai Ho Wallace",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Tu 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "SC_L1",
+              "instructor": "Mr. MAK Wai Ho Wallace",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4120:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "SC_L1",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI4180",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "4180",
+      "courseCode": "CSCI4180",
+      "title": "Intro to Cloud Comp & Storage 雲端計算及存儲導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI4180:-:LEC:6995",
+          "rawSection": "--LEC (6995)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6995,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Pak Ching"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSK_LT1",
+              "instructor": "Professor LEE Pak Ching",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "We 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LSK_LT1",
+              "instructor": "Professor LEE Pak Ching",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4180:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "LSK_LT1",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4180:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSK_LT1",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI4998",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "4998",
+      "courseCode": "CSCI4998",
+      "title": "Final Year Project I 畢業專題研究（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI4998:AJ01:PRJ:6602",
+          "rawSection": "AJ01-PRJ (6602)",
+          "sectionCode": "AJ01",
+          "component": "PRJ",
+          "classNumber": 6602,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PAN Jialin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor PAN Jialin",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AAJ1:PRJ:6253",
+          "rawSection": "AAJ1-PRJ (6253)",
+          "sectionCode": "AAJ1",
+          "component": "PRJ",
+          "classNumber": 6253,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YOUNG Fung Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YOUNG Fung Yu",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:ABJ1:PRJ:6247",
+          "rawSection": "ABJ1-PRJ (6247)",
+          "sectionCode": "ABJ1",
+          "component": "PRJ",
+          "classNumber": 6247,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YU Bei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YU Bei",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:ACJ1:PRJ:6254",
+          "rawSection": "ACJ1-PRJ (6254)",
+          "sectionCode": "ACJ1",
+          "component": "PRJ",
+          "classNumber": 6254,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAU Chuck Jee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHAU Chuck Jee",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:ADJ1:PRJ:6255",
+          "rawSection": "ADJ1-PRJ (6255)",
+          "sectionCode": "ADJ1",
+          "component": "PRJ",
+          "classNumber": 6255,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEONG Chi Hong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHEONG Chi Hong",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AEJ1:PRJ:6256",
+          "rawSection": "AEJ1-PRJ (6256)",
+          "sectionCode": "AEJ1",
+          "component": "PRJ",
+          "classNumber": 6256,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHUI Yim Pan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHUI Yim Pan",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AFJ1:PRJ:6423",
+          "rawSection": "AFJ1-PRJ (6423)",
+          "sectionCode": "AFJ1",
+          "component": "PRJ",
+          "classNumber": 6423,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KAM Ho Chuen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. KAM Ho Chuen",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AGJ1:PRJ:6252",
+          "rawSection": "AGJ1-PRJ (6252)",
+          "sectionCode": "AGJ1",
+          "component": "PRJ",
+          "classNumber": 6252,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAM King Tin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. LAM King Tin",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AHJ1:PRJ:6257",
+          "rawSection": "AHJ1-PRJ (6257)",
+          "sectionCode": "AHJ1",
+          "component": "PRJ",
+          "classNumber": 6257,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAW Yat Chiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. LAW Yat Chiu",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AIJ1:PRJ:6382",
+          "rawSection": "AIJ1-PRJ (6382)",
+          "sectionCode": "AIJ1",
+          "component": "PRJ",
+          "classNumber": 6382,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LU Songtao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LU Songtao",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AJJ1:PRJ:6248",
+          "rawSection": "AJJ1-PRJ (6248)",
+          "sectionCode": "AJJ1",
+          "component": "PRJ",
+          "classNumber": 6248,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. SUM Kwok Wing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. SUM Kwok Wing",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AKJ1:PRJ:7856",
+          "rawSection": "AKJ1-PRJ (7856)",
+          "sectionCode": "AKJ1",
+          "component": "PRJ",
+          "classNumber": 7856,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LYU Rung Tsong Michael"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LYU Rung Tsong Michael",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:ALJ1:PRJ:6424",
+          "rawSection": "ALJ1-PRJ (6424)",
+          "sectionCode": "ALJ1",
+          "component": "PRJ",
+          "classNumber": 6424,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. TSANG Siu Chung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. TSANG Siu Chung",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AMJ1:PRJ:6409",
+          "rawSection": "AMJ1-PRJ (6409)",
+          "sectionCode": "AMJ1",
+          "component": "PRJ",
+          "classNumber": 6409,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Lauren Marcelyn PICK"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Lauren Marcelyn PICK",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:ANJ1:PRJ:6416",
+          "rawSection": "ANJ1-PRJ (6416)",
+          "sectionCode": "ANJ1",
+          "component": "PRJ",
+          "classNumber": 6416,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Hanrui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHANG Hanrui",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AOJ1:PRJ:6418",
+          "rawSection": "AOJ1-PRJ (6418)",
+          "sectionCode": "AOJ1",
+          "component": "PRJ",
+          "classNumber": 6418,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Qiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Qiang",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:APJ1:PRJ:7857",
+          "rawSection": "APJ1-PRJ (7857)",
+          "sectionCode": "APJ1",
+          "component": "PRJ",
+          "classNumber": 7857,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:AQJ1:PRJ:7867",
+          "rawSection": "AQJ1-PRJ (7867)",
+          "sectionCode": "AQJ1",
+          "component": "PRJ",
+          "classNumber": 7867,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:BJ01:PRJ:4850",
+          "rawSection": "BJ01-PRJ (4850)",
+          "sectionCode": "BJ01",
+          "component": "PRJ",
+          "classNumber": 4850,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:CJ01:PRJ:6205",
+          "rawSection": "CJ01-PRJ (6205)",
+          "sectionCode": "CJ01",
+          "component": "PRJ",
+          "classNumber": 6205,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHENG James"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHENG James",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:DJ01:PRJ:6202",
+          "rawSection": "DJ01-PRJ (6202)",
+          "sectionCode": "DJ01",
+          "component": "PRJ",
+          "classNumber": 6202,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor DOU Qi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor DOU Qi",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:EJ01:PRJ:6239",
+          "rawSection": "EJ01-PRJ (6239)",
+          "sectionCode": "EJ01",
+          "component": "PRJ",
+          "classNumber": 6239,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Farzan FARNIA"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Farzan FARNIA",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:FJ01:PRJ:6240",
+          "rawSection": "FJ01-PRJ (6240)",
+          "sectionCode": "FJ01",
+          "component": "PRJ",
+          "classNumber": 6240,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor FU Chi Wing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor FU Chi Wing",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:GJ01:PRJ:7954",
+          "rawSection": "GJ01-PRJ (7954)",
+          "sectionCode": "GJ01",
+          "component": "PRJ",
+          "classNumber": 7954,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIANG Zhiding"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIANG Zhiding",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:HJ01:PRJ:6203",
+          "rawSection": "HJ01-PRJ (6203)",
+          "sectionCode": "HJ01",
+          "component": "PRJ",
+          "classNumber": 6203,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HO Tsung Yi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HO Tsung Yi",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:IJ01:PRJ:6231",
+          "rawSection": "IJ01-PRJ (6231)",
+          "sectionCode": "IJ01",
+          "component": "PRJ",
+          "classNumber": 6231,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Shaohua"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Shaohua",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:JJ01:PRJ:8159",
+          "rawSection": "JJ01-PRJ (8159)",
+          "sectionCode": "JJ01",
+          "component": "PRJ",
+          "classNumber": 8159,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Shengchao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIU Shengchao",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:KJ01:PRJ:6241",
+          "rawSection": "KJ01-PRJ (6241)",
+          "sectionCode": "KJ01",
+          "component": "PRJ",
+          "classNumber": 6241,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:LJ01:PRJ:6242",
+          "rawSection": "LJ01-PRJ (6242)",
+          "sectionCode": "LJ01",
+          "component": "PRJ",
+          "classNumber": 6242,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Pak Ching"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Pak Ching",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:MJ01:PRJ:6243",
+          "rawSection": "MJ01-PRJ (6243)",
+          "sectionCode": "MJ01",
+          "component": "PRJ",
+          "classNumber": 6243,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. JIANG Yuli"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. JIANG Yuli",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:NJ01:PRJ:6246",
+          "rawSection": "NJ01-PRJ (6246)",
+          "sectionCode": "NJ01",
+          "component": "PRJ",
+          "classNumber": 6246,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Yu",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:OJ01:PRJ:6244",
+          "rawSection": "OJ01-PRJ (6244)",
+          "sectionCode": "OJ01",
+          "component": "PRJ",
+          "classNumber": 6244,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LO Chi Lik Eric"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LO Chi Lik Eric",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:PJ01:PRJ:6245",
+          "rawSection": "PJ01-PRJ (6245)",
+          "sectionCode": "PJ01",
+          "component": "PRJ",
+          "classNumber": 6245,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LYU Rung Tsong Michael"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LYU Rung Tsong Michael",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:QJ01:PRJ:6249",
+          "rawSection": "QJ01-PRJ (6249)",
+          "sectionCode": "QJ01",
+          "component": "PRJ",
+          "classNumber": 6249,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MENG Wei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MENG Wei",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:RJ01:PRJ:6408",
+          "rawSection": "RJ01-PRJ (6408)",
+          "sectionCode": "RJ01",
+          "component": "PRJ",
+          "classNumber": 6408,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHAO Zili"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SHAO Zili",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:SJ01:PRJ:7844",
+          "rawSection": "SJ01-PRJ (7844)",
+          "sectionCode": "SJ01",
+          "component": "PRJ",
+          "classNumber": 7844,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TAO Yufei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TAO Yufei",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:TJ01:PRJ:6422",
+          "rawSection": "TJ01-PRJ (6422)",
+          "sectionCode": "TJ01",
+          "component": "PRJ",
+          "classNumber": 6422,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIANG Xiao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIANG Xiao",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:UJ01:PRJ:6250",
+          "rawSection": "UJ01-PRJ (6250)",
+          "sectionCode": "UJ01",
+          "component": "PRJ",
+          "classNumber": 6250,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Liwei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Liwei",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:VJ01:PRJ:7845",
+          "rawSection": "VJ01-PRJ (7845)",
+          "sectionCode": "VJ01",
+          "component": "PRJ",
+          "classNumber": 7845,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. TIAN Yusheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. TIAN Yusheng",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:WJ01:PRJ:6320",
+          "rawSection": "WJ01-PRJ (6320)",
+          "sectionCode": "WJ01",
+          "component": "PRJ",
+          "classNumber": 6320,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Weiyang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIU Weiyang",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:XJ01:PRJ:6251",
+          "rawSection": "XJ01-PRJ (6251)",
+          "sectionCode": "XJ01",
+          "component": "PRJ",
+          "classNumber": 6251,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Hong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Hong",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:YJ01:PRJ:7842",
+          "rawSection": "YJ01-PRJ (7842)",
+          "sectionCode": "YJ01",
+          "component": "PRJ",
+          "classNumber": 7842,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Zhengrong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Zhengrong",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4998:ZJ01:PRJ:7864",
+          "rawSection": "ZJ01-PRJ (7864)",
+          "sectionCode": "ZJ01",
+          "component": "PRJ",
+          "classNumber": 7864,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YANG Ming Chang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YANG Ming Chang",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI4999",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csd/CSD.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "4999",
+      "courseCode": "CSCI4999",
+      "title": "Final Year Project II 畢業專題研究（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Computer Sci & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI4999:-J01:PRJ:6162",
+          "rawSection": "-J01-PRJ (6162)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6162,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4999:AJ01:PRJ:6521",
+          "rawSection": "AJ01-PRJ (6521)",
+          "sectionCode": "AJ01",
+          "component": "PRJ",
+          "classNumber": 6521,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI4999:BJ01:PRJ:6099",
+          "rawSection": "BJ01-PRJ (6099)",
+          "sectionCode": "BJ01",
+          "component": "PRJ",
+          "classNumber": 6099,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4336 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "ARCH",
+  "courses": [
+    {
+      "id": "ARCH5110",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arch/ARCH.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARCH",
+      "catalogNumber": "5110",
+      "courseCode": "ARCH5110",
+      "title": "Adv Arch Design Studio 1 進階建築設計工作室 - 一",
+      "units": 6,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "STD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARCH5110:AU01:STD:1187",
+          "rawSection": "AU01-STD (1187)",
+          "sectionCode": "AU01",
+          "component": "STD",
+          "classNumber": 1187,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Francesco ROSSINI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Francesco ROSSINI",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Francesco ROSSINI",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:BU01:STD:1176",
+          "rawSection": "BU01-STD (1176)",
+          "sectionCode": "BU01",
+          "component": "STD",
+          "classNumber": 1176,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. TAM Sin Lung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. TAM Sin Lung",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. TAM Sin Lung",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:CU01:STD:1160",
+          "rawSection": "CU01-STD (1160)",
+          "sectionCode": "CU01",
+          "component": "STD",
+          "classNumber": 1160,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HSU Chung Wan Simon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor HSU Chung Wan Simon",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor HSU Chung Wan Simon",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:DU01:STD:1175",
+          "rawSection": "DU01-STD (1175)",
+          "sectionCode": "DU01",
+          "component": "STD",
+          "classNumber": 1175,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Jingxiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor ZHU Jingxiang",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor ZHU Jingxiang",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:EU01:STD:1178",
+          "rawSection": "EU01-STD (1178)",
+          "sectionCode": "EU01",
+          "component": "STD",
+          "classNumber": 1178,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Shuaizhong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor WANG Shuaizhong",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor WANG Shuaizhong",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:FU01:STD:1177",
+          "rawSection": "FU01-STD (1177)",
+          "sectionCode": "FU01",
+          "component": "STD",
+          "classNumber": 1177,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:GU01:STD:1179",
+          "rawSection": "GU01-STD (1179)",
+          "sectionCode": "GU01",
+          "component": "STD",
+          "classNumber": 1179,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Inge GOUDSMIT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Inge GOUDSMIT",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Inge GOUDSMIT",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:HU01:STD:1173",
+          "rawSection": "HU01-STD (1173)",
+          "sectionCode": "HU01",
+          "component": "STD",
+          "classNumber": 1173,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CAI Jiaxiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CAI Jiaxiu",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CAI Jiaxiu",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:IU01:STD:1174",
+          "rawSection": "IU01-STD (1174)",
+          "sectionCode": "IU01",
+          "component": "STD",
+          "classNumber": 1174,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:JU01:STD:1055",
+          "rawSection": "JU01-STD (1055)",
+          "sectionCode": "JU01",
+          "component": "STD",
+          "classNumber": 1055,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Peter Winston FERRETTO"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Peter Winston FERRETTO",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Peter Winston FERRETTO",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:KU01:STD:1056",
+          "rawSection": "KU01-STD (1056)",
+          "sectionCode": "KU01",
+          "component": "STD",
+          "classNumber": 1056,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5110:LU01:STD:1057",
+          "rawSection": "LU01-STD (1057)",
+          "sectionCode": "LU01",
+          "component": "STD",
+          "classNumber": 1057,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAM Tat"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor LAM Tat",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor LAM Tat",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ARCH5111",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arch/ARCH.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARCH",
+      "catalogNumber": "5111",
+      "courseCode": "ARCH5111",
+      "title": "Adv Arch Design Studio 1 (A) 進階建築設計工作室 - 一 (上)",
+      "units": 6,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "STD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARCH5111:AU01:STD:1064",
+          "rawSection": "AU01-STD (1064)",
+          "sectionCode": "AU01",
+          "component": "STD",
+          "classNumber": 1064,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Francesco ROSSINI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Francesco ROSSINI",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Francesco ROSSINI",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:BU01:STD:1065",
+          "rawSection": "BU01-STD (1065)",
+          "sectionCode": "BU01",
+          "component": "STD",
+          "classNumber": 1065,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. TAM Sin Lung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. TAM Sin Lung",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. TAM Sin Lung",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:CU01:STD:1066",
+          "rawSection": "CU01-STD (1066)",
+          "sectionCode": "CU01",
+          "component": "STD",
+          "classNumber": 1066,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HSU Chung Wan Simon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor HSU Chung Wan Simon",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor HSU Chung Wan Simon",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:DU01:STD:1067",
+          "rawSection": "DU01-STD (1067)",
+          "sectionCode": "DU01",
+          "component": "STD",
+          "classNumber": 1067,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Jingxiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor ZHU Jingxiang",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor ZHU Jingxiang",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:EU01:STD:1150",
+          "rawSection": "EU01-STD (1150)",
+          "sectionCode": "EU01",
+          "component": "STD",
+          "classNumber": 1150,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Shuaizhong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor WANG Shuaizhong",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor WANG Shuaizhong",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:FU01:STD:1149",
+          "rawSection": "FU01-STD (1149)",
+          "sectionCode": "FU01",
+          "component": "STD",
+          "classNumber": 1149,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:GU01:STD:1151",
+          "rawSection": "GU01-STD (1151)",
+          "sectionCode": "GU01",
+          "component": "STD",
+          "classNumber": 1151,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Inge GOUDSMIT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Inge GOUDSMIT",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Inge GOUDSMIT",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:HU01:STD:1068",
+          "rawSection": "HU01-STD (1068)",
+          "sectionCode": "HU01",
+          "component": "STD",
+          "classNumber": 1068,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CAI Jiaxiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CAI Jiaxiu",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CAI Jiaxiu",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:IU01:STD:1063",
+          "rawSection": "IU01-STD (1063)",
+          "sectionCode": "IU01",
+          "component": "STD",
+          "classNumber": 1063,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:JU01:STD:1080",
+          "rawSection": "JU01-STD (1080)",
+          "sectionCode": "JU01",
+          "component": "STD",
+          "classNumber": 1080,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Peter Winston FERRETTO"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Peter Winston FERRETTO",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Peter Winston FERRETTO",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:KU01:STD:1148",
+          "rawSection": "KU01-STD (1148)",
+          "sectionCode": "KU01",
+          "component": "STD",
+          "classNumber": 1148,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5111:LU01:STD:1081",
+          "rawSection": "LU01-STD (1081)",
+          "sectionCode": "LU01",
+          "component": "STD",
+          "classNumber": 1081,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAM Tat"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor LAM Tat",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor LAM Tat",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ARCH5131",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arch/ARCH.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARCH",
+      "catalogNumber": "5131",
+      "courseCode": "ARCH5131",
+      "title": "Adv Topical Std in Des Theo 設計理論高階專題研究",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARCH5131:A:LEC:2389",
+          "rawSection": "A-LEC (2389)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 2389,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. TAM Sin Lung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "HYS_G03",
+              "instructor": "Mr. TAM Sin Lung",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH5131:B:LEC:2391",
+          "rawSection": "B-LEC (2391)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 2391,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. XU Liang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "14:15",
+              "startMinutes": 690,
+              "endMinutes": 855,
+              "location": "HYS_G01",
+              "instructor": "Dr. XU Liang",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ARCH5221",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arch/ARCH.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARCH",
+      "catalogNumber": "5221",
+      "courseCode": "ARCH5221",
+      "title": "Architecture with AI 建築與人工智能",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARCH5221:-:LEC:9864",
+          "rawSection": "--LEC (9864)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9864,
+          "language": "E",
+          "availability": {
+            "capacity": 94,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. FINGRUT Adam - Professor WANG Zhenfei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "TBA",
+              "instructor": "Mr. FINGRUT Adam - Professor WANG Zhenfei",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ARCH5421",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arch/ARCH.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARCH",
+      "catalogNumber": "5421",
+      "courseCode": "ARCH5421",
+      "title": "Advanced Building Systems I 進階建築系統(一)",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARCH5421:-:LEC:2425",
+          "rawSection": "--LEC (2425)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2425,
+          "language": "E",
+          "availability": {
+            "capacity": 94,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. TAM Sin Lung - Mr. WONG Wai Hou"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ARC_EXH_F",
+              "instructor": "Mr. TAM Sin Lung - Mr. WONG Wai Hou",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ARCH5631",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arch/ARCH.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARCH",
+      "catalogNumber": "5631",
+      "courseCode": "ARCH5631",
+      "title": "Adv Topic Std in Sustain Des 可持續設計高階專題研究",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARCH5631:A:LEC:2642",
+          "rawSection": "A-LEC (2642)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 2642,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Jingxiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "15:15",
+              "startMinutes": 750,
+              "endMinutes": 915,
+              "location": "HYS_501",
+              "instructor": "Professor ZHU Jingxiang",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ARCH5721",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arch/ARCH.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARCH",
+      "catalogNumber": "5721",
+      "courseCode": "ARCH5721",
+      "title": "Urban History and Theory 城市設計歷史及理論",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARCH5721:-:LEC:9856",
+          "rawSection": "--LEC (9856)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9856,
+          "language": "E",
+          "availability": {
+            "capacity": 94,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HAN Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "TBA",
+              "instructor": "Dr. HAN Man",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ARCH6210",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arch/ARCH.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARCH",
+      "catalogNumber": "6210",
+      "courseCode": "ARCH6210",
+      "title": "Adv Arch Design Studio 2 進階建築設計工作室 - 二",
+      "units": 6.5,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "STD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARCH6210:AU01:STD:1139",
+          "rawSection": "AU01-STD (1139)",
+          "sectionCode": "AU01",
+          "component": "STD",
+          "classNumber": 1139,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Francesco ROSSINI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Francesco ROSSINI",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Francesco ROSSINI",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:BU01:STD:1137",
+          "rawSection": "BU01-STD (1137)",
+          "sectionCode": "BU01",
+          "component": "STD",
+          "classNumber": 1137,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. TAM Sin Lung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. TAM Sin Lung",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. TAM Sin Lung",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:CU01:STD:1141",
+          "rawSection": "CU01-STD (1141)",
+          "sectionCode": "CU01",
+          "component": "STD",
+          "classNumber": 1141,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HSU Chung Wan Simon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor HSU Chung Wan Simon",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor HSU Chung Wan Simon",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:DU01:STD:1138",
+          "rawSection": "DU01-STD (1138)",
+          "sectionCode": "DU01",
+          "component": "STD",
+          "classNumber": 1138,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Jingxiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor ZHU Jingxiang",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor ZHU Jingxiang",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:EU01:STD:1142",
+          "rawSection": "EU01-STD (1142)",
+          "sectionCode": "EU01",
+          "component": "STD",
+          "classNumber": 1142,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Shuaizhong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor WANG Shuaizhong",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor WANG Shuaizhong",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:FU01:STD:1084",
+          "rawSection": "FU01-STD (1084)",
+          "sectionCode": "FU01",
+          "component": "STD",
+          "classNumber": 1084,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:GU01:STD:1136",
+          "rawSection": "GU01-STD (1136)",
+          "sectionCode": "GU01",
+          "component": "STD",
+          "classNumber": 1136,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Inge GOUDSMIT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Inge GOUDSMIT",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Inge GOUDSMIT",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:HU01:STD:1140",
+          "rawSection": "HU01-STD (1140)",
+          "sectionCode": "HU01",
+          "component": "STD",
+          "classNumber": 1140,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CAI Jiaxiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CAI Jiaxiu",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CAI Jiaxiu",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:IU01:STD:1082",
+          "rawSection": "IU01-STD (1082)",
+          "sectionCode": "IU01",
+          "component": "STD",
+          "classNumber": 1082,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:JU01:STD:1147",
+          "rawSection": "JU01-STD (1147)",
+          "sectionCode": "JU01",
+          "component": "STD",
+          "classNumber": 1147,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Peter Winston FERRETTO"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Peter Winston FERRETTO",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Peter Winston FERRETTO",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:KU01:STD:1100",
+          "rawSection": "KU01-STD (1100)",
+          "sectionCode": "KU01",
+          "component": "STD",
+          "classNumber": 1100,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6210:LU01:STD:1135",
+          "rawSection": "LU01-STD (1135)",
+          "sectionCode": "LU01",
+          "component": "STD",
+          "classNumber": 1135,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAM Tat"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor LAM Tat",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor LAM Tat",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ARCH6213",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arch/ARCH.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARCH",
+      "catalogNumber": "6213",
+      "courseCode": "ARCH6213",
+      "title": "Adv Arch Design Studio 2 (A) 進階建築設計工作室 - 二 (上)",
+      "units": 6,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "STD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARCH6213:AU01:STD:1128",
+          "rawSection": "AU01-STD (1128)",
+          "sectionCode": "AU01",
+          "component": "STD",
+          "classNumber": 1128,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Francesco ROSSINI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Francesco ROSSINI",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Francesco ROSSINI",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:BU01:STD:1112",
+          "rawSection": "BU01-STD (1112)",
+          "sectionCode": "BU01",
+          "component": "STD",
+          "classNumber": 1112,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. TAM Sin Lung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. TAM Sin Lung",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. TAM Sin Lung",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:CU01:STD:1118",
+          "rawSection": "CU01-STD (1118)",
+          "sectionCode": "CU01",
+          "component": "STD",
+          "classNumber": 1118,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HSU Chung Wan Simon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor HSU Chung Wan Simon",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor HSU Chung Wan Simon",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:DU01:STD:1127",
+          "rawSection": "DU01-STD (1127)",
+          "sectionCode": "DU01",
+          "component": "STD",
+          "classNumber": 1127,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Jingxiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor ZHU Jingxiang",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor ZHU Jingxiang",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:EU01:STD:1114",
+          "rawSection": "EU01-STD (1114)",
+          "sectionCode": "EU01",
+          "component": "STD",
+          "classNumber": 1114,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Shuaizhong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor WANG Shuaizhong",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor WANG Shuaizhong",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:FU01:STD:1085",
+          "rawSection": "FU01-STD (1085)",
+          "sectionCode": "FU01",
+          "component": "STD",
+          "classNumber": 1085,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chi Yan - Professor Juan Antonio MINGUEZ MARTIN - Professor NG Ka Ying Betty",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:GU01:STD:1113",
+          "rawSection": "GU01-STD (1113)",
+          "sectionCode": "GU01",
+          "component": "STD",
+          "classNumber": 1113,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Inge GOUDSMIT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Inge GOUDSMIT",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Inge GOUDSMIT",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:HU01:STD:1115",
+          "rawSection": "HU01-STD (1115)",
+          "sectionCode": "HU01",
+          "component": "STD",
+          "classNumber": 1115,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CAI Jiaxiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CAI Jiaxiu",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor CAI Jiaxiu",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:IU01:STD:1083",
+          "rawSection": "IU01-STD (1083)",
+          "sectionCode": "IU01",
+          "component": "STD",
+          "classNumber": 1083,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Mr. LAM Joshua Wai Hon - Professor LEUNG Man Kit - Professor WONG Kam Sing",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:JU01:STD:1116",
+          "rawSection": "JU01-STD (1116)",
+          "sectionCode": "JU01",
+          "component": "STD",
+          "classNumber": 1116,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Peter Winston FERRETTO"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Peter Winston FERRETTO",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor Peter Winston FERRETTO",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:KU01:STD:1099",
+          "rawSection": "KU01-STD (1099)",
+          "sectionCode": "KU01",
+          "component": "STD",
+          "classNumber": 1099,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ARCH6213:LU01:STD:1117",
+          "rawSection": "LU01-STD (1117)",
+          "sectionCode": "LU01",
+          "component": "STD",
+          "classNumber": 1117,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAM Tat"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor LAM Tat",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor LAM Tat",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ARCH6521",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arch/ARCH.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARCH",
+      "catalogNumber": "6521",
+      "courseCode": "ARCH6521",
+      "title": "Professional Practice & Mgt 專業運作及管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARCH6521:-:LEC:2424",
+          "rawSection": "--LEC (2424)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2424,
+          "language": "E",
+          "availability": {
+            "capacity": 85,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. UN Yiu Bong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_LT8",
+              "instructor": "Mr. UN Yiu Bong",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

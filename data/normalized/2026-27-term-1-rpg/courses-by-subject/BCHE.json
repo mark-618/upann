@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.292Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 134,
+      "rawFilesScanned": 134,
+      "rawRowsSeen": 5270,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2473,
+      "meetings": 2516,
+      "warnings": 0
+    }
+  },
+  "subject": "BCHE",
+  "courses": [
+    {
+      "id": "BCHE8003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "8003",
+      "courseCode": "BCHE8003",
+      "title": "Thesis Research 論文研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE8003:-M01:TMC:3723",
+          "rawSection": "-M01-TMC (3723)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 3723,
+          "language": "E",
+          "availability": {
+            "capacity": 999,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

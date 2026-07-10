@@ -1,0 +1,2396 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-07T16:22:01.353Z",
+    "source": {
+      "id": "another-cuhk-course-planner",
+      "repo": "EagleZhen/another-cuhk-course-planner",
+      "path": "data/*.json",
+      "license": "AGPL-3.0"
+    },
+    "term": {
+      "name": "2025-26 Term 2",
+      "codes": [
+        "2390"
+      ]
+    },
+    "counts": {
+      "rawFiles": 263,
+      "rawCoursesSeen": 8925,
+      "courses": 3074,
+      "rawCoursesWithTargetTerm": 3074,
+      "subjects": 263,
+      "sections": 8372,
+      "meetings": 9508,
+      "warnings": 0
+    }
+  },
+  "subjects": [
+    {
+      "subject": "ACCT",
+      "subjectTitle": "Accountancy",
+      "rawFile": "ACCT.json",
+      "rawCourses": 97,
+      "offeredCourses": 45,
+      "sections": 74,
+      "meetings": 104
+    },
+    {
+      "subject": "ACPY",
+      "subjectTitle": "Anatomical & Cellular Patholog",
+      "rawFile": "ACPY.json",
+      "rawCourses": 19,
+      "offeredCourses": 19,
+      "sections": 19,
+      "meetings": 19
+    },
+    {
+      "subject": "AENP",
+      "subjectTitle": "Advanced Emergency Nursing Pra",
+      "rawFile": "AENP.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "AEPT",
+      "subjectTitle": "Adv Environmental Planning Tec",
+      "rawFile": "AEPT.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "AIMS",
+      "subjectTitle": "Artificial Intelligence",
+      "rawFile": "AIMS.json",
+      "rawCourses": 15,
+      "offeredCourses": 6,
+      "sections": 37,
+      "meetings": 38
+    },
+    {
+      "subject": "AIST",
+      "subjectTitle": "AI: Systems & Tech",
+      "rawFile": "AIST.json",
+      "rawCourses": 23,
+      "offeredCourses": 5,
+      "sections": 21,
+      "meetings": 24
+    },
+    {
+      "subject": "ANAT",
+      "subjectTitle": "Anatomy",
+      "rawFile": "ANAT.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "ANIC",
+      "subjectTitle": "Anaesthesia & Intensive Care",
+      "rawFile": "ANIC.json",
+      "rawCourses": 16,
+      "offeredCourses": 12,
+      "sections": 12,
+      "meetings": 12
+    },
+    {
+      "subject": "ANTH",
+      "subjectTitle": "Anthropology",
+      "rawFile": "ANTH.json",
+      "rawCourses": 158,
+      "offeredCourses": 60,
+      "sections": 104,
+      "meetings": 104
+    },
+    {
+      "subject": "APEP",
+      "subjectTitle": "Applied Epidemiology",
+      "rawFile": "APEP.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "ARAB",
+      "subjectTitle": "Arabic",
+      "rawFile": "ARAB.json",
+      "rawCourses": 4,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "ARCH",
+      "subjectTitle": "Architectural Studies",
+      "rawFile": "ARCH.json",
+      "rawCourses": 70,
+      "offeredCourses": 29,
+      "sections": 166,
+      "meetings": 236
+    },
+    {
+      "subject": "ARTS",
+      "subjectTitle": "Courses offered by Arts Fac",
+      "rawFile": "ARTS.json",
+      "rawCourses": 12,
+      "offeredCourses": 2,
+      "sections": 3,
+      "meetings": 5
+    },
+    {
+      "subject": "ASEI",
+      "subjectTitle": "Aero Sci and Earth Info & X",
+      "rawFile": "ASEI.json",
+      "rawCourses": 6,
+      "offeredCourses": 1,
+      "sections": 2,
+      "meetings": 3
+    },
+    {
+      "subject": "BAMS",
+      "subjectTitle": "Courses offered by Fac of BA",
+      "rawFile": "BAMS.json",
+      "rawCourses": 6,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "BASA",
+      "subjectTitle": "General Business Administratio",
+      "rawFile": "BASA.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "BBMS",
+      "subjectTitle": "Biochemical & Biomedical Sci",
+      "rawFile": "BBMS.json",
+      "rawCourses": 11,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "BCHE",
+      "subjectTitle": "Biochemistry",
+      "rawFile": "BCHE.json",
+      "rawCourses": 40,
+      "offeredCourses": 13,
+      "sections": 13,
+      "meetings": 16
+    },
+    {
+      "subject": "BCHM",
+      "subjectTitle": "Biochemistry (Medicine)",
+      "rawFile": "BCHM.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "BCJC",
+      "subjectTitle": "Jointly offered-Dpt of CHI/BCM",
+      "rawFile": "BCJC.json",
+      "rawCourses": 1,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "BCME",
+      "subjectTitle": "Chinese Medicine",
+      "rawFile": "BCME.json",
+      "rawCourses": 132,
+      "offeredCourses": 56,
+      "sections": 63,
+      "meetings": 93
+    },
+    {
+      "subject": "BECE",
+      "subjectTitle": "Early Childhood Education",
+      "rawFile": "BECE.json",
+      "rawCourses": 22,
+      "offeredCourses": 12,
+      "sections": 12,
+      "meetings": 17
+    },
+    {
+      "subject": "BEHM",
+      "subjectTitle": "Biotech, Entrep & Healthc Mgt",
+      "rawFile": "BEHM.json",
+      "rawCourses": 4,
+      "offeredCourses": 4,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "BEST",
+      "subjectTitle": "Bio, Env Mgt, Sustn & Tech",
+      "rawFile": "BEST.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "BIOL",
+      "subjectTitle": "Biology",
+      "rawFile": "BIOL.json",
+      "rawCourses": 48,
+      "offeredCourses": 15,
+      "sections": 20,
+      "meetings": 23
+    },
+    {
+      "subject": "BIOS",
+      "subjectTitle": "Biostatistics",
+      "rawFile": "BIOS.json",
+      "rawCourses": 10,
+      "offeredCourses": 4,
+      "sections": 5,
+      "meetings": 9
+    },
+    {
+      "subject": "BMBL",
+      "subjectTitle": "Bimodal Bilingual Studies",
+      "rawFile": "BMBL.json",
+      "rawCourses": 14,
+      "offeredCourses": 6,
+      "sections": 10,
+      "meetings": 10
+    },
+    {
+      "subject": "BMED",
+      "subjectTitle": "Maths & Maths Education",
+      "rawFile": "BMED.json",
+      "rawCourses": 19,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 6
+    },
+    {
+      "subject": "BMEG",
+      "subjectTitle": "Biomedical Engineering",
+      "rawFile": "BMEG.json",
+      "rawCourses": 61,
+      "offeredCourses": 28,
+      "sections": 150,
+      "meetings": 158
+    },
+    {
+      "subject": "BMJC",
+      "subjectTitle": "Jointly offered-Bio Pg Com/SBS",
+      "rawFile": "BMJC.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "BSCG",
+      "subjectTitle": "Gerontology",
+      "rawFile": "BSCG.json",
+      "rawCourses": 17,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "BUDS",
+      "subjectTitle": "Buddhist Studies",
+      "rawFile": "BUDS.json",
+      "rawCourses": 16,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "CCNU",
+      "subjectTitle": "Critical Care Nursing",
+      "rawFile": "CCNU.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "CCSS",
+      "subjectTitle": "Contemporary China Studies",
+      "rawFile": "CCSS.json",
+      "rawCourses": 40,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "CDAS",
+      "subjectTitle": "Computational Data Science",
+      "rawFile": "CDAS.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 14,
+      "meetings": 14
+    },
+    {
+      "subject": "CENG",
+      "subjectTitle": "Computer Engineering",
+      "rawFile": "CENG.json",
+      "rawCourses": 12,
+      "offeredCourses": 5,
+      "sections": 26,
+      "meetings": 28
+    },
+    {
+      "subject": "CGEN",
+      "subjectTitle": "Clinical Gerontology & ELC",
+      "rawFile": "CGEN.json",
+      "rawCourses": 19,
+      "offeredCourses": 8,
+      "sections": 8,
+      "meetings": 8
+    },
+    {
+      "subject": "CHCU",
+      "subjectTitle": "Chinese Culture",
+      "rawFile": "CHCU.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "CHED",
+      "subjectTitle": "Early Childhood Education",
+      "rawFile": "CHED.json",
+      "rawCourses": 19,
+      "offeredCourses": 8,
+      "sections": 8,
+      "meetings": 11
+    },
+    {
+      "subject": "CHEM",
+      "subjectTitle": "Chemistry",
+      "rawFile": "CHEM.json",
+      "rawCourses": 116,
+      "offeredCourses": 49,
+      "sections": 92,
+      "meetings": 113
+    },
+    {
+      "subject": "CHES",
+      "subjectTitle": "Chinese Studies",
+      "rawFile": "CHES.json",
+      "rawCourses": 123,
+      "offeredCourses": 27,
+      "sections": 33,
+      "meetings": 33
+    },
+    {
+      "subject": "CHLL",
+      "subjectTitle": "Chinese Language & Literature",
+      "rawFile": "CHLL.json",
+      "rawCourses": 190,
+      "offeredCourses": 30,
+      "sections": 109,
+      "meetings": 109
+    },
+    {
+      "subject": "CHLT",
+      "subjectTitle": "Chinese Proficiency Courses",
+      "rawFile": "CHLT.json",
+      "rawCourses": 38,
+      "offeredCourses": 9,
+      "sections": 139,
+      "meetings": 139
+    },
+    {
+      "subject": "CHPR",
+      "subjectTitle": "Community Health Practice",
+      "rawFile": "CHPR.json",
+      "rawCourses": 18,
+      "offeredCourses": 9,
+      "sections": 9,
+      "meetings": 9
+    },
+    {
+      "subject": "CHPY",
+      "subjectTitle": "Chemical Pathology",
+      "rawFile": "CHPY.json",
+      "rawCourses": 12,
+      "offeredCourses": 12,
+      "sections": 144,
+      "meetings": 144
+    },
+    {
+      "subject": "CLCC",
+      "subjectTitle": "Cantonese",
+      "rawFile": "CLCC.json",
+      "rawCourses": 42,
+      "offeredCourses": 8,
+      "sections": 29,
+      "meetings": 29
+    },
+    {
+      "subject": "CLCE",
+      "subjectTitle": "CLC content courses",
+      "rawFile": "CLCE.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "CLCH",
+      "subjectTitle": "Hokkien",
+      "rawFile": "CLCH.json",
+      "rawCourses": 1,
+      "offeredCourses": 1,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "CLCP",
+      "subjectTitle": "Putonghua",
+      "rawFile": "CLCP.json",
+      "rawCourses": 48,
+      "offeredCourses": 20,
+      "sections": 98,
+      "meetings": 98
+    },
+    {
+      "subject": "CLED",
+      "subjectTitle": "Chinese Language Education",
+      "rawFile": "CLED.json",
+      "rawCourses": 22,
+      "offeredCourses": 8,
+      "sections": 8,
+      "meetings": 10
+    },
+    {
+      "subject": "CLGY",
+      "subjectTitle": "Clinical Gerontology",
+      "rawFile": "CLGY.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "CMBI",
+      "subjectTitle": "Cell & Molecular Biology",
+      "rawFile": "CMBI.json",
+      "rawCourses": 37,
+      "offeredCourses": 13,
+      "sections": 13,
+      "meetings": 15
+    },
+    {
+      "subject": "CMSC",
+      "subjectTitle": "Computer Science (TPg)",
+      "rawFile": "CMSC.json",
+      "rawCourses": 16,
+      "offeredCourses": 7,
+      "sections": 20,
+      "meetings": 20
+    },
+    {
+      "subject": "CNGT",
+      "subjectTitle": "Medical Genetics",
+      "rawFile": "CNGT.json",
+      "rawCourses": 16,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "CODS",
+      "subjectTitle": "Communication Disorders and Sc",
+      "rawFile": "CODS.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "COMM",
+      "subjectTitle": "Communication",
+      "rawFile": "COMM.json",
+      "rawCourses": 212,
+      "offeredCourses": 93,
+      "sections": 102,
+      "meetings": 106
+    },
+    {
+      "subject": "COOP",
+      "subjectTitle": "Co-operative Education",
+      "rawFile": "COOP.json",
+      "rawCourses": 5,
+      "offeredCourses": 5,
+      "sections": 7,
+      "meetings": 7
+    },
+    {
+      "subject": "CSCI",
+      "subjectTitle": "Computer Science",
+      "rawFile": "CSCI.json",
+      "rawCourses": 78,
+      "offeredCourses": 33,
+      "sections": 198,
+      "meetings": 222
+    },
+    {
+      "subject": "CULS",
+      "subjectTitle": "Cultural Studies",
+      "rawFile": "CULS.json",
+      "rawCourses": 66,
+      "offeredCourses": 25,
+      "sections": 28,
+      "meetings": 31
+    },
+    {
+      "subject": "CUMT",
+      "subjectTitle": "Cultural Management",
+      "rawFile": "CUMT.json",
+      "rawCourses": 7,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "CURE",
+      "subjectTitle": "Cultural & Religious Studies",
+      "rawFile": "CURE.json",
+      "rawCourses": 152,
+      "offeredCourses": 27,
+      "sections": 58,
+      "meetings": 58
+    },
+    {
+      "subject": "CVSM",
+      "subjectTitle": "Cardiology",
+      "rawFile": "CVSM.json",
+      "rawCourses": 10,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "DBAC",
+      "subjectTitle": "DBA (Chinese) Programme",
+      "rawFile": "DBAC.json",
+      "rawCourses": 29,
+      "offeredCourses": 6,
+      "sections": 8,
+      "meetings": 19
+    },
+    {
+      "subject": "DIUS",
+      "subjectTitle": "Diagnostic Ultrasonography",
+      "rawFile": "DIUS.json",
+      "rawCourses": 10,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "DOTE",
+      "subjectTitle": "Dept of Decis, Oper & Tech",
+      "rawFile": "DOTE.json",
+      "rawCourses": 114,
+      "offeredCourses": 34,
+      "sections": 67,
+      "meetings": 106
+    },
+    {
+      "subject": "DROI",
+      "subjectTitle": "Diagnostic Radiology & Organ I",
+      "rawFile": "DROI.json",
+      "rawCourses": 15,
+      "offeredCourses": 15,
+      "sections": 16,
+      "meetings": 16
+    },
+    {
+      "subject": "DSME",
+      "subjectTitle": "Decision Sciences & Managerial",
+      "rawFile": "DSME.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "DSPS",
+      "subjectTitle": "Data Science & Policy Studies",
+      "rawFile": "DSPS.json",
+      "rawCourses": 35,
+      "offeredCourses": 12,
+      "sections": 14,
+      "meetings": 14
+    },
+    {
+      "subject": "EASC",
+      "subjectTitle": "Earth and Atmospheric Sciences",
+      "rawFile": "EASC.json",
+      "rawCourses": 33,
+      "offeredCourses": 5,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "ECLT",
+      "subjectTitle": "E-Commerce (Business Programme",
+      "rawFile": "ECLT.json",
+      "rawCourses": 14,
+      "offeredCourses": 8,
+      "sections": 9,
+      "meetings": 9
+    },
+    {
+      "subject": "ECON",
+      "subjectTitle": "Economics",
+      "rawFile": "ECON.json",
+      "rawCourses": 130,
+      "offeredCourses": 54,
+      "sections": 65,
+      "meetings": 70
+    },
+    {
+      "subject": "ECTM",
+      "subjectTitle": "Ecotourism",
+      "rawFile": "ECTM.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "EDUC",
+      "subjectTitle": "Education",
+      "rawFile": "EDUC.json",
+      "rawCourses": 33,
+      "offeredCourses": 10,
+      "sections": 13,
+      "meetings": 35
+    },
+    {
+      "subject": "EEEN",
+      "subjectTitle": "Energy and Environmental Erg",
+      "rawFile": "EEEN.json",
+      "rawCourses": 14,
+      "offeredCourses": 8,
+      "sections": 17,
+      "meetings": 23
+    },
+    {
+      "subject": "EESC",
+      "subjectTitle": "Earth & Environmental Sci",
+      "rawFile": "EESC.json",
+      "rawCourses": 129,
+      "offeredCourses": 31,
+      "sections": 43,
+      "meetings": 57
+    },
+    {
+      "subject": "EIHP",
+      "subjectTitle": "MSc Env Info, Health & Pub Mgt",
+      "rawFile": "EIHP.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "ELED",
+      "subjectTitle": "English Language Education",
+      "rawFile": "ELED.json",
+      "rawCourses": 17,
+      "offeredCourses": 8,
+      "sections": 8,
+      "meetings": 10
+    },
+    {
+      "subject": "ELEG",
+      "subjectTitle": "Electronic Engineering",
+      "rawFile": "ELEG.json",
+      "rawCourses": 71,
+      "offeredCourses": 24,
+      "sections": 183,
+      "meetings": 191
+    },
+    {
+      "subject": "ELTU",
+      "subjectTitle": "English Language Teaching Unit",
+      "rawFile": "ELTU.json",
+      "rawCourses": 53,
+      "offeredCourses": 26,
+      "sections": 304,
+      "meetings": 483
+    },
+    {
+      "subject": "EMBA",
+      "subjectTitle": "Executive MBA",
+      "rawFile": "EMBA.json",
+      "rawCourses": 13,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 23
+    },
+    {
+      "subject": "EMBF",
+      "subjectTitle": "EMBA Finance",
+      "rawFile": "EMBF.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "ENGE",
+      "subjectTitle": "English",
+      "rawFile": "ENGE.json",
+      "rawCourses": 114,
+      "offeredCourses": 36,
+      "sections": 146,
+      "meetings": 146
+    },
+    {
+      "subject": "ENGG",
+      "subjectTitle": "Courses offered by Fac of Erg",
+      "rawFile": "ENGG.json",
+      "rawCourses": 42,
+      "offeredCourses": 19,
+      "sections": 143,
+      "meetings": 171
+    },
+    {
+      "subject": "ENLC",
+      "subjectTitle": "End-of-Life Care",
+      "rawFile": "ENLC.json",
+      "rawCourses": 1,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "ENLT",
+      "subjectTitle": "English Language Teaching",
+      "rawFile": "ENLT.json",
+      "rawCourses": 13,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 9
+    },
+    {
+      "subject": "ENSC",
+      "subjectTitle": "Environmental Science",
+      "rawFile": "ENSC.json",
+      "rawCourses": 32,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "EPBI",
+      "subjectTitle": "Epidemiology & Biostatistics",
+      "rawFile": "EPBI.json",
+      "rawCourses": 4,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 3
+    },
+    {
+      "subject": "EPID",
+      "subjectTitle": "Epidemiology of Infectious Dis",
+      "rawFile": "EPID.json",
+      "rawCourses": 10,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 6
+    },
+    {
+      "subject": "EPIN",
+      "subjectTitle": "Entrepreneurship & Innovation",
+      "rawFile": "EPIN.json",
+      "rawCourses": 16,
+      "offeredCourses": 6,
+      "sections": 12,
+      "meetings": 12
+    },
+    {
+      "subject": "EPSY",
+      "subjectTitle": "Prof Educational Psychology",
+      "rawFile": "EPSY.json",
+      "rawCourses": 20,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 9
+    },
+    {
+      "subject": "ESGS",
+      "subjectTitle": "Earth System and GeoInfo Sci",
+      "rawFile": "ESGS.json",
+      "rawCourses": 18,
+      "offeredCourses": 8,
+      "sections": 12,
+      "meetings": 12
+    },
+    {
+      "subject": "ESSC",
+      "subjectTitle": "Earth System Science-UG Major",
+      "rawFile": "ESSC.json",
+      "rawCourses": 45,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "ESTR",
+      "subjectTitle": "Courses for ELITE Stream",
+      "rawFile": "ESTR.json",
+      "rawCourses": 120,
+      "offeredCourses": 16,
+      "sections": 59,
+      "meetings": 82
+    },
+    {
+      "subject": "EX_PGDE",
+      "subjectTitle": "Unit Exemption (PGDE)",
+      "rawFile": "EX_PGDE.json",
+      "rawCourses": 1,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "EX_RPG",
+      "subjectTitle": "Unit Exemption (RPG)",
+      "rawFile": "EX_RPG.json",
+      "rawCourses": 1,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "EX_TPG",
+      "subjectTitle": "Unit Exemption (TPG)",
+      "rawFile": "EX_TPG.json",
+      "rawCourses": 1,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "EX_UG",
+      "subjectTitle": "Unit Exemption (UG)",
+      "rawFile": "EX_UG.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "EXSC",
+      "subjectTitle": "Exercise Science",
+      "rawFile": "EXSC.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "FAAS",
+      "subjectTitle": "Fine Arts",
+      "rawFile": "FAAS.json",
+      "rawCourses": 126,
+      "offeredCourses": 39,
+      "sections": 110,
+      "meetings": 110
+    },
+    {
+      "subject": "FAME",
+      "subjectTitle": "Family Medicine",
+      "rawFile": "FAME.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "FINA",
+      "subjectTitle": "Finance",
+      "rawFile": "FINA.json",
+      "rawCourses": 165,
+      "offeredCourses": 59,
+      "sections": 105,
+      "meetings": 200
+    },
+    {
+      "subject": "FNSC",
+      "subjectTitle": "Food & Nutritional Sciences",
+      "rawFile": "FNSC.json",
+      "rawCourses": 45,
+      "offeredCourses": 15,
+      "sections": 18,
+      "meetings": 19
+    },
+    {
+      "subject": "FREN",
+      "subjectTitle": "French",
+      "rawFile": "FREN.json",
+      "rawCourses": 19,
+      "offeredCourses": 5,
+      "sections": 19,
+      "meetings": 19
+    },
+    {
+      "subject": "FTEC",
+      "subjectTitle": "Financial Technology",
+      "rawFile": "FTEC.json",
+      "rawCourses": 33,
+      "offeredCourses": 13,
+      "sections": 63,
+      "meetings": 65
+    },
+    {
+      "subject": "GAST",
+      "subjectTitle": "Gastroenterology",
+      "rawFile": "GAST.json",
+      "rawCourses": 14,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "GDRS",
+      "subjectTitle": "Gender Studies",
+      "rawFile": "GDRS.json",
+      "rawCourses": 73,
+      "offeredCourses": 21,
+      "sections": 36,
+      "meetings": 36
+    },
+    {
+      "subject": "GECC",
+      "subjectTitle": "GE - Chung Chi College",
+      "rawFile": "GECC.json",
+      "rawCourses": 9,
+      "offeredCourses": 5,
+      "sections": 26,
+      "meetings": 26
+    },
+    {
+      "subject": "GECW",
+      "subjectTitle": "GE - CW Chu College",
+      "rawFile": "GECW.json",
+      "rawCourses": 8,
+      "offeredCourses": 7,
+      "sections": 7,
+      "meetings": 9
+    },
+    {
+      "subject": "GEJC",
+      "subjectTitle": "GE - Joint Colleges",
+      "rawFile": "GEJC.json",
+      "rawCourses": 1,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "GEMC",
+      "subjectTitle": "GE - Morningside College",
+      "rawFile": "GEMC.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "GENA",
+      "subjectTitle": "GE - New Asia College",
+      "rawFile": "GENA.json",
+      "rawCourses": 24,
+      "offeredCourses": 13,
+      "sections": 44,
+      "meetings": 44
+    },
+    {
+      "subject": "GEOR",
+      "subjectTitle": "Geriatric Orthopaedics",
+      "rawFile": "GEOR.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "GERM",
+      "subjectTitle": "German",
+      "rawFile": "GERM.json",
+      "rawCourses": 19,
+      "offeredCourses": 6,
+      "sections": 13,
+      "meetings": 13
+    },
+    {
+      "subject": "GESC",
+      "subjectTitle": "GE - Shaw College",
+      "rawFile": "GESC.json",
+      "rawCourses": 44,
+      "offeredCourses": 12,
+      "sections": 23,
+      "meetings": 25
+    },
+    {
+      "subject": "GESH",
+      "subjectTitle": "GE - S.H. Ho College",
+      "rawFile": "GESH.json",
+      "rawCourses": 5,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "GEUC",
+      "subjectTitle": "GE - United College",
+      "rawFile": "GEUC.json",
+      "rawCourses": 16,
+      "offeredCourses": 9,
+      "sections": 16,
+      "meetings": 16
+    },
+    {
+      "subject": "GEWS",
+      "subjectTitle": "GE - Lee Woo Sing College",
+      "rawFile": "GEWS.json",
+      "rawCourses": 20,
+      "offeredCourses": 7,
+      "sections": 7,
+      "meetings": 7
+    },
+    {
+      "subject": "GEYS",
+      "subjectTitle": "GE - Wu Yee Sun College",
+      "rawFile": "GEYS.json",
+      "rawCourses": 4,
+      "offeredCourses": 3,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "GISM",
+      "subjectTitle": "Geoinformation Science",
+      "rawFile": "GISM.json",
+      "rawCourses": 11,
+      "offeredCourses": 4,
+      "sections": 8,
+      "meetings": 8
+    },
+    {
+      "subject": "GLBS",
+      "subjectTitle": "Global Studies (2-year)",
+      "rawFile": "GLBS.json",
+      "rawCourses": 37,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "GLEF",
+      "subjectTitle": "Global Economics and Finance",
+      "rawFile": "GLEF.json",
+      "rawCourses": 10,
+      "offeredCourses": 3,
+      "sections": 13,
+      "meetings": 13
+    },
+    {
+      "subject": "GLOF",
+      "subjectTitle": "Global Finance",
+      "rawFile": "GLOF.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "GLSD",
+      "subjectTitle": "Global Studies",
+      "rawFile": "GLSD.json",
+      "rawCourses": 38,
+      "offeredCourses": 17,
+      "sections": 17,
+      "meetings": 17
+    },
+    {
+      "subject": "GNBF",
+      "subjectTitle": "Genomics and Bioinformatics",
+      "rawFile": "GNBF.json",
+      "rawCourses": 8,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 11
+    },
+    {
+      "subject": "GNED",
+      "subjectTitle": "General Education",
+      "rawFile": "GNED.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "GPAD",
+      "subjectTitle": "Government & Public Admin",
+      "rawFile": "GPAD.json",
+      "rawCourses": 96,
+      "offeredCourses": 23,
+      "sections": 29,
+      "meetings": 30
+    },
+    {
+      "subject": "GPEC",
+      "subjectTitle": "Global Political Economy",
+      "rawFile": "GPEC.json",
+      "rawCourses": 29,
+      "offeredCourses": 14,
+      "sections": 14,
+      "meetings": 14
+    },
+    {
+      "subject": "GPGC",
+      "subjectTitle": "Govt & Poli (Greater Chi)",
+      "rawFile": "GPGC.json",
+      "rawCourses": 17,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "GPSU",
+      "subjectTitle": "Global Physician-Leadership St",
+      "rawFile": "GPSU.json",
+      "rawCourses": 6,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "GRMD",
+      "subjectTitle": "Geography & Resource Mgt",
+      "rawFile": "GRMD.json",
+      "rawCourses": 86,
+      "offeredCourses": 32,
+      "sections": 53,
+      "meetings": 53
+    },
+    {
+      "subject": "GRON",
+      "subjectTitle": "Gerontology",
+      "rawFile": "GRON.json",
+      "rawCourses": 14,
+      "offeredCourses": 7,
+      "sections": 7,
+      "meetings": 7
+    },
+    {
+      "subject": "HIST",
+      "subjectTitle": "History",
+      "rawFile": "HIST.json",
+      "rawCourses": 181,
+      "offeredCourses": 38,
+      "sections": 123,
+      "meetings": 123
+    },
+    {
+      "subject": "HKSL",
+      "subjectTitle": "Hong Kong Sign Language",
+      "rawFile": "HKSL.json",
+      "rawCourses": 12,
+      "offeredCourses": 7,
+      "sections": 17,
+      "meetings": 18
+    },
+    {
+      "subject": "HPSB",
+      "subjectTitle": "Master of Public Health",
+      "rawFile": "HPSB.json",
+      "rawCourses": 5,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "HSGS",
+      "subjectTitle": "Housing Studies",
+      "rawFile": "HSGS.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "HSOC",
+      "subjectTitle": "Health Sociomedical Sciences",
+      "rawFile": "HSOC.json",
+      "rawCourses": 6,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "HSYS",
+      "subjectTitle": "Health Systems",
+      "rawFile": "HSYS.json",
+      "rawCourses": 26,
+      "offeredCourses": 6,
+      "sections": 7,
+      "meetings": 10
+    },
+    {
+      "subject": "HTMG",
+      "subjectTitle": "Hotel And Tourism Management",
+      "rawFile": "HTMG.json",
+      "rawCourses": 130,
+      "offeredCourses": 31,
+      "sections": 39,
+      "meetings": 47
+    },
+    {
+      "subject": "IASP",
+      "subjectTitle": "International Asian Studies",
+      "rawFile": "IASP.json",
+      "rawCourses": 8,
+      "offeredCourses": 3,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "IBBA",
+      "subjectTitle": "Integrated BBA Programme",
+      "rawFile": "IBBA.json",
+      "rawCourses": 7,
+      "offeredCourses": 3,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "IEMS",
+      "subjectTitle": "Information Engineering (TPg)",
+      "rawFile": "IEMS.json",
+      "rawCourses": 24,
+      "offeredCourses": 13,
+      "sections": 25,
+      "meetings": 34
+    },
+    {
+      "subject": "IERG",
+      "subjectTitle": "Information Engineering",
+      "rawFile": "IERG.json",
+      "rawCourses": 85,
+      "offeredCourses": 29,
+      "sections": 138,
+      "meetings": 154
+    },
+    {
+      "subject": "IMSC",
+      "subjectTitle": "Artic BSc PhD Pgm in Math Sci",
+      "rawFile": "IMSC.json",
+      "rawCourses": 32,
+      "offeredCourses": 3,
+      "sections": 6,
+      "meetings": 9
+    },
+    {
+      "subject": "INDA",
+      "subjectTitle": "Interdis Data Analytics",
+      "rawFile": "INDA.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "INFD",
+      "subjectTitle": "Infectious Diseases",
+      "rawFile": "INFD.json",
+      "rawCourses": 11,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "ITAL",
+      "subjectTitle": "Italian",
+      "rawFile": "ITAL.json",
+      "rawCourses": 10,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "JASP",
+      "subjectTitle": "Japanese Studies",
+      "rawFile": "JASP.json",
+      "rawCourses": 103,
+      "offeredCourses": 40,
+      "sections": 67,
+      "meetings": 87
+    },
+    {
+      "subject": "KORE",
+      "subjectTitle": "Korean",
+      "rawFile": "KORE.json",
+      "rawCourses": 19,
+      "offeredCourses": 7,
+      "sections": 25,
+      "meetings": 25
+    },
+    {
+      "subject": "LAWS",
+      "subjectTitle": "Law",
+      "rawFile": "LAWS.json",
+      "rawCourses": 348,
+      "offeredCourses": 77,
+      "sections": 140,
+      "meetings": 145
+    },
+    {
+      "subject": "LDTE",
+      "subjectTitle": "Learning Design and Technology",
+      "rawFile": "LDTE.json",
+      "rawCourses": 13,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "LING",
+      "subjectTitle": "Linguistics",
+      "rawFile": "LING.json",
+      "rawCourses": 77,
+      "offeredCourses": 30,
+      "sections": 44,
+      "meetings": 44
+    },
+    {
+      "subject": "LSCI",
+      "subjectTitle": "Life Sciences Courses",
+      "rawFile": "LSCI.json",
+      "rawCourses": 97,
+      "offeredCourses": 34,
+      "sections": 34,
+      "meetings": 37
+    },
+    {
+      "subject": "LSCM",
+      "subjectTitle": "Logistics & Supply Chain Mgt",
+      "rawFile": "LSCM.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "LSED",
+      "subjectTitle": "Liberal Studies",
+      "rawFile": "LSED.json",
+      "rawCourses": 13,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "MAED",
+      "subjectTitle": "Mathematics Education",
+      "rawFile": "MAED.json",
+      "rawCourses": 5,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "MAEG",
+      "subjectTitle": "Mechanical & Automation Engg",
+      "rawFile": "MAEG.json",
+      "rawCourses": 55,
+      "offeredCourses": 29,
+      "sections": 64,
+      "meetings": 81
+    },
+    {
+      "subject": "MAPE",
+      "subjectTitle": "Parent Education",
+      "rawFile": "MAPE.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "MASE",
+      "subjectTitle": "Materials Sci & Erg",
+      "rawFile": "MASE.json",
+      "rawCourses": 6,
+      "offeredCourses": 1,
+      "sections": 4,
+      "meetings": 5
+    },
+    {
+      "subject": "MATH",
+      "subjectTitle": "Mathematics",
+      "rawFile": "MATH.json",
+      "rawCourses": 119,
+      "offeredCourses": 50,
+      "sections": 218,
+      "meetings": 269
+    },
+    {
+      "subject": "MAVE",
+      "subjectTitle": "Values Education",
+      "rawFile": "MAVE.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "MBAC",
+      "subjectTitle": "MBA Programmes",
+      "rawFile": "MBAC.json",
+      "rawCourses": 17,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 4
+    },
+    {
+      "subject": "MBTE",
+      "subjectTitle": "Molecular Biotechnology",
+      "rawFile": "MBTE.json",
+      "rawCourses": 36,
+      "offeredCourses": 14,
+      "sections": 14,
+      "meetings": 17
+    },
+    {
+      "subject": "MCLE",
+      "subjectTitle": "Chinese Lang Education (TPg)",
+      "rawFile": "MCLE.json",
+      "rawCourses": 13,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "MCLS",
+      "subjectTitle": "Curriculum Dev& Teaching of LS",
+      "rawFile": "MCLS.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "MCNS",
+      "subjectTitle": "Stroke & Clinical Neuroscience",
+      "rawFile": "MCNS.json",
+      "rawCourses": 17,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "MECM",
+      "subjectTitle": "Early Childhood Education",
+      "rawFile": "MECM.json",
+      "rawCourses": 7,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "MEDF",
+      "subjectTitle": "Medicine Faculty Package",
+      "rawFile": "MEDF.json",
+      "rawCourses": 8,
+      "offeredCourses": 2,
+      "sections": 6,
+      "meetings": 8
+    },
+    {
+      "subject": "MEDM",
+      "subjectTitle": "Endo, Diabetes & Metabolism",
+      "rawFile": "MEDM.json",
+      "rawCourses": 8,
+      "offeredCourses": 1,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "MEDP",
+      "subjectTitle": "Molecular Med & Biostatistics",
+      "rawFile": "MEDP.json",
+      "rawCourses": 3,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 3
+    },
+    {
+      "subject": "MEDU",
+      "subjectTitle": "Medicine",
+      "rawFile": "MEDU.json",
+      "rawCourses": 58,
+      "offeredCourses": 2,
+      "sections": 3,
+      "meetings": 15
+    },
+    {
+      "subject": "MESC",
+      "subjectTitle": "Medical Sciences (PG)",
+      "rawFile": "MESC.json",
+      "rawCourses": 13,
+      "offeredCourses": 13,
+      "sections": 684,
+      "meetings": 684
+    },
+    {
+      "subject": "MFMD",
+      "subjectTitle": "Maternal Fetal Medicine",
+      "rawFile": "MFMD.json",
+      "rawCourses": 11,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "MGNT",
+      "subjectTitle": "Management",
+      "rawFile": "MGNT.json",
+      "rawCourses": 105,
+      "offeredCourses": 35,
+      "sections": 71,
+      "meetings": 88
+    },
+    {
+      "subject": "MHLS",
+      "subjectTitle": "Mental Health",
+      "rawFile": "MHLS.json",
+      "rawCourses": 13,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "MICY",
+      "subjectTitle": "Microbiology",
+      "rawFile": "MICY.json",
+      "rawCourses": 12,
+      "offeredCourses": 9,
+      "sections": 80,
+      "meetings": 80
+    },
+    {
+      "subject": "MIEG",
+      "subjectTitle": "MIEG",
+      "rawFile": "MIEG.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 2,
+      "meetings": 3
+    },
+    {
+      "subject": "MITE",
+      "subjectTitle": "Information Technology in Educ",
+      "rawFile": "MITE.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "MKTG",
+      "subjectTitle": "Marketing",
+      "rawFile": "MKTG.json",
+      "rawCourses": 80,
+      "offeredCourses": 30,
+      "sections": 45,
+      "meetings": 78
+    },
+    {
+      "subject": "MLSC",
+      "subjectTitle": "Medical Laboratory Sciences",
+      "rawFile": "MLSC.json",
+      "rawCourses": 14,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "MMAT",
+      "subjectTitle": "Mathematics (TPg)",
+      "rawFile": "MMAT.json",
+      "rawCourses": 42,
+      "offeredCourses": 8,
+      "sections": 9,
+      "meetings": 10
+    },
+    {
+      "subject": "MPTE",
+      "subjectTitle": "Putonghua Education",
+      "rawFile": "MPTE.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "MPUP",
+      "subjectTitle": "Public Policy",
+      "rawFile": "MPUP.json",
+      "rawCourses": 21,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "MRGO",
+      "subjectTitle": "Musculo Med, Rehab & Ger Orth",
+      "rawFile": "MRGO.json",
+      "rawCourses": 20,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 6
+    },
+    {
+      "subject": "MSAE",
+      "subjectTitle": "Student Activities in Edu",
+      "rawFile": "MSAE.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "MSEG",
+      "subjectTitle": "Materials Sci & Engineering",
+      "rawFile": "MSEG.json",
+      "rawCourses": 7,
+      "offeredCourses": 5,
+      "sections": 6,
+      "meetings": 8
+    },
+    {
+      "subject": "MSMR",
+      "subjectTitle": "Musculoskeletal Med & Rehab",
+      "rawFile": "MSMR.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "MTCI",
+      "subjectTitle": "Teaching Chi as Int'l Lang",
+      "rawFile": "MTCI.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "MUSC",
+      "subjectTitle": "Music",
+      "rawFile": "MUSC.json",
+      "rawCourses": 230,
+      "offeredCourses": 64,
+      "sections": 80,
+      "meetings": 81
+    },
+    {
+      "subject": "NSCI",
+      "subjectTitle": "Natural Sciences",
+      "rawFile": "NSCI.json",
+      "rawCourses": 5,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 4
+    },
+    {
+      "subject": "NSSC",
+      "subjectTitle": "Neurological Sciences",
+      "rawFile": "NSSC.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "NURS",
+      "subjectTitle": "Nursing",
+      "rawFile": "NURS.json",
+      "rawCourses": 122,
+      "offeredCourses": 37,
+      "sections": 319,
+      "meetings": 401
+    },
+    {
+      "subject": "OBGY",
+      "subjectTitle": "Obstetrics & Gynaecology",
+      "rawFile": "OBGY.json",
+      "rawCourses": 17,
+      "offeredCourses": 16,
+      "sections": 63,
+      "meetings": 63
+    },
+    {
+      "subject": "OBSC",
+      "subjectTitle": "Obstetric Care",
+      "rawFile": "OBSC.json",
+      "rawCourses": 9,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "OENV",
+      "subjectTitle": "Occupational & Environmental H",
+      "rawFile": "OENV.json",
+      "rawCourses": 13,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "OMBA",
+      "subjectTitle": "OneMBA",
+      "rawFile": "OMBA.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "ORLC",
+      "subjectTitle": "Otorhinol, Head & Neck Surgery",
+      "rawFile": "ORLC.json",
+      "rawCourses": 11,
+      "offeredCourses": 8,
+      "sections": 8,
+      "meetings": 8
+    },
+    {
+      "subject": "ORTY",
+      "subjectTitle": "Orthopaedics & Traumatology",
+      "rawFile": "ORTY.json",
+      "rawCourses": 31,
+      "offeredCourses": 17,
+      "sections": 17,
+      "meetings": 29
+    },
+    {
+      "subject": "OVSC",
+      "subjectTitle": "Ophthalmology & Visual Science",
+      "rawFile": "OVSC.json",
+      "rawCourses": 11,
+      "offeredCourses": 11,
+      "sections": 153,
+      "meetings": 153
+    },
+    {
+      "subject": "PBHT",
+      "subjectTitle": "Public Heatlh (TPg)",
+      "rawFile": "PBHT.json",
+      "rawCourses": 16,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "PEDU",
+      "subjectTitle": "Education (PG)",
+      "rawFile": "PEDU.json",
+      "rawCourses": 88,
+      "offeredCourses": 34,
+      "sections": 39,
+      "meetings": 45
+    },
+    {
+      "subject": "PGDC",
+      "subjectTitle": "PgD Education (ECE)",
+      "rawFile": "PGDC.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "PGDE",
+      "subjectTitle": "PgD Education",
+      "rawFile": "PGDE.json",
+      "rawCourses": 111,
+      "offeredCourses": 42,
+      "sections": 62,
+      "meetings": 68
+    },
+    {
+      "subject": "PGDP",
+      "subjectTitle": "PgD Education (Primary)",
+      "rawFile": "PGDP.json",
+      "rawCourses": 69,
+      "offeredCourses": 26,
+      "sections": 42,
+      "meetings": 50
+    },
+    {
+      "subject": "PHAR",
+      "subjectTitle": "Pharmacy",
+      "rawFile": "PHAR.json",
+      "rawCourses": 92,
+      "offeredCourses": 42,
+      "sections": 57,
+      "meetings": 68
+    },
+    {
+      "subject": "PHEC",
+      "subjectTitle": "Prehospital and Emergency Care",
+      "rawFile": "PHEC.json",
+      "rawCourses": 10,
+      "offeredCourses": 6,
+      "sections": 10,
+      "meetings": 10
+    },
+    {
+      "subject": "PHED",
+      "subjectTitle": "Physical Education",
+      "rawFile": "PHED.json",
+      "rawCourses": 83,
+      "offeredCourses": 45,
+      "sections": 177,
+      "meetings": 178
+    },
+    {
+      "subject": "PHIL",
+      "subjectTitle": "Philosophy",
+      "rawFile": "PHIL.json",
+      "rawCourses": 135,
+      "offeredCourses": 33,
+      "sections": 85,
+      "meetings": 87
+    },
+    {
+      "subject": "PHMA",
+      "subjectTitle": "Pharmacology",
+      "rawFile": "PHMA.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "PHPC",
+      "subjectTitle": "Public Health",
+      "rawFile": "PHPC.json",
+      "rawCourses": 50,
+      "offeredCourses": 17,
+      "sections": 17,
+      "meetings": 17
+    },
+    {
+      "subject": "PHUG",
+      "subjectTitle": "Public Health (Ug)",
+      "rawFile": "PHUG.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "PHYS",
+      "subjectTitle": "Physics",
+      "rawFile": "PHYS.json",
+      "rawCourses": 100,
+      "offeredCourses": 45,
+      "sections": 170,
+      "meetings": 205
+    },
+    {
+      "subject": "PHYY",
+      "subjectTitle": "Physiology",
+      "rawFile": "PHYY.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "POPG",
+      "subjectTitle": "Public Heatlh (TPg)",
+      "rawFile": "POPG.json",
+      "rawCourses": 10,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "POPN",
+      "subjectTitle": "Perio Care of Min Acc Sur",
+      "rawFile": "POPN.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "PRHC",
+      "subjectTitle": "Primary Healthcare",
+      "rawFile": "PRHC.json",
+      "rawCourses": 1,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "PSYC",
+      "subjectTitle": "Psychology",
+      "rawFile": "PSYC.json",
+      "rawCourses": 142,
+      "offeredCourses": 65,
+      "sections": 87,
+      "meetings": 91
+    },
+    {
+      "subject": "PUBH",
+      "subjectTitle": "Public Health (RPg)",
+      "rawFile": "PUBH.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "REES",
+      "subjectTitle": "MSc Real Estate",
+      "rawFile": "REES.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "RELS",
+      "subjectTitle": "Religious Studies & Theology",
+      "rawFile": "RELS.json",
+      "rawCourses": 58,
+      "offeredCourses": 14,
+      "sections": 14,
+      "meetings": 14
+    },
+    {
+      "subject": "RMCE",
+      "subjectTitle": "Reprod Med & Clin Embry",
+      "rawFile": "RMCE.json",
+      "rawCourses": 18,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "RMED",
+      "subjectTitle": "Research Medicine",
+      "rawFile": "RMED.json",
+      "rawCourses": 1,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "RMSC",
+      "subjectTitle": "Risk Management Science",
+      "rawFile": "RMSC.json",
+      "rawCourses": 36,
+      "offeredCourses": 20,
+      "sections": 63,
+      "meetings": 66
+    },
+    {
+      "subject": "ROSE",
+      "subjectTitle": "Robotics",
+      "rawFile": "ROSE.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 19,
+      "meetings": 19
+    },
+    {
+      "subject": "RUSS",
+      "subjectTitle": "Russian",
+      "rawFile": "RUSS.json",
+      "rawCourses": 6,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "SBMS",
+      "subjectTitle": "Biomedical Sciences",
+      "rawFile": "SBMS.json",
+      "rawCourses": 47,
+      "offeredCourses": 24,
+      "sections": 48,
+      "meetings": 56
+    },
+    {
+      "subject": "SEEM",
+      "subjectTitle": "Systems Engineering & Engg Mgt",
+      "rawFile": "SEEM.json",
+      "rawCourses": 69,
+      "offeredCourses": 34,
+      "sections": 59,
+      "meetings": 73
+    },
+    {
+      "subject": "SENV",
+      "subjectTitle": "Sustainable & Environmental De",
+      "rawFile": "SENV.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "SGCL",
+      "subjectTitle": "School Guidance & Counselling",
+      "rawFile": "SGCL.json",
+      "rawCourses": 23,
+      "offeredCourses": 10,
+      "sections": 13,
+      "meetings": 16
+    },
+    {
+      "subject": "SILP",
+      "subjectTitle": "School Improvement and Leaders",
+      "rawFile": "SILP.json",
+      "rawCourses": 5,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "SLPA",
+      "subjectTitle": "Speech-Language Pathology",
+      "rawFile": "SLPA.json",
+      "rawCourses": 40,
+      "offeredCourses": 9,
+      "sections": 11,
+      "meetings": 11
+    },
+    {
+      "subject": "SOCI",
+      "subjectTitle": "Sociology",
+      "rawFile": "SOCI.json",
+      "rawCourses": 93,
+      "offeredCourses": 28,
+      "sections": 160,
+      "meetings": 162
+    },
+    {
+      "subject": "SOSC",
+      "subjectTitle": "Courses offered by SSc Faculty",
+      "rawFile": "SOSC.json",
+      "rawCourses": 17,
+      "offeredCourses": 12,
+      "sections": 13,
+      "meetings": 13
+    },
+    {
+      "subject": "SOWK",
+      "subjectTitle": "Social Work",
+      "rawFile": "SOWK.json",
+      "rawCourses": 112,
+      "offeredCourses": 54,
+      "sections": 127,
+      "meetings": 137
+    },
+    {
+      "subject": "SPAN",
+      "subjectTitle": "Spanish",
+      "rawFile": "SPAN.json",
+      "rawCourses": 21,
+      "offeredCourses": 6,
+      "sections": 20,
+      "meetings": 20
+    },
+    {
+      "subject": "SPED",
+      "subjectTitle": "Sports Science & Physical Educ",
+      "rawFile": "SPED.json",
+      "rawCourses": 55,
+      "offeredCourses": 20,
+      "sections": 36,
+      "meetings": 36
+    },
+    {
+      "subject": "SPSY",
+      "subjectTitle": "Sports Studies",
+      "rawFile": "SPSY.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "SSMU",
+      "subjectTitle": "Selected Study Modules",
+      "rawFile": "SSMU.json",
+      "rawCourses": 1,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "SSPA",
+      "subjectTitle": "MSc Sports Sci & Phy Activity",
+      "rawFile": "SSPA.json",
+      "rawCourses": 23,
+      "offeredCourses": 9,
+      "sections": 19,
+      "meetings": 22
+    },
+    {
+      "subject": "SSPE",
+      "subjectTitle": "Sports Sci & Phy Edu (TPg)",
+      "rawFile": "SSPE.json",
+      "rawCourses": 2,
+      "offeredCourses": 2,
+      "sections": 12,
+      "meetings": 12
+    },
+    {
+      "subject": "STAR",
+      "subjectTitle": "Courses for STAR Stream",
+      "rawFile": "STAR.json",
+      "rawCourses": 6,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "STAT",
+      "subjectTitle": "Statistics",
+      "rawFile": "STAT.json",
+      "rawCourses": 71,
+      "offeredCourses": 38,
+      "sections": 125,
+      "meetings": 132
+    },
+    {
+      "subject": "SURY",
+      "subjectTitle": "Surgery",
+      "rawFile": "SURY.json",
+      "rawCourses": 21,
+      "offeredCourses": 13,
+      "sections": 13,
+      "meetings": 13
+    },
+    {
+      "subject": "SUTM",
+      "subjectTitle": "Sustainable Tourism",
+      "rawFile": "SUTM.json",
+      "rawCourses": 9,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "TESL",
+      "subjectTitle": "Teach Eng Spkrs Oth Langs",
+      "rawFile": "TESL.json",
+      "rawCourses": 5,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "THAI",
+      "subjectTitle": "Thai",
+      "rawFile": "THAI.json",
+      "rawCourses": 3,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "THEO",
+      "subjectTitle": "Theology",
+      "rawFile": "THEO.json",
+      "rawCourses": 198,
+      "offeredCourses": 50,
+      "sections": 54,
+      "meetings": 57
+    },
+    {
+      "subject": "TRAN",
+      "subjectTitle": "Translation",
+      "rawFile": "TRAN.json",
+      "rawCourses": 86,
+      "offeredCourses": 32,
+      "sections": 69,
+      "meetings": 69
+    },
+    {
+      "subject": "UGCP",
+      "subjectTitle": "China Programme",
+      "rawFile": "UGCP.json",
+      "rawCourses": 2,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "UGEA",
+      "subjectTitle": "Chinese Cultural Heritage",
+      "rawFile": "UGEA.json",
+      "rawCourses": 31,
+      "offeredCourses": 20,
+      "sections": 51,
+      "meetings": 51
+    },
+    {
+      "subject": "UGEB",
+      "subjectTitle": "Nature, Science and Technology",
+      "rawFile": "UGEB.json",
+      "rawCourses": 58,
+      "offeredCourses": 27,
+      "sections": 35,
+      "meetings": 37
+    },
+    {
+      "subject": "UGEC",
+      "subjectTitle": "Society and Culture",
+      "rawFile": "UGEC.json",
+      "rawCourses": 123,
+      "offeredCourses": 46,
+      "sections": 69,
+      "meetings": 69
+    },
+    {
+      "subject": "UGED",
+      "subjectTitle": "Self and Humanity",
+      "rawFile": "UGED.json",
+      "rawCourses": 79,
+      "offeredCourses": 33,
+      "sections": 74,
+      "meetings": 74
+    },
+    {
+      "subject": "UGFH",
+      "subjectTitle": "In Dialogue with Humanity",
+      "rawFile": "UGFH.json",
+      "rawCourses": 1,
+      "offeredCourses": 1,
+      "sections": 96,
+      "meetings": 96
+    },
+    {
+      "subject": "UGFN",
+      "subjectTitle": "In Dialogue with Nature",
+      "rawFile": "UGFN.json",
+      "rawCourses": 1,
+      "offeredCourses": 1,
+      "sections": 94,
+      "meetings": 94
+    },
+    {
+      "subject": "URBD",
+      "subjectTitle": "Urban Design",
+      "rawFile": "URBD.json",
+      "rawCourses": 11,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 5
+    },
+    {
+      "subject": "URSP",
+      "subjectTitle": "Urban Studies",
+      "rawFile": "URSP.json",
+      "rawCourses": 35,
+      "offeredCourses": 10,
+      "sections": 16,
+      "meetings": 17
+    },
+    {
+      "subject": "WOHS",
+      "subjectTitle": "Women's Health Studies",
+      "rawFile": "WOHS.json",
+      "rawCourses": 4,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "XCBS",
+      "subjectTitle": "Unit Exemption (CBS)",
+      "rawFile": "XCBS.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "XCCS",
+      "subjectTitle": "Unit Exemption (CCSS/CHES)",
+      "rawFile": "XCCS.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "XFUD",
+      "subjectTitle": "Unit Exemption (SJTU)",
+      "rawFile": "XFUD.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "XUNC",
+      "subjectTitle": "Unit Exemption (UNC)",
+      "rawFile": "XUNC.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "XUSC",
+      "subjectTitle": "Unit Exemption (USC)",
+      "rawFile": "XUSC.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    },
+    {
+      "subject": "XWAS",
+      "subjectTitle": "Unit Exemption (Waseda)",
+      "rawFile": "XWAS.json",
+      "rawCourses": 0,
+      "offeredCourses": 0,
+      "sections": 0,
+      "meetings": 0
+    }
+  ]
+}

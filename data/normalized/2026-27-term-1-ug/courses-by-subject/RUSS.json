@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 16598,
+      "courses": 1608,
+      "rawCoursesWithTargetTerm": 1608,
+      "subjects": 121,
+      "sections": 5136,
+      "meetings": 5850,
+      "warnings": 0
+    }
+  },
+  "subject": "RUSS",
+  "courses": [
+    {
+      "id": "RUSS1000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "RUSS",
+      "catalogNumber": "1000",
+      "courseCode": "RUSS1000",
+      "title": "Russian I 俄語（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "CLW",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RUSS1000:AC01:CLW:5893",
+          "rawSection": "AC01-CLW (5893)",
+          "sectionCode": "AC01",
+          "component": "CLW",
+          "classNumber": 5893,
+          "language": "R&E",
+          "availability": {
+            "capacity": 28,
+            "enrolled": 0,
+            "availableSeats": 28,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. Irina USTYUGOVA"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "LSK_212",
+              "instructor": "Ms. Irina USTYUGOVA",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RUSS2000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "RUSS",
+      "catalogNumber": "2000",
+      "courseCode": "RUSS2000",
+      "title": "Russian II 俄語（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "CLW",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RUSS2000:AC01:CLW:4915",
+          "rawSection": "AC01-CLW (4915)",
+          "sectionCode": "AC01",
+          "component": "CLW",
+          "classNumber": 4915,
+          "language": "R&E",
+          "availability": {
+            "capacity": 28,
+            "enrolled": 0,
+            "availableSeats": 28,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. Irina USTYUGOVA"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "YIA_506",
+              "instructor": "Ms. Irina USTYUGOVA",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

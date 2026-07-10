@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 16598,
+      "courses": 1608,
+      "rawCoursesWithTargetTerm": 1608,
+      "subjects": 121,
+      "sections": 5136,
+      "meetings": 5850,
+      "warnings": 0
+    }
+  },
+  "subject": "IBBA",
+  "courses": [
+    {
+      "id": "IBBA3040",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/bbapc/BBAPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "IBBA",
+      "catalogNumber": "3040",
+      "courseCode": "IBBA3040",
+      "title": "Business Lecture Series 商業管理講座系列",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Integrated BBA Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IBBA3040:AS01:SEM:7194",
+          "rawSection": "AS01-SEM (7194)",
+          "sectionCode": "AS01",
+          "component": "SEM",
+          "classNumber": 7194,
+          "language": "E",
+          "availability": {
+            "capacity": 270,
+            "enrolled": 0,
+            "availableSeats": 270,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KU Kei Tat"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 08:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "20:15",
+              "startMinutes": 1110,
+              "endMinutes": 1215,
+              "location": "CYT_LT1A",
+              "instructor": "Dr. KU Kei Tat",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

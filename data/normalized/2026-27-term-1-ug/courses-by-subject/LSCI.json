@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 16598,
+      "courses": 1608,
+      "rawCoursesWithTargetTerm": 1608,
+      "subjects": 121,
+      "sections": 5136,
+      "meetings": 5850,
+      "warnings": 0
+    }
+  },
+  "subject": "LSCI",
+  "courses": [
+    {
+      "id": "LSCI1001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "1001",
+      "courseCode": "LSCI1001",
+      "title": "Basic Concepts in Biol. Scienc 生物科學基本概念",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI1001:-:LEC:9694",
+          "rawSection": "--LEC (9694)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9694,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHIU Chi Ming Lawrence"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "YIA_LT6",
+              "instructor": "Dr. CHIU Chi Ming Lawrence",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI1002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "1002",
+      "courseCode": "LSCI1002",
+      "title": "Introduction to Biological Sci 生物科學入門",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI1002:-:LEC:9505",
+          "rawSection": "--LEC (9505)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9505,
+          "language": "E",
+          "availability": {
+            "capacity": 200,
+            "enrolled": 0,
+            "availableSeats": 200,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TSANG Suk Ying - Professor WONG Kam Bo"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "YIA_LT3",
+              "instructor": "Professor TSANG Suk Ying - Professor WONG Kam Bo",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI2002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "2002",
+      "courseCode": "LSCI2002",
+      "title": "Basic Lab Tech in Life Sci 生命科學基本實驗技巧",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI2002:AL01:LAB:8690",
+          "rawSection": "AL01-LAB (8690)",
+          "sectionCode": "AL01",
+          "component": "LAB",
+          "classNumber": 8690,
+          "language": "E",
+          "availability": {
+            "capacity": 56,
+            "enrolled": 0,
+            "availableSeats": 56,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. NGAI Hung Kui - Professor CHEN Zhefan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "SCE_E402",
+              "instructor": "Dr. NGAI Hung Kui - Professor CHEN Zhefan",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LSCI2002:BL01:LAB:8694",
+          "rawSection": "BL01-LAB (8694)",
+          "sectionCode": "BL01",
+          "component": "LAB",
+          "classNumber": 8694,
+          "language": "E",
+          "availability": {
+            "capacity": 56,
+            "enrolled": 0,
+            "availableSeats": 56,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. NGAI Hung Kui - Professor CHEN Zhefan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "SCE_E402",
+              "instructor": "Dr. NGAI Hung Kui - Professor CHEN Zhefan",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI2003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "2003",
+      "courseCode": "LSCI2003",
+      "title": "Scientific Conduct and Ethics 科學道德與倫理",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI2003:-:LEC:5824",
+          "rawSection": "--LEC (5824)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5824,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Sijie"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "LHC_104",
+              "instructor": "Professor CHEN Sijie",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI4000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "4000",
+      "courseCode": "LSCI4000",
+      "title": "Literature Research 文獻專題研究",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI4000:-J01:PRJ:6776",
+          "rawSection": "-J01-PRJ (6776)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6776,
+          "language": "E",
+          "availability": {
+            "capacity": 250,
+            "enrolled": 0,
+            "availableSeats": 250,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHIU Chi Ming Lawrence - Dr. Erika KWEK - Dr. KOON Chun Alex - Dr. LAW Man Suet Michelle - Dr. LI Yuk Man - Dr. LO Fai Hang - Dr. NGAI Hung Kui - Dr. SIOW Lam - Dr. TANG Ming Chak - Miss YAM Kwan Mei - Ms. SIN Man Chin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHIU Chi Ming Lawrence - Dr. Erika KWEK - Dr. KOON Chun Alex - Dr. LAW Man Suet Michelle - Dr. LI Yuk Man - Dr. LO Fai Hang - Dr. NGAI Hung Kui - Dr. SIOW Lam - Dr. TANG Ming Chak - Miss YAM Kwan Mei - Ms. SIN Man Chin",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI4912",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "4912",
+      "courseCode": "LSCI4912",
+      "title": "Grp Research in Life Sci (II) 生命科學小組研究（二）",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI4912:-J01:PRJ:6170",
+          "rawSection": "-J01-PRJ (6170)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6170,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHUI Pui Yi - Professor NGO Chi Ki Jacky - Professor TSUI Tsz Ki Martin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHUI Pui Yi - Professor NGO Chi Ki Jacky - Professor TSUI Tsz Ki Martin",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

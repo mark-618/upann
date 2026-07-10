@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 16598,
+      "courses": 1608,
+      "rawCoursesWithTargetTerm": 1608,
+      "subjects": 121,
+      "sections": 5136,
+      "meetings": 5850,
+      "warnings": 0
+    }
+  },
+  "subject": "COOP",
+  "courses": [
+    {
+      "id": "COOP3001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ocep/OCEP.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "COOP",
+      "catalogNumber": "3001",
+      "courseCode": "COOP3001",
+      "title": "Unlocking Potential & Branding 提升潛能及個人品牌",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "WKS",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Co-op Education Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "COOP3001:AW01:WKS:8351",
+          "rawSection": "AW01-WKS (8351)",
+          "sectionCode": "AW01",
+          "component": "WKS",
+          "classNumber": 8351,
+          "language": "E",
+          "availability": {
+            "capacity": 200,
+            "enrolled": 0,
+            "availableSeats": 200,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAI Hon Weng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Dr. LAI Hon Weng",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "COOP3001:BW01:WKS:8352",
+          "rawSection": "BW01-WKS (8352)",
+          "sectionCode": "BW01",
+          "component": "WKS",
+          "classNumber": 8352,
+          "language": "E",
+          "availability": {
+            "capacity": 200,
+            "enrolled": 0,
+            "availableSeats": 200,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAI Hon Weng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Dr. LAI Hon Weng",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "COOP4001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ocep/OCEP.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "COOP",
+      "catalogNumber": "4001",
+      "courseCode": "COOP4001",
+      "title": "Placement and Assessment 工作體驗及持續評估",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "OTH",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Co-op Education Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "COOP4001:-O01:OTH:6430",
+          "rawSection": "-O01-OTH (6430)",
+          "sectionCode": "-O01",
+          "component": "OTH",
+          "classNumber": 6430,
+          "language": "E",
+          "availability": {
+            "capacity": 200,
+            "enrolled": 0,
+            "availableSeats": 200,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAI Hon Weng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. LAI Hon Weng",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

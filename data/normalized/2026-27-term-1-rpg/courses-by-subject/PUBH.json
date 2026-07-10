@@ -1,0 +1,751 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.292Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 134,
+      "rawFilesScanned": 134,
+      "rawRowsSeen": 5270,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2473,
+      "meetings": 2516,
+      "warnings": 0
+    }
+  },
+  "subject": "PUBH",
+  "courses": [
+    {
+      "id": "PUBH6001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PUBH",
+      "catalogNumber": "6001",
+      "courseCode": "PUBH6001",
+      "title": "Introduction to Biostatistics 生物統計學導論",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PUBH6001:-:LEC:4684",
+          "rawSection": "--LEC (4684)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4684,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr LEE Jock Wai - Dr. WANG Jingxuan - Professor CHONG Ka Chun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Dr LEE Jock Wai - Dr. WANG Jingxuan - Professor CHONG Ka Chun",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PUBH6003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PUBH",
+      "catalogNumber": "6003",
+      "courseCode": "PUBH6003",
+      "title": "Health System and Policy 衛生系統及政策",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PUBH6003:-:LEC:4629",
+          "rawSection": "--LEC (4629)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4629,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YAU Zi May Susan - Professor HUNG Chi Tim - Professor WU Yushan - Professor YEOH Eng Kiong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:00PM - 05:00PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:00",
+              "endTime": "17:00",
+              "startMinutes": 840,
+              "endMinutes": 1020,
+              "location": "PWH",
+              "instructor": "Dr. YAU Zi May Susan - Professor HUNG Chi Tim - Professor WU Yushan - Professor YEOH Eng Kiong",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "7/12",
+                "14/12"
+              ]
+            },
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Dr. YAU Zi May Susan - Professor HUNG Chi Tim - Professor WU Yushan - Professor YEOH Eng Kiong",
+              "dates": [
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PUBH6005",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PUBH",
+      "catalogNumber": "6005",
+      "courseCode": "PUBH6005",
+      "title": "Infectious Diseases in PH Rese 公共衞生研究之傳染病學",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PUBH6005:-:LEC:4657",
+          "rawSection": "--LEC (4657)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4657,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Shui Shan - Professor WONG Ngai Sze"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "TBA",
+              "instructor": "Professor LEE Shui Shan - Professor WONG Ngai Sze",
+              "dates": [
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "6/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PUBH6006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PUBH",
+      "catalogNumber": "6006",
+      "courseCode": "PUBH6006",
+      "title": "HI: Social & Behavioural Sci 健康促進 : 社會及行為科學",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PUBH6006:-:LEC:4705",
+          "rawSection": "--LEC (4705)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4705,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MUI Wai Ho - Dr. YUNG Ka Chun - Professor MO Phoenix Kit Han - Professor WONG Chi Sang - Professor YANG Xue - Professor YEUNG Chun Yiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 12:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "12:30",
+              "startMinutes": 570,
+              "endMinutes": 750,
+              "location": "TBA",
+              "instructor": "Dr. MUI Wai Ho - Dr. YUNG Ka Chun - Professor MO Phoenix Kit Han - Professor WONG Chi Sang - Professor YANG Xue - Professor YEUNG Chun Yiu",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PUBH6007",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PUBH",
+      "catalogNumber": "6007",
+      "courseCode": "PUBH6007",
+      "title": "Research Methods in PH 公共衞生研究方法學",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PUBH6007:-:LEC:4667",
+          "rawSection": "--LEC (4667)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4667,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WANG Jingxuan - Professor KIM Jean Hee - Professor TIAN Yue - Professor WANG Kailu - Professor WANG Zixin - Professor WEI Yuchen - Professor YANG Zuyao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Dr. WANG Jingxuan - Professor KIM Jean Hee - Professor TIAN Yue - Professor WANG Kailu - Professor WANG Zixin - Professor WEI Yuchen - Professor YANG Zuyao",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12",
+                "8/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PUBH6008",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PUBH",
+      "catalogNumber": "6008",
+      "courseCode": "PUBH6008",
+      "title": "Foundations of Public Health 公共衞生學基礎",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PUBH6008:-:LEC:4666",
+          "rawSection": "--LEC (4666)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4666,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YUNG Ka Chun - Professor CHAN Ying Crystal - Professor CHUNG Ka Ki - Professor CHUNG Roger Yat Nork - Professor POON Kwok Ming - Professor TIAN Yue - Professor WONG Yeung Shan Samuel - Professor ZHONG Chenwen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Dr. YUNG Ka Chun - Professor CHAN Ying Crystal - Professor CHUNG Ka Ki - Professor CHUNG Roger Yat Nork - Professor POON Kwok Ming - Professor TIAN Yue - Professor WONG Yeung Shan Samuel - Professor ZHONG Chenwen",
+              "dates": [
+                "8/9"
+              ]
+            },
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Dr. YUNG Ka Chun - Professor CHAN Ying Crystal - Professor CHUNG Ka Ki - Professor CHUNG Roger Yat Nork - Professor POON Kwok Ming - Professor TIAN Yue - Professor WONG Yeung Shan Samuel - Professor ZHONG Chenwen",
+              "dates": [
+                "9/9"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PUBH6200",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PUBH",
+      "catalogNumber": "6200",
+      "courseCode": "PUBH6200",
+      "title": "Seminar 專題研討",
+      "units": 2,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PUBH6200:-S01:SEM:3438",
+          "rawSection": "-S01-SEM (3438)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 3438,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HO Kin Fai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor HO Kin Fai",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PUBH8003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PUBH",
+      "catalogNumber": "8003",
+      "courseCode": "PUBH8003",
+      "title": "Thesis Research 論文研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PUBH8003:-M01:TMC:4712",
+          "rawSection": "-M01-TMC (4712)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4712,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HO Kin Fai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor HO Kin Fai",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PUBH8006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PUBH",
+      "catalogNumber": "8006",
+      "courseCode": "PUBH8006",
+      "title": "Thesis Research 論文研究",
+      "units": 6,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PUBH8006:-T01:TUT:4493",
+          "rawSection": "-T01-TUT (4493)",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": 4493,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HO Kin Fai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor HO Kin Fai",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PUBH8012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PUBH",
+      "catalogNumber": "8012",
+      "courseCode": "PUBH8012",
+      "title": "Thesis Research 論文研究",
+      "units": 12,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PUBH8012:-T01:TUT:4494",
+          "rawSection": "-T01-TUT (4494)",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": 4494,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HO Kin Fai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor HO Kin Fai",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

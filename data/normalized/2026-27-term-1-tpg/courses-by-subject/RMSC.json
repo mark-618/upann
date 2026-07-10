@@ -1,0 +1,413 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "RMSC",
+  "courses": [
+    {
+      "id": "RMSC5002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "5002",
+      "courseCode": "RMSC5002",
+      "title": "Principles of Risk Management 風險管理之原則",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC5002:-:LEC:1540",
+          "rawSection": "--LEC (1540)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1540,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG King Chau"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "WMY_305",
+              "instructor": "Dr. CHEUNG King Chau",
+              "dates": [
+                "12/9",
+                "19/9",
+                "3/10",
+                "10/10",
+                "17/10",
+                "24/10",
+                "31/10",
+                "7/11",
+                "14/11",
+                "21/11",
+                "28/11",
+                "5/12",
+                "12/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC5003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "5003",
+      "courseCode": "RMSC5003",
+      "title": "Risk Measures 風險測量法",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC5003:-:LEC:1400",
+          "rawSection": "--LEC (1400)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1400,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Tat Wing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT6",
+              "instructor": "Dr. WONG Tat Wing",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12",
+                "8/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC5101",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "5101",
+      "courseCode": "RMSC5101",
+      "title": "STA Methods in RMS & FIN 金融巿場的統計建模",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC5101:-:LEC:1401",
+          "rawSection": "--LEC (1401)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1401,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Ping Shing Ben"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT9",
+              "instructor": "Professor CHAN Ping Shing Ben",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12",
+                "9/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC6002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "6002",
+      "courseCode": "RMSC6002",
+      "title": "Credit Risk Management 信用風險管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC6002:-:LEC:1543",
+          "rawSection": "--LEC (1543)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1543,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. John Alexander WRIGHT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "ELB_303",
+              "instructor": "Dr. John Alexander WRIGHT",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12",
+                "10/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC6003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "6003",
+      "courseCode": "RMSC6003",
+      "title": "Risk Magt in Fin Institutions 金融機構的風險管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC6003:-:LEC:1526",
+          "rawSection": "--LEC (1526)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1526,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr Joaquin Jose CALVO TORRES - Mr. Israel VALCARCEL ALVAREZ"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "WMY_304",
+              "instructor": "Dr Joaquin Jose CALVO TORRES - Mr. Israel VALCARCEL ALVAREZ",
+              "dates": [
+                "12/9",
+                "19/9",
+                "3/10",
+                "10/10",
+                "17/10",
+                "24/10",
+                "31/10",
+                "7/11",
+                "14/11",
+                "21/11",
+                "28/11",
+                "5/12",
+                "12/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

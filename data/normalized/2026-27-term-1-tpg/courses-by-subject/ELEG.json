@@ -1,0 +1,494 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "ELEG",
+  "courses": [
+    {
+      "id": "ELEG5753",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "5753",
+      "courseCode": "ELEG5753",
+      "title": "Solar Cells 太陽能電池技術",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG5753:-:LEC:1073",
+          "rawSection": "--LEC (1073)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1073,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Ady SUWARDI - Professor HU Guohua - Professor Martin STOLTERFOHT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "SC_L1",
+              "instructor": "Professor Ady SUWARDI - Professor HU Guohua - Professor Martin STOLTERFOHT",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12",
+                "10/12",
+                "17/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG5759",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "5759",
+      "courseCode": "ELEG5759",
+      "title": "Innovation, Technology & Mgt 創新,科技與工程管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG5759:-:LEC:2540",
+          "rawSection": "--LEC (2540)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2540,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHING Pak Chung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "LSB_LT2",
+              "instructor": "Professor CHING Pak Chung",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12",
+                "9/12",
+                "16/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG5760",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "5760",
+      "courseCode": "ELEG5760",
+      "title": "ML Applications 面向多媒體應用的機器學習",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG5760:-:LEC:1281",
+          "rawSection": "--LEC (1281)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1281,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Hongsheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "LSB_LT1",
+              "instructor": "Professor LI Hongsheng",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12",
+                "8/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG5762",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "5762",
+      "courseCode": "ELEG5762",
+      "title": "Neuromorphic Electronics 類腦計算硬件設計",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG5762:-:LEC:1623",
+          "rawSection": "--LEC (1623)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1623,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HU Guohua"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "TYW_LT",
+              "instructor": "Professor HU Guohua",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12",
+                "9/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG5771",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "5771",
+      "courseCode": "ELEG5771",
+      "title": "Micro/Nano-Chip Mfg. Tech 微納芯片製造技術",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG5771:-:LEC:3905",
+          "rawSection": "--LEC (3905)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 3905,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SUN Xiankai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LSB_LT6",
+              "instructor": "Professor SUN Xiankai",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12",
+                "11/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG5772",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "5772",
+      "courseCode": "ELEG5772",
+      "title": "Audio Signal Processing 音頻信號處理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG5772:-:LEC:3906",
+          "rawSection": "--LEC (3906)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 3906,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KONG Qiuqiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "YIA_LT5",
+              "instructor": "Professor KONG Qiuqiang",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12",
+                "11/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "ICMS",
+  "courses": [
+    {
+      "id": "ICMS5711",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ICMS",
+      "catalogNumber": "5711",
+      "courseCode": "ICMS5711",
+      "title": "Adv. CMOS Analog IC Design 先進CMOS技術中模擬集成電路的設計與分析",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ICMS5711:-:LEC:3890",
+          "rawSection": "--LEC (3890)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 3890,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PUN Kong Pang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "ERB_LT",
+              "instructor": "Professor PUN Kong Pang",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12",
+                "8/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ICMS5712",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ICMS",
+      "catalogNumber": "5712",
+      "courseCode": "ICMS5712",
+      "title": "DSP IC Design 數位訊號處理集成電路設計",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ICMS5712:-:LEC:3895",
+          "rawSection": "--LEC (3895)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 3895,
+          "language": "E",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOY Chiu Sing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "ERB_404",
+              "instructor": "Professor CHOY Chiu Sing",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11",
+                "7/12",
+                "14/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ICMS5726",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ICMS",
+      "catalogNumber": "5726",
+      "courseCode": "ICMS5726",
+      "title": "Digital IC Design & AI IC 數字集成電路設計與人工智能芯片導論",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ICMS5726:-:LEC:3891",
+          "rawSection": "--LEC (3891)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 3891,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. ZHANG Yubin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "LSB_LT1",
+              "instructor": "Dr. ZHANG Yubin",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12",
+                "11/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

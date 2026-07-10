@@ -1,0 +1,956 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 16598,
+      "courses": 1608,
+      "rawCoursesWithTargetTerm": 1608,
+      "subjects": 121,
+      "sections": 5136,
+      "meetings": 5850,
+      "warnings": 0
+    }
+  },
+  "subject": "GLSD",
+  "courses": [
+    {
+      "id": "GLSD1001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "1001",
+      "courseCode": "GLSD1001",
+      "title": "Theo. Perspectives on Glob. 全球化的理論視角",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD1001:A:LEC:5807",
+          "rawSection": "A-LEC (5807)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 5807,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HORIUCHI Toru - Dr. HUNG Wing Lok - Professor CHEUNG Ho Ming - Professor LEE Fung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "WMY_504",
+              "instructor": "Dr. HORIUCHI Toru - Dr. HUNG Wing Lok - Professor CHEUNG Ho Ming - Professor LEE Fung",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD2001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "2001",
+      "courseCode": "GLSD2001",
+      "title": "Research Methods for GS 全球研究的研究方法",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD2001:-:LEC:5593",
+          "rawSection": "--LEC (5593)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5593,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Ho Yan Yannie"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "UCC_201",
+              "instructor": "Dr. CHEUNG Ho Yan Yannie",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD2101",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "2101",
+      "courseCode": "GLSD2101",
+      "title": "Global Communication 全球傳播",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD2101:-:LEC:5686",
+          "rawSection": "--LEC (5686)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5686,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "UCC_C4",
+              "instructor": "Staff",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD2501",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "2501",
+      "courseCode": "GLSD2501",
+      "title": "World Economic Order 世界經濟秩序",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD2501:-:LEC:7125",
+          "rawSection": "--LEC (7125)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7125,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "NAH_114",
+              "instructor": "Staff",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD3105",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "3105",
+      "courseCode": "GLSD3105",
+      "title": "Understanding Global Cities 認識全球城市和都市空間",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD3105:-:LEC:5239",
+          "rawSection": "--LEC (5239)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5239,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Ho Yan Yannie"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "NAH_11",
+              "instructor": "Dr. CHEUNG Ho Yan Yannie",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD3404",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "3404",
+      "courseCode": "GLSD3404",
+      "title": "Japan and Global Pol. Econ. 日本與全球政治經濟",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD3404:-:LEC:7485",
+          "rawSection": "--LEC (7485)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7485,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HORIUCHI Toru"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "NAH_12",
+              "instructor": "Dr. HORIUCHI Toru",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD3411",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "3411",
+      "courseCode": "GLSD3411",
+      "title": "Special Topic in Sus & Env 可持續發展和環境專題",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD3411:-:LEC:8562",
+          "rawSection": "--LEC (8562)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8562,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "UCC_207",
+              "instructor": "Staff",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD3511",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "3511",
+      "courseCode": "GLSD3511",
+      "title": "Special Topic in Global Econ 全球經濟專題",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD3511:-:LEC:8468",
+          "rawSection": "--LEC (8468)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8468,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HUNG Wing Lok"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "UCC_208",
+              "instructor": "Dr. HUNG Wing Lok",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD3601",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "3601",
+      "courseCode": "GLSD3601",
+      "title": "Internship 實習",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD3601:-P01:PRA:7905",
+          "rawSection": "-P01-PRA (7905)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 7905,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Ho Yan Yannie"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHEUNG Ho Yan Yannie",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD4001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "4001",
+      "courseCode": "GLSD4001",
+      "title": "GS Capstone Thesis I 全球研究畢業論文（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD4001:-M01:TMC:6360",
+          "rawSection": "-M01-TMC (6360)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 6360,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Ho Yan Yannie - Dr. HORIUCHI Toru - Dr. HUNG Wing Lok - Professor LEE Fung - Professor WONG Seanon Si Lon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHEUNG Ho Yan Yannie - Dr. HORIUCHI Toru - Dr. HUNG Wing Lok - Professor LEE Fung - Professor WONG Seanon Si Lon",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD4002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "4002",
+      "courseCode": "GLSD4002",
+      "title": "GS Capstone Thesis II 全球研究畢業論文（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD4002:-M01:TMC:6421",
+          "rawSection": "-M01-TMC (6421)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 6421,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Ho Yan Yannie - Dr. HORIUCHI Toru - Dr. HUNG Wing Lok - Professor LEE Fung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHEUNG Ho Yan Yannie - Dr. HORIUCHI Toru - Dr. HUNG Wing Lok - Professor LEE Fung",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD4003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "4003",
+      "courseCode": "GLSD4003",
+      "title": "GS Capstone Project I 全球研究畢業報告（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD4003:-J01:PRJ:6420",
+          "rawSection": "-J01-PRJ (6420)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6420,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Ho Yan Yannie - Dr. HORIUCHI Toru - Dr. HUNG Wing Lok - Professor LEE Fung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHEUNG Ho Yan Yannie - Dr. HORIUCHI Toru - Dr. HUNG Wing Lok - Professor LEE Fung",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GLSD4004",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/gsfpc/GSFPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GLSD",
+      "catalogNumber": "4004",
+      "courseCode": "GLSD4004",
+      "title": "GS Capstone Project II 全球研究畢業報告（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Global Studies Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GLSD4004:-J01:PRJ:6446",
+          "rawSection": "-J01-PRJ (6446)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6446,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Ho Yan Yannie - Dr. HORIUCHI Toru - Dr. HUNG Wing Lok - Professor LEE Fung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHEUNG Ho Yan Yannie - Dr. HORIUCHI Toru - Dr. HUNG Wing Lok - Professor LEE Fung",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

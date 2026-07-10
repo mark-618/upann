@@ -1,0 +1,856 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "SEEM",
+  "courses": [
+    {
+      "id": "SEEM5710",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5710",
+      "courseCode": "SEEM5710",
+      "title": "Principles of Operations Mgt 運營管理原理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5710:A:LEC:1389",
+          "rawSection": "A-LEC (1389)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1389,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HO Sin Cheung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "ERB_LT",
+              "instructor": "Dr. HO Sin Cheung",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12",
+                "11/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5730",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5730",
+      "courseCode": "SEEM5730",
+      "title": "Information Technology Mgt 資訊技術管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5730:A:LEC:1239",
+          "rawSection": "A-LEC (1239)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1239,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Kam Fai William"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "TYW_LT",
+              "instructor": "Professor WONG Kam Fai William",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12",
+                "10/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5740",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5740",
+      "courseCode": "SEEM5740",
+      "title": "Engineering Economics 工程經濟學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5740:A:LEC:1241",
+          "rawSection": "A-LEC (1241)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1241,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Lingfei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "ERB_LT",
+              "instructor": "Professor LI Lingfei",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11",
+                "7/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5750",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5750",
+      "courseCode": "SEEM5750",
+      "title": "Expert Sys & Decision Support 專家系統與決策支持",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5750:-:LEC:1152",
+          "rawSection": "--LEC (1152)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1152,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAM Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "YIA_LT5",
+              "instructor": "Professor LAM Wai",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11",
+                "7/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5760",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5760",
+      "courseCode": "SEEM5760",
+      "title": "Client/Server Information Sys 主客資訊系統",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5760:-:LEC:1446",
+          "rawSection": "--LEC (1446)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1446,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHENG Hong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "TYW_LT",
+              "instructor": "Professor CHENG Hong",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12",
+                "8/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5770",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5770",
+      "courseCode": "SEEM5770",
+      "title": "Open Sys & Electronic Commerce 開放系統及電子商務",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5770:A:LEC:2622",
+          "rawSection": "A-LEC (2622)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 2622,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YU Michael Ruisi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "ERB_LT",
+              "instructor": "Dr. YU Michael Ruisi",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12",
+                "9/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5800",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5800",
+      "courseCode": "SEEM5800",
+      "title": "Logistics Management 物流管理學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5800:A:LEC:1223",
+          "rawSection": "A-LEC (1223)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1223,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss CHIU Lai Kuen Susanna"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_LT5",
+              "instructor": "Miss CHIU Lai Kuen Susanna",
+              "dates": [
+                "12/9",
+                "19/9",
+                "3/10",
+                "10/10",
+                "24/10",
+                "31/10",
+                "7/11",
+                "14/11",
+                "21/11",
+                "28/11",
+                "5/12",
+                "12/12",
+                "19/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5810",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5810",
+      "courseCode": "SEEM5810",
+      "title": "Machine Intelligence & Sys Eng Machine Intelligence & Sys Eng",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5810:-:LEC:2608",
+          "rawSection": "--LEC (2608)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2608,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Xunying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "MMW_703",
+              "instructor": "Professor LIU Xunying",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5820",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5820",
+      "courseCode": "SEEM5820",
+      "title": "Introduction to Financial Eng. 金融工程引論",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5820:A:LEC:1238",
+          "rawSection": "A-LEC (1238)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1238,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HE Xuedong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "ERB_LT",
+              "instructor": "Professor HE Xuedong",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12",
+                "10/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5840",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5840",
+      "courseCode": "SEEM5840",
+      "title": "Quantitative Risk Management 定量風險管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5840:EN:LEC:1587",
+          "rawSection": "EN-LEC (1587)",
+          "sectionCode": "EN",
+          "component": "LEC",
+          "classNumber": 1587,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LI Qi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "YIA_LT7",
+              "instructor": "Dr. LI Qi",
+              "dates": [
+                "12/9",
+                "19/9",
+                "3/10",
+                "10/10",
+                "24/10",
+                "31/10",
+                "7/11",
+                "14/11",
+                "21/11",
+                "28/11",
+                "5/12",
+                "12/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5910",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5910",
+      "courseCode": "SEEM5910",
+      "title": "Project In SEEM 系統工程與工程管理學研習",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5910:-J01:PRJ:1898",
+          "rawSection": "-J01-PRJ (1898)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 1898,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. PAN Hong - Professor HE Xuedong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. PAN Hong - Professor HE Xuedong",
+              "dates": [
+                "07/09/2026 - 07/12/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.292Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 134,
+      "rawFilesScanned": 134,
+      "rawRowsSeen": 5270,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2473,
+      "meetings": 2516,
+      "warnings": 0
+    }
+  },
+  "subject": "EESC",
+  "courses": [
+    {
+      "id": "EESC5001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5001",
+      "courseCode": "EESC5001",
+      "title": "Research Frontiers in EES I 地球與環境科學研究前沿（一）",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5001:-:LEC:4683",
+          "rawSection": "--LEC (4683)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4683,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Man Nin - Professor TAI Pui Kuen Amos - Professor TAM Chi Yung Francis - Professor ZHAI Shixian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "MMW_302",
+              "instructor": "Professor CHAN Man Nin - Professor TAI Pui Kuen Amos - Professor TAM Chi Yung Francis - Professor ZHAI Shixian",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5120",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5120",
+      "courseCode": "EESC5120",
+      "title": "Petrology 岩石學",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5120:-:LEC:1538",
+          "rawSection": "--LEC (1538)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1538,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. TAM Pui Yuk"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SC_331",
+              "instructor": "Dr. TAM Pui Yuk",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SC_331",
+              "instructor": "Dr. TAM Pui Yuk",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5170",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5170",
+      "courseCode": "EESC5170",
+      "title": "Geodynamics 地球動力學",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5170:-:LEC:1013",
+          "rawSection": "--LEC (1013)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1013,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHAN Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "ERB_703",
+              "instructor": "Professor ZHAN Yan",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "LSB_C1",
+              "instructor": "Professor ZHAN Yan",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5240",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5240",
+      "courseCode": "EESC5240",
+      "title": "Air Pollution Science 大氣污染科學與工程",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5240:-:LEC:1014",
+          "rawSection": "--LEC (1014)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1014,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Man Nin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ERB_712",
+              "instructor": "Professor CHAN Man Nin",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5310",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5310",
+      "courseCode": "EESC5310",
+      "title": "Biogeochem of Organic Matter 水生與陸源有機物質生物地球化學",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5310:-:LEC:2466",
+          "rawSection": "--LEC (2466)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2466,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOW Tat Shing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "WMY_407",
+              "instructor": "Professor CHOW Tat Shing",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5350",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5350",
+      "courseCode": "EESC5350",
+      "title": "Environmental Health 環境衛生學：系統思維方法",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5350:-:LEC:2467",
+          "rawSection": "--LEC (2467)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2467,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Benoit THIBODEAU"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "MMW_710",
+              "instructor": "Professor Benoit THIBODEAU",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5510",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5510",
+      "courseCode": "EESC5510",
+      "title": "Statistical Data Analysis 地球與環境科學的統計方法與數據分析",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5510:A:LEC:1061",
+          "rawSection": "A-LEC (1061)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1061,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU-YEUNG Yee Man - Dr. NG Tsin Hung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "ELB_LT4",
+              "instructor": "Dr. AU-YEUNG Yee Man - Dr. NG Tsin Hung",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "EESC5510:B:LEC:1062",
+          "rawSection": "B-LEC (1062)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 1062,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU-YEUNG Yee Man - Dr. NG Tsin Hung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "ELB_LT4",
+              "instructor": "Dr. AU-YEUNG Yee Man - Dr. NG Tsin Hung",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5550",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5550",
+      "courseCode": "EESC5550",
+      "title": "Practical Atmospheric Modeling 實用大氣模擬",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5550:-:LEC:1686",
+          "rawSection": "--LEC (1686)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1686,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHAI Shixian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "SC_329",
+              "instructor": "Professor ZHAI Shixian",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC8003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "8003",
+      "courseCode": "EESC8003",
+      "title": "Thesis Research 論文指導",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC8003:-M01:TMC:3666",
+          "rawSection": "-M01-TMC (3666)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 3666,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Benoit THIBODEAU - Professor CHAN Man Nin - Professor CHOW Tat Shing - Professor LIU Lin - Professor TAI Pui Kuen Amos - Professor TAM Chi Yung Francis - Professor TAN Yen Joe - Professor TSUI Tsz Ki Martin - Professor"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Benoit THIBODEAU - Professor CHAN Man Nin - Professor CHOW Tat Shing - Professor LIU Lin - Professor TAI Pui Kuen Amos - Professor TAM Chi Yung Francis - Professor TAN Yen Joe - Professor TSUI Tsz Ki Martin - Professor",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC8006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "8006",
+      "courseCode": "EESC8006",
+      "title": "Thesis Research 論文指導",
+      "units": 6,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC8006:-M01:TMC:3665",
+          "rawSection": "-M01-TMC (3665)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 3665,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Benoit THIBODEAU - Professor CHAN Man Nin - Professor CHOW Tat Shing - Professor LIU Lin - Professor TAI Pui Kuen Amos - Professor TAM Chi Yung Francis - Professor TAN Yen Joe - Professor TSUI Tsz Ki Martin - Professor"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Benoit THIBODEAU - Professor CHAN Man Nin - Professor CHOW Tat Shing - Professor LIU Lin - Professor TAI Pui Kuen Amos - Professor TAM Chi Yung Francis - Professor TAN Yen Joe - Professor TSUI Tsz Ki Martin - Professor",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

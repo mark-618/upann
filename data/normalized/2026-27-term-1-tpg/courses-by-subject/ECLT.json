@@ -1,0 +1,769 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "ECLT",
+  "courses": [
+    {
+      "id": "ECLT5720",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ECLT",
+      "catalogNumber": "5720",
+      "courseCode": "ECLT5720",
+      "title": "Electronic Payments Systems 電子支付系統",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ECLT5720:A:LEC:1533",
+          "rawSection": "A-LEC (1533)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1533,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIU Siu Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "TYW_LT",
+              "instructor": "Dr. YIU Siu Wai",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12",
+                "11/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ECLT5730",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ECLT",
+      "catalogNumber": "5730",
+      "courseCode": "ECLT5730",
+      "title": "Logistics Management 物流管理學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ECLT5730:A:LEC:1222",
+          "rawSection": "A-LEC (1222)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1222,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss CHIU Lai Kuen Susanna"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_LT5",
+              "instructor": "Miss CHIU Lai Kuen Susanna",
+              "dates": [
+                "12/9",
+                "19/9",
+                "3/10",
+                "10/10",
+                "24/10",
+                "31/10",
+                "7/11",
+                "14/11",
+                "21/11",
+                "28/11",
+                "5/12",
+                "12/12",
+                "19/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ECLT5810",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ECLT",
+      "catalogNumber": "5810",
+      "courseCode": "ECLT5810",
+      "title": "E-Commerce Data Mining Techniq 電子商務數據挖掘技術",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ECLT5810:-:LEC:1153",
+          "rawSection": "--LEC (1153)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1153,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAM Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "YIA_LT5",
+              "instructor": "Professor LAM Wai",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11",
+                "7/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ECLT5830",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ECLT",
+      "catalogNumber": "5830",
+      "courseCode": "ECLT5830",
+      "title": "Network and Web Programming 網絡及Ｗｅｂ編程",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ECLT5830:-:LEC:1219",
+          "rawSection": "--LEC (1219)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1219,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAU Chuck Jee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "TYW_LT",
+              "instructor": "Dr. CHAU Chuck Jee",
+              "dates": [
+                "12/9",
+                "19/9",
+                "3/10",
+                "10/10",
+                "24/10",
+                "31/10",
+                "7/11",
+                "14/11",
+                "21/11",
+                "28/11",
+                "5/12",
+                "12/12",
+                "19/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ECLT5840",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ECLT",
+      "catalogNumber": "5840",
+      "courseCode": "ECLT5840",
+      "title": "Open Systems for E-Commerce 電子商貿之開放系統",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ECLT5840:A:LEC:2621",
+          "rawSection": "A-LEC (2621)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 2621,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YU Michael Ruisi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "ERB_LT",
+              "instructor": "Dr. YU Michael Ruisi",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12",
+                "9/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ECLT5850",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ECLT",
+      "catalogNumber": "5850",
+      "courseCode": "ECLT5850",
+      "title": "Proj I: E-Com & Logistics Tech 電子商貿與物流技術研習一",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ECLT5850:-J01:PRJ:2190",
+          "rawSection": "-J01-PRJ (2190)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 2190,
+          "language": "E",
+          "availability": {
+            "capacity": 84,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. PAN Hong - Professor GAO Xuefeng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. PAN Hong - Professor GAO Xuefeng",
+              "dates": [
+                "07/09/2026 - 07/12/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ECLT5910",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ECLT",
+      "catalogNumber": "5910",
+      "courseCode": "ECLT5910",
+      "title": "Information Technology Mgmt 資訊技術管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ECLT5910:A:LEC:1254",
+          "rawSection": "A-LEC (1254)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1254,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Kam Fai William"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "TYW_LT",
+              "instructor": "Professor WONG Kam Fai William",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12",
+                "10/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ECLT5920",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ECLT",
+      "catalogNumber": "5920",
+      "courseCode": "ECLT5920",
+      "title": "Decision Methodologies w/FinAp 決策方法及其金融應用",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ECLT5920:A:LEC:1253",
+          "rawSection": "A-LEC (1253)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1253,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HE Xuedong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "ERB_LT",
+              "instructor": "Professor HE Xuedong",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12",
+                "10/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ECLT5930",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ECLT",
+      "catalogNumber": "5930",
+      "courseCode": "ECLT5930",
+      "title": "Engineering Economics 工程經濟學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ECLT5930:A:LEC:1240",
+          "rawSection": "A-LEC (1240)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1240,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Lingfei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "ERB_LT",
+              "instructor": "Professor LI Lingfei",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11",
+                "7/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ECLT5950",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ECLT",
+      "catalogNumber": "5950",
+      "courseCode": "ECLT5950",
+      "title": "Proj II: E-Com & Logistic Tech 電子商貿與物流技術研習二",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ECLT5950:-J01:PRJ:4711",
+          "rawSection": "-J01-PRJ (4711)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 4711,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. PAN Hong - Professor GAO Xuefeng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. PAN Hong - Professor GAO Xuefeng",
+              "dates": [
+                "07/09/2026 - 07/12/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

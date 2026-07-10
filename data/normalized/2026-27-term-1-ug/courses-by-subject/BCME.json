@@ -1,0 +1,2259 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 16598,
+      "courses": 1608,
+      "rawCoursesWithTargetTerm": 1608,
+      "subjects": 121,
+      "sections": 5136,
+      "meetings": 5850,
+      "warnings": 0
+    }
+  },
+  "subject": "BCME",
+  "courses": [
+    {
+      "id": "BCME1206",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "1206",
+      "courseCode": "BCME1206",
+      "title": "Basic Theory of Chi Med 中醫基礎理論",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME1206:-:LEC:6001",
+          "rawSection": "--LEC (6001)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6001,
+          "language": "P&C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Sze Nga - Miss CHU Oi Yu - Mr. LU Guoan - Professor JIANG Yuanan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "ELB_205",
+              "instructor": "Dr. CHAN Sze Nga - Miss CHU Oi Yu - Mr. LU Guoan - Professor JIANG Yuanan",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Tu 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "HYS_G01",
+              "instructor": "Dr. CHAN Sze Nga - Miss CHU Oi Yu - Mr. LU Guoan - Professor JIANG Yuanan",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BCME1206:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P&C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "WMY_301",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME1403",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "1403",
+      "courseCode": "BCME1403",
+      "title": "Anatomy 解剖學",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME1403:-:LEC:5583",
+          "rawSection": "--LEC (5583)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5583,
+          "language": "C&E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Wing Shing David - Dr. POON Hong Kit - Dr. Robert George JESKY - Dr. TANG Mei Kuen - Dr. WAI Sen Mun - Dr. WONG Wai Kai - Professor JIANG Xiaohua"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "WMY_301",
+              "instructor": "Dr. CHEUNG Wing Shing David - Dr. POON Hong Kit - Dr. Robert George JESKY - Dr. TANG Mei Kuen - Dr. WAI Sen Mun - Dr. WONG Wai Kai - Professor JIANG Xiaohua",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "CYT_202",
+              "instructor": "Dr. CHEUNG Wing Shing David - Dr. POON Hong Kit - Dr. Robert George JESKY - Dr. TANG Mei Kuen - Dr. WAI Sen Mun - Dr. WONG Wai Kai - Professor JIANG Xiaohua",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME1600",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "1600",
+      "courseCode": "BCME1600",
+      "title": "Fundamental Physiology I 基礎生理學（一）",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME1600:-:LEC:7131",
+          "rawSection": "--LEC (7131)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7131,
+          "language": "C&E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Wing Shing David - Dr. HWANG Shui Shan Isabel - Dr. KEE Francis - Dr. SEE Christopher Yew Hong - Dr. WONG Pui Man Molly - Professor LAM Fu Yuen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "WMY_502",
+              "instructor": "Dr. CHEUNG Wing Shing David - Dr. HWANG Shui Shan Isabel - Dr. KEE Francis - Dr. SEE Christopher Yew Hong - Dr. WONG Pui Man Molly - Professor LAM Fu Yuen",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BCME1600:-P01:PRA:no-class-number",
+          "rawSection": "-P01-PRA",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "WMY_506",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME2103",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "2103",
+      "courseCode": "BCME2103",
+      "title": "Funda in Chi Materia Medica 基礎中藥學",
+      "units": 5,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME2103:-:LEC:5986",
+          "rawSection": "--LEC (5986)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5986,
+          "language": "C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAU Tai Wai David - Dr. SO Tsz Ho - Miss CHU Oi Yu - Mr. LU Guoan - Professor XIAN Yanfang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "WMY_502",
+              "instructor": "Dr. LAU Tai Wai David - Dr. SO Tsz Ho - Miss CHU Oi Yu - Mr. LU Guoan - Professor XIAN Yanfang",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CKB_UG03",
+              "instructor": "Dr. LAU Tai Wai David - Dr. SO Tsz Ho - Miss CHU Oi Yu - Mr. LU Guoan - Professor XIAN Yanfang",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "ELB_207",
+              "instructor": "Dr. LAU Tai Wai David - Dr. SO Tsz Ho - Miss CHU Oi Yu - Mr. LU Guoan - Professor XIAN Yanfang",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME2107",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "2107",
+      "courseCode": "BCME2107",
+      "title": "Introduction to Diseases I 西醫臨床學科I",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME2107:-:LEC:7132",
+          "rawSection": "--LEC (7132)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7132,
+          "language": "C&E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KANG Wei - Professor TSE Man Kit Gary"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": "Professor KANG Wei - Professor TSE Man Kit Gary",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME2202",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "2202",
+      "courseCode": "BCME2202",
+      "title": "Chi Med Classic-Shang-Han-Lun 傷寒論選讀",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME2202:-:LEC:6961",
+          "rawSection": "--LEC (6961)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6961,
+          "language": "P&C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MOK Tik Lun - Mr. LU Guoan - Professor JIANG Yuanan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "WMY_301",
+              "instructor": "Dr. MOK Tik Lun - Mr. LU Guoan - Professor JIANG Yuanan",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LWC_111",
+              "instructor": "Dr. MOK Tik Lun - Mr. LU Guoan - Professor JIANG Yuanan",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME2209",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "2209",
+      "courseCode": "BCME2209",
+      "title": "Intro to West Med Practice I 西醫診治方法原理(一)",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME2209:-:LEC:5413",
+          "rawSection": "--LEC (5413)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5413,
+          "language": "C&E",
+          "availability": {
+            "capacity": 35,
+            "enrolled": 0,
+            "availableSeats": 35,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor DAO Man Chi - Professor TSE Sut Yee - Professor WAI Heung On Jonathan - Professor WONG Chi Lung - Professor WONG Tsz Kau"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "ARC_211",
+              "instructor": "Professor DAO Man Chi - Professor TSE Sut Yee - Professor WAI Heung On Jonathan - Professor WONG Chi Lung - Professor WONG Tsz Kau",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "WMY_408",
+              "instructor": "Professor DAO Man Chi - Professor TSE Sut Yee - Professor WAI Heung On Jonathan - Professor WONG Chi Lung - Professor WONG Tsz Kau",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME2401",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "2401",
+      "courseCode": "BCME2401",
+      "title": "Clinical Training I 臨牀見習（一）",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME2401:-:LEC:6055",
+          "rawSection": "--LEC (6055)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6055,
+          "language": "P&C",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HUA Heyu - Miss HUNG Hing Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. HUA Heyu - Miss HUNG Hing Yu",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME2402",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "2402",
+      "courseCode": "BCME2402",
+      "title": "Clinical Training II 臨牀見習（二）",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME2402:-:LEC:6152",
+          "rawSection": "--LEC (6152)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6152,
+          "language": "P&C",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HUA Heyu - Miss HUNG Hing Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. HUA Heyu - Miss HUNG Hing Yu",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME2403",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "2403",
+      "courseCode": "BCME2403",
+      "title": "Clinical Training III 臨牀見習（三）",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME2403:-:LEC:6054",
+          "rawSection": "--LEC (6054)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6054,
+          "language": "P&C",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HUA Heyu - Miss HUNG Hing Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. HUA Heyu - Miss HUNG Hing Yu",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME2405",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "2405",
+      "courseCode": "BCME2405",
+      "title": "Clinical Training V 臨牀見習（五）",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME2405:-:LEC:6053",
+          "rawSection": "--LEC (6053)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6053,
+          "language": "P&C",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HUA Heyu - Miss HUNG Hing Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. HUA Heyu - Miss HUNG Hing Yu",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME3102",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "3102",
+      "courseCode": "BCME3102",
+      "title": "Internal Medicine I 中醫內科學（一）",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME3102:-:LEC:6986",
+          "rawSection": "--LEC (6986)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6986,
+          "language": "P&C",
+          "availability": {
+            "capacity": 26,
+            "enrolled": 0,
+            "availableSeats": 26,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HUA Heyu - Dr. LIONG Ching - Professor ZHANG Baoting"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "ELB_203",
+              "instructor": "Dr. HUA Heyu - Dr. LIONG Ching - Professor ZHANG Baoting",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "CYT_LT1B",
+              "instructor": "Dr. HUA Heyu - Dr. LIONG Ching - Professor ZHANG Baoting",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME3103",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "3103",
+      "courseCode": "BCME3103",
+      "title": "Specialties in CM: Feb Dise 溫病學說",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME3103:-:LEC:5410",
+          "rawSection": "--LEC (5410)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5410,
+          "language": "P&C",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HUA Heyu - Dr. LIONG Ching"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "ELB_401",
+              "instructor": "Dr. HUA Heyu - Dr. LIONG Ching",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME3106",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "3106",
+      "courseCode": "BCME3106",
+      "title": "Acupuncture 針灸科",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME3106:-:LEC:5411",
+          "rawSection": "--LEC (5411)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5411,
+          "language": "P&C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss HUNG Hing Yu - Professor WANG Qian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "YIA_502",
+              "instructor": "Miss HUNG Hing Yu - Professor WANG Qian",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "CYT_202",
+              "instructor": "Miss HUNG Hing Yu - Professor WANG Qian",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BCME3106:-P01:PRA:no-class-number",
+          "rawSection": "-P01-PRA",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": null,
+          "language": "P&C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "LWC_113",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME3108",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "3108",
+      "courseCode": "BCME3108",
+      "title": "Massage Therapy in Chi Med 推拿學",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME3108:-:LEC:8851",
+          "rawSection": "--LEC (8851)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8851,
+          "language": "P&C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. TSOI Yan Wang - Miss HUNG Hing Yu - Professor ZHANG Jianguo"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LWC_113",
+              "instructor": "Dr. TSOI Yan Wang - Miss HUNG Hing Yu - Professor ZHANG Jianguo",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME3110",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "3110",
+      "courseCode": "BCME3110",
+      "title": "Surgery and Topical Diseases 中醫外科學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME3110:-:LEC:5412",
+          "rawSection": "--LEC (5412)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5412,
+          "language": "P&C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHUANG Fong Fei - Professor FU Wenshu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "ARC_G02",
+              "instructor": "Dr. CHUANG Fong Fei - Professor FU Wenshu",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Fr 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "ELB_205",
+              "instructor": "Dr. CHUANG Fong Fei - Professor FU Wenshu",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME3208",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "3208",
+      "courseCode": "BCME3208",
+      "title": "Hong Kong Medical System 香港醫療制度",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME3208:-:LEC:7133",
+          "rawSection": "--LEC (7133)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7133,
+          "language": "C&E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Kam Leung - Dr. CHAN Sze Nga - Dr. TSOI Yan Wang - Professor HO Fat Yee - Professor WONG Tak Yu Louisa"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "CKB_109",
+              "instructor": "Dr. CHAN Kam Leung - Dr. CHAN Sze Nga - Dr. TSOI Yan Wang - Professor HO Fat Yee - Professor WONG Tak Yu Louisa",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME4103",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "4103",
+      "courseCode": "BCME4103",
+      "title": "Clinical Study II 臨牀實習（二）",
+      "units": 12,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME4103:-:LEC:8663",
+          "rawSection": "--LEC (8663)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8663,
+          "language": "P&C",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr ZHANG Hongwei - Dr. CHAN Kam Leung - Dr. HUA Heyu - Mr. LU Guoan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 08:30AM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "08:30",
+              "endTime": "16:15",
+              "startMinutes": 510,
+              "endMinutes": 975,
+              "location": "NRR",
+              "instructor": "Dr ZHANG Hongwei - Dr. CHAN Kam Leung - Dr. HUA Heyu - Mr. LU Guoan",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Tu 08:30AM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "08:30",
+              "endTime": "16:15",
+              "startMinutes": 510,
+              "endMinutes": 975,
+              "location": "NRR",
+              "instructor": "Dr ZHANG Hongwei - Dr. CHAN Kam Leung - Dr. HUA Heyu - Mr. LU Guoan",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "We 08:30AM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "08:30",
+              "endTime": "16:15",
+              "startMinutes": 510,
+              "endMinutes": 975,
+              "location": "NRR",
+              "instructor": "Dr ZHANG Hongwei - Dr. CHAN Kam Leung - Dr. HUA Heyu - Mr. LU Guoan",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 08:30AM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "08:30",
+              "endTime": "16:15",
+              "startMinutes": 510,
+              "endMinutes": 975,
+              "location": "NRR",
+              "instructor": "Dr ZHANG Hongwei - Dr. CHAN Kam Leung - Dr. HUA Heyu - Mr. LU Guoan",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "NRR",
+              "instructor": "Dr ZHANG Hongwei - Dr. CHAN Kam Leung - Dr. HUA Heyu - Mr. LU Guoan",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME4107",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "4107",
+      "courseCode": "BCME4107",
+      "title": "Ent and Ophthalmology 五官科",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME4107:-:LEC:5425",
+          "rawSection": "--LEC (5425)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5425,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHUANG Fong Fei - Dr. MOK Tik Lun - Professor CHANG Wai Tsz"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "HYS_G05",
+              "instructor": "Dr. CHUANG Fong Fei - Dr. MOK Tik Lun - Professor CHANG Wai Tsz",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LKC_LT1",
+              "instructor": "Dr. CHUANG Fong Fei - Dr. MOK Tik Lun - Professor CHANG Wai Tsz",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME4108",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "4108",
+      "courseCode": "BCME4108",
+      "title": "Paediatrics 兒科學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME4108:-:LEC:5426",
+          "rawSection": "--LEC (5426)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5426,
+          "language": "P&C",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HUA Heyu - Dr. MOK Tik Lun - Professor MIAO Jiang Xia"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "WMY_508",
+              "instructor": "Dr. HUA Heyu - Dr. MOK Tik Lun - Professor MIAO Jiang Xia",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "WMY_508",
+              "instructor": "Dr. HUA Heyu - Dr. MOK Tik Lun - Professor MIAO Jiang Xia",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BCME4108:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P&C",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "WMY_508",
+              "instructor": null,
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME4109",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "4109",
+      "courseCode": "BCME4109",
+      "title": "Different Schools of Chi Med 中醫學術流派",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME4109:-:LEC:9198",
+          "rawSection": "--LEC (9198)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9198,
+          "language": "C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAU Chiu King Martin - Dr. MOK Tik Lun - Dr. SO Tsz Ho - Miss CHU Oi Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "HYS_G01",
+              "instructor": "Dr. LAU Chiu King Martin - Dr. MOK Tik Lun - Dr. SO Tsz Ho - Miss CHU Oi Yu",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "YIA_LT9",
+              "instructor": "Dr. LAU Chiu King Martin - Dr. MOK Tik Lun - Dr. SO Tsz Ho - Miss CHU Oi Yu",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCME4200",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BCME",
+      "catalogNumber": "4200",
+      "courseCode": "BCME4200",
+      "title": "Research Methodologies in CM 中醫學研究方法",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME4200:-J01:PRJ:6067",
+          "rawSection": "-J01-PRJ (6067)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6067,
+          "language": "P&C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr ZHANG Hongwei - Dr. CHAN Kam Leung - Dr. HUA Heyu - Dr. LIN Wai Ling - Dr. LIONG Ching - Dr. MOK Tik Lun - Dr. TSOI Yan Wang - Miss HUNG Hing Yu - Mr. LU Guoan - Professor CHUNG Kiu Lam - Professor JIANG Yuanan - Pro"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr ZHANG Hongwei - Dr. CHAN Kam Leung - Dr. HUA Heyu - Dr. LIN Wai Ling - Dr. LIONG Ching - Dr. MOK Tik Lun - Dr. TSOI Yan Wang - Miss HUNG Hing Yu - Mr. LU Guoan - Professor CHUNG Kiu Lam - Professor JIANG Yuanan - Pro",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "CHLL",
+  "courses": [
+    {
+      "id": "CHLL5600",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chllv/CHLLV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHLL",
+      "catalogNumber": "5600",
+      "courseCode": "CHLL5600",
+      "title": "Research Meth & Academic Wrtg 研究方法與論文寫作",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chi Lang & Literature",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHLL5600:-:LEC:1589",
+          "rawSection": "--LEC (1589)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1589,
+          "language": "P&C",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Nicholas Louis - Professor DENG Dun - Professor HO Che Wah - Professor WONG Nim Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "ELB_LT1",
+              "instructor": "Professor CHAN Nicholas Louis - Professor DENG Dun - Professor HO Che Wah - Professor WONG Nim Yan",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHLL5918",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chllv/CHLLV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHLL",
+      "catalogNumber": "5918",
+      "courseCode": "CHLL5918",
+      "title": "COMPA GRAMMAR OF CHIN & ENGLIS 漢英比較語法專題",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chi Lang & Literature",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHLL5918:-:LEC:1294",
+          "rawSection": "--LEC (1294)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1294,
+          "language": "P",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor DENG Dun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_505",
+              "instructor": "Professor DENG Dun",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHLL5919",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chllv/CHLLV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHLL",
+      "catalogNumber": "5919",
+      "courseCode": "CHLL5919",
+      "title": "Chin Morphology & Syntax 漢語構詞與句法研究",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chi Lang & Literature",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHLL5919:-:LEC:1308",
+          "rawSection": "--LEC (1308)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1308,
+          "language": "C",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TANG Sze Wing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_405",
+              "instructor": "Professor TANG Sze Wing",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHLL5928",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chllv/CHLLV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHLL",
+      "catalogNumber": "5928",
+      "courseCode": "CHLL5928",
+      "title": "Studies in Zizhi Tongjian 資治通鑒研究",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chi Lang & Literature",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHLL5928:-:LEC:3961",
+          "rawSection": "--LEC (3961)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 3961,
+          "language": "C",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEUNG Tak Wah"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_405",
+              "instructor": "Dr. LEUNG Tak Wah",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHLL5932",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chllv/CHLLV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHLL",
+      "catalogNumber": "5932",
+      "courseCode": "CHLL5932",
+      "title": "Spe Top:Clas Chi Lit:Fic/Drama 古典文學專題：小說或戲劇",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chi Lang & Literature",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHLL5932:-:LEC:1310",
+          "rawSection": "--LEC (1310)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1310,
+          "language": "P",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHOU Jianyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_405",
+              "instructor": "Professor ZHOU Jianyu",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHLL5939",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chllv/CHLLV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHLL",
+      "catalogNumber": "5939",
+      "courseCode": "CHLL5939",
+      "title": "Shi Jing 《詩經》",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chi Lang & Literature",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHLL5939:-:LEC:1351",
+          "rawSection": "--LEC (1351)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1351,
+          "language": "C",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Nicholas Louis"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LSB_LT3",
+              "instructor": "Professor CHAN Nicholas Louis",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHLL5941",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chllv/CHLLV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHLL",
+      "catalogNumber": "5941",
+      "courseCode": "CHLL5941",
+      "title": "Spe Top in Modern Chi Lit 現代文學專題",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chi Lang & Literature",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHLL5941:-:LEC:1311",
+          "rawSection": "--LEC (1311)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1311,
+          "language": "C",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Sui Hung Natalia"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_505",
+              "instructor": "Professor CHAN Sui Hung Natalia",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHLL5942",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chllv/CHLLV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHLL",
+      "catalogNumber": "5942",
+      "courseCode": "CHLL5942",
+      "title": "Spe Top in Modern Chi Writers 現代作家專題",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chi Lang & Literature",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHLL5942:-:LEC:2604",
+          "rawSection": "--LEC (2604)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2604,
+          "language": "C",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YAU Ting Kit Kevin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_505",
+              "instructor": "Dr. YAU Ting Kit Kevin",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHLL5987",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chllv/CHLLV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHLL",
+      "catalogNumber": "5987",
+      "courseCode": "CHLL5987",
+      "title": "Tao Yuanming:Aesthetics & Life 陶淵明：詩歌美學與人生哲學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chi Lang & Literature",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHLL5987:-:LEC:3950",
+          "rawSection": "--LEC (3950)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 3950,
+          "language": "C",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YIM Chi Hung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LHC_103",
+              "instructor": "Professor YIM Chi Hung",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

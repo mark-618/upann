@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.292Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 134,
+      "rawFilesScanned": 134,
+      "rawRowsSeen": 5270,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2473,
+      "meetings": 2516,
+      "warnings": 0
+    }
+  },
+  "subject": "MEDP",
+  "courses": [
+    {
+      "id": "MEDP6002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "MEDP",
+      "catalogNumber": "6002",
+      "courseCode": "MEDP6002",
+      "title": "Biostatistics I (Med) 生物統計學 (一)",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MEDP6002:-:LEC:4661",
+          "rawSection": "--LEC (4661)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4661,
+          "language": "E",
+          "availability": {
+            "capacity": 250,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr LEE Jock Wai - Dr. WANG Jingxuan - Professor CAO Lirong - Professor WANG Haitian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:30",
+              "startMinutes": 870,
+              "endMinutes": 1050,
+              "location": "PWH",
+              "instructor": "Dr LEE Jock Wai - Dr. WANG Jingxuan - Professor CAO Lirong - Professor WANG Haitian",
+              "dates": [
+                "15/9",
+                "29/9",
+                "13/10",
+                "20/10",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 05:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:30",
+              "startMinutes": 870,
+              "endMinutes": 1050,
+              "location": "PWH",
+              "instructor": "Dr LEE Jock Wai - Dr. WANG Jingxuan - Professor CAO Lirong - Professor WANG Haitian",
+              "dates": [
+                "23/9",
+                "7/10"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

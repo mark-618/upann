@@ -1,0 +1,912 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subjects": [
+    {
+      "subject": "ACCT",
+      "subjectTitle": "ACCT",
+      "rawFile": "acct/ACCT.json",
+      "rawCourses": 52,
+      "offeredCourses": 17,
+      "sections": 26,
+      "meetings": 39
+    },
+    {
+      "subject": "AIMS",
+      "subjectTitle": "AIMS",
+      "rawFile": "aims/AIMS.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "ANTH",
+      "subjectTitle": "ANTH",
+      "rawFile": "anth/ANTH.json",
+      "rawCourses": 28,
+      "offeredCourses": 13,
+      "sections": 26,
+      "meetings": 26
+    },
+    {
+      "subject": "ARCH",
+      "subjectTitle": "ARCH",
+      "rawFile": "arch/ARCH.json",
+      "rawCourses": 110,
+      "offeredCourses": 10,
+      "sections": 55,
+      "meetings": 103
+    },
+    {
+      "subject": "BBMS",
+      "subjectTitle": "BBMS",
+      "rawFile": "bbms/BBMS.json",
+      "rawCourses": 14,
+      "offeredCourses": 5,
+      "sections": 8,
+      "meetings": 8
+    },
+    {
+      "subject": "BCME",
+      "subjectTitle": "BCME",
+      "rawFile": "bcme/BCME.json",
+      "rawCourses": 52,
+      "offeredCourses": 26,
+      "sections": 29,
+      "meetings": 42
+    },
+    {
+      "subject": "BEST",
+      "subjectTitle": "BEST",
+      "rawFile": "best/BEST.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "BIOS",
+      "subjectTitle": "BIOS",
+      "rawFile": "bios/BIOS.json",
+      "rawCourses": 4,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "BMEG",
+      "subjectTitle": "BMEG",
+      "rawFile": "bmeg/BMEG.json",
+      "rawCourses": 16,
+      "offeredCourses": 8,
+      "sections": 8,
+      "meetings": 8
+    },
+    {
+      "subject": "BUDS",
+      "subjectTitle": "BUDS",
+      "rawFile": "buds/BUDS.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "CGEN",
+      "subjectTitle": "CGEN",
+      "rawFile": "by-org/mescv/MESCV.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "CHEM",
+      "subjectTitle": "CHEM",
+      "rawFile": "by-org/chemv/CHEMV.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "CHES",
+      "subjectTitle": "CHES",
+      "rawFile": "by-org/chstv/CHSTV.json",
+      "rawCourses": 28,
+      "offeredCourses": 12,
+      "sections": 15,
+      "meetings": 15
+    },
+    {
+      "subject": "CHLL",
+      "subjectTitle": "CHLL",
+      "rawFile": "by-org/chllv/CHLLV.json",
+      "rawCourses": 18,
+      "offeredCourses": 9,
+      "sections": 9,
+      "meetings": 9
+    },
+    {
+      "subject": "CMSC",
+      "subjectTitle": "CMSC",
+      "rawFile": "by-org/csegv/CSEGV.json",
+      "rawCourses": 16,
+      "offeredCourses": 8,
+      "sections": 23,
+      "meetings": 23
+    },
+    {
+      "subject": "CNGT",
+      "subjectTitle": "CNGT",
+      "rawFile": "by-org/obgyv/OBGYV.json",
+      "rawCourses": 6,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "COMM",
+      "subjectTitle": "COMM",
+      "rawFile": "by-org/commv/COMMV.json",
+      "rawCourses": 72,
+      "offeredCourses": 30,
+      "sections": 36,
+      "meetings": 41
+    },
+    {
+      "subject": "CULS",
+      "subjectTitle": "CULS",
+      "rawFile": "by-org/culsv/CULSV.json",
+      "rawCourses": 42,
+      "offeredCourses": 19,
+      "sections": 24,
+      "meetings": 27
+    },
+    {
+      "subject": "CVSM",
+      "subjectTitle": "CVSM",
+      "rawFile": "by-org/mescv/MESCV.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "DBAC",
+      "subjectTitle": "DBAC",
+      "rawFile": "by-org/badmv/BADMV.json",
+      "rawCourses": 20,
+      "offeredCourses": 7,
+      "sections": 10,
+      "meetings": 23
+    },
+    {
+      "subject": "DOTE",
+      "subjectTitle": "DOTE",
+      "rawFile": "by-org/badmv/BADMV.json",
+      "rawCourses": 80,
+      "offeredCourses": 23,
+      "sections": 40,
+      "meetings": 58
+    },
+    {
+      "subject": "ECLT",
+      "subjectTitle": "ECLT",
+      "rawFile": "by-org/seemv/SEEMV.json",
+      "rawCourses": 20,
+      "offeredCourses": 10,
+      "sections": 10,
+      "meetings": 10
+    },
+    {
+      "subject": "ECON",
+      "subjectTitle": "ECON",
+      "rawFile": "by-org/econv/ECONV.json",
+      "rawCourses": 50,
+      "offeredCourses": 13,
+      "sections": 25,
+      "meetings": 35
+    },
+    {
+      "subject": "EESC",
+      "subjectTitle": "EESC",
+      "rawFile": "catalog-supplement/eesc/EESC.json",
+      "rawCourses": 6,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "ELEG",
+      "subjectTitle": "ELEG",
+      "rawFile": "by-org/elegv/ELEGV.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "EMBA",
+      "subjectTitle": "EMBA",
+      "rawFile": "by-org/badmv/BADMV.json",
+      "rawCourses": 8,
+      "offeredCourses": 3,
+      "sections": 4,
+      "meetings": 14
+    },
+    {
+      "subject": "ENGE",
+      "subjectTitle": "ENGE",
+      "rawFile": "by-org/engev/ENGEV.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "ENLT",
+      "subjectTitle": "ENLT",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 6
+    },
+    {
+      "subject": "EPBI",
+      "subjectTitle": "EPBI",
+      "rawFile": "by-org/pubhv/PUBHV.json",
+      "rawCourses": 6,
+      "offeredCourses": 2,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "EPID",
+      "subjectTitle": "EPID",
+      "rawFile": "by-org/pubhv/PUBHV.json",
+      "rawCourses": 4,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "EPSY",
+      "subjectTitle": "EPSY",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 6,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 4
+    },
+    {
+      "subject": "ESGS",
+      "subjectTitle": "ESGS",
+      "rawFile": "by-org/ssciv/SSCIV.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 7,
+      "meetings": 7
+    },
+    {
+      "subject": "FAAS",
+      "subjectTitle": "FAAS",
+      "rawFile": "by-org/faasv/FAASV.json",
+      "rawCourses": 22,
+      "offeredCourses": 8,
+      "sections": 11,
+      "meetings": 11
+    },
+    {
+      "subject": "FINA",
+      "subjectTitle": "FINA",
+      "rawFile": "by-org/badmv/BADMV.json",
+      "rawCourses": 88,
+      "offeredCourses": 24,
+      "sections": 44,
+      "meetings": 96
+    },
+    {
+      "subject": "FNSC",
+      "subjectTitle": "FNSC",
+      "rawFile": "by-org/lsciv/LSCIV.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "FTEC",
+      "subjectTitle": "FTEC",
+      "rawFile": "by-org/engiv/ENGIV.json",
+      "rawCourses": 16,
+      "offeredCourses": 7,
+      "sections": 8,
+      "meetings": 9
+    },
+    {
+      "subject": "GAST",
+      "subjectTitle": "GAST",
+      "rawFile": "by-org/mescv/MESCV.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "GDRS",
+      "subjectTitle": "GDRS",
+      "rawFile": "by-org/gdrsv/GDRSV.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "GISM",
+      "subjectTitle": "GISM",
+      "rawFile": "by-org/grmdv/GRMDV.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 12,
+      "meetings": 12
+    },
+    {
+      "subject": "GNBF",
+      "subjectTitle": "GNBF",
+      "rawFile": "by-org/sbmsv/SBMSV.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 8,
+      "meetings": 13
+    },
+    {
+      "subject": "GPEC",
+      "subjectTitle": "GPEC",
+      "rawFile": "by-org/gpscv/GPSCV.json",
+      "rawCourses": 24,
+      "offeredCourses": 12,
+      "sections": 12,
+      "meetings": 12
+    },
+    {
+      "subject": "GPGC",
+      "subjectTitle": "GPGC",
+      "rawFile": "by-org/gpscv/GPSCV.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "HIST",
+      "subjectTitle": "HIST",
+      "rawFile": "by-org/histv/HISTV.json",
+      "rawCourses": 22,
+      "offeredCourses": 11,
+      "sections": 22,
+      "meetings": 22
+    },
+    {
+      "subject": "HPSB",
+      "subjectTitle": "HPSB",
+      "rawFile": "by-org/pubhv/PUBHV.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "HSYS",
+      "subjectTitle": "HSYS",
+      "rawFile": "by-org/pubhv/PUBHV.json",
+      "rawCourses": 16,
+      "offeredCourses": 8,
+      "sections": 8,
+      "meetings": 13
+    },
+    {
+      "subject": "HTMG",
+      "subjectTitle": "HTMG",
+      "rawFile": "by-org/badmv/BADMV.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 9
+    },
+    {
+      "subject": "ICMS",
+      "subjectTitle": "ICMS",
+      "rawFile": "by-org/elegv/ELEGV.json",
+      "rawCourses": 3,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "IEMS",
+      "subjectTitle": "IEMS",
+      "rawFile": "by-org/iergv/IERGV.json",
+      "rawCourses": 22,
+      "offeredCourses": 10,
+      "sections": 11,
+      "meetings": 16
+    },
+    {
+      "subject": "INFD",
+      "subjectTitle": "INFD",
+      "rawFile": "by-org/pubhv/PUBHV.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "JASP",
+      "subjectTitle": "JASP",
+      "rawFile": "by-org/jaspv/JASPV.json",
+      "rawCourses": 16,
+      "offeredCourses": 8,
+      "sections": 8,
+      "meetings": 8
+    },
+    {
+      "subject": "LARC",
+      "subjectTitle": "LARC",
+      "rawFile": "by-org/archv/ARCHV.json",
+      "rawCourses": 3,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 4
+    },
+    {
+      "subject": "LAWS",
+      "subjectTitle": "LAWS",
+      "rawFile": "by-org/lawsv/LAWSV.json",
+      "rawCourses": 134,
+      "offeredCourses": 48,
+      "sections": 67,
+      "meetings": 70
+    },
+    {
+      "subject": "LING",
+      "subjectTitle": "LING",
+      "rawFile": "by-org/lingv/LINGV.json",
+      "rawCourses": 22,
+      "offeredCourses": 8,
+      "sections": 11,
+      "meetings": 11
+    },
+    {
+      "subject": "MAED",
+      "subjectTitle": "MAED",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 10,
+      "offeredCourses": 4,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "MAEG",
+      "subjectTitle": "MAEG",
+      "rawFile": "by-org/maegv/MAEGV.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "MBAC",
+      "subjectTitle": "MBAC",
+      "rawFile": "by-org/badmv/BADMV.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 20
+    },
+    {
+      "subject": "MCLE",
+      "subjectTitle": "MCLE",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "MCNS",
+      "subjectTitle": "MCNS",
+      "rawFile": "by-org/mescv/MESCV.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 7
+    },
+    {
+      "subject": "MECM",
+      "subjectTitle": "MECM",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "MEDM",
+      "subjectTitle": "MEDM",
+      "rawFile": "by-org/mescv/MESCV.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "MGNT",
+      "subjectTitle": "MGNT",
+      "rawFile": "by-org/badmv/BADMV.json",
+      "rawCourses": 38,
+      "offeredCourses": 12,
+      "sections": 19,
+      "meetings": 27
+    },
+    {
+      "subject": "MKTG",
+      "subjectTitle": "MKTG",
+      "rawFile": "by-org/badmv/BADMV.json",
+      "rawCourses": 38,
+      "offeredCourses": 9,
+      "sections": 19,
+      "meetings": 49
+    },
+    {
+      "subject": "MLSC",
+      "subjectTitle": "MLSC",
+      "rawFile": "by-org/acpyv/ACPYV.json",
+      "rawCourses": 4,
+      "offeredCourses": 2,
+      "sections": 2,
+      "meetings": 2
+    },
+    {
+      "subject": "MMAT",
+      "subjectTitle": "MMAT",
+      "rawFile": "by-org/mathv/MATHV.json",
+      "rawCourses": 20,
+      "offeredCourses": 10,
+      "sections": 11,
+      "meetings": 12
+    },
+    {
+      "subject": "MPUP",
+      "subjectTitle": "MPUP",
+      "rawFile": "by-org/gpscv/GPSCV.json",
+      "rawCourses": 16,
+      "offeredCourses": 8,
+      "sections": 8,
+      "meetings": 9
+    },
+    {
+      "subject": "MRGO",
+      "subjectTitle": "MRGO",
+      "rawFile": "by-org/ortyv/ORTYV.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 6
+    },
+    {
+      "subject": "MUSC",
+      "subjectTitle": "MUSC",
+      "rawFile": "by-org/muscv/MUSCV.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "NURS",
+      "subjectTitle": "NURS",
+      "rawFile": "by-org/nursv/NURSV.json",
+      "rawCourses": 52,
+      "offeredCourses": 21,
+      "sections": 99,
+      "meetings": 229
+    },
+    {
+      "subject": "OENV",
+      "subjectTitle": "OENV",
+      "rawFile": "by-org/pubhv/PUBHV.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "ORTY",
+      "subjectTitle": "ORTY",
+      "rawFile": "by-org/ortyv/ORTYV.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 16
+    },
+    {
+      "subject": "PBHT",
+      "subjectTitle": "PBHT",
+      "rawFile": "by-org/pubhv/PUBHV.json",
+      "rawCourses": 6,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 8
+    },
+    {
+      "subject": "PEDU",
+      "subjectTitle": "PEDU",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 74,
+      "offeredCourses": 33,
+      "sections": 37,
+      "meetings": 38
+    },
+    {
+      "subject": "PHAR",
+      "subjectTitle": "PHAR",
+      "rawFile": "by-org/pharv/PHARV.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 11
+    },
+    {
+      "subject": "PHEC",
+      "subjectTitle": "PHEC",
+      "rawFile": "by-org/suryv/SURYV.json",
+      "rawCourses": 16,
+      "offeredCourses": 8,
+      "sections": 13,
+      "meetings": 13
+    },
+    {
+      "subject": "PHIL",
+      "subjectTitle": "PHIL",
+      "rawFile": "by-org/philv/PHILV.json",
+      "rawCourses": 6,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "PHYS",
+      "subjectTitle": "PHYS",
+      "rawFile": "by-org/physv/PHYSV.json",
+      "rawCourses": 48,
+      "offeredCourses": 8,
+      "sections": 27,
+      "meetings": 31
+    },
+    {
+      "subject": "POPG",
+      "subjectTitle": "POPG",
+      "rawFile": "by-org/pubhv/PUBHV.json",
+      "rawCourses": 2,
+      "offeredCourses": 1,
+      "sections": 1,
+      "meetings": 1
+    },
+    {
+      "subject": "PSYC",
+      "subjectTitle": "PSYC",
+      "rawFile": "by-org/psycv/PSYCV.json",
+      "rawCourses": 68,
+      "offeredCourses": 30,
+      "sections": 43,
+      "meetings": 43
+    },
+    {
+      "subject": "RELS",
+      "subjectTitle": "RELS",
+      "rawFile": "by-org/relsv/RELSV.json",
+      "rawCourses": 8,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "RMCE",
+      "subjectTitle": "RMCE",
+      "rawFile": "by-org/obgyv/OBGYV.json",
+      "rawCourses": 6,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "RMSC",
+      "subjectTitle": "RMSC",
+      "rawFile": "by-org/rmscv/RMSCV.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "ROSE",
+      "subjectTitle": "ROSE",
+      "rawFile": "by-org/maegv/MAEGV.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "SDUP",
+      "subjectTitle": "SDUP",
+      "rawFile": "by-org/grmdv/GRMDV.json",
+      "rawCourses": 4,
+      "offeredCourses": 4,
+      "sections": 4,
+      "meetings": 4
+    },
+    {
+      "subject": "SEEM",
+      "subjectTitle": "SEEM",
+      "rawFile": "by-org/seemv/SEEMV.json",
+      "rawCourses": 22,
+      "offeredCourses": 11,
+      "sections": 11,
+      "meetings": 11
+    },
+    {
+      "subject": "SGCL",
+      "subjectTitle": "SGCL",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 16,
+      "offeredCourses": 8,
+      "sections": 11,
+      "meetings": 13
+    },
+    {
+      "subject": "SILP",
+      "subjectTitle": "SILP",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 6,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "SLPA",
+      "subjectTitle": "SLPA",
+      "rawFile": "by-org/entcv/ENTCV.json",
+      "rawCourses": 18,
+      "offeredCourses": 8,
+      "sections": 9,
+      "meetings": 12
+    },
+    {
+      "subject": "SOCI",
+      "subjectTitle": "SOCI",
+      "rawFile": "by-org/sociv/SOCIV.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 5,
+      "meetings": 5
+    },
+    {
+      "subject": "SOSC",
+      "subjectTitle": "SOSC",
+      "rawFile": "by-org/ssciv/SSCIV.json",
+      "rawCourses": 12,
+      "offeredCourses": 6,
+      "sections": 6,
+      "meetings": 6
+    },
+    {
+      "subject": "SOWK",
+      "subjectTitle": "SOWK",
+      "rawFile": "by-org/sowkv/SOWKV.json",
+      "rawCourses": 78,
+      "offeredCourses": 23,
+      "sections": 79,
+      "meetings": 91
+    },
+    {
+      "subject": "SSPA",
+      "subjectTitle": "SSPA",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 26,
+      "offeredCourses": 7,
+      "sections": 13,
+      "meetings": 13
+    },
+    {
+      "subject": "SSPE",
+      "subjectTitle": "SSPE",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 14,
+      "offeredCourses": 1,
+      "sections": 7,
+      "meetings": 7
+    },
+    {
+      "subject": "STAT",
+      "subjectTitle": "STAT",
+      "rawFile": "by-org/statv/STATV.json",
+      "rawCourses": 18,
+      "offeredCourses": 9,
+      "sections": 9,
+      "meetings": 9
+    },
+    {
+      "subject": "SUTM",
+      "subjectTitle": "SUTM",
+      "rawFile": "by-org/grmdv/GRMDV.json",
+      "rawCourses": 6,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "TESL",
+      "subjectTitle": "TESL",
+      "rawFile": "by-org/educv/EDUCV.json",
+      "rawCourses": 6,
+      "offeredCourses": 3,
+      "sections": 3,
+      "meetings": 3
+    },
+    {
+      "subject": "THEO",
+      "subjectTitle": "THEO",
+      "rawFile": "by-org/theov/THEOV.json",
+      "rawCourses": 70,
+      "offeredCourses": 33,
+      "sections": 36,
+      "meetings": 36
+    },
+    {
+      "subject": "TRAN",
+      "subjectTitle": "TRAN",
+      "rawFile": "by-org/tranv/TRANV.json",
+      "rawCourses": 28,
+      "offeredCourses": 13,
+      "sections": 14,
+      "meetings": 14
+    },
+    {
+      "subject": "URBD",
+      "subjectTitle": "URBD",
+      "rawFile": "by-org/archv/ARCHV.json",
+      "rawCourses": 10,
+      "offeredCourses": 5,
+      "sections": 9,
+      "meetings": 11
+    }
+  ]
+}

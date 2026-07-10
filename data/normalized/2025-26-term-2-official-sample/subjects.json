@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-08T01:03:48.430Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public"
+    },
+    "term": {
+      "name": "2025-26 Term 2",
+      "codes": [
+        "2390"
+      ]
+    },
+    "counts": {
+      "rawFiles": 3,
+      "rawRowsSeen": 1191,
+      "courses": 85,
+      "rawCoursesWithTargetTerm": 85,
+      "subjects": 3,
+      "sections": 311,
+      "meetings": 388,
+      "warnings": 0
+    }
+  },
+  "subjects": [
+    {
+      "subject": "CSCI",
+      "subjectTitle": "CSCI",
+      "rawFile": "2390-csci/CSCI.json",
+      "rawCourses": 63,
+      "offeredCourses": 25,
+      "sections": 96,
+      "meetings": 117
+    },
+    {
+      "subject": "MATH",
+      "subjectTitle": "MATH",
+      "rawFile": "2390-math/MATH.json",
+      "rawCourses": 55,
+      "offeredCourses": 40,
+      "sections": 142,
+      "meetings": 191
+    },
+    {
+      "subject": "STAT",
+      "subjectTitle": "STAT",
+      "rawFile": "2390-stat/STAT.json",
+      "rawCourses": 22,
+      "offeredCourses": 20,
+      "sections": 73,
+      "meetings": 80
+    }
+  ]
+}

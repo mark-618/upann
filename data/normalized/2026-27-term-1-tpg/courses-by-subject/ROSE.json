@@ -1,0 +1,416 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "ROSE",
+  "courses": [
+    {
+      "id": "ROSE5710",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maegv/MAEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ROSE",
+      "catalogNumber": "5710",
+      "courseCode": "ROSE5710",
+      "title": "Fundamental Robotics and Sys 基礎機械人學及系統",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mechan & Automation Erg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ROSE5710:-:LEC:2503",
+          "rawSection": "--LEC (2503)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2503,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAU Tat Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "LSK_LT2",
+              "instructor": "Professor LAU Tat Ming",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12",
+                "9/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ROSE5720",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maegv/MAEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ROSE",
+      "catalogNumber": "5720",
+      "courseCode": "ROSE5720",
+      "title": "Experimental Robotics 實驗機械人學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "WKS",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mechan & Automation Erg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ROSE5720:-W01:WKS:4710",
+          "rawSection": "-W01-WKS (4710)",
+          "sectionCode": "-W01",
+          "component": "WKS",
+          "classNumber": 4710,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Fei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "YIA_LT7",
+              "instructor": "Professor CHEN Fei",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12",
+                "10/12",
+                "17/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ROSE5730",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maegv/MAEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ROSE",
+      "catalogNumber": "5730",
+      "courseCode": "ROSE5730",
+      "title": "Autonomous Mobile Robots 自主移動機械人",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mechan & Automation Erg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ROSE5730:-:LEC:2598",
+          "rawSection": "--LEC (2598)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2598,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HAN Dongkun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "SC_L1",
+              "instructor": "Dr. HAN Dongkun",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12",
+                "8/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ROSE5770",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maegv/MAEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ROSE",
+      "catalogNumber": "5770",
+      "courseCode": "ROSE5770",
+      "title": "Unmanned Systems 無人系統",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mechan & Automation Erg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ROSE5770:-:LEC:2593",
+          "rawSection": "--LEC (2593)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2593,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Xi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "LSB_LT6",
+              "instructor": "Professor CHEN Xi",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11",
+                "7/12",
+                "14/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ROSE5810",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maegv/MAEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ROSE",
+      "catalogNumber": "5810",
+      "courseCode": "ROSE5810",
+      "title": "Practical Robotics 實踐機器人學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "WKS",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mechan & Automation Erg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ROSE5810:-W01:WKS:3963",
+          "rawSection": "-W01-WKS (3963)",
+          "sectionCode": "-W01",
+          "component": "WKS",
+          "classNumber": 3963,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Fei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "WMY_305",
+              "instructor": "Professor CHEN Fei",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12",
+                "11/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

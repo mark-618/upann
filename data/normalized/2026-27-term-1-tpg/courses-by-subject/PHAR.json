@@ -1,0 +1,477 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "PHAR",
+  "courses": [
+    {
+      "id": "PHAR5823",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pharv/PHARV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PHAR",
+      "catalogNumber": "5823",
+      "courseCode": "PHAR5823",
+      "title": "Graduation Project Preparation 畢業專題研究預備",
+      "units": 0,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Pharmacy",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHAR5823:-:LEC:1163",
+          "rawSection": "--LEC (1163)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1163,
+          "language": "E",
+          "availability": {
+            "capacity": 58,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEE Chui Ping - Professor YOU Hoi Sze Joyce"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "WMY_305",
+              "instructor": "Dr. LEE Chui Ping - Professor YOU Hoi Sze Joyce",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHAR5825",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pharv/PHARV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PHAR",
+      "catalogNumber": "5825",
+      "courseCode": "PHAR5825",
+      "title": "PK & PG 藥物代謝動力學及藥物遺傳學",
+      "units": 1.5,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Pharmacy",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHAR5825:-:LEC:1004",
+          "rawSection": "--LEC (1004)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1004,
+          "language": "E",
+          "availability": {
+            "capacity": 92,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEE Chui Ping - Dr. TAI Bik Wai - Dr. YUEN Siu Hong Johnny - Dr. ZHOU Keary Rui - Professor LAM Tai Ning"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "WMY_305",
+              "instructor": "Dr. LEE Chui Ping - Dr. TAI Bik Wai - Dr. YUEN Siu Hong Johnny - Dr. ZHOU Keary Rui - Professor LAM Tai Ning",
+              "dates": [
+                "29/9",
+                "1/12",
+                "15/12"
+              ]
+            },
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "WMY_306",
+              "instructor": "Dr. LEE Chui Ping - Dr. TAI Bik Wai - Dr. YUEN Siu Hong Johnny - Dr. ZHOU Keary Rui - Professor LAM Tai Ning",
+              "dates": [
+                "15/12"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "WMY_402",
+              "instructor": "Dr. LEE Chui Ping - Dr. TAI Bik Wai - Dr. YUEN Siu Hong Johnny - Dr. ZHOU Keary Rui - Professor LAM Tai Ning",
+              "dates": [
+                "12/9",
+                "3/10",
+                "7/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHAR5852",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pharv/PHARV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PHAR",
+      "catalogNumber": "5852",
+      "courseCode": "PHAR5852",
+      "title": "Primary Care & Patient Safety 基層醫療與病人安全",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Pharmacy",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHAR5852:-:LEC:1003",
+          "rawSection": "--LEC (1003)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1003,
+          "language": "E",
+          "availability": {
+            "capacity": 43,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEE Chui Ping - Dr. YUEN Siu Hong Johnny - Professor CHEUNG Yin Ting"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "ARC_G02",
+              "instructor": "Dr. LEE Chui Ping - Dr. YUEN Siu Hong Johnny - Professor CHEUNG Yin Ting",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "17/11",
+                "24/11"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "WMY_402",
+              "instructor": "Dr. LEE Chui Ping - Dr. YUEN Siu Hong Johnny - Professor CHEUNG Yin Ting",
+              "dates": [
+                "19/9",
+                "24/10",
+                "21/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHAR5880",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pharv/PHARV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PHAR",
+      "catalogNumber": "5880",
+      "courseCode": "PHAR5880",
+      "title": "Drug Ther Assess & Drug Info 藥物治療評估及藥物資訊",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Pharmacy",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHAR5880:-:LEC:1005",
+          "rawSection": "--LEC (1005)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1005,
+          "language": "E",
+          "availability": {
+            "capacity": 58,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEE Chui Ping - Dr. SHI Yufei - Dr. TAI Bik Wai - Dr. YUEN Siu Hong Johnny - Professor LAM Tai Ning"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "WMY_305",
+              "instructor": "Dr. LEE Chui Ping - Dr. SHI Yufei - Dr. TAI Bik Wai - Dr. YUEN Siu Hong Johnny - Professor LAM Tai Ning",
+              "dates": [
+                "17/11",
+                "24/11"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "YIA_402",
+              "instructor": "Dr. LEE Chui Ping - Dr. SHI Yufei - Dr. TAI Bik Wai - Dr. YUEN Siu Hong Johnny - Professor LAM Tai Ning",
+              "dates": [
+                "19/9",
+                "24/10",
+                "21/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHAR5887",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pharv/PHARV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PHAR",
+      "catalogNumber": "5887",
+      "courseCode": "PHAR5887",
+      "title": "Phammaco:Gastrointinl&Rheu Dis 藥物治療:腸胃病及關節病篇",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Pharmacy",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHAR5887:-:LEC:1002",
+          "rawSection": "--LEC (1002)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1002,
+          "language": "E",
+          "availability": {
+            "capacity": 92,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEE Chui Ping"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "WMY_305",
+              "instructor": "Dr. LEE Chui Ping",
+              "dates": [
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "8/12",
+                "22/12"
+              ]
+            },
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "WMY_306",
+              "instructor": "Dr. LEE Chui Ping",
+              "dates": [
+                "8/12",
+                "22/12"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "WMY_402",
+              "instructor": "Dr. LEE Chui Ping",
+              "dates": [
+                "10/10",
+                "17/10",
+                "31/10",
+                "14/11",
+                "28/11",
+                "5/12",
+                "12/12",
+                "19/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

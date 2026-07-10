@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "MEDM",
+  "courses": [
+    {
+      "id": "MEDM5202",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mescv/MESCV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "MEDM",
+      "catalogNumber": "5202",
+      "courseCode": "MEDM5202",
+      "title": "Gen Endocrinol'y & Metabolm II 常見內分泌及代謝疾病(二)",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC, PRA, WKS",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Medical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MEDM5202:A:LEC:2836",
+          "rawSection": "A-LEC (2836)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 2836,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chung Ngor Juliana"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chung Ngor Juliana",
+              "dates": [
+                "12/09/2026 - 14/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MEDM5202:AP01:PRA:no-class-number",
+          "rawSection": "AP01-PRA",
+          "sectionCode": "AP01",
+          "component": "PRA",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "12/09/2026 - 14/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MEDM5202:AW01:WKS:no-class-number",
+          "rawSection": "AW01-WKS",
+          "sectionCode": "AW01",
+          "component": "WKS",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "12/09/2026 - 14/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

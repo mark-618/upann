@@ -1,0 +1,3039 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 16598,
+      "courses": 1608,
+      "rawCoursesWithTargetTerm": 1608,
+      "subjects": 121,
+      "sections": 5136,
+      "meetings": 5850,
+      "warnings": 0
+    }
+  },
+  "subject": "SOWK",
+  "courses": [
+    {
+      "id": "SOWK1001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "1001",
+      "courseCode": "SOWK1001",
+      "title": "Intro to Soc Wk & Soc Wel 社會工作及社會福利導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK1001:A:LEC:5991",
+          "rawSection": "A-LEC (5991)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 5991,
+          "language": "E",
+          "availability": {
+            "capacity": 54,
+            "enrolled": 0,
+            "availableSeats": 54,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. Raees Begum BAIG"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "ARC_G04",
+              "instructor": "Dr. Raees Begum BAIG",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK1001:AT01:TUT:no-class-number",
+          "rawSection": "AT01-TUT",
+          "sectionCode": "AT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 18,
+            "enrolled": 0,
+            "availableSeats": 18,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "YIA_504",
+              "instructor": null,
+              "dates": [
+                "15/9",
+                "29/9",
+                "13/10",
+                "27/10",
+                "10/11",
+                "24/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK1001:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 18,
+            "enrolled": 0,
+            "availableSeats": 18,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "YIA_504",
+              "instructor": null,
+              "dates": [
+                "22/9",
+                "6/10",
+                "20/10",
+                "3/11",
+                "17/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK1001:AT03:TUT:no-class-number",
+          "rawSection": "AT03-TUT",
+          "sectionCode": "AT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 18,
+            "enrolled": 0,
+            "availableSeats": 18,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "FYB_107A",
+              "instructor": null,
+              "dates": [
+                "17/9",
+                "15/10",
+                "29/10",
+                "12/11",
+                "26/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK1001:B:LEC:8272",
+          "rawSection": "B-LEC (8272)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 8272,
+          "language": "E",
+          "availability": {
+            "capacity": 68,
+            "enrolled": 0,
+            "availableSeats": 68,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. Raees Begum BAIG"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "NAH_11",
+              "instructor": "Dr. Raees Begum BAIG",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK1113",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "1113",
+      "courseCode": "SOWK1113",
+      "title": "Self-deve. in Changing Society 社會轉變中的自我發展",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK1113:A:LEC:9715",
+          "rawSection": "A-LEC (9715)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 9715,
+          "language": "C",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. LIN Yuen Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "WMY_306",
+              "instructor": "Ms. LIN Yuen Ying",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK1113:B:LEC:7250",
+          "rawSection": "B-LEC (7250)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 7250,
+          "language": "C",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HO Wai Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ARC_G03",
+              "instructor": "Dr. HO Wai Ming",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK1150",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "1150",
+      "courseCode": "SOWK1150",
+      "title": "Choices in Life:Self Develop’t 生命的選擇：個人成長之旅",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK1150:A:LEC:9526",
+          "rawSection": "A-LEC (9526)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 9526,
+          "language": "C",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HO Wai Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "UCC_C3",
+              "instructor": "Dr. HO Wai Ming",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK1160",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "1160",
+      "courseCode": "SOWK1160",
+      "title": "Movies, Life and Social Work 電影、人生與社工",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK1160:A:LEC:7251",
+          "rawSection": "A-LEC (7251)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 7251,
+          "language": "C",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. CHAN Kar Choi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "UCC_C4",
+              "instructor": "Mr. CHAN Kar Choi",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK1160:B:LEC:7034",
+          "rawSection": "B-LEC (7034)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 7034,
+          "language": "C",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "UCC_C1",
+              "instructor": "Staff",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK1160:C:LEC:7428",
+          "rawSection": "C-LEC (7428)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 7428,
+          "language": "C",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms HUNG Fai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "YIA_405",
+              "instructor": "Ms HUNG Fai",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK2001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "2001",
+      "courseCode": "SOWK2001",
+      "title": "Student-Orientated Teaching I 學生為本教學課程（一）",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK2001:AJ01:PRJ:6963",
+          "rawSection": "AJ01-PRJ (6963)",
+          "sectionCode": "AJ01",
+          "component": "PRJ",
+          "classNumber": 6963,
+          "language": "C&E",
+          "availability": {
+            "capacity": 22,
+            "enrolled": 0,
+            "availableSeats": 22,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. SO Yuk Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "UCA_102",
+              "instructor": "Dr. SO Yuk Yan",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2001:BJ01:PRJ:6621",
+          "rawSection": "BJ01-PRJ (6621)",
+          "sectionCode": "BJ01",
+          "component": "PRJ",
+          "classNumber": 6621,
+          "language": "C&E",
+          "availability": {
+            "capacity": 22,
+            "enrolled": 0,
+            "availableSeats": 22,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "UCC_208",
+              "instructor": "Staff",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2001:CJ01:PRJ:5678",
+          "rawSection": "CJ01-PRJ (5678)",
+          "sectionCode": "CJ01",
+          "component": "PRJ",
+          "classNumber": 5678,
+          "language": "C&E",
+          "availability": {
+            "capacity": 22,
+            "enrolled": 0,
+            "availableSeats": 22,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Chun Miao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "UCC_108",
+              "instructor": "Dr. WONG Chun Miao",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2001:DJ01:PRJ:6622",
+          "rawSection": "DJ01-PRJ (6622)",
+          "sectionCode": "DJ01",
+          "component": "PRJ",
+          "classNumber": 6622,
+          "language": "C&E",
+          "availability": {
+            "capacity": 22,
+            "enrolled": 0,
+            "availableSeats": 22,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. DIN Wai Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "UCC_206",
+              "instructor": "Mr. DIN Wai Bun",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2001:EJ01:PRJ:6620",
+          "rawSection": "EJ01-PRJ (6620)",
+          "sectionCode": "EJ01",
+          "component": "PRJ",
+          "classNumber": 6620,
+          "language": "C&E",
+          "availability": {
+            "capacity": 22,
+            "enrolled": 0,
+            "availableSeats": 22,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEUNG Kit Ting"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "UCC_109",
+              "instructor": "Dr. LEUNG Kit Ting",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK2020",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "2020",
+      "courseCode": "SOWK2020",
+      "title": "Phil & Prin of Soc Wk 社會工作哲學及原則",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK2020:-:LEC:6962",
+          "rawSection": "--LEC (6962)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6962,
+          "language": "C&E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. SO Yuk Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "UCC_C3",
+              "instructor": "Dr. SO Yuk Yan",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2020:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 14,
+            "enrolled": 0,
+            "availableSeats": 14,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "UCC_206",
+              "instructor": null,
+              "dates": [
+                "14/9",
+                "28/9",
+                "12/10",
+                "2/11",
+                "16/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2020:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 14,
+            "enrolled": 0,
+            "availableSeats": 14,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "UCC_206",
+              "instructor": null,
+              "dates": [
+                "21/9",
+                "5/10",
+                "26/10",
+                "9/11",
+                "23/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2020:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 14,
+            "enrolled": 0,
+            "availableSeats": 14,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "UCA_102",
+              "instructor": null,
+              "dates": [
+                "14/9",
+                "28/9",
+                "12/10",
+                "2/11",
+                "16/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2020:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 14,
+            "enrolled": 0,
+            "availableSeats": 14,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "UCA_102",
+              "instructor": null,
+              "dates": [
+                "21/9",
+                "5/10",
+                "26/10",
+                "9/11",
+                "23/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2020:-T05:TUT:no-class-number",
+          "rawSection": "-T05-TUT",
+          "sectionCode": "-T05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 14,
+            "enrolled": 0,
+            "availableSeats": 14,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "UCC_207",
+              "instructor": null,
+              "dates": [
+                "14/9",
+                "28/9",
+                "12/10",
+                "2/11",
+                "16/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK2200",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "2200",
+      "courseCode": "SOWK2200",
+      "title": "Interpersonal Violence 人際暴力",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK2200:A:LEC:6939",
+          "rawSection": "A-LEC (6939)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 6939,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "UCA_104",
+              "instructor": "Staff",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK2210",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "2210",
+      "courseCode": "SOWK2210",
+      "title": "Social Casework 社會個案工作",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK2210:-:LEC:5992",
+          "rawSection": "--LEC (5992)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5992,
+          "language": "C&E",
+          "availability": {
+            "capacity": 64,
+            "enrolled": 0,
+            "availableSeats": 64,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. DIN Wai Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "NAH_114",
+              "instructor": "Mr. DIN Wai Bun",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2210:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 16,
+            "enrolled": 0,
+            "availableSeats": 16,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "UCC_204",
+              "instructor": null,
+              "dates": [
+                "14/9",
+                "28/9",
+                "12/10",
+                "2/11",
+                "16/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2210:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 16,
+            "enrolled": 0,
+            "availableSeats": 16,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "UCC_204",
+              "instructor": null,
+              "dates": [
+                "21/9",
+                "5/10",
+                "26/10",
+                "9/11",
+                "23/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2210:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 16,
+            "enrolled": 0,
+            "availableSeats": 16,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "UCC_205",
+              "instructor": null,
+              "dates": [
+                "14/9",
+                "28/9",
+                "12/10",
+                "2/11",
+                "16/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2210:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 16,
+            "enrolled": 0,
+            "availableSeats": 16,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "UCC_205",
+              "instructor": null,
+              "dates": [
+                "21/9",
+                "5/10",
+                "26/10",
+                "9/11",
+                "23/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK2220",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "2220",
+      "courseCode": "SOWK2220",
+      "title": "Social Group Work 社會小組工作",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK2220:-:LEC:7429",
+          "rawSection": "--LEC (7429)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7429,
+          "language": "C&E",
+          "availability": {
+            "capacity": 64,
+            "enrolled": 0,
+            "availableSeats": 64,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAW Yee Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "UCC_C4",
+              "instructor": "Dr. LAW Yee Man",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2220:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 16,
+            "enrolled": 0,
+            "availableSeats": 16,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "UCC_C4",
+              "instructor": null,
+              "dates": [
+                "15/9",
+                "29/9",
+                "13/10",
+                "27/10",
+                "10/11",
+                "24/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2220:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 16,
+            "enrolled": 0,
+            "availableSeats": 16,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "UCC_C4",
+              "instructor": null,
+              "dates": [
+                "22/9",
+                "6/10",
+                "20/10",
+                "3/11",
+                "17/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2220:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 16,
+            "enrolled": 0,
+            "availableSeats": 16,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "UCC_109",
+              "instructor": null,
+              "dates": [
+                "15/9",
+                "29/9",
+                "13/10",
+                "27/10",
+                "10/11",
+                "24/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK2220:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 16,
+            "enrolled": 0,
+            "availableSeats": 16,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "UCC_109",
+              "instructor": null,
+              "dates": [
+                "22/9",
+                "6/10",
+                "20/10",
+                "3/11",
+                "17/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK3240",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "3240",
+      "courseCode": "SOWK3240",
+      "title": "Clinical Soc Wk Theor & Pract 臨床社會工作理論與實踐",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK3240:-:LEC:9826",
+          "rawSection": "--LEC (9826)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9826,
+          "language": "C&E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEUNG Yuk Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "UCA_104",
+              "instructor": "Professor LEUNG Yuk Ki",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3240:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LSK_306",
+              "instructor": null,
+              "dates": [
+                "17/9",
+                "15/10",
+                "29/10",
+                "12/11",
+                "26/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3240:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LSK_306",
+              "instructor": null,
+              "dates": [
+                "24/9",
+                "8/10",
+                "22/10",
+                "5/11",
+                "19/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3240:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "UCC_102",
+              "instructor": null,
+              "dates": [
+                "17/9",
+                "15/10",
+                "29/10",
+                "12/11",
+                "26/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3240:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "UCC_102",
+              "instructor": null,
+              "dates": [
+                "24/9",
+                "8/10",
+                "22/10",
+                "5/11",
+                "19/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK3250",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "3250",
+      "courseCode": "SOWK3250",
+      "title": "Macro Soc Work Theor & Prac 宏觀社會工作理論與實踐",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK3250:-:LEC:9432",
+          "rawSection": "--LEC (9432)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9432,
+          "language": "C&E",
+          "availability": {
+            "capacity": 24,
+            "enrolled": 0,
+            "availableSeats": 24,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU YEUNG Kwok Wai Eric"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "UCC_208",
+              "instructor": "Dr. AU YEUNG Kwok Wai Eric",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3250:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": 0,
+            "availableSeats": 12,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "UCC_208",
+              "instructor": null,
+              "dates": [
+                "15/9",
+                "29/9",
+                "13/10",
+                "27/10",
+                "10/11",
+                "24/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3250:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": 0,
+            "availableSeats": 12,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "UCC_208",
+              "instructor": null,
+              "dates": [
+                "22/9",
+                "6/10",
+                "20/10",
+                "3/11",
+                "17/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK3340",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "3340",
+      "courseCode": "SOWK3340",
+      "title": "Social Policy and Planning 社會政策及規劃",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK3340:-:LEC:7430",
+          "rawSection": "--LEC (7430)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7430,
+          "language": "E",
+          "availability": {
+            "capacity": 68,
+            "enrolled": 0,
+            "availableSeats": 68,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU YEUNG Kwok Wai Eric"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "UCC_C1",
+              "instructor": "Dr. AU YEUNG Kwok Wai Eric",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3340:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 17,
+            "enrolled": 0,
+            "availableSeats": 17,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "UCC_205",
+              "instructor": null,
+              "dates": [
+                "17/9",
+                "8/10",
+                "22/10",
+                "5/11",
+                "19/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3340:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 17,
+            "enrolled": 0,
+            "availableSeats": 17,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "UCC_205",
+              "instructor": null,
+              "dates": [
+                "24/9",
+                "15/10",
+                "29/10",
+                "12/11",
+                "26/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3340:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 17,
+            "enrolled": 0,
+            "availableSeats": 17,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "UCC_102",
+              "instructor": null,
+              "dates": [
+                "17/9",
+                "8/10",
+                "22/10",
+                "5/11",
+                "19/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3340:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 17,
+            "enrolled": 0,
+            "availableSeats": 17,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "UCC_102",
+              "instructor": null,
+              "dates": [
+                "24/9",
+                "15/10",
+                "29/10",
+                "12/11",
+                "26/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK3410",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "3410",
+      "courseCode": "SOWK3410",
+      "title": "Field Instruction I 實習指導（一）",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "FLD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK3410:-F01:FLD:6114",
+          "rawSection": "-F01-FLD (6114)",
+          "sectionCode": "-F01",
+          "component": "FLD",
+          "classNumber": 6114,
+          "language": "C&E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU YEUNG Kwok Wai Eric - Mr. DIN Wai Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. AU YEUNG Kwok Wai Eric - Mr. DIN Wai Bun",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK3420",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "3420",
+      "courseCode": "SOWK3420",
+      "title": "Field Instruction II 實習指導（二）",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "FLD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK3420:-F01:FLD:8023",
+          "rawSection": "-F01-FLD (8023)",
+          "sectionCode": "-F01",
+          "component": "FLD",
+          "classNumber": 8023,
+          "language": "C&E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU YEUNG Kwok Wai Eric - Mr. DIN Wai Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. AU YEUNG Kwok Wai Eric - Mr. DIN Wai Bun",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK4350",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "4350",
+      "courseCode": "SOWK4350",
+      "title": "Law and Social Work 法律與社工",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK4350:-:LEC:8674",
+          "rawSection": "--LEC (8674)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8674,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss CHOW Ching Yee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "CYT_203",
+              "instructor": "Miss CHOW Ching Yee",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK4410",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "4410",
+      "courseCode": "SOWK4410",
+      "title": "Field Instruction III 實習指導（三）",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "FLD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK4410:-F01:FLD:7876",
+          "rawSection": "-F01-FLD (7876)",
+          "sectionCode": "-F01",
+          "component": "FLD",
+          "classNumber": 7876,
+          "language": "C&E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU YEUNG Kwok Wai Eric - Mr. DIN Wai Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. AU YEUNG Kwok Wai Eric - Mr. DIN Wai Bun",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK4420",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "4420",
+      "courseCode": "SOWK4420",
+      "title": "Field Instruction IV 實習指導（四）",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "FLD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK4420:-F01:FLD:6113",
+          "rawSection": "-F01-FLD (6113)",
+          "sectionCode": "-F01",
+          "component": "FLD",
+          "classNumber": 6113,
+          "language": "C&E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU YEUNG Kwok Wai Eric - Mr. DIN Wai Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. AU YEUNG Kwok Wai Eric - Mr. DIN Wai Bun",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK4510",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "4510",
+      "courseCode": "SOWK4510",
+      "title": "Sem I Family-centered Soc Work 專題研討（一）： 家庭為本社會工作",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK4510:-S01:SEM:9112",
+          "rawSection": "-S01-SEM (9112)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 9112,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAW Yee Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "UCC_C3",
+              "instructor": "Dr. LAW Yee Man",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK4520",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "4520",
+      "courseCode": "SOWK4520",
+      "title": "Seminar II: SW with Young Ppl 專題研討（二）：青少年社會工作",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK4520:-S01:SEM:9512",
+          "rawSection": "-S01-SEM (9512)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 9512,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr CHAN Hiu Fai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "UCC_114",
+              "instructor": "Mr CHAN Hiu Fai",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK4570",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "4570",
+      "courseCode": "SOWK4570",
+      "title": "Sem VII Art-based SW Practice 專題研討（七）：藝術為本社會工作實務",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK4570:-S01:SEM:6940",
+          "rawSection": "-S01-SEM (6940)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 6940,
+          "language": "C&E",
+          "availability": {
+            "capacity": 24,
+            "enrolled": 0,
+            "availableSeats": 24,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHANG Man Yan Fiona"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "UCC_509",
+              "instructor": "Dr. CHANG Man Yan Fiona",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOWK4592",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/swk/SWK.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "SOWK",
+      "catalogNumber": "4592",
+      "courseCode": "SOWK4592",
+      "title": "Seminar XI: Special Seminar 專題研討（十一）：特選專題研討",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Social Work",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOWK4592:AS01:SEM:6941",
+          "rawSection": "AS01-SEM (6941)",
+          "sectionCode": "AS01",
+          "component": "SEM",
+          "classNumber": 6941,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. HO Chun Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "15:15",
+              "startMinutes": 750,
+              "endMinutes": 915,
+              "location": "MMW_705",
+              "instructor": "Mr. HO Chun Yu",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK4592:BS01:SEM:5329",
+          "rawSection": "BS01-SEM (5329)",
+          "sectionCode": "BS01",
+          "component": "SEM",
+          "classNumber": 5329,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "UCA_111",
+              "instructor": "Staff",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 156,
+      "rawFilesScanned": 156,
+      "rawRowsSeen": 4907,
+      "courses": 818,
+      "rawCoursesWithTargetTerm": 818,
+      "subjects": 98,
+      "sections": 1245,
+      "meetings": 1689,
+      "warnings": 0
+    }
+  },
+  "subject": "EESC",
+  "courses": [
+    {
+      "id": "EESC5720",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "catalog-supplement/eesc/EESC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5720",
+      "courseCode": "EESC5720",
+      "title": "Frontiers of Climate and Environmental Sciences",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5720:main:LEC:3910",
+          "rawSection": "main-LEC (3910)",
+          "sectionCode": null,
+          "component": "LEC",
+          "classNumber": 3910,
+          "language": "English",
+          "availability": {
+            "capacity": null,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TAI Pui Kuen Amos, Professor TSUI Tsz Ki Martin, Professor ZHAI Shixian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 10:30AM - 1:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "Lee Shau Kee Building LT3",
+              "instructor": "Professor TAI Pui Kuen Amos, Professor TSUI Tsz Ki Martin, Professor ZHAI Shixian",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5740",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "catalog-supplement/eesc/EESC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5740",
+      "courseCode": "EESC5740",
+      "title": "Systems Thinking and Diagnostics for Sustainable Earth and Environment",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5740:main:LEC:3896",
+          "rawSection": "main-LEC (3896)",
+          "sectionCode": null,
+          "component": "LEC",
+          "classNumber": 3896,
+          "language": "English",
+          "availability": {
+            "capacity": null,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Benoit THIBODEAU"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 1:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "Mong Man Wai Bldg 710",
+              "instructor": "Professor Benoit THIBODEAU",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5750",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "catalog-supplement/eesc/EESC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5750",
+      "courseCode": "EESC5750",
+      "title": "Cutting-edge Topics in Earth and Environmental Analytics",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "DIS",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5750:D01:DIS:3887",
+          "rawSection": "D01-DIS (3887)",
+          "sectionCode": "D01",
+          "component": "DIS",
+          "classNumber": 3887,
+          "language": "English",
+          "availability": {
+            "capacity": null,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU-YEUNG Yee Man, Dr. LI Kwan Kit Ronald, Dr. TAM Pui Yuk, Dr. ZHANG Li, Professor Benoit THIBODEAU, Professor CHAN Man Nin, Professor CHOW Tat Shing, Professor LIU Lin, Professor TAI Pui Kuen Amos, Professor TAM Chi Yung Francis, Professor TAN Yen Joe, Professor YANG Hongfeng, Professor ZHAI Shixian, Professor ZHAN Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "No Room Required",
+              "instructor": "Dr. AU-YEUNG Yee Man, Dr. LI Kwan Kit Ronald, Dr. TAM Pui Yuk, Dr. ZHANG Li, Professor Benoit THIBODEAU, Professor CHAN Man Nin, Professor CHOW Tat Shing, Professor LIU Lin, Professor TAI Pui Kuen Amos, Professor TAM Chi Yung Francis, Professor TAN Yen Joe, Professor YANG Hongfeng, Professor ZHAI Shixian, Professor ZHAN Yan",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5760",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "catalog-supplement/eesc/EESC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5760",
+      "courseCode": "EESC5760",
+      "title": "Scientific Applications in Environmental, Social and Governance (ESG) Analysis",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5760:main:LEC:3897",
+          "rawSection": "main-LEC (3897)",
+          "sectionCode": null,
+          "component": "LEC",
+          "classNumber": 3897,
+          "language": "English",
+          "availability": {
+            "capacity": null,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TAI Pui Kuen Amos"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 6:30PM - 9:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "Wu Ho Man Yuen Bldg 505",
+              "instructor": "Professor TAI Pui Kuen Amos",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EESC5770",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "catalog-supplement/eesc/EESC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5770",
+      "courseCode": "EESC5770",
+      "title": "Research Projects in Earth and Environmental Analytics",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "DIS",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5770:D01:DIS:3888",
+          "rawSection": "D01-DIS (3888)",
+          "sectionCode": "D01",
+          "component": "DIS",
+          "classNumber": 3888,
+          "language": "English",
+          "availability": {
+            "capacity": null,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU-YEUNG Yee Man, Dr. LI Kwan Kit Ronald, Dr. TAM Pui Yuk, Dr. ZHANG Li, Professor Benoit THIBODEAU, Professor CHAN Man Nin, Professor CHOW Tat Shing, Professor LIU Lin, Professor TAI Pui Kuen Amos, Professor TAM Chi Yung Francis, Professor TAN Yen Joe, Professor YANG Hongfeng, Professor ZHAI Shixian, Professor ZHAN Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Dr. AU-YEUNG Yee Man, Dr. LI Kwan Kit Ronald, Dr. TAM Pui Yuk, Dr. ZHANG Li, Professor Benoit THIBODEAU, Professor CHAN Man Nin, Professor CHOW Tat Shing, Professor LIU Lin, Professor TAI Pui Kuen Amos, Professor TAM Chi Yung Francis, Professor TAN Yen Joe, Professor YANG Hongfeng, Professor ZHAI Shixian, Professor ZHAN Yan",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.292Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 134,
+      "rawFilesScanned": 134,
+      "rawRowsSeen": 5270,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2473,
+      "meetings": 2516,
+      "warnings": 0
+    }
+  },
+  "subject": "GRMD",
+  "courses": [
+    {
+      "id": "GRMD5001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/grmdv/GRMDV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GRMD",
+      "catalogNumber": "5001",
+      "courseCode": "GRMD5001",
+      "title": "Research Seminar I 研究講座I",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GRMD5001:-S01:SEM:1207",
+          "rawSection": "-S01-SEM (1207)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 1207,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:00",
+              "startMinutes": 990,
+              "endMinutes": 1080,
+              "location": "CKB_109",
+              "instructor": "Staff",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRMD5100",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/grmdv/GRMDV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GRMD",
+      "catalogNumber": "5100",
+      "courseCode": "GRMD5100",
+      "title": "Basic Issues of Geographical R 地理研究的基本議題",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GRMD5100:A:LEC:2419",
+          "rawSection": "A-LEC (2419)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 2419,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Kam Biu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "CKB_UG03",
+              "instructor": "Professor LIU Kam Biu",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GRMD5100:B:LEC:1225",
+          "rawSection": "B-LEC (1225)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 1225,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "BMS_2",
+              "instructor": "Professor LIU Yan",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GRMD5100:C:LEC:1208",
+          "rawSection": "C-LEC (1208)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 1208,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YEUNG Wai Chung Henry"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "YIA_503",
+              "instructor": "Professor YEUNG Wai Chung Henry",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRMD5110",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/grmdv/GRMDV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GRMD",
+      "catalogNumber": "5110",
+      "courseCode": "GRMD5110",
+      "title": "Stat Applications in Geography 地理學統計應用",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GRMD5110:-:LEC:1286",
+          "rawSection": "--LEC (1286)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1286,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAM Siu Ngan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "CYT_215",
+              "instructor": "Professor LAM Siu Ngan",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "14/10",
+                "21/10",
+                "28/10",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GRMD5110:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "CYT_215",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "14/10",
+                "21/10",
+                "28/10",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRMD6210",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/grmdv/GRMDV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GRMD",
+      "catalogNumber": "6210",
+      "courseCode": "GRMD6210",
+      "title": "Sp Top in Geog of Pacific Asia 亞太地理專題研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "IND",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GRMD6210:-I01:IND:4125",
+          "rawSection": "-I01-IND (4125)",
+          "sectionCode": "-I01",
+          "component": "IND",
+          "classNumber": 4125,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jianfeng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Jianfeng",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRMD6220",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/grmdv/GRMDV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GRMD",
+      "catalogNumber": "6220",
+      "courseCode": "GRMD6220",
+      "title": "Sp Topics in Human Geography 人文地理專題研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "IND",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GRMD6220:-I01:IND:4497",
+          "rawSection": "-I01-IND (4497)",
+          "sectionCode": "-I01",
+          "component": "IND",
+          "classNumber": 4497,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jianfeng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Jianfeng",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRMD6230",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/grmdv/GRMDV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GRMD",
+      "catalogNumber": "6230",
+      "courseCode": "GRMD6230",
+      "title": "Sp Top in Envir & Resource Mgt 環境及資源管理專題研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "IND",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GRMD6230:-I01:IND:4498",
+          "rawSection": "-I01-IND (4498)",
+          "sectionCode": "-I01",
+          "component": "IND",
+          "classNumber": 4498,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jianfeng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Jianfeng",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRMD6240",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/grmdv/GRMDV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GRMD",
+      "catalogNumber": "6240",
+      "courseCode": "GRMD6240",
+      "title": "Sp Topics in Gis-Science 地理信息科學特別課題",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "IND",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GRMD6240:-I01:IND:4126",
+          "rawSection": "-I01-IND (4126)",
+          "sectionCode": "-I01",
+          "component": "IND",
+          "classNumber": 4126,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jianfeng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Jianfeng",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRMD8003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/grmdv/GRMDV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GRMD",
+      "catalogNumber": "8003",
+      "courseCode": "GRMD8003",
+      "title": "Thesis Research 論文研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GRMD8003:-M01:TMC:4250",
+          "rawSection": "-M01-TMC (4250)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4250,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chung Shing - Professor CHUNG King Lam Calvin - Professor HE Ying - Professor JIN Ting - Professor KAN Zihan - Professor LAI Yuk Fo - Professor LEE Fung - Professor LI Jianfeng - Professor LU Xingcheng - Profes"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chung Shing - Professor CHUNG King Lam Calvin - Professor HE Ying - Professor JIN Ting - Professor KAN Zihan - Professor LAI Yuk Fo - Professor LEE Fung - Professor LI Jianfeng - Professor LU Xingcheng - Profes",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRMD8006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/grmdv/GRMDV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GRMD",
+      "catalogNumber": "8006",
+      "courseCode": "GRMD8006",
+      "title": "Thesis Research 論文研究",
+      "units": 6,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GRMD8006:-M01:TMC:4251",
+          "rawSection": "-M01-TMC (4251)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4251,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chung Shing - Professor CHUNG King Lam Calvin - Professor HE Ying - Professor JIN Ting - Professor KAN Zihan - Professor LAI Yuk Fo - Professor LEE Fung - Professor LI Jianfeng - Professor LU Xingcheng - Profes"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chung Shing - Professor CHUNG King Lam Calvin - Professor HE Ying - Professor JIN Ting - Professor KAN Zihan - Professor LAI Yuk Fo - Professor LEE Fung - Professor LI Jianfeng - Professor LU Xingcheng - Profes",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRMD8012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/grmdv/GRMDV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "GRMD",
+      "catalogNumber": "8012",
+      "courseCode": "GRMD8012",
+      "title": "Thesis Research 論文研究",
+      "units": 12,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GRMD8012:-M01:TMC:4249",
+          "rawSection": "-M01-TMC (4249)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4249,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chung Shing - Professor CHEN Yongqin David - Professor CHUNG King Lam Calvin - Professor HE Ying - Professor JIN Ting - Professor KAN Zihan - Professor LAI Yuk Fo - Professor LEE Fung - Professor LI Jianfeng -"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHAN Chung Shing - Professor CHEN Yongqin David - Professor CHUNG King Lam Calvin - Professor HE Ying - Professor JIN Ting - Professor KAN Zihan - Professor LAI Yuk Fo - Professor LEE Fung - Professor LI Jianfeng -",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

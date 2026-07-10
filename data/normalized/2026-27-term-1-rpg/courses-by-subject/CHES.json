@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-10T06:59:54.292Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 134,
+      "rawFilesScanned": 134,
+      "rawRowsSeen": 5270,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2473,
+      "meetings": 2516,
+      "warnings": 0
+    }
+  },
+  "subject": "CHES",
+  "courses": [
+    {
+      "id": "CHES6010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chstv/CHSTV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHES",
+      "catalogNumber": "6010",
+      "courseCode": "CHES6010",
+      "title": "China Seminar I 中國專題討論Ｉ",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of China Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHES6010:-S01:SEM:3674",
+          "rawSection": "-S01-SEM (3674)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 3674,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HOYAN Hang Fung Carole - Professor LI Chen - Professor Timothy Andrew SUMMERS - Professor ZHAO Xuyi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HOYAN Hang Fung Carole - Professor LI Chen - Professor Timothy Andrew SUMMERS - Professor ZHAO Xuyi",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHES8001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chstv/CHSTV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CHES",
+      "catalogNumber": "8001",
+      "courseCode": "CHES8001",
+      "title": "Thesis Guidance 論文指導",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of China Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHES8001:-M01:TMC:3159",
+          "rawSection": "-M01-TMC (3159)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 3159,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HOYAN Hang Fung Carole - Professor LI Chen - Professor Timothy Andrew SUMMERS"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HOYAN Hang Fung Carole - Professor LI Chen - Professor Timothy Andrew SUMMERS",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
