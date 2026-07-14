@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "generatedAt": "2026-07-14T16:37:24.270Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16598,
-      "courses": 1608,
-      "rawCoursesWithTargetTerm": 1608,
+      "rawRowsSeen": 16615,
+      "courses": 1612,
+      "rawCoursesWithTargetTerm": 1612,
       "subjects": 121,
-      "sections": 5136,
-      "meetings": 5850,
+      "sections": 5144,
+      "meetings": 5858,
       "warnings": 0
     }
   },
@@ -440,6 +440,128 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "NAA_204",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS1130",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "1130",
+      "courseCode": "FAAS1130",
+      "title": "Principles of Chi Painting 國畫基礎",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS1130:-:LEC:9882",
+          "rawSection": "--LEC (9882)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9882,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss CHEUNG Fan Fong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "NAA_207",
+              "instructor": "Miss CHEUNG Fan Fong",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1130:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "NAA_207",
               "instructor": null,
               "dates": [
                 "9/9",

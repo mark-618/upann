@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "generatedAt": "2026-07-14T16:37:24.270Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16598,
-      "courses": 1608,
-      "rawCoursesWithTargetTerm": 1608,
+      "rawRowsSeen": 16615,
+      "courses": 1612,
+      "rawCoursesWithTargetTerm": 1612,
       "subjects": 121,
-      "sections": 5136,
-      "meetings": 5850,
+      "sections": 5144,
+      "meetings": 5858,
       "warnings": 0
     }
   },
@@ -642,6 +642,82 @@
                 "16/11",
                 "23/11",
                 "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "THEO3236",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/crs/CRS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "THEO",
+      "catalogNumber": "3236",
+      "courseCode": "THEO3236",
+      "title": "Theol Studies: Sp Topic II 神學：專題研究（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Cultural & Rel Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "THEO3236:-:LEC:9884",
+          "rawSection": "--LEC (9884)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9884,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Naomi Elaine THURSTON"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "ELB_401",
+              "instructor": "Professor Naomi Elaine THURSTON",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
               ]
             }
           ]

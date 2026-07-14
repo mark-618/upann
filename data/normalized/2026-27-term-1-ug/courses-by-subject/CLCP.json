@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "generatedAt": "2026-07-14T16:37:24.270Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16598,
-      "courses": 1608,
-      "rawCoursesWithTargetTerm": 1608,
+      "rawRowsSeen": 16615,
+      "courses": 1612,
+      "rawCoursesWithTargetTerm": 1612,
       "subjects": 121,
-      "sections": 5136,
-      "meetings": 5850,
+      "sections": 5144,
+      "meetings": 5858,
       "warnings": 0
     }
   },
@@ -84,7 +84,6 @@
               "location": "YIA_409",
               "instructor": "Staff",
               "dates": [
-                "8/9",
                 "15/9",
                 "22/9",
                 "29/9",
@@ -3891,6 +3890,82 @@
                 "17/11",
                 "24/11",
                 "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CLCP3353",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/clc/CLC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CLCP",
+      "catalogNumber": "3353",
+      "courseCode": "CLCP3353",
+      "title": "Presentation Skills & Dai Sit 表達技巧訓練",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Yale-China Chin Lang Acad",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CLCP3353:-:LEC:9885",
+          "rawSection": "--LEC (9885)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9885,
+          "language": "P&E",
+          "availability": {
+            "capacity": 19,
+            "enrolled": 0,
+            "availableSeats": 19,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CKB_122",
+              "instructor": "Staff",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "1/10",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
               ]
             }
           ]

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-10T06:59:54.292Z",
+    "generatedAt": "2026-07-14T16:37:24.159Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,17 +16,169 @@
     "counts": {
       "rawFiles": 134,
       "rawFilesScanned": 134,
-      "rawRowsSeen": 5270,
-      "courses": 557,
-      "rawCoursesWithTargetTerm": 557,
-      "subjects": 73,
-      "sections": 2473,
-      "meetings": 2516,
+      "rawRowsSeen": 5288,
+      "courses": 564,
+      "rawCoursesWithTargetTerm": 564,
+      "subjects": 75,
+      "sections": 2482,
+      "meetings": 2525,
       "warnings": 0
     }
   },
   "subject": "CSCI",
   "courses": [
+    {
+      "id": "CSCI5120",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csegv/CSEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "5120",
+      "courseCode": "CSCI5120",
+      "title": "Adv Topics in Database Systems 數據庫系統高級專題",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Computer Science & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI5120:-:LEC:9889",
+          "rawSection": "--LEC (9889)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9889,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHENG James"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "TBA",
+              "instructor": "Professor CHENG James",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI5150",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csegv/CSEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "5150",
+      "courseCode": "CSCI5150",
+      "title": "Machine Learning Algo. & Appl. 機器學習算法與應用",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Computer Science & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI5150:-:LEC:9888",
+          "rawSection": "--LEC (9888)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9888,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PAN Jialin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "TBA",
+              "instructor": "Professor PAN Jialin",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "CSCI5540",
       "source": {

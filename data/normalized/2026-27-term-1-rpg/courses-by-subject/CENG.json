@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-14T16:37:24.159Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 134,
+      "rawFilesScanned": 134,
+      "rawRowsSeen": 5288,
+      "courses": 564,
+      "rawCoursesWithTargetTerm": 564,
+      "subjects": 75,
+      "sections": 2482,
+      "meetings": 2525,
+      "warnings": 0
+    }
+  },
+  "subject": "CENG",
+  "courses": [
+    {
+      "id": "CENG5280",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csegv/CSEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CENG",
+      "catalogNumber": "5280",
+      "courseCode": "CENG5280",
+      "title": "Quantum Computer Systems 量子計算機系統",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Computer Science & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CENG5280:-:LEC:9886",
+          "rawSection": "--LEC (9886)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9886,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIANG Zhiding"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "TBA",
+              "instructor": "Professor LIANG Zhiding",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CENG5280:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

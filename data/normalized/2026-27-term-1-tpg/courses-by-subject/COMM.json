@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "generatedAt": "2026-07-14T16:37:24.159Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 156,
       "rawFilesScanned": 156,
-      "rawRowsSeen": 4907,
-      "courses": 818,
-      "rawCoursesWithTargetTerm": 818,
+      "rawRowsSeen": 4914,
+      "courses": 819,
+      "rawCoursesWithTargetTerm": 819,
       "subjects": 98,
-      "sections": 1245,
-      "meetings": 1689,
+      "sections": 1247,
+      "meetings": 1700,
       "warnings": 0
     }
   },
@@ -157,7 +157,7 @@
               "endTime": "13:15",
               "startMinutes": 630,
               "endMinutes": 795,
-              "location": "NAH_209",
+              "location": "UCC_C4",
               "instructor": "Professor CHAN Che Ming",
               "dates": [
                 "10/9",
@@ -184,7 +184,7 @@
               "endTime": "13:15",
               "startMinutes": 630,
               "endMinutes": 795,
-              "location": "UCC_C4",
+              "location": "NAH_209",
               "instructor": "Professor CHAN Che Ming",
               "dates": [
                 "10/9",
@@ -311,7 +311,7 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "NAH_209",
+              "location": "WMY_502",
               "instructor": "Professor YANG Tian",
               "dates": [
                 "8/9",
@@ -340,7 +340,7 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "WMY_502",
+              "location": "NAH_209",
               "instructor": "Professor YANG Tian",
               "dates": [
                 "8/9",
@@ -390,7 +390,7 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "WMY_301",
+              "location": "NAH_209",
               "instructor": "Mr. TANG Ho Man",
               "dates": [
                 "11/9",
@@ -419,7 +419,7 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "NAH_209",
+              "location": "WMY_301",
               "instructor": "Mr. TANG Ho Man",
               "dates": [
                 "11/9",
@@ -761,7 +761,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. WONG Yuk Ying"
           ],
           "meetings": [
             {
@@ -775,7 +775,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "UCA_104",
-              "instructor": "Staff",
+              "instructor": "Dr. WONG Yuk Ying",
               "dates": [
                 "7/9",
                 "14/9",
@@ -1435,7 +1435,7 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "NAH_209",
+              "location": "NAH_6",
               "instructor": "Mr. HO Siu Chung Billy",
               "dates": [
                 "12/9",
@@ -1463,7 +1463,7 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "NAH_6",
+              "location": "NAH_209",
               "instructor": "Mr. HO Siu Chung Billy",
               "dates": [
                 "12/9",
@@ -2485,7 +2485,7 @@
           "classNumber": 2640,
           "language": "E",
           "availability": {
-            "capacity": 40,
+            "capacity": 35,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -2676,83 +2676,6 @@
                 "26/11",
                 "3/12",
                 "10/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "COMM6858",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/commv/COMMV.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "COMM",
-      "catalogNumber": "6858",
-      "courseCode": "COMM6858",
-      "title": "Brand Strat & Integ Mkt Comm 品牌策略與整合行銷傳播",
-      "units": 3,
-      "career": "TPG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Div of Communication",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "COMM6858:-:LEC:2431",
-          "rawSection": "--LEC (2431)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 2431,
-          "language": "E",
-          "availability": {
-            "capacity": 40,
-            "enrolled": null,
-            "availableSeats": null,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 06:30PM - 09:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "18:30",
-              "endTime": "21:15",
-              "startMinutes": 1110,
-              "endMinutes": 1275,
-              "location": "WMY_405",
-              "instructor": "Staff",
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12",
-                "8/12"
               ]
             }
           ]

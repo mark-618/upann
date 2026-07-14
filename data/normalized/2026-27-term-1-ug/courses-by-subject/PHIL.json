@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "generatedAt": "2026-07-14T16:37:24.270Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16598,
-      "courses": 1608,
-      "rawCoursesWithTargetTerm": 1608,
+      "rawRowsSeen": 16615,
+      "courses": 1612,
+      "rawCoursesWithTargetTerm": 1612,
       "subjects": 121,
-      "sections": 5136,
-      "meetings": 5850,
+      "sections": 5144,
+      "meetings": 5858,
       "warnings": 0
     }
   },
@@ -1193,6 +1193,129 @@
               "endTime": "13:15",
               "startMinutes": 750,
               "endMinutes": 795,
+              "location": "LHC_G03",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHIL3683",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/phi/PHI.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "PHIL",
+      "catalogNumber": "3683",
+      "courseCode": "PHIL3683",
+      "title": "Topics in Applied Philosophy 應用哲學專題",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Philosophy",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHIL3683:-:LEC:9878",
+          "rawSection": "--LEC (9878)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9878,
+          "language": "P&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "LHC_G03",
+              "instructor": "Staff",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHIL3683:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
               "location": "LHC_G03",
               "instructor": null,
               "dates": [

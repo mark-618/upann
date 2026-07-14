@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-10T07:13:56.610Z",
+    "generatedAt": "2026-07-14T16:37:24.159Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 156,
       "rawFilesScanned": 156,
-      "rawRowsSeen": 4907,
-      "courses": 818,
-      "rawCoursesWithTargetTerm": 818,
+      "rawRowsSeen": 4914,
+      "courses": 819,
+      "rawCoursesWithTargetTerm": 819,
       "subjects": 98,
-      "sections": 1245,
-      "meetings": 1689,
+      "sections": 1247,
+      "meetings": 1700,
       "warnings": 0
     }
   },
@@ -162,15 +162,15 @@
               ]
             },
             {
-              "timeRaw": "Fr 02:00PM - 05:15PM",
+              "timeRaw": "Fr 02:00PM - 05:30PM",
               "isTba": false,
               "dayCode": "Fr",
               "day": "Friday",
               "dayIndex": 5,
               "startTime": "14:00",
-              "endTime": "17:15",
+              "endTime": "17:30",
               "startMinutes": 840,
-              "endMinutes": 1035,
+              "endMinutes": 1050,
               "location": "TBA",
               "instructor": "Professor Wan Tay Tat WONG SUN-WAI",
               "dates": [
@@ -313,7 +313,7 @@
           "classNumber": 1262,
           "language": "E",
           "availability": {
-            "capacity": 70,
+            "capacity": 80,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -356,7 +356,7 @@
           "classNumber": 2564,
           "language": "E",
           "availability": {
-            "capacity": 70,
+            "capacity": 80,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -887,6 +887,38 @@
           ],
           "meetings": [
             {
+              "timeRaw": "Th 09:00AM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:00",
+              "endTime": "18:00",
+              "startMinutes": 540,
+              "endMinutes": 1080,
+              "location": "TBA",
+              "instructor": "Professor YANG Yong",
+              "dates": [
+                "15/10"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:00AM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:00",
+              "endTime": "18:00",
+              "startMinutes": 540,
+              "endMinutes": 1080,
+              "location": "TBA",
+              "instructor": "Professor YANG Yong",
+              "dates": [
+                "16/10"
+              ]
+            },
+            {
               "timeRaw": "Sa 09:00AM - 06:00PM",
               "isTba": false,
               "dayCode": "Sa",
@@ -896,7 +928,7 @@
               "endTime": "18:00",
               "startMinutes": 540,
               "endMinutes": 1080,
-              "location": "BMS_LT",
+              "location": "TBA",
               "instructor": "Professor YANG Yong",
               "dates": [
                 "17/10"

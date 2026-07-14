@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-10T06:59:54.292Z",
+    "generatedAt": "2026-07-14T16:37:24.159Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,17 +16,92 @@
     "counts": {
       "rawFiles": 134,
       "rawFilesScanned": 134,
-      "rawRowsSeen": 5270,
-      "courses": 557,
-      "rawCoursesWithTargetTerm": 557,
-      "subjects": 73,
-      "sections": 2473,
-      "meetings": 2516,
+      "rawRowsSeen": 5288,
+      "courses": 564,
+      "rawCoursesWithTargetTerm": 564,
+      "subjects": 75,
+      "sections": 2482,
+      "meetings": 2525,
       "warnings": 0
     }
   },
   "subject": "ENGG",
   "courses": [
+    {
+      "id": "ENGG5101",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csegv/CSEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ENGG",
+      "catalogNumber": "5101",
+      "courseCode": "ENGG5101",
+      "title": "Advanced Computer Architecture 高級計算機體系結構",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Computer Science & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ENGG5101:-:LEC:9890",
+          "rawSection": "--LEC (9890)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9890,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Zhengrong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor WANG Zhengrong",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "ENGG5105",
       "source": {

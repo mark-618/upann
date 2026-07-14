@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-10T06:59:54.409Z",
+    "generatedAt": "2026-07-14T16:37:24.270Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16598,
-      "courses": 1608,
-      "rawCoursesWithTargetTerm": 1608,
+      "rawRowsSeen": 16615,
+      "courses": 1612,
+      "rawCoursesWithTargetTerm": 1612,
       "subjects": 121,
-      "sections": 5136,
-      "meetings": 5850,
+      "sections": 5144,
+      "meetings": 5858,
       "warnings": 0
     }
   },
@@ -1113,30 +1113,19 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Th 04:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "16:30",
-              "endTime": "17:15",
-              "startMinutes": 990,
-              "endMinutes": 1035,
-              "location": "ELB_306",
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
               "instructor": "Dr. WONG Yuk Ying",
               "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
+                "07/09/2026 - 30/11/2026"
               ]
             }
           ]
@@ -1159,30 +1148,23 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "Th 02:30PM - 04:15PM",
+              "timeRaw": "Th 02:30PM - 05:15PM",
               "isTba": false,
               "dayCode": "Th",
               "day": "Thursday",
               "dayIndex": 4,
               "startTime": "14:30",
-              "endTime": "16:15",
+              "endTime": "17:15",
               "startMinutes": 870,
-              "endMinutes": 975,
+              "endMinutes": 1035,
               "location": "ELB_306",
               "instructor": null,
               "dates": [
-                "10/9",
                 "17/9",
                 "24/9",
                 "8/10",
                 "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
+                "22/10"
               ]
             }
           ]

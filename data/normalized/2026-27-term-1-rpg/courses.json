@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-10T06:59:54.292Z",
+    "generatedAt": "2026-07-14T16:37:24.159Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 134,
       "rawFilesScanned": 134,
-      "rawRowsSeen": 5270,
-      "courses": 557,
-      "rawCoursesWithTargetTerm": 557,
-      "subjects": 73,
-      "sections": 2473,
-      "meetings": 2516,
+      "rawRowsSeen": 5288,
+      "courses": 564,
+      "rawCoursesWithTargetTerm": 564,
+      "subjects": 75,
+      "sections": 2482,
+      "meetings": 2525,
       "warnings": 0
     }
   },
@@ -6654,6 +6654,82 @@
       ]
     },
     {
+      "id": "ARTS6002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arts/ARTS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ARTS",
+      "catalogNumber": "6002",
+      "courseCode": "ARTS6002",
+      "title": "Adv Studies in the Humanities 人文學科專題研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Faculty Office of Arts (PG)",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARTS6002:-:LEC:9893",
+          "rawSection": "--LEC (9893)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9893,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "KHB_101",
+              "instructor": "Staff",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "BASA6001",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -10025,7 +10101,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor WONG Ho Wai"
           ],
           "meetings": [
             {
@@ -10039,7 +10115,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor WONG Ho Wai",
               "dates": [
                 "07/09/2026 - 14/12/2026"
               ]
@@ -11068,6 +11144,117 @@
               "instructor": "Staff",
               "dates": [
                 "07/09/2026 - 14/12/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CENG5280",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csegv/CSEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CENG",
+      "catalogNumber": "5280",
+      "courseCode": "CENG5280",
+      "title": "Quantum Computer Systems 量子計算機系統",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Computer Science & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CENG5280:-:LEC:9886",
+          "rawSection": "--LEC (9886)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9886,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIANG Zhiding"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "TBA",
+              "instructor": "Professor LIANG Zhiding",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CENG5280:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "07/09/2026 - 30/11/2026"
               ]
             }
           ]
@@ -20366,6 +20553,158 @@
               "instructor": "Staff",
               "dates": [
                 "07/09/2026 - 07/12/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI5120",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csegv/CSEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "5120",
+      "courseCode": "CSCI5120",
+      "title": "Adv Topics in Database Systems 數據庫系統高級專題",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Computer Science & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI5120:-:LEC:9889",
+          "rawSection": "--LEC (9889)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9889,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHENG James"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "TBA",
+              "instructor": "Professor CHENG James",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CSCI5150",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csegv/CSEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "CSCI",
+      "catalogNumber": "5150",
+      "courseCode": "CSCI5150",
+      "title": "Machine Learning Algo. & Appl. 機器學習算法與應用",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Computer Science & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CSCI5150:-:LEC:9888",
+          "rawSection": "--LEC (9888)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9888,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PAN Jialin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "TBA",
+              "instructor": "Professor PAN Jialin",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
               ]
             }
           ]
@@ -31789,6 +32128,81 @@
       ]
     },
     {
+      "id": "ENGG5101",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/csegv/CSEGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ENGG",
+      "catalogNumber": "5101",
+      "courseCode": "ENGG5101",
+      "title": "Advanced Computer Architecture 高級計算機體系結構",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Computer Science & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ENGG5101:-:LEC:9890",
+          "rawSection": "--LEC (9890)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9890,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Zhengrong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor WANG Zhengrong",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "ENGG5105",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -36324,31 +36738,31 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Fr 08:30AM - 11:15AM",
+              "timeRaw": "Tu 02:30PM - 05:15PM",
               "isTba": false,
-              "dayCode": "Fr",
-              "day": "Friday",
-              "dayIndex": 5,
-              "startTime": "08:30",
-              "endTime": "11:15",
-              "startMinutes": 510,
-              "endMinutes": 675,
-              "location": "CKB_UG03",
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CKB_221",
               "instructor": "Professor LIU Kam Biu",
               "dates": [
-                "11/9",
-                "18/9",
-                "25/9",
-                "2/10",
-                "9/10",
-                "16/10",
-                "23/10",
-                "30/10",
-                "6/11",
-                "13/11",
-                "20/11",
-                "27/11",
-                "4/12"
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
               ]
             }
           ]
@@ -39236,82 +39650,6 @@
                 "18/11",
                 "25/11",
                 "2/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "IERG5130",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/iergv/IERGV.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "IERG",
-      "catalogNumber": "5130",
-      "courseCode": "IERG5130",
-      "title": "Prob. Models for Learning 機器學習中的概率模型和推斷算法",
-      "units": 3,
-      "career": "RPG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Div of Information Engineering",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "IERG5130:-:LEC:1474",
-          "rawSection": "--LEC (1474)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 1474,
-          "language": "E",
-          "availability": {
-            "capacity": 70,
-            "enrolled": null,
-            "availableSeats": null,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 03:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "15:30",
-              "endTime": "18:15",
-              "startMinutes": 930,
-              "endMinutes": 1095,
-              "location": "SHB_801",
-              "instructor": "Staff",
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
               ]
             }
           ]
@@ -84605,7 +84943,7 @@
             "status": null
           },
           "instructors": [
-            "Professor CHAN Jason Ying Kuen"
+            "Professor TONG Chi Fai Michael"
           ],
           "meetings": [
             {
@@ -84619,7 +84957,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Professor CHAN Jason Ying Kuen",
+              "instructor": "Professor TONG Chi Fai Michael",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -95461,6 +95799,43 @@
               ]
             }
           ]
+        },
+        {
+          "id": "PHIL8200:RM01:TMC:9887",
+          "rawSection": "RM01-TMC (9887)",
+          "sectionCode": "RM01",
+          "component": "TMC",
+          "classNumber": 9887,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LO Tien Chun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LO Tien Chun",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -99707,6 +100082,134 @@
       ]
     },
     {
+      "id": "RELS5115",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/relsv/RELSV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "RELS",
+      "catalogNumber": "5115",
+      "courseCode": "RELS5115",
+      "title": "Reading on Chinese Rel Texts 中國宗教經籍選讀",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Religious Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RELS5115:-S01:SEM:9897",
+          "rawSection": "-S01-SEM (9897)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 9897,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAI Tsz Pang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LAI Tsz Pang",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RELS6115",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/relsv/RELSV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "RELS",
+      "catalogNumber": "6115",
+      "courseCode": "RELS6115",
+      "title": "Buddhist Studies: Seminar I 佛學研究專題研討(一)",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Religious Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RELS6115:-S01:SEM:9896",
+          "rawSection": "-S01-SEM (9896)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 9896,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "RELS6121",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -99762,6 +100265,70 @@
               "endMinutes": null,
               "location": "NRR",
               "instructor": "Professor LAI Chi Tim",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RELS6131",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/relsv/RELSV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "RELS",
+      "catalogNumber": "6131",
+      "courseCode": "RELS6131",
+      "title": "Biblical Studies: Seminar I 聖經研究：專題討論(一)",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Religious Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RELS6131:-S01:SEM:9898",
+          "rawSection": "-S01-SEM (9898)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 9898,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Sonia Kwok"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WONG Sonia Kwok",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
