@@ -1,0 +1,1432 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.773Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5744,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2493,
+      "meetings": 2526,
+      "warnings": 0
+    }
+  },
+  "subject": "CHEM",
+  "courses": [
+    {
+      "id": "CHEM5560",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "5560",
+      "courseCode": "CHEM5560",
+      "title": "Organometallic Chem. & Catal. d-族元素的金屬有機化學和催化",
+      "units": 2,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM5560:-:LEC:2446",
+          "rawSection": "--LEC (2446)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2446,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEUNG Chi Wai - Professor KWONG Fuk Yee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LDS_218",
+              "instructor": "Professor CHEUNG Chi Wai - Professor KWONG Fuk Yee",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4",
+                "27/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM5620",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "5620",
+      "courseCode": "CHEM5620",
+      "title": "Synthetic Method in Organ Chem 有機合成方法",
+      "units": 2,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM5620:-:LEC:2345",
+          "rawSection": "--LEC (2345)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2345,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TSUI Chit"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "BMS_2",
+              "instructor": "Professor TSUI Chit",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4",
+                "3/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM5678",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "5678",
+      "courseCode": "CHEM5678",
+      "title": "Research Seminars 專題研究講座",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM5678:-S01:SEM:1293",
+          "rawSection": "-S01-SEM (1293)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 1293,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MIAO Qian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "SC_L3",
+              "instructor": "Professor MIAO Qian",
+              "dates": [
+                "15/1",
+                "29/1",
+                "12/2",
+                "26/2",
+                "12/3",
+                "9/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM5784",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "5784",
+      "courseCode": "CHEM5784",
+      "title": "Instr Analysis of Biomolecules 生物分子的儀器分析",
+      "units": 2,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM5784:-:LEC:1235",
+          "rawSection": "--LEC (1235)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1235,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Tak Wah Dominic - Professor LI Hung Wing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "ELB_202",
+              "instructor": "Professor CHAN Tak Wah Dominic - Professor LI Hung Wing",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4",
+                "28/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM6010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "6010",
+      "courseCode": "CHEM6010",
+      "title": "Graduate Seminar I 專題報告（一）",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM6010:-S01:SEM:2379",
+          "rawSection": "-S01-SEM (2379)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 2379,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LU Qian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "MMW_LT2",
+              "instructor": "Professor LU Qian",
+              "dates": [
+                "15/1",
+                "22/1",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM6020",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "6020",
+      "courseCode": "CHEM6020",
+      "title": "Graduate Seminar II 專題報告（二）",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM6020:-S01:SEM:2381",
+          "rawSection": "-S01-SEM (2381)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 2381,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LU Qian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "MMW_LT2",
+              "instructor": "Professor LU Qian",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM6120",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "6120",
+      "courseCode": "CHEM6120",
+      "title": "Recent Top in Phy&Anal ChemII 物理及分析化學最新進展（二）",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM6120:A:LEC:2175",
+          "rawSection": "A-LEC (2175)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 2175,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HUANG Zhifeng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HUANG Zhifeng",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6120:B:LEC:3562",
+          "rawSection": "B-LEC (3562)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 3562,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Hung Wing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Hung Wing",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6120:C:LEC:1748",
+          "rawSection": "C-LEC (1748)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 1748,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor NGAI To"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor NGAI To",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6120:D:LEC:3564",
+          "rawSection": "D-LEC (3564)",
+          "sectionCode": "D",
+          "component": "LEC",
+          "classNumber": 3564,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SONG Chunshan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SONG Chunshan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6120:E:LEC:4427",
+          "rawSection": "E-LEC (4427)",
+          "sectionCode": "E",
+          "component": "LEC",
+          "classNumber": 4427,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TSE Ying Lung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TSE Ying Lung",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6120:F:LEC:2228",
+          "rawSection": "F-LEC (2228)",
+          "sectionCode": "F",
+          "component": "LEC",
+          "classNumber": 2228,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Ying",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6120:G:LEC:3563",
+          "rawSection": "G-LEC (3563)",
+          "sectionCode": "G",
+          "component": "LEC",
+          "classNumber": 3563,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Xinglong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHANG Xinglong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM6140",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "6140",
+      "courseCode": "CHEM6140",
+      "title": "Recent Topics in Syn Chem II 合成化學最新進展（二）",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM6140:A:LEC:1790",
+          "rawSection": "A-LEC (1790)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 1790,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Ye"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN Ye",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6140:B:LEC:3565",
+          "rawSection": "B-LEC (3565)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 3565,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KWONG Fuk Yee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor KWONG Fuk Yee",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6140:C:LEC:3552",
+          "rawSection": "C-LEC (3552)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 3552,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LYU Hairong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LYU Hairong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6140:D:LEC:1788",
+          "rawSection": "D-LEC (1788)",
+          "sectionCode": "D",
+          "component": "LEC",
+          "classNumber": 1788,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MIAO Qian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MIAO Qian",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6140:E:LEC:4455",
+          "rawSection": "E-LEC (4455)",
+          "sectionCode": "E",
+          "component": "LEC",
+          "classNumber": 4455,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor NG Kee Pui Dennis"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor NG Kee Pui Dennis",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6140:F:LEC:3566",
+          "rawSection": "F-LEC (3566)",
+          "sectionCode": "F",
+          "component": "LEC",
+          "classNumber": 3566,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WAN Qingyun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WAN Qingyun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6140:G:LEC:4454",
+          "rawSection": "G-LEC (4454)",
+          "sectionCode": "G",
+          "component": "LEC",
+          "classNumber": 4454,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XIA Jiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XIA Jiang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6140:H:LEC:3183",
+          "rawSection": "H-LEC (3183)",
+          "sectionCode": "H",
+          "component": "LEC",
+          "classNumber": 3183,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YEUNG Ying Yeung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YEUNG Ying Yeung",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6140:I:LEC:3747",
+          "rawSection": "I-LEC (3747)",
+          "sectionCode": "I",
+          "component": "LEC",
+          "classNumber": 3747,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Hung Kay"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Hung Kay",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CHEM6140:J:LEC:1789",
+          "rawSection": "J-LEC (1789)",
+          "sectionCode": "J",
+          "component": "LEC",
+          "classNumber": 1789,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TSUI Chit"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TSUI Chit",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM7010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "7010",
+      "courseCode": "CHEM7010",
+      "title": "Advanced Graduate Seminar 高級專題報告",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM7010:-S01:SEM:2380",
+          "rawSection": "-S01-SEM (2380)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 2380,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LU Qian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "MMW_LT2",
+              "instructor": "Professor LU Qian",
+              "dates": [
+                "15/1",
+                "22/1",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM8003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "8003",
+      "courseCode": "CHEM8003",
+      "title": "Thesis Research 論文指導",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM8003:-M01:TMC:3746",
+          "rawSection": "-M01-TMC (3746)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 3746,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KWONG Fuk Yee - Professor LEE Hung Kay - Professor TSE Ying Lung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor KWONG Fuk Yee - Professor LEE Hung Kay - Professor TSE Ying Lung",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM8006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "8006",
+      "courseCode": "CHEM8006",
+      "title": "Thesis Research 論文指導",
+      "units": 6,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM8006:-M01:TMC:1743",
+          "rawSection": "-M01-TMC (1743)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 1743,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Ye - Professor HUANG Zhifeng - Professor KWONG Fuk Yee - Professor LI Hung Wing - Professor LYU Hairong - Professor MIAO Qian - Professor NG Kee Pui Dennis - Professor NGAI To - Professor Oleksandr SAVATIEIEV -"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN Ye - Professor HUANG Zhifeng - Professor KWONG Fuk Yee - Professor LI Hung Wing - Professor LYU Hairong - Professor MIAO Qian - Professor NG Kee Pui Dennis - Professor NGAI To - Professor Oleksandr SAVATIEIEV -",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CHEM8012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chemv/CHEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CHEM",
+      "catalogNumber": "8012",
+      "courseCode": "CHEM8012",
+      "title": "Thesis Research 論文指導",
+      "units": 12,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CHEM8012:-M01:TMC:1744",
+          "rawSection": "-M01-TMC (1744)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 1744,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Ye - Professor HUANG Zhifeng - Professor KWONG Fuk Yee - Professor LEE Hung Kay - Professor LI Hung Wing - Professor LYU Hairong - Professor MIAO Qian - Professor NG Kee Pui Dennis - Professor NGAI To - Profess"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN Ye - Professor HUANG Zhifeng - Professor KWONG Fuk Yee - Professor LEE Hung Kay - Professor LI Hung Wing - Professor LYU Hairong - Professor MIAO Qian - Professor NG Kee Pui Dennis - Professor NGAI To - Profess",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

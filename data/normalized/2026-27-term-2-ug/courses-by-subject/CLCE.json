@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "CLCE",
+  "courses": [
+    {
+      "id": "CLCE1103",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/clc/CLC.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CLCE",
+      "catalogNumber": "1103",
+      "courseCode": "CLCE1103",
+      "title": "Chi Lang, Cul & Lang Learning 中國語言及文化與語言學習",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Yale-China Chin Lang Acad",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CLCE1103:-:LEC:5835",
+          "rawSection": "--LEC (5835)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5835,
+          "language": "P&E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEE Siu Lun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "YIA_LT9",
+              "instructor": "Dr. LEE Siu Lun",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

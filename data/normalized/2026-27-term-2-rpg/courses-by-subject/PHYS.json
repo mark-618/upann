@@ -1,0 +1,1519 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.773Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5744,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2493,
+      "meetings": 2526,
+      "warnings": 0
+    }
+  },
+  "subject": "PHYS",
+  "courses": [
+    {
+      "id": "PHYS5061",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/physv/PHYSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "PHYS",
+      "catalogNumber": "5061",
+      "courseCode": "PHYS5061",
+      "title": "From Comp Physics to AI 從計算物理到人工智能",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHYS5061:-:LEC:2397",
+          "rawSection": "--LEC (2397)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2397,
+          "language": "E",
+          "availability": {
+            "capacity": 27,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Junyi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSK_LT1",
+              "instructor": "Professor ZHU Junyi",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "SC_L2",
+              "instructor": "Professor ZHU Junyi",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5061:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 27,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "SC_L2",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "SC_L2",
+              "instructor": null,
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5061:M:LEC:2398",
+          "rawSection": "M-LEC (2398)",
+          "sectionCode": "M",
+          "component": "LEC",
+          "classNumber": 2398,
+          "language": "E",
+          "availability": {
+            "capacity": 73,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Junyi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSK_LT1",
+              "instructor": "Professor ZHU Junyi",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "SC_L2",
+              "instructor": "Professor ZHU Junyi",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5061:MT01:TUT:no-class-number",
+          "rawSection": "MT01-TUT",
+          "sectionCode": "MT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 73,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "SC_L2",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "SC_L2",
+              "instructor": null,
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHYS5420",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/physv/PHYSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "PHYS",
+      "catalogNumber": "5420",
+      "courseCode": "PHYS5420",
+      "title": "Classical Electrodynamics 經典電動力學",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHYS5420:-:LEC:2293",
+          "rawSection": "--LEC (2293)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2293,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Kenneth YOUNG"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SC_L3",
+              "instructor": "Professor Kenneth YOUNG",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "SC_L3",
+              "instructor": "Professor Kenneth YOUNG",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5420:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "SC_L3",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5420:M:LEC:2295",
+          "rawSection": "M-LEC (2295)",
+          "sectionCode": "M",
+          "component": "LEC",
+          "classNumber": 2295,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Kenneth YOUNG"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SC_L3",
+              "instructor": "Professor Kenneth YOUNG",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "SC_L3",
+              "instructor": "Professor Kenneth YOUNG",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5420:MT01:TUT:no-class-number",
+          "rawSection": "MT01-TUT",
+          "sectionCode": "MT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "SC_L3",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHYS5430",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/physv/PHYSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "PHYS",
+      "catalogNumber": "5430",
+      "courseCode": "PHYS5430",
+      "title": "Solid State Theory 固態理論",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHYS5430:-:LEC:2402",
+          "rawSection": "--LEC (2402)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2402,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GU Zhengcheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LSB_LT4",
+              "instructor": "Professor GU Zhengcheng",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "MMW_707",
+              "instructor": "Professor GU Zhengcheng",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5430:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "MMW_707",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5430:M:LEC:2419",
+          "rawSection": "M-LEC (2419)",
+          "sectionCode": "M",
+          "component": "LEC",
+          "classNumber": 2419,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GU Zhengcheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LSB_LT4",
+              "instructor": "Professor GU Zhengcheng",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "MMW_707",
+              "instructor": "Professor GU Zhengcheng",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5430:MT01:TUT:no-class-number",
+          "rawSection": "MT01-TUT",
+          "sectionCode": "MT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "MMW_707",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHYS5450",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/physv/PHYSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "PHYS",
+      "catalogNumber": "5450",
+      "courseCode": "PHYS5450",
+      "title": "Intro to Soft Matter Phy 軟物質物理概論",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHYS5450:-:LEC:2266",
+          "rawSection": "--LEC (2266)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2266,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WU Yilin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "ICS_L1",
+              "instructor": "Professor WU Yilin",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "TYW_LT",
+              "instructor": "Professor WU Yilin",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5450:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "TYW_LT",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5450:M:LEC:2267",
+          "rawSection": "M-LEC (2267)",
+          "sectionCode": "M",
+          "component": "LEC",
+          "classNumber": 2267,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WU Yilin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "ICS_L1",
+              "instructor": "Professor WU Yilin",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "TYW_LT",
+              "instructor": "Professor WU Yilin",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PHYS5450:MT01:TUT:no-class-number",
+          "rawSection": "MT01-TUT",
+          "sectionCode": "MT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "TYW_LT",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHYS5790",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/physv/PHYSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "PHYS",
+      "catalogNumber": "5790",
+      "courseCode": "PHYS5790",
+      "title": "Guided Study 導修",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHYS5790:-T01:TUT:2660",
+          "rawSection": "-T01-TUT (2660)",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": 2660,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Kenneth YOUNG"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Kenneth YOUNG",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHYS7210",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/physv/PHYSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "PHYS",
+      "catalogNumber": "7210",
+      "courseCode": "PHYS7210",
+      "title": "Guided Study 導修",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHYS7210:-T01:TUT:4464",
+          "rawSection": "-T01-TUT (4464)",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": 4464,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHYS8003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/physv/PHYSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "PHYS",
+      "catalogNumber": "8003",
+      "courseCode": "PHYS8003",
+      "title": "Thesis Research 論文研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHYS8003:-M01:TMC:3397",
+          "rawSection": "-M01-TMC (3397)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 3397,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHYS8006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/physv/PHYSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "PHYS",
+      "catalogNumber": "8006",
+      "courseCode": "PHYS8006",
+      "title": "Thesis Research 論文研究",
+      "units": 6,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHYS8006:-M01:TMC:4463",
+          "rawSection": "-M01-TMC (4463)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4463,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHYS8012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/physv/PHYSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "PHYS",
+      "catalogNumber": "8012",
+      "courseCode": "PHYS8012",
+      "title": "Thesis Research 論文研究",
+      "units": 12,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHYS8012:-M01:TMC:3835",
+          "rawSection": "-M01-TMC (3835)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 3835,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

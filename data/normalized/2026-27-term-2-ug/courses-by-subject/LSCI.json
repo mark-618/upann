@@ -1,0 +1,513 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "LSCI",
+  "courses": [
+    {
+      "id": "LSCI1002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "1002",
+      "courseCode": "LSCI1002",
+      "title": "Introduction to Biological Sci 生物科學入門",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI1002:-:LEC:9603",
+          "rawSection": "--LEC (9603)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9603,
+          "language": "E",
+          "availability": {
+            "capacity": 200,
+            "enrolled": 0,
+            "availableSeats": 200,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KANG Byung Ho - Professor TSANG Suk Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_LT3",
+              "instructor": "Professor KANG Byung Ho - Professor TSANG Suk Ying",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI1012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "1012",
+      "courseCode": "LSCI1012",
+      "title": "Intro Life Forms in Biosphere 生物圈中的生命形態",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI1012:-:LEC:9312",
+          "rawSection": "--LEC (9312)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9312,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAW Man Suet Michelle - Professor CHUI Pui Yi - Professor HUI Jerome Ho Lam"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "YIA_LT7",
+              "instructor": "Dr. LAW Man Suet Michelle - Professor CHUI Pui Yi - Professor HUI Jerome Ho Lam",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI3000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "3000",
+      "courseCode": "LSCI3000",
+      "title": "Synthetic Biology Workshop 合成生物學工作坊",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB, LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI3000:-L01:LAB:5208",
+          "rawSection": "-L01-LAB (5208)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 5208,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor NGO Chi Ki Jacky"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor NGO Chi Ki Jacky",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LSCI3000:-:LEC:no-class-number",
+          "rawSection": "--LEC",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI3520",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "3520",
+      "courseCode": "LSCI3520",
+      "title": "Envir & Biochemical Toxicology 環境及生化毒理學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI3520:-:LEC:6882",
+          "rawSection": "--LEC (6882)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6882,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": 0,
+            "availableSeats": 90,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor AU Wing Ngor Shannon - Professor CHOW Hei Man - Professor HO Wing Shing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "SC_L1",
+              "instructor": "Professor AU Wing Ngor Shannon - Professor CHOW Hei Man - Professor HO Wing Shing",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "SC_L1",
+              "instructor": "Professor AU Wing Ngor Shannon - Professor CHOW Hei Man - Professor HO Wing Shing",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI4000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "4000",
+      "courseCode": "LSCI4000",
+      "title": "Literature Research 文獻專題研究",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI4000:-J01:PRJ:6917",
+          "rawSection": "-J01-PRJ (6917)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6917,
+          "language": "E",
+          "availability": {
+            "capacity": 250,
+            "enrolled": 0,
+            "availableSeats": 250,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHOY Siu Wah - Dr. Erika KWEK - Dr. KOON Chun Alex - Dr. LAW Man Suet Michelle - Dr. LO Fai Hang - Dr. NGAI Hung Kui - Dr. TANG Ming Chak - Dr. WONG Tsz Yan - Professor AU Wing Ngor Shannon - Professor CHOW Hei Man - P"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHOY Siu Wah - Dr. Erika KWEK - Dr. KOON Chun Alex - Dr. LAW Man Suet Michelle - Dr. LO Fai Hang - Dr. NGAI Hung Kui - Dr. TANG Ming Chak - Dr. WONG Tsz Yan - Professor AU Wing Ngor Shannon - Professor CHOW Hei Man - P",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI4913",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sls/SLS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "4913",
+      "courseCode": "LSCI4913",
+      "title": "Grp Research in Life Sci (III) 生命科學小組研究（三）",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI4913:-J01:PRJ:6324",
+          "rawSection": "-J01-PRJ (6324)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6324,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor NGO Chi Ki Jacky - Professor TSUI Tsz Ki Martin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor NGO Chi Ki Jacky - Professor TSUI Tsz Ki Martin",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

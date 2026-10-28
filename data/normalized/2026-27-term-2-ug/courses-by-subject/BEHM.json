@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "BEHM",
+  "courses": [
+    {
+      "id": "BEHM3000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "behm/BEHM.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BEHM",
+      "catalogNumber": "3000",
+      "courseCode": "BEHM3000",
+      "title": "Intro to Biomed. Enterprises 生物醫學企業導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biotech, Entrep&Healthc Mgt PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BEHM3000:-:LEC:5438",
+          "rawSection": "--LEC (5438)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5438,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Wing Tak Jack"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "WMY_506",
+              "instructor": "Professor WONG Wing Tak Jack",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BEHM3000:-J01:PRJ:no-class-number",
+          "rawSection": "-J01-PRJ",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BEHM4000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "behm/BEHM.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BEHM",
+      "catalogNumber": "4000",
+      "courseCode": "BEHM4000",
+      "title": "Internship 實習",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biotech, Entrep&Healthc Mgt PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BEHM4000:-P01:PRA:8525",
+          "rawSection": "-P01-PRA (8525)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8525,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Wing Tak Jack"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WONG Wing Tak Jack",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BEHM4001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "behm/BEHM.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BEHM",
+      "catalogNumber": "4001",
+      "courseCode": "BEHM4001",
+      "title": "Capstone Project I 總結項目(一)",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biotech, Entrep&Healthc Mgt PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BEHM4001:-M01:TMC:6703",
+          "rawSection": "-M01-TMC (6703)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 6703,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Wing Tak Jack"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WONG Wing Tak Jack",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BEHM4002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "behm/BEHM.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BEHM",
+      "catalogNumber": "4002",
+      "courseCode": "BEHM4002",
+      "title": "Capstone Project II 總結項目(二)",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biotech, Entrep&Healthc Mgt PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BEHM4002:-T01:TUT:6273",
+          "rawSection": "-T01-TUT (6273)",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": 6273,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Wing Tak Jack"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WONG Wing Tak Jack",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

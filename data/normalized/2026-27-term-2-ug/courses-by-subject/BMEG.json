@@ -1,0 +1,2667 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "BMEG",
+  "courses": [
+    {
+      "id": "BMEG2012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "2012",
+      "courseCode": "BMEG2012",
+      "title": "Biomedical Engineering Lab 生物醫學工程實驗",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, PRJ, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG2012:-:LEC:10029",
+          "rawSection": "--LEC (10029)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10029,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor DUAN Liting - Professor HO Ho Pui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "MMW_710",
+              "instructor": "Professor DUAN Liting - Professor HO Ho Pui",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG2012:-J01:PRJ:no-class-number",
+          "rawSection": "-J01-PRJ",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG2012:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 27,
+            "enrolled": 0,
+            "availableSeats": 27,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "ERB_1102",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG2012:-L02:LAB:no-class-number",
+          "rawSection": "-L02-LAB",
+          "sectionCode": "-L02",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 27,
+            "enrolled": 0,
+            "availableSeats": 27,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "ERB_1102",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG2012:-L03:LAB:no-class-number",
+          "rawSection": "-L03-LAB",
+          "sectionCode": "-L03",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 26,
+            "enrolled": 0,
+            "availableSeats": 26,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "ERB_1102",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG2218",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "2218",
+      "courseCode": "BMEG2218",
+      "title": "Ethical Pract in Bionic Human 彷生人實務倫理",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG2218:-:LEC:5388",
+          "rawSection": "--LEC (5388)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5388,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOI Chung Hang Jonathan - Professor LI Zhong - Professor MAK Fuk Tat - Professor TONG Kai Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "SC_L2",
+              "instructor": "Professor CHOI Chung Hang Jonathan - Professor LI Zhong - Professor MAK Fuk Tat - Professor TONG Kai Yu",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG2300",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "2300",
+      "courseCode": "BMEG2300",
+      "title": "Circuits and Signals for BME 生物醫學電路與信號分析",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG2300:-:LEC:7258",
+          "rawSection": "--LEC (7258)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7258,
+          "language": "E",
+          "availability": {
+            "capacity": 86,
+            "enrolled": 0,
+            "availableSeats": 86,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHU Xin - Professor YUAN Wu - Professor ZHANG Qihang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SC_L3",
+              "instructor": "Professor SHU Xin - Professor YUAN Wu - Professor ZHANG Qihang",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "SC_L3",
+              "instructor": "Professor SHU Xin - Professor YUAN Wu - Professor ZHANG Qihang",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG2300:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 86,
+            "enrolled": 0,
+            "availableSeats": 86,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "SC_L3",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG3102",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "3102",
+      "courseCode": "BMEG3102",
+      "title": "Bioinformatics 生物信息學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG3102:-:LEC:7643",
+          "rawSection": "--LEC (7643)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7643,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Mengya"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "MMW_702",
+              "instructor": "Professor XU Mengya",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "MMW_702",
+              "instructor": "Professor XU Mengya",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG3102:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "MMW_702",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG3210",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "3210",
+      "courseCode": "BMEG3210",
+      "title": "Biofluids 生物流體學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG3210:-:LEC:7645",
+          "rawSection": "--LEC (7645)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7645,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Pui Barbara - Professor CHOI Chung Hang Jonathan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "YIA_LT9",
+              "instructor": "Professor CHAN Pui Barbara - Professor CHOI Chung Hang Jonathan",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "YIA_LT7",
+              "instructor": "Professor CHAN Pui Barbara - Professor CHOI Chung Hang Jonathan",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG3210:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "YIA_LT7",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG3420",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "3420",
+      "courseCode": "BMEG3420",
+      "title": "Medical Robotics 醫療機器人學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG3420:-:LEC:7266",
+          "rawSection": "--LEC (7266)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7266,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHANG Hing Chiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "MMW_702",
+              "instructor": "Professor CHANG Hing Chiu",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "MMW_702",
+              "instructor": "Professor CHANG Hing Chiu",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG3420:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "MMW_702",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG3910",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "3910",
+      "courseCode": "BMEG3910",
+      "title": "Undergrad Research in BME 生物醫學工程本科研究",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG3910:-T01:TUT:6271",
+          "rawSection": "-T01-TUT (6271)",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": 6271,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG3910:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG3910:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG4010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "4010",
+      "courseCode": "BMEG4010",
+      "title": "Global Med Device Reg Affairs 環球醫療器械規管",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG4010:-:LEC:7271",
+          "rawSection": "--LEC (7271)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7271,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TONG Kai Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "MMW_703",
+              "instructor": "Professor TONG Kai Yu",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "MMW_703",
+              "instructor": "Professor TONG Kai Yu",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4010:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "MMW_703",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG4320",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "4320",
+      "courseCode": "BMEG4320",
+      "title": "AI & Imaging for BME 生物醫學工程人工智能與影像學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG4320:-:LEC:7680",
+          "rawSection": "--LEC (7680)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7680,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHANG Hing Chiu - Professor SHU Xin - Professor ZHANG Qihang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "SC_L3",
+              "instructor": "Professor CHANG Hing Chiu - Professor SHU Xin - Professor ZHANG Qihang",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "WMY_407",
+              "instructor": "Professor CHANG Hing Chiu - Professor SHU Xin - Professor ZHANG Qihang",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4320:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "WMY_407",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG4450",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "4450",
+      "courseCode": "BMEG4450",
+      "title": "Bionanotechnology 生物納米技術",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG4450:-:LEC:7273",
+          "rawSection": "--LEC (7273)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7273,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Zhaoli - Professor SHAO Baihao - Professor XUE Yang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "LSB_LT6",
+              "instructor": "Professor GAO Zhaoli - Professor SHAO Baihao - Professor XUE Yang",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "MMW_702",
+              "instructor": "Professor GAO Zhaoli - Professor SHAO Baihao - Professor XUE Yang",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4450:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "MMW_702",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG4510",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "4510",
+      "courseCode": "BMEG4510",
+      "title": "Biomolecular Engineering 生物分子工程",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG4510:-:LEC:7659",
+          "rawSection": "--LEC (7659)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7659,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOI Chung Hang Jonathan - Professor LI Tiantian - Professor XUE Yang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "YIA_LT4",
+              "instructor": "Professor CHOI Chung Hang Jonathan - Professor LI Tiantian - Professor XUE Yang",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSB_LT5",
+              "instructor": "Professor CHOI Chung Hang Jonathan - Professor LI Tiantian - Professor XUE Yang",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4510:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "YIA_LT4",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG4998",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "4998",
+      "courseCode": "BMEG4998",
+      "title": "Final Year Project I 畢業專題研究（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG4998:AJ01:PRJ:5016",
+          "rawSection": "AJ01-PRJ (5016)",
+          "sectionCode": "AJ01",
+          "component": "PRJ",
+          "classNumber": 5016,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Ruoyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Ruoyu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG4999",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "4999",
+      "courseCode": "BMEG4999",
+      "title": "Final Year Project II 畢業專題研究（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG4999:AJ01:PRJ:5017",
+          "rawSection": "AJ01-PRJ (5017)",
+          "sectionCode": "AJ01",
+          "component": "PRJ",
+          "classNumber": 5017,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor POON Ngar Yun Ellen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor POON Ngar Yun Ellen",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:AAJ1:PRJ:6735",
+          "rawSection": "AAJ1-PRJ (6735)",
+          "sectionCode": "AAJ1",
+          "component": "PRJ",
+          "classNumber": 6735,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Zhong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Zhong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:ABJ1:PRJ:6734",
+          "rawSection": "ABJ1-PRJ (6734)",
+          "sectionCode": "ABJ1",
+          "component": "PRJ",
+          "classNumber": 6734,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MAO Chuanbin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MAO Chuanbin",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:ACJ1:PRJ:6503",
+          "rawSection": "ACJ1-PRJ (6503)",
+          "sectionCode": "ACJ1",
+          "component": "PRJ",
+          "classNumber": 6503,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAU Tat Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LAU Tat Ming",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:ADJ1:PRJ:6736",
+          "rawSection": "ADJ1-PRJ (6736)",
+          "sectionCode": "ADJ1",
+          "component": "PRJ",
+          "classNumber": 6736,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HO Ho Pui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HO Ho Pui",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:BJ01:PRJ:6294",
+          "rawSection": "BJ01-PRJ (6294)",
+          "sectionCode": "BJ01",
+          "component": "PRJ",
+          "classNumber": 6294,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Anna Maria BLOCKI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Anna Maria BLOCKI",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:CJ01:PRJ:6550",
+          "rawSection": "CJ01-PRJ (6550)",
+          "sectionCode": "CJ01",
+          "component": "PRJ",
+          "classNumber": 6550,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Zheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Zheng",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:DJ01:PRJ:6295",
+          "rawSection": "DJ01-PRJ (6295)",
+          "sectionCode": "DJ01",
+          "component": "PRJ",
+          "classNumber": 6295,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Li"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHANG Li",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:EJ01:PRJ:5018",
+          "rawSection": "EJ01-PRJ (5018)",
+          "sectionCode": "EJ01",
+          "component": "PRJ",
+          "classNumber": 5018,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor REN Hongliang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor REN Hongliang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:FJ01:PRJ:6296",
+          "rawSection": "FJ01-PRJ (6296)",
+          "sectionCode": "FJ01",
+          "component": "PRJ",
+          "classNumber": 6296,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Yu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:GJ01:PRJ:6297",
+          "rawSection": "GJ01-PRJ (6297)",
+          "sectionCode": "GJ01",
+          "component": "PRJ",
+          "classNumber": 6297,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LOU Wutao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. LOU Wutao",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:HJ01:PRJ:6298",
+          "rawSection": "HJ01-PRJ (6298)",
+          "sectionCode": "HJ01",
+          "component": "PRJ",
+          "classNumber": 6298,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOI Chung Hang Jonathan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHOI Chung Hang Jonathan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:IJ01:PRJ:6299",
+          "rawSection": "IJ01-PRJ (6299)",
+          "sectionCode": "IJ01",
+          "component": "PRJ",
+          "classNumber": 6299,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Pui Barbara"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHAN Pui Barbara",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:KJ01:PRJ:6558",
+          "rawSection": "KJ01-PRJ (6558)",
+          "sectionCode": "KJ01",
+          "component": "PRJ",
+          "classNumber": 6558,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XUE Yang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XUE Yang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:LJ01:PRJ:5019",
+          "rawSection": "LJ01-PRJ (5019)",
+          "sectionCode": "LJ01",
+          "component": "PRJ",
+          "classNumber": 5019,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHAO Baihao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SHAO Baihao",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:MJ01:PRJ:6559",
+          "rawSection": "MJ01-PRJ (6559)",
+          "sectionCode": "MJ01",
+          "component": "PRJ",
+          "classNumber": 6559,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YUAN Wu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YUAN Wu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:NJ01:PRJ:6560",
+          "rawSection": "NJ01-PRJ (6560)",
+          "sectionCode": "NJ01",
+          "component": "PRJ",
+          "classNumber": 6560,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Zhaoli"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor GAO Zhaoli",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:RJ01:PRJ:6743",
+          "rawSection": "RJ01-PRJ (6743)",
+          "sectionCode": "RJ01",
+          "component": "PRJ",
+          "classNumber": 6743,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHANG Hing Chiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHANG Hing Chiu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:SJ01:PRJ:6744",
+          "rawSection": "SJ01-PRJ (6744)",
+          "sectionCode": "SJ01",
+          "component": "PRJ",
+          "classNumber": 6744,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Ning"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHANG Ning",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:TJ01:PRJ:6745",
+          "rawSection": "TJ01-PRJ (6745)",
+          "sectionCode": "TJ01",
+          "component": "PRJ",
+          "classNumber": 6745,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TONG Kai Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TONG Kai Yu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:VJ01:PRJ:6551",
+          "rawSection": "VJ01-PRJ (6551)",
+          "sectionCode": "VJ01",
+          "component": "PRJ",
+          "classNumber": 6551,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHOU Renjie"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHOU Renjie",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:XJ01:PRJ:6731",
+          "rawSection": "XJ01-PRJ (6731)",
+          "sectionCode": "XJ01",
+          "component": "PRJ",
+          "classNumber": 6731,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Kai Fung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHAN Kai Fung",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:YJ01:PRJ:6732",
+          "rawSection": "YJ01-PRJ (6732)",
+          "sectionCode": "YJ01",
+          "component": "PRJ",
+          "classNumber": 6732,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MAK Wing Cheung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MAK Wing Cheung",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG4999:ZJ01:PRJ:6733",
+          "rawSection": "ZJ01-PRJ (6733)",
+          "sectionCode": "ZJ01",
+          "component": "PRJ",
+          "classNumber": 6733,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TUAN Rocky Sung Chi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TUAN Rocky Sung Chi",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

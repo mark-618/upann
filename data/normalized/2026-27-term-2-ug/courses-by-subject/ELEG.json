@@ -1,0 +1,4188 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "ELEG",
+  "courses": [
+    {
+      "id": "ELEG2201",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "2201",
+      "courseCode": "ELEG2201",
+      "title": "Digital Circuits&Computing Sys 數字電路及計算系統",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG2201:-:LEC:7138",
+          "rawSection": "--LEC (7138)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7138,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. YIP Kim Fung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "LSB_LT5",
+              "instructor": "Mr. YIP Kim Fung",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "TYW_LT",
+              "instructor": "Mr. YIP Kim Fung",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG2201:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG2201:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSB_LT5",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG2202",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "2202",
+      "courseCode": "ELEG2202",
+      "title": "Electric Circuits 基礎電路",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG2202:B:LEC:5384",
+          "rawSection": "B-LEC (5384)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 5384,
+          "language": "E",
+          "availability": {
+            "capacity": 210,
+            "enrolled": 0,
+            "availableSeats": 210,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HAN Dongkun - Dr. LI Yiyang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "MMW_LT1",
+              "instructor": "Dr. HAN Dongkun - Dr. LI Yiyang",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "MMW_LT1",
+              "instructor": "Dr. HAN Dongkun - Dr. LI Yiyang",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG2202:BL01:LAB:no-class-number",
+          "rawSection": "BL01-LAB",
+          "sectionCode": "BL01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 210,
+            "enrolled": 0,
+            "availableSeats": 210,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG2202:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 210,
+            "enrolled": 0,
+            "availableSeats": 210,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG2601",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "2601",
+      "courseCode": "ELEG2601",
+      "title": "Tech, Society & Engg Practice 科技、社會及工程實務",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG2601:-:LEC:5889",
+          "rawSection": "--LEC (5889)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5889,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": 0,
+            "availableSeats": 90,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. NGAN Lai Yin - Professor XU Jianbin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "ELB_LT2",
+              "instructor": "Ms. NGAN Lai Yin - Professor XU Jianbin",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG3103",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "3103",
+      "courseCode": "ELEG3103",
+      "title": "RoboticPerception&Intelligence 機器人感知與智能",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG3103:-:LEC:9546",
+          "rawSection": "--LEC (9546)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9546,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor REN Hongliang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "MMW_702",
+              "instructor": "Professor REN Hongliang",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "We 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "LHC_G04",
+              "instructor": "Professor REN Hongliang",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3103:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "LHC_G04",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3103:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "LHC_106",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3103:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG3201",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "3201",
+      "courseCode": "ELEG3201",
+      "title": "Microele. Devices and Circuits 微電子器件與電路",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG3201:-:LEC:9006",
+          "rawSection": "--LEC (9006)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9006,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": 0,
+            "availableSeats": 90,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PUN Kong Pang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "BMS_G18",
+              "instructor": "Professor PUN Kong Pang",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "ERB_LT",
+              "instructor": "Professor PUN Kong Pang",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3201:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": 0,
+            "availableSeats": 90,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3201:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "ERB_703",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3201:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "SC_L3",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3201:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "MMW_705",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3201:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG3202",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "3202",
+      "courseCode": "ELEG3202",
+      "title": "Analog Integrated Circuits 模擬集成電路",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG3202:-:LEC:5020",
+          "rawSection": "--LEC (5020)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5020,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEUNG Ka Nang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "MMW_702",
+              "instructor": "Professor LEUNG Ka Nang",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "LSK_304",
+              "instructor": "Professor LEUNG Ka Nang",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3202:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "ERB_803",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3202:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "LSB_LT3",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3202:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG3301",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "3301",
+      "courseCode": "ELEG3301",
+      "title": "Principles of Semicon Devices 半導體器件基本原理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG3301:-:LEC:5385",
+          "rawSection": "--LEC (5385)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5385,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Yixiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "WMY_407",
+              "instructor": "Professor WANG Yixiu",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LPN_LT",
+              "instructor": "Professor WANG Yixiu",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3301:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "WMY_407",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3301:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "ERB_408",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3301:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG3503",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "3503",
+      "courseCode": "ELEG3503",
+      "title": "Intro. to DSP 數字信號處理導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG3503:-:LEC:9314",
+          "rawSection": "--LEC (9314)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9314,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KONG Qiuqiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "LHC_G04",
+              "instructor": "Professor KONG Qiuqiang",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LPN_LT",
+              "instructor": "Professor KONG Qiuqiang",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3503:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "ERB_713",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3503:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "LHC_101",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3503:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG3601",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "3601",
+      "courseCode": "ELEG3601",
+      "title": "Intro Electric Power Systems 電力系統導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG3601:-:LEC:5624",
+          "rawSection": "--LEC (5624)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5624,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LOH Poh Chiang Andrew"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "MMW_710",
+              "instructor": "Professor LOH Poh Chiang Andrew",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "MMW_702",
+              "instructor": "Professor LOH Poh Chiang Andrew",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3601:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "ERB_712",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3601:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "MMW_710",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG3601:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG3710",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "3710",
+      "courseCode": "ELEG3710",
+      "title": "Elect Product Design & Devept 電子產品設計與開發",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG3710:-L01:LAB:8576",
+          "rawSection": "-L01-LAB (8576)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 8576,
+          "language": "E",
+          "availability": {
+            "capacity": 28,
+            "enrolled": 0,
+            "availableSeats": 28,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. NGAN Lai Yin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "SHB_210",
+              "instructor": "Ms. NGAN Lai Yin",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG3910",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "3910",
+      "courseCode": "ELEG3910",
+      "title": "Undergrad Research in Elec Eng 電子工程本科研究",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG3910:-T01:TUT:6530",
+          "rawSection": "-T01-TUT (6530)",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": 6530,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG4214",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "4214",
+      "courseCode": "ELEG4214",
+      "title": "RF Circuits for Wireless Sys 無綫系統中的射頻電路",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG4214:-:LEC:7445",
+          "rawSection": "--LEC (7445)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7445,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WU Ke Li"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LSB_LT5",
+              "instructor": "Professor WU Ke Li",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "MMW_703",
+              "instructor": "Professor WU Ke Li",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4214:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "ERB_405",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4214:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "MMW_715",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4214:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG4312",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "4312",
+      "courseCode": "ELEG4312",
+      "title": "Micro-optic Devices and System 微光學器件與系統",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG4312:-:LEC:5398",
+          "rawSection": "--LEC (5398)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5398,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XUE Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "MMW_702",
+              "instructor": "Professor XUE Ying",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "SC_LG23",
+              "instructor": "Professor XUE Ying",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4312:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "SC_LG23",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4312:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "MMW_704",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4312:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG4511",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "4511",
+      "courseCode": "ELEG4511",
+      "title": "DSP & Applications 數字信號處理與應用",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG4511:-:LEC:9460",
+          "rawSection": "--LEC (9460)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9460,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MA Wing Kin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "BMS_LT",
+              "instructor": "Professor MA Wing Kin",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "MMW_702",
+              "instructor": "Professor MA Wing Kin",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4511:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "BMS_LT",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4511:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "MMW_715",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4511:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG4998",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "4998",
+      "courseCode": "ELEG4998",
+      "title": "Final Year Project I 畢業專題研究（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG4998:AAJ1:PRJ:6536",
+          "rawSection": "AAJ1-PRJ (6536)",
+          "sectionCode": "AAJ1",
+          "component": "PRJ",
+          "classNumber": 6536,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4998:ABJ1:PRJ:6537",
+          "rawSection": "ABJ1-PRJ (6537)",
+          "sectionCode": "ABJ1",
+          "component": "PRJ",
+          "classNumber": 6537,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4998:ACJ1:PRJ:8126",
+          "rawSection": "ACJ1-PRJ (8126)",
+          "sectionCode": "ACJ1",
+          "component": "PRJ",
+          "classNumber": 8126,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4998:ADJ1:PRJ:7763",
+          "rawSection": "ADJ1-PRJ (7763)",
+          "sectionCode": "ADJ1",
+          "component": "PRJ",
+          "classNumber": 7763,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4998:AEJ1:PRJ:7760",
+          "rawSection": "AEJ1-PRJ (7760)",
+          "sectionCode": "AEJ1",
+          "component": "PRJ",
+          "classNumber": 7760,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4998:AFJ1:PRJ:7761",
+          "rawSection": "AFJ1-PRJ (7761)",
+          "sectionCode": "AFJ1",
+          "component": "PRJ",
+          "classNumber": 7761,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4998:AHJ1:PRJ:7758",
+          "rawSection": "AHJ1-PRJ (7758)",
+          "sectionCode": "AHJ1",
+          "component": "PRJ",
+          "classNumber": 7758,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4998:AKJ1:PRJ:7757",
+          "rawSection": "AKJ1-PRJ (7757)",
+          "sectionCode": "AKJ1",
+          "component": "PRJ",
+          "classNumber": 7757,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG4999",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ele/ELE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "4999",
+      "courseCode": "ELEG4999",
+      "title": "Final Year Project II 畢業專題研究（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG4999:AAJ1:PRJ:8027",
+          "rawSection": "AAJ1-PRJ (8027)",
+          "sectionCode": "AAJ1",
+          "component": "PRJ",
+          "classNumber": 8027,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Thierry Albert Jean Louis BLU"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Thierry Albert Jean Louis BLU",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BAJ1:PRJ:6245",
+          "rawSection": "BAJ1-PRJ (6245)",
+          "sectionCode": "BAJ1",
+          "component": "PRJ",
+          "classNumber": 6245,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHAO Ni"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHAO Ni",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BBJ1:PRJ:6246",
+          "rawSection": "BBJ1-PRJ (6246)",
+          "sectionCode": "BBJ1",
+          "component": "PRJ",
+          "classNumber": 6246,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KONG Qiuqiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor KONG Qiuqiang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BCJ1:PRJ:6247",
+          "rawSection": "BCJ1-PRJ (6247)",
+          "sectionCode": "BCJ1",
+          "component": "PRJ",
+          "classNumber": 6247,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HU Guohua"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HU Guohua",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BEJ1:PRJ:6248",
+          "rawSection": "BEJ1-PRJ (6248)",
+          "sectionCode": "BEJ1",
+          "component": "PRJ",
+          "classNumber": 6248,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEUNG Ka Nang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEUNG Ka Nang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BFJ1:PRJ:6752",
+          "rawSection": "BFJ1-PRJ (6752)",
+          "sectionCode": "BFJ1",
+          "component": "PRJ",
+          "classNumber": 6752,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Hongsheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Hongsheng",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BGJ1:PRJ:6249",
+          "rawSection": "BGJ1-PRJ (6249)",
+          "sectionCode": "BGJ1",
+          "component": "PRJ",
+          "classNumber": 6249,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LOH Poh Chiang Andrew"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LOH Poh Chiang Andrew",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BHJ1:PRJ:6250",
+          "rawSection": "BHJ1-PRJ (6250)",
+          "sectionCode": "BHJ1",
+          "component": "PRJ",
+          "classNumber": 6250,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MA Wing Kin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MA Wing Kin",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BJJ1:PRJ:6251",
+          "rawSection": "BJJ1-PRJ (6251)",
+          "sectionCode": "BJJ1",
+          "component": "PRJ",
+          "classNumber": 6251,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PUN Kong Pang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor PUN Kong Pang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BKJ1:PRJ:6654",
+          "rawSection": "BKJ1-PRJ (6654)",
+          "sectionCode": "BKJ1",
+          "component": "PRJ",
+          "classNumber": 6654,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WU Ke Li"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WU Ke Li",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BLJ1:PRJ:6379",
+          "rawSection": "BLJ1-PRJ (6379)",
+          "sectionCode": "BLJ1",
+          "component": "PRJ",
+          "classNumber": 6379,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SUN Xiankai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SUN Xiankai",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BMJ1:PRJ:6487",
+          "rawSection": "BMJ1-PRJ (6487)",
+          "sectionCode": "BMJ1",
+          "component": "PRJ",
+          "classNumber": 6487,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAI Jiewen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LAI Jiewen",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BNJ1:PRJ:6753",
+          "rawSection": "BNJ1-PRJ (6753)",
+          "sectionCode": "BNJ1",
+          "component": "PRJ",
+          "classNumber": 6753,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HUANG Chaoran"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HUANG Chaoran",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BOJ1:PRJ:6663",
+          "rawSection": "BOJ1-PRJ (6663)",
+          "sectionCode": "BOJ1",
+          "component": "PRJ",
+          "classNumber": 6663,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Jianbin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Jianbin",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BPJ1:PRJ:6529",
+          "rawSection": "BPJ1-PRJ (6529)",
+          "sectionCode": "BPJ1",
+          "component": "PRJ",
+          "classNumber": 6529,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHU Ching Tat Chester"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SHU Ching Tat Chester",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BQJ1:PRJ:6444",
+          "rawSection": "BQJ1-PRJ (6444)",
+          "sectionCode": "BQJ1",
+          "component": "PRJ",
+          "classNumber": 6444,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jizhou"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Jizhou",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BRJ1:PRJ:6669",
+          "rawSection": "BRJ1-PRJ (6669)",
+          "sectionCode": "BRJ1",
+          "component": "PRJ",
+          "classNumber": 6669,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor REN Hongliang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor REN Hongliang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BSJ1:PRJ:6535",
+          "rawSection": "BSJ1-PRJ (6535)",
+          "sectionCode": "BSJ1",
+          "component": "PRJ",
+          "classNumber": 6535,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Ady SUWARDI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Ady SUWARDI",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BTJ1:PRJ:6309",
+          "rawSection": "BTJ1-PRJ (6309)",
+          "sectionCode": "BTJ1",
+          "component": "PRJ",
+          "classNumber": 6309,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. YIP Kim Fung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Mr. YIP Kim Fung",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BUJ1:PRJ:6655",
+          "rawSection": "BUJ1-PRJ (6655)",
+          "sectionCode": "BUJ1",
+          "component": "PRJ",
+          "classNumber": 6655,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YUAN Yixuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YUAN Yixuan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BVJ1:PRJ:6652",
+          "rawSection": "BVJ1-PRJ (6652)",
+          "sectionCode": "BVJ1",
+          "component": "PRJ",
+          "classNumber": 6652,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Shichang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor GAO Shichang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BXJ1:PRJ:6653",
+          "rawSection": "BXJ1-PRJ (6653)",
+          "sectionCode": "BXJ1",
+          "component": "PRJ",
+          "classNumber": 6653,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LONG Yi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LONG Yi",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:BYJ1:PRJ:6438",
+          "rawSection": "BYJ1-PRJ (6438)",
+          "sectionCode": "BYJ1",
+          "component": "PRJ",
+          "classNumber": 6438,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Martin STOLTERFOHT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Martin STOLTERFOHT",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:CAJ1:PRJ:6445",
+          "rawSection": "CAJ1-PRJ (6445)",
+          "sectionCode": "CAJ1",
+          "component": "PRJ",
+          "classNumber": 6445,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Huxin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor GAO Huxin",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:CCJ1:PRJ:8524",
+          "rawSection": "CCJ1-PRJ (8524)",
+          "sectionCode": "CCJ1",
+          "component": "PRJ",
+          "classNumber": 8524,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Yixiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Yixiu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:CDJ1:PRJ:8047",
+          "rawSection": "CDJ1-PRJ (8047)",
+          "sectionCode": "CDJ1",
+          "component": "PRJ",
+          "classNumber": 8047,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XUE Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XUE Ying",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:CEJ1:PRJ:8031",
+          "rawSection": "CEJ1-PRJ (8031)",
+          "sectionCode": "CEJ1",
+          "component": "PRJ",
+          "classNumber": 8031,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CAI Yuting"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CAI Yuting",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:CGJ1:PRJ:7759",
+          "rawSection": "CGJ1-PRJ (7759)",
+          "sectionCode": "CGJ1",
+          "component": "PRJ",
+          "classNumber": 7759,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG4999:CHJ1:PRJ:7762",
+          "rawSection": "CHJ1-PRJ (7762)",
+          "sectionCode": "CHJ1",
+          "component": "PRJ",
+          "classNumber": 7762,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

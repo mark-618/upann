@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "EEEN",
+  "courses": [
+    {
+      "id": "EEEN2030",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maeg/MAEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "EEEN",
+      "catalogNumber": "2030",
+      "courseCode": "EEEN2030",
+      "title": "Energy & Environ Econ & Mgmt 能源和環境經濟學及管理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Mech & Automation Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EEEN2030:-:LEC:5839",
+          "rawSection": "--LEC (5839)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5839,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Yunjian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LPN_LT",
+              "instructor": "Professor XU Yunjian",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSK_208",
+              "instructor": "Professor XU Yunjian",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "EEEN2030:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EEEN2040",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maeg/MAEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "EEEN",
+      "catalogNumber": "2040",
+      "courseCode": "EEEN2040",
+      "title": "HVAC I 供熱通風與空調（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Mech & Automation Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EEEN2040:-:LEC:9021",
+          "rawSection": "--LEC (9021)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9021,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Chun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "SC_L3",
+              "instructor": "Professor CHEN Chun",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "LHC_104",
+              "instructor": "Professor CHEN Chun",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "EEEN2040:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EEEN3030",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maeg/MAEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "EEEN",
+      "catalogNumber": "3030",
+      "courseCode": "EEEN3030",
+      "title": "Engineering Materials 工程材料",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Mech & Automation Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EEEN3030:-:LEC:5751",
+          "rawSection": "--LEC (5751)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5751,
+          "language": "E",
+          "availability": {
+            "capacity": 180,
+            "enrolled": 0,
+            "availableSeats": 180,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HE Qiguang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "MMW_LT1",
+              "instructor": "Professor HE Qiguang",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "SC_L1",
+              "instructor": "Professor HE Qiguang",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "EEEN3030:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 180,
+            "enrolled": 0,
+            "availableSeats": 180,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "EEEN3030:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 180,
+            "enrolled": 0,
+            "availableSeats": 180,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EEEN4050",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maeg/MAEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "EEEN",
+      "catalogNumber": "4050",
+      "courseCode": "EEEN4050",
+      "title": "Energy Storage Devices & Sys 能源存儲裝置與系統",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Mech & Automation Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EEEN4050:-:LEC:9578",
+          "rawSection": "--LEC (9578)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9578,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Yue"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "MMW_702",
+              "instructor": "Professor CHEN Yue",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "ERB_404",
+              "instructor": "Professor CHEN Yue",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "EEEN4050:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "EEEN4050:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EEEN4070",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maeg/MAEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "EEEN",
+      "catalogNumber": "4070",
+      "courseCode": "EEEN4070",
+      "title": "Green Building & Sustain Tech 綠色建築與可持續發展技術",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Mech & Automation Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EEEN4070:-:LEC:5521",
+          "rawSection": "--LEC (5521)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5521,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Xi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "ERB_404",
+              "instructor": "Professor CHEN Xi",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LHC_G04",
+              "instructor": "Professor CHEN Xi",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "EEEN4070:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EEEN4998",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maeg/MAEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "EEEN",
+      "catalogNumber": "4998",
+      "courseCode": "EEEN4998",
+      "title": "Final Year Project I 畢業專題研究（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Mech & Automation Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EEEN4998:-J01:PRJ:6730",
+          "rawSection": "-J01-PRJ (6730)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6730,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Weizhao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHANG Weizhao",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EEEN4999",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/maeg/MAEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "EEEN",
+      "catalogNumber": "4999",
+      "courseCode": "EEEN4999",
+      "title": "Final Year Project II 畢業專題研究（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Mech & Automation Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EEEN4999:-J01:PRJ:7805",
+          "rawSection": "-J01-PRJ (7805)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 7805,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Weizhao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHANG Weizhao",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "MCLE",
+  "courses": [
+    {
+      "id": "MCLE6102",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/educv/EDUCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MCLE",
+      "catalogNumber": "6102",
+      "courseCode": "MCLE6102",
+      "title": "Chi Lang Curr: Theo & Prac 中國語文課程：理論與實務",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Education",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MCLE6102:-:LEC:1081",
+          "rawSection": "--LEC (1081)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1081,
+          "language": "C",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LI Yuk Yung Charlotte"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:00PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:00",
+              "startMinutes": 1110,
+              "endMinutes": 1260,
+              "location": "ELB_307",
+              "instructor": "Dr. LI Yuk Yung Charlotte",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MCLE6171",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/educv/EDUCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MCLE",
+      "catalogNumber": "6171",
+      "courseCode": "MCLE6171",
+      "title": "Putonghua & Chinese Teaching 普通話與中文教學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Education",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MCLE6171:-:LEC:1331",
+          "rawSection": "--LEC (1331)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1331,
+          "language": "P",
+          "availability": {
+            "capacity": 999,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KOU Zhihui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:00PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:00",
+              "startMinutes": 1110,
+              "endMinutes": 1260,
+              "location": "ELB_403",
+              "instructor": "Dr. KOU Zhihui",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MCLE6173",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/educv/EDUCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MCLE",
+      "catalogNumber": "6173",
+      "courseCode": "MCLE6173",
+      "title": "Pro & Res Report : Chi Lang Ed 專題研習或研究報告：中國語文教學",
+      "units": 6,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Education",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MCLE6173:BJ01:PRJ:4395",
+          "rawSection": "BJ01-PRJ (4395)",
+          "sectionCode": "BJ01",
+          "component": "PRJ",
+          "classNumber": 4395,
+          "language": "C",
+          "availability": {
+            "capacity": 999,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MCLE6174",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/educv/EDUCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MCLE",
+      "catalogNumber": "6174",
+      "courseCode": "MCLE6174",
+      "title": "Curr Issures of Chi Lang Edu 中國語文教育的新議題",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Education",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MCLE6174:-:LEC:1082",
+          "rawSection": "--LEC (1082)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1082,
+          "language": "C",
+          "availability": {
+            "capacity": 999,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Chi Kian Edward"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:00PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:00",
+              "startMinutes": 1110,
+              "endMinutes": 1260,
+              "location": "ELB_206",
+              "instructor": "Dr. CHAN Chi Kian Edward",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

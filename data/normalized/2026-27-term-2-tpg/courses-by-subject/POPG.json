@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "POPG",
+  "courses": [
+    {
+      "id": "POPG5005",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "POPG",
+      "catalogNumber": "5005",
+      "courseCode": "POPG5005",
+      "title": "Global Child&Adolescent Health 兒童公共衞生",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "POPG5005:-:LEC:4785",
+          "rawSection": "--LEC (4785)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4785,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Edmund Anthony Severn NELSON"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Professor Edmund Anthony Severn NELSON",
+              "dates": [
+                "5/1",
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "POPG5008",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "POPG",
+      "catalogNumber": "5008",
+      "courseCode": "POPG5008",
+      "title": "Global Health Policy 全球健康政策",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "POPG5008:-:LEC:4781",
+          "rawSection": "--LEC (4781)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4781,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KIM Jean Hee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Professor KIM Jean Hee",
+              "dates": [
+                "8/1",
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

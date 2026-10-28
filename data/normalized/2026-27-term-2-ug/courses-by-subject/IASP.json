@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "IASP",
+  "courses": [
+    {
+      "id": "IASP4090",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/iasp/IASP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IASP",
+      "catalogNumber": "4090",
+      "courseCode": "IASP4090",
+      "title": "Indep Rsrch on Int'l Stud 國際專題研究",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "International Asian Studies PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IASP4090:-J01:PRJ:7754",
+          "rawSection": "-J01-PRJ (7754)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 7754,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IASP4280",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/iasp/IASP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IASP",
+      "catalogNumber": "4280",
+      "courseCode": "IASP4280",
+      "title": "IASP Senior Seminar 亞洲課程專題討論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ, SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "International Asian Studies PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IASP4280:-J01:PRJ:4892",
+          "rawSection": "-J01-PRJ (4892)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 4892,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IASP4280:-S01:SEM:no-class-number",
+          "rawSection": "-S01-SEM",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "YIA_507",
+              "instructor": null,
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,753 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "DSPS",
+  "courses": [
+    {
+      "id": "DSPS1004",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/dspsp/DSPSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "DSPS",
+      "catalogNumber": "1004",
+      "courseCode": "DSPS1004",
+      "title": "Statistics for DSPS 數據科學及政策研究的統計學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Data Science & Policy Stud PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DSPS1004:-:LEC:6096",
+          "rawSection": "--LEC (6096)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6096,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KWOK Pak Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ARC_G02",
+              "instructor": "Dr. KWOK Pak Ki",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DSPS2102",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/dspsp/DSPSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "DSPS",
+      "catalogNumber": "2102",
+      "courseCode": "DSPS2102",
+      "title": "Intro DS Apps in PP and PS 公共政策與政治研究中的數據科學應用導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Data Science & Policy Stud PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DSPS2102:-:LEC:7124",
+          "rawSection": "--LEC (7124)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7124,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chee Hon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "NAH_12",
+              "instructor": "Professor CHAN Chee Hon",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DSPS2201",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/dspsp/DSPSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "DSPS",
+      "catalogNumber": "2201",
+      "courseCode": "DSPS2201",
+      "title": "Data Preprocess for Data Analy 資料分析的資料預處理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Data Science & Policy Stud PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DSPS2201:-:LEC:6918",
+          "rawSection": "--LEC (6918)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6918,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Kwong Cheong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "UCC_208",
+              "instructor": "Dr. WONG Kwong Cheong",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DSPS2320",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/dspsp/DSPSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "DSPS",
+      "catalogNumber": "2320",
+      "courseCode": "DSPS2320",
+      "title": "AI Governance & Public Policy 人工智能治理與公共政策",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Data Science & Policy Stud PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DSPS2320:-:LEC:6919",
+          "rawSection": "--LEC (6919)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6919,
+          "language": "E",
+          "availability": {
+            "capacity": 32,
+            "enrolled": 0,
+            "availableSeats": 32,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Wai Ho"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "UCC_114",
+              "instructor": "Professor WONG Wai Ho",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DSPS2501",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/dspsp/DSPSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "DSPS",
+      "catalogNumber": "2501",
+      "courseCode": "DSPS2501",
+      "title": "Managing Tech & Pol Innovation 科技管理及政策創新",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Data Science & Policy Stud PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DSPS2501:-:LEC:6095",
+          "rawSection": "--LEC (6095)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6095,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KWOK Pak Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "UCC_207",
+              "instructor": "Dr. KWOK Pak Ki",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DSPS3190",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/dspsp/DSPSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "DSPS",
+      "catalogNumber": "3190",
+      "courseCode": "DSPS3190",
+      "title": "Big Data Analytics for PP 公共政策的大數據分析",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Data Science & Policy Stud PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DSPS3190:-:LEC:5393",
+          "rawSection": "--LEC (5393)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5393,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KWOK Pak Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "UCA_102",
+              "instructor": "Dr. KWOK Pak Ki",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DSPS3791",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/dspsp/DSPSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "DSPS",
+      "catalogNumber": "3791",
+      "courseCode": "DSPS3791",
+      "title": "NLP for Public Policy 公共政策的自然語言處理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Data Science & Policy Stud PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DSPS3791:-:LEC:5955",
+          "rawSection": "--LEC (5955)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5955,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Kwong Cheong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "UCC_206",
+              "instructor": "Dr. WONG Kwong Cheong",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DSPS3801",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/dspsp/DSPSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "DSPS",
+      "catalogNumber": "3801",
+      "courseCode": "DSPS3801",
+      "title": "Internship 實習",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Data Science & Policy Stud PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DSPS3801:-P01:PRA:8008",
+          "rawSection": "-P01-PRA (8008)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8008,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Kwong Cheong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. WONG Kwong Cheong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DSPS4801",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/dspsp/DSPSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "DSPS",
+      "catalogNumber": "4801",
+      "courseCode": "DSPS4801",
+      "title": "Graduation Capstone Project I 畢業總結項目（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Data Science & Policy Stud PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DSPS4801:-J01:PRJ:6257",
+          "rawSection": "-J01-PRJ (6257)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6257,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KWOK Pak Ki - Dr. WONG Kwong Cheong - Professor CHAN Chee Hon - Professor QIU Lin - Professor WONG Wai Ho"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. KWOK Pak Ki - Dr. WONG Kwong Cheong - Professor CHAN Chee Hon - Professor QIU Lin - Professor WONG Wai Ho",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DSPS4802",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/dspsp/DSPSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "DSPS",
+      "catalogNumber": "4802",
+      "courseCode": "DSPS4802",
+      "title": "Graduation Capstone Project II 畢業總結項目（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Data Science & Policy Stud PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DSPS4802:-J01:PRJ:6525",
+          "rawSection": "-J01-PRJ (6525)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6525,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KWOK Pak Ki - Dr. WONG Kwong Cheong - Professor CHAN Chee Hon - Professor QIU Lin - Professor WONG Wai Ho"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. KWOK Pak Ki - Dr. WONG Kwong Cheong - Professor CHAN Chee Hon - Professor QIU Lin - Professor WONG Wai Ho",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

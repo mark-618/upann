@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "AIMS",
+  "courses": [
+    {
+      "id": "AIMS5761",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aims/AIMS.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "AIMS",
+      "catalogNumber": "5761",
+      "courseCode": "AIMS5761",
+      "title": "BP to Investable AI Ventures 從商業計劃書到可投資的人工智能創業項目",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIMS5761:-:LEC:1061",
+          "rawSection": "--LEC (1061)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1061,
+          "language": "E",
+          "availability": {
+            "capacity": 32,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAU Chi Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "YIA_502",
+              "instructor": "Professor CHAU Chi Wai",
+              "dates": [
+                "22/5",
+                "29/5",
+                "5/6",
+                "12/6",
+                "19/6",
+                "26/6",
+                "3/7"
+              ]
+            },
+            {
+              "timeRaw": "Sa 01:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "13:30",
+              "endTime": "17:15",
+              "startMinutes": 810,
+              "endMinutes": 1035,
+              "location": "YIA_503",
+              "instructor": "Professor CHAU Chi Wai",
+              "dates": [
+                "22/5",
+                "29/5",
+                "5/6",
+                "12/6",
+                "19/6",
+                "26/6",
+                "3/7"
+              ]
+            },
+            {
+              "timeRaw": "Su 09:30AM - 12:30PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "09:30",
+              "endTime": "12:30",
+              "startMinutes": 570,
+              "endMinutes": 750,
+              "location": "TBA",
+              "instructor": "Professor CHAU Chi Wai",
+              "dates": [
+                "23/5",
+                "30/5",
+                "6/6",
+                "13/6",
+                "20/6",
+                "27/6",
+                "4/7"
+              ]
+            },
+            {
+              "timeRaw": "Su 01:30PM - 05:30PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "13:30",
+              "endTime": "17:30",
+              "startMinutes": 810,
+              "endMinutes": 1050,
+              "location": "TBA",
+              "instructor": "Professor CHAU Chi Wai",
+              "dates": [
+                "23/5",
+                "30/5",
+                "6/6",
+                "13/6",
+                "20/6",
+                "27/6",
+                "4/7"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AIMS5780",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aims/AIMS.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "AIMS",
+      "catalogNumber": "5780",
+      "courseCode": "AIMS5780",
+      "title": "AI Internship 人工智能實習",
+      "units": 1,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIMS5780:-P01:PRA:1145",
+          "rawSection": "-P01-PRA (1145)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 1145,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIN Xiaojun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIN Xiaojun",
+              "dates": [
+                "17/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

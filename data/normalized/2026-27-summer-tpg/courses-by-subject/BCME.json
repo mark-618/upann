@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "BCME",
+  "courses": [
+    {
+      "id": "BCME6211",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bcme/BCME.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "BCME",
+      "catalogNumber": "6211",
+      "courseCode": "BCME6211",
+      "title": "Chi Med Clinical Attachment I 中醫臨床實習(一)",
+      "units": 10,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRA, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chinese Medicine (MED)",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCME6211:-P01:PRA:1074",
+          "rawSection": "-P01-PRA (1074)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 1074,
+          "language": "P&C",
+          "availability": {
+            "capacity": 44,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr ZHANG Hongwei - Dr. CHAN Kam Leung - Dr. HUA Heyu - Miss HUNG Hing Yu - Mr. MOK Ho Yin - Mr. YUEN Ka Chun - Professor ZHANG Baoting"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr ZHANG Hongwei - Dr. CHAN Kam Leung - Dr. HUA Heyu - Miss HUNG Hing Yu - Mr. MOK Ho Yin - Mr. YUEN Ka Chun - Professor ZHANG Baoting",
+              "dates": [
+                "17/05/2027 - 02/08/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BCME6211:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P&C",
+          "availability": {
+            "capacity": 44,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "17/05/2027 - 02/08/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

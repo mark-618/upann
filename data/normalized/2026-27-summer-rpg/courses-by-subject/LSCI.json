@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.523Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 60,
+      "courses": 21,
+      "rawCoursesWithTargetTerm": 21,
+      "subjects": 5,
+      "sections": 21,
+      "meetings": 25,
+      "warnings": 0
+    }
+  },
+  "subject": "LSCI",
+  "courses": [
+    {
+      "id": "LSCI6108",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lsciv/LSCIV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "6108",
+      "courseCode": "LSCI6108",
+      "title": "Tech. in Metabolic Profiling 代謝組學技術",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI6108:-L01:LAB:1126",
+          "rawSection": "-L01-LAB (1126)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 1126,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GUO Dianjing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor GUO Dianjing",
+              "dates": [
+                "10/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI6301",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lsciv/LSCIV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "6301",
+      "courseCode": "LSCI6301",
+      "title": "Tech. in Mammalian Cell 哺乳動物細胞研究技術",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI6301:-L01:LAB:1127",
+          "rawSection": "-L01-LAB (1127)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 1127,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOW Hei Man - Professor LAU Kwok Fai - Professor TSANG Suk Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor CHOW Hei Man - Professor LAU Kwok Fai - Professor TSANG Suk Ying",
+              "dates": [
+                "10/05/2027 - 21/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

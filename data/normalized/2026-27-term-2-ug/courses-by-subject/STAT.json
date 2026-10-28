@@ -1,0 +1,2971 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "STAT",
+  "courses": [
+    {
+      "id": "STAT1011",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "1011",
+      "courseCode": "STAT1011",
+      "title": "Introduction to Statistics 統計導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT1011:D:LEC:9220",
+          "rawSection": "D-LEC (9220)",
+          "sectionCode": "D",
+          "component": "LEC",
+          "classNumber": 9220,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Tat Wing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_LT6",
+              "instructor": "Dr. WONG Tat Wing",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT1011:DT01:TUT:no-class-number",
+          "rawSection": "DT01-TUT",
+          "sectionCode": "DT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT1011:E:LEC:9492",
+          "rawSection": "E-LEC (9492)",
+          "sectionCode": "E",
+          "component": "LEC",
+          "classNumber": 9492,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. OUYANG Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_LT4",
+              "instructor": "Dr. OUYANG Ming",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT1011:ET01:TUT:no-class-number",
+          "rawSection": "ET01-TUT",
+          "sectionCode": "ET01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT1012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "1012",
+      "courseCode": "STAT1012",
+      "title": "Statistics for Life Sciences 生命科學統計",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT1012:B:LEC:5467",
+          "rawSection": "B-LEC (5467)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 5467,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. OUYANG Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_LT4",
+              "instructor": "Dr. OUYANG Ming",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "LSB_LT2",
+              "instructor": "Dr. OUYANG Ming",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT1012:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT1013",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "1013",
+      "courseCode": "STAT1013",
+      "title": "Data Science Toolbox 數據科學工具包",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT1013:-:LEC:6154",
+          "rawSection": "--LEC (6154)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6154,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIN Yingxin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "14:15",
+              "startMinutes": 690,
+              "endMinutes": 855,
+              "location": "SC_L4",
+              "instructor": "Professor LIN Yingxin",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT1013:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT2001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "2001",
+      "courseCode": "STAT2001",
+      "title": "Basic Con in Stat & Prob I 統計及概率基本概念（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT2001:C:LEC:6084",
+          "rawSection": "C-LEC (6084)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 6084,
+          "language": "E",
+          "availability": {
+            "capacity": 170,
+            "enrolled": 0,
+            "availableSeats": 170,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HO Kwok Wah"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "SC_L1",
+              "instructor": "Dr. HO Kwok Wah",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "SC_L1",
+              "instructor": "Dr. HO Kwok Wah",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2001:CT01:TUT:no-class-number",
+          "rawSection": "CT01-TUT",
+          "sectionCode": "CT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 170,
+            "enrolled": 0,
+            "availableSeats": 170,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT2005",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "2005",
+      "courseCode": "STAT2005",
+      "title": "Programming Lang for Stat 統計電腦語言",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT2005:B:LEC:9211",
+          "rawSection": "B-LEC (9211)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 9211,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. John Alexander WRIGHT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "LSB_LT6",
+              "instructor": "Dr. John Alexander WRIGHT",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "TYW_LT",
+              "instructor": "Dr. John Alexander WRIGHT",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2005:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT2006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "2006",
+      "courseCode": "STAT2006",
+      "title": "Basic Con in Stat & Prob II 統計及概率基本概念（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT2006:B:LEC:7450",
+          "rawSection": "B-LEC (7450)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 7450,
+          "language": "E",
+          "availability": {
+            "capacity": 200,
+            "enrolled": 0,
+            "availableSeats": 200,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LIU Kin Yat"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "SC_L1",
+              "instructor": "Dr. LIU Kin Yat",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "SC_L1",
+              "instructor": "Dr. LIU Kin Yat",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2006:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 200,
+            "enrolled": 0,
+            "availableSeats": 200,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2006:C:LEC:5445",
+          "rawSection": "C-LEC (5445)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 5445,
+          "language": "E",
+          "availability": {
+            "capacity": 200,
+            "enrolled": 0,
+            "availableSeats": 200,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XIA Dong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "TYW_LT",
+              "instructor": "Professor XIA Dong",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "SC_L1",
+              "instructor": "Professor XIA Dong",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2006:CT01:TUT:no-class-number",
+          "rawSection": "CT01-TUT",
+          "sectionCode": "CT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 200,
+            "enrolled": 0,
+            "availableSeats": 200,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT2011",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "2011",
+      "courseCode": "STAT2011",
+      "title": "Wkshop: Data Expl & Tec Writ'n 數據探索及技術寫作工作坊",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT2011:-J01:PRJ:7344",
+          "rawSection": "-J01-PRJ (7344)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 7344,
+          "language": "E",
+          "availability": {
+            "capacity": 105,
+            "enrolled": 0,
+            "availableSeats": 105,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. John Alexander WRIGHT - Dr. LIU Kin Yat"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "ICS_L1",
+              "instructor": "Dr. John Alexander WRIGHT - Dr. LIU Kin Yat",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2011:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 27,
+            "enrolled": 0,
+            "availableSeats": 27,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2011:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 26,
+            "enrolled": 0,
+            "availableSeats": 26,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2011:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 26,
+            "enrolled": 0,
+            "availableSeats": 26,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2011:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 26,
+            "enrolled": 0,
+            "availableSeats": 26,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT2102",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "2102",
+      "courseCode": "STAT2102",
+      "title": "Basic Stat Con & Methods II 基本統計概念及方法（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT2102:-:LEC:9582",
+          "rawSection": "--LEC (9582)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9582,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor FANG Xiao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LSB_LT2",
+              "instructor": "Professor FANG Xiao",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2102:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT3001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "3001",
+      "courseCode": "STAT3001",
+      "title": "Founda'n of Fin & Man Stat 財務及管理統計基礎",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT3001:-:LEC:5788",
+          "rawSection": "--LEC (5788)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5788,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HO Kwok Wah"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "LSK_LT3",
+              "instructor": "Dr. HO Kwok Wah",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "MMW_LT2",
+              "instructor": "Dr. HO Kwok Wah",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3001:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT3006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "3006",
+      "courseCode": "STAT3006",
+      "title": "Statistical Computing 統計運算學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT3006:-:LEC:5597",
+          "rawSection": "--LEC (5597)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5597,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": 0,
+            "availableSeats": 90,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WEI Yingying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "LSB_LT2",
+              "instructor": "Professor WEI Yingying",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3006:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": 0,
+            "availableSeats": 90,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT3007",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "3007",
+      "courseCode": "STAT3007",
+      "title": "Intro to Stochastic Processes 隨機過程入門",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT3007:B:LEC:5800",
+          "rawSection": "B-LEC (5800)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 5800,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Jiacheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "15:15",
+              "startMinutes": 750,
+              "endMinutes": 915,
+              "location": "LSB_LT5",
+              "instructor": "Professor ZHANG Jiacheng",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3007:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT3008",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "3008",
+      "courseCode": "STAT3008",
+      "title": "Applied Regression Analysis 應用迴歸分析",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT3008:C:LEC:6164",
+          "rawSection": "C-LEC (6164)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 6164,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG King Chau"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "LSB_LT6",
+              "instructor": "Dr. CHEUNG King Chau",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3008:CT01:TUT:no-class-number",
+          "rawSection": "CT01-TUT",
+          "sectionCode": "CT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT3010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "3010",
+      "courseCode": "STAT3010",
+      "title": "Optimization Sta & data Sci 統計學與數據科學中的優化",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT3010:-:LEC:5378",
+          "rawSection": "--LEC (5378)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5378,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Gen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "LSK_208",
+              "instructor": "Professor LI Gen",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3010:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT3011",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "3011",
+      "courseCode": "STAT3011",
+      "title": "Wkshop: Data Ana & Stat Comput 數據分析及統計運算工作坊",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT3011:-J01:PRJ:5578",
+          "rawSection": "-J01-PRJ (5578)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 5578,
+          "language": "E",
+          "availability": {
+            "capacity": 130,
+            "enrolled": 0,
+            "availableSeats": 130,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HO Kwok Wah - Dr. LIU Kin Yat"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LSB_LT1",
+              "instructor": "Dr. HO Kwok Wah - Dr. LIU Kin Yat",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3011:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 33,
+            "enrolled": 0,
+            "availableSeats": 33,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3011:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 33,
+            "enrolled": 0,
+            "availableSeats": 33,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3011:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 32,
+            "enrolled": 0,
+            "availableSeats": 32,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3011:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 32,
+            "enrolled": 0,
+            "availableSeats": 32,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT3210",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "3210",
+      "courseCode": "STAT3210",
+      "title": "Stat Tech in Life Sciences 生命科學之統計方法",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT3210:B:LEC:5927",
+          "rawSection": "B-LEC (5927)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 5927,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEUNG Sze Him Isaac"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "SC_L2",
+              "instructor": "Dr. LEUNG Sze Him Isaac",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3210:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT4002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "4002",
+      "courseCode": "STAT4002",
+      "title": "Applied Multivariate Analysis 應用多元統計學分析",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT4002:-:LEC:7459",
+          "rawSection": "--LEC (7459)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7459,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIN Zhixiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "LSB_LT5",
+              "instructor": "Professor LIN Zhixiang",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT4002:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT4005",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "4005",
+      "courseCode": "STAT4005",
+      "title": "Time Series 時間序列",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT4005:B:LEC:5789",
+          "rawSection": "B-LEC (5789)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 5789,
+          "language": "E",
+          "availability": {
+            "capacity": 135,
+            "enrolled": 0,
+            "availableSeats": 135,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Tat Wing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSK_LT2",
+              "instructor": "Dr. WONG Tat Wing",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "LSK_LT2",
+              "instructor": "Dr. WONG Tat Wing",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT4005:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 135,
+            "enrolled": 0,
+            "availableSeats": 135,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT4008",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "4008",
+      "courseCode": "STAT4008",
+      "title": "Survival Modelling 生存數據模型",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT4008:-:LEC:5992",
+          "rawSection": "--LEC (5992)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5992,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Huichen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "SC_L4",
+              "instructor": "Professor ZHU Huichen",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT4008:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT4010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "4010",
+      "courseCode": "STAT4010",
+      "title": "Bayesian Learning 貝葉斯學習",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT4010:-:LEC:9044",
+          "rawSection": "--LEC (9044)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9044,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Kin Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "ERB_407",
+              "instructor": "Professor CHAN Kin Wai",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT4010:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT4012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "4012",
+      "courseCode": "STAT4012",
+      "title": "Sta Prcp Deep Learn wz Bz App 深度學習的統計原則和商業應用",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT4012:-:LEC:5377",
+          "rawSection": "--LEC (5377)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5377,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAM Sheung Chi Phillip"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "15:15",
+              "startMinutes": 750,
+              "endMinutes": 915,
+              "location": "ERB_804",
+              "instructor": "Professor YAM Sheung Chi Phillip",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT4012:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT4013",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sta/STA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "4013",
+      "courseCode": "STAT4013",
+      "title": "Practicum 行業實習",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT4013:-P01:PRA:6538",
+          "rawSection": "-P01-PRA (6538)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 6538,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Junhui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Junhui",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

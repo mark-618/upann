@@ -1,0 +1,1060 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "MMAT",
+  "courses": [
+    {
+      "id": "MMAT5010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5010",
+      "courseCode": "MMAT5010",
+      "title": "Linear Analysis 線性分析",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5010:-:LEC:1687",
+          "rawSection": "--LEC (1687)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1687,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEUNG Chi Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "YIA_LT7",
+              "instructor": "Professor LEUNG Chi Wai",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5310",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5310",
+      "courseCode": "MMAT5310",
+      "title": "Financial Analytics 金融分析",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5310:-:LEC:1589",
+          "rawSection": "--LEC (1589)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1589,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MA Ka Chun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "LKC_LT1",
+              "instructor": "Professor MA Ka Chun",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MMAT5310:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5340",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5340",
+      "courseCode": "MMAT5340",
+      "title": "Probability&StochasticAnalysis 概率論與隨機分析",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5340:-:LEC:1572",
+          "rawSection": "--LEC (1572)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1572,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TAN Xiaolu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "YIA_LT6",
+              "instructor": "Professor TAN Xiaolu",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4",
+                "3/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5370",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5370",
+      "courseCode": "MMAT5370",
+      "title": "Social and Economic Networks 社會和經濟網絡:理論、建模和計算",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5370:-:LEC:2320",
+          "rawSection": "--LEC (2320)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2320,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Chak Fu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSB_LT1",
+              "instructor": "Dr. WONG Chak Fu",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4",
+                "3/5"
+              ]
+            },
+            {
+              "timeRaw": "Mo 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "LSB_LT1",
+              "instructor": "Dr. WONG Chak Fu",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4",
+                "3/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5390",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5390",
+      "courseCode": "MMAT5390",
+      "title": "Mathematical Image Processing 數學圖像處理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5390:-:LEC:2321",
+          "rawSection": "--LEC (2321)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2321,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LUI Lok Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "CYT_LT1A",
+              "instructor": "Professor LUI Lok Ming",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "ELB_LT2",
+              "instructor": "Professor LUI Lok Ming",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5391",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5391",
+      "courseCode": "MMAT5391",
+      "title": "Math'l Theor. Machine Learning 機器學習的數學理論",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5391:B:LEC:2575",
+          "rawSection": "B-LEC (2575)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 2575,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Hiu Ning"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "MMW_LT1",
+              "instructor": "Dr. CHAN Hiu Ning",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5392",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5392",
+      "courseCode": "MMAT5392",
+      "title": "Mathematical Principles of AI 人工智能的數學原理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5392:-:LEC:2329",
+          "rawSection": "--LEC (2329)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2329,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HON Yiu Chung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "YIA_LT3",
+              "instructor": "Professor HON Yiu Chung",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5393",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5393",
+      "courseCode": "MMAT5393",
+      "title": "Num Lin Alg and App 數值線性代數及其應用",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5393:-:LEC:2328",
+          "rawSection": "--LEC (2328)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2328,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor JIN Bangti"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "ELB_LT1",
+              "instructor": "Professor JIN Bangti",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "ELB_LT3",
+              "instructor": "Professor JIN Bangti",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5395",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5395",
+      "courseCode": "MMAT5395",
+      "title": "Mathematics of Games of Chance 機會遊戲的數學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5395:-:LEC:1530",
+          "rawSection": "--LEC (1530)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1530,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Kwai Lam"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "LSB_LT1",
+              "instructor": "Dr. WONG Kwai Lam",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5410",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5410",
+      "courseCode": "MMAT5410",
+      "title": "Guided Studies I 導修(一)",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5410:-S01:SEM:9878",
+          "rawSection": "-S01-SEM (9878)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 9878,
+          "language": "E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. NG Ming Ho"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Dr. NG Ming Ho",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5510",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5510",
+      "courseCode": "MMAT5510",
+      "title": "Foundation of Advanced Math 高等數學基礎",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5510:-:LEC:1481",
+          "rawSection": "--LEC (1481)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1481,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. XIAO Jingjing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "YIA_LT4",
+              "instructor": "Dr. XIAO Jingjing",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MMAT5610",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mathv/MATHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MMAT",
+      "catalogNumber": "5610",
+      "courseCode": "MMAT5610",
+      "title": "Introduction to Combinatorics 組合數學導引",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MMAT5610:-:LEC:1576",
+          "rawSection": "--LEC (1576)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1576,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHENG Man Chuen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "LHC_103",
+              "instructor": "Dr. CHENG Man Chuen",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4",
+                "3/5"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

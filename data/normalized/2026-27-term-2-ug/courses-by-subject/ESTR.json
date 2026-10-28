@@ -1,0 +1,3516 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "ESTR",
+  "courses": [
+    {
+      "id": "ESTR1003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "1003",
+      "courseCode": "ESTR1003",
+      "title": "Engineering Physics 工程物理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR1003:-:LEC:7393",
+          "rawSection": "--LEC (7393)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7393,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jizhou"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "LHC_G04",
+              "instructor": "Professor LI Jizhou",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ERB_804",
+              "instructor": "Professor LI Jizhou",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR1003:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "ERB_804",
+              "instructor": null,
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR1005",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "1005",
+      "courseCode": "ESTR1005",
+      "title": "Linear Algebra for Engineers 線性代數及其工程應用",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR1005:-:LEC:5748",
+          "rawSection": "--LEC (5748)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5748,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LSB_C1",
+              "instructor": "Staff",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "LHC_104",
+              "instructor": "Staff",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR1005:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "YIA_505",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR1006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "1006",
+      "courseCode": "ESTR1006",
+      "title": "Multivariable Calculus for Eng 多元微積分及其工程應用",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR1006:-:LEC:9573",
+          "rawSection": "--LEC (9573)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9573,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HAN Dongkun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "WMY_506",
+              "instructor": "Dr. HAN Dongkun",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "WMY_403",
+              "instructor": "Dr. HAN Dongkun",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR1006:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "WMY_403",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR2016",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "2016",
+      "courseCode": "ESTR2016",
+      "title": "Differential Equations for Eng 微分方程及其工程應用",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR2016:-:LEC:8348",
+          "rawSection": "--LEC (8348)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8348,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HUANG Chaoran"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SC_L1",
+              "instructor": "Professor HUANG Chaoran",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Mo 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "SC_L1",
+              "instructor": "Professor HUANG Chaoran",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR2016:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "ERB_LT",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR2020",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "2020",
+      "courseCode": "ESTR2020",
+      "title": "Statistics for Engineers 統計及其工程應用",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR2020:-:LEC:8362",
+          "rawSection": "--LEC (8362)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8362,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PAN Jialin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "MMW_LT1",
+              "instructor": "Professor PAN Jialin",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "MMW_LT1",
+              "instructor": "Professor PAN Jialin",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR2020:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "MMW_LT1",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR2206",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "2206",
+      "courseCode": "ESTR2206",
+      "title": "Signals and Systems 信號與系統",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR2206:-:LEC:6557",
+          "rawSection": "--LEC (6557)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6557,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. NGAN Lai Yin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "ERB_407",
+              "instructor": "Ms. NGAN Lai Yin",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LSB_LT5",
+              "instructor": "Ms. NGAN Lai Yin",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            },
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Ms. NGAN Lai Yin",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR2206:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR2206:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "ERB_706",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR2206:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "ERB_703",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR2206:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "MMW_704",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR2206:-T04:TUT:no-class-number",
+          "rawSection": "-T04-TUT",
+          "sectionCode": "-T04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR2306",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "2306",
+      "courseCode": "ESTR2306",
+      "title": "Intro to Sys Programming 系統編程導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR2306:-:LEC:5039",
+          "rawSection": "--LEC (5039)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5039,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIN Ho Fai Hoover"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSB_LT6",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "ERB_1004",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR2306:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "ERB_1004",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            },
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR2362",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "2362",
+      "courseCode": "ESTR2362",
+      "title": "Discrete Struc and Probability 離散結構及概率論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR2362:-:LEC:4820",
+          "rawSection": "--LEC (4820)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4820,
+          "language": "E",
+          "availability": {
+            "capacity": 13,
+            "enrolled": 0,
+            "availableSeats": 13,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Amin AMINZADEH GOHARI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "MMW_706",
+              "instructor": "Professor Amin AMINZADEH GOHARI",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 08:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "08:30",
+              "endTime": "10:15",
+              "startMinutes": 510,
+              "endMinutes": 615,
+              "location": "BMS_2",
+              "instructor": "Professor Amin AMINZADEH GOHARI",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR2362:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 13,
+            "enrolled": 0,
+            "availableSeats": 13,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            },
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR2520",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "2520",
+      "courseCode": "ESTR2520",
+      "title": "Optimization Methods 優化方法",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR2520:-:LEC:6659",
+          "rawSection": "--LEC (6659)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6659,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WAI Hoi To"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "SC_L1",
+              "instructor": "Professor WAI Hoi To",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "SC_L2",
+              "instructor": "Professor WAI Hoi To",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            },
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor WAI Hoi To",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR2520:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "LSB_LT1",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR3100",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "3100",
+      "courseCode": "ESTR3100",
+      "title": "Rapid Prototyping of Dig Sys 數字系統之快速原型技術",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR3100:-:LEC:7676",
+          "rawSection": "--LEC (7676)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7676,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YANG Ming Chang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ERB_404",
+              "instructor": "Professor YANG Ming Chang",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "ERB_404",
+              "instructor": "Professor YANG Ming Chang",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR3100:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "SHB_102",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR3106",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "3106",
+      "courseCode": "ESTR3106",
+      "title": "Principles of Programming Lang 程序設計語言原理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR3106:-:LEC:6041",
+          "rawSection": "--LEC (6041)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6041,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Lauren Marcelyn PICK"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "ERB_LT",
+              "instructor": "Professor Lauren Marcelyn PICK",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "ERB_LT",
+              "instructor": "Professor Lauren Marcelyn PICK",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "ERB_LT",
+              "instructor": "Professor Lauren Marcelyn PICK",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR3106:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "ERB_LT",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR3106:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "LHC_104",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR3106:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "MMW_LT2",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR3306",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "3306",
+      "courseCode": "ESTR3306",
+      "title": "Soc Media & Human Infor Int 社交媒體與人際信息互動",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR3306:-:LEC:4822",
+          "rawSection": "--LEC (4822)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4822,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Yuen Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "LSB_LT3",
+              "instructor": "Professor CHAN Yuen Yan",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "MMW_710",
+              "instructor": "Professor CHAN Yuen Yan",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR3306:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            },
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR3310",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "3310",
+      "courseCode": "ESTR3310",
+      "title": "Computer Networks 計算機網絡",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR3310:-:LEC:4824",
+          "rawSection": "--LEC (4824)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4824,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIN Ho Fai Hoover"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "ERB_703",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "ERB_804",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR3310:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR3408",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "3408",
+      "courseCode": "ESTR3408",
+      "title": "Introduction to Robotics 機器人學導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR3408:-:LEC:6491",
+          "rawSection": "--LEC (6491)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6491,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAU Tat Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "SB_UG06",
+              "instructor": "Professor LAU Tat Ming",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "SB_UG06",
+              "instructor": "Professor LAU Tat Ming",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor LAU Tat Ming",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR3408:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR4120",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "4120",
+      "courseCode": "ESTR4120",
+      "title": "Data Comm & Computer Networks 數據通信及計算機網絡",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR4120:-:LEC:5334",
+          "rawSection": "--LEC (5334)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5334,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Hong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "MMW_LT2",
+              "instructor": "Professor XU Hong",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "TYW_LT",
+              "instructor": "Professor XU Hong",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "TYW_LT",
+              "instructor": "Professor XU Hong",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4120:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "MMW_LT2",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR4300",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "4300",
+      "courseCode": "ESTR4300",
+      "title": "Web-scale Info Analytics 網絡規模資訊分析",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR4300:-:LEC:4835",
+          "rawSection": "--LEC (4835)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4835,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAU Wing Cheong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "BMS_G18",
+              "instructor": "Professor LAU Wing Cheong",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "BMS_G18",
+              "instructor": "Professor LAU Wing Cheong",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4300:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            },
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR4999",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "4999",
+      "courseCode": "ESTR4999",
+      "title": "Graduation Thesis II 畢業專題研究（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR4999:ABJ1:PRJ:6215",
+          "rawSection": "ABJ1-PRJ (6215)",
+          "sectionCode": "ABJ1",
+          "component": "PRJ",
+          "classNumber": 6215,
+          "language": "E",
+          "availability": {
+            "capacity": 34,
+            "enrolled": 0,
+            "availableSeats": 34,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LO Chi Lik Eric"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LO Chi Lik Eric",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:ACJ1:PRJ:6789",
+          "rawSection": "ACJ1-PRJ (6789)",
+          "sectionCode": "ACJ1",
+          "component": "PRJ",
+          "classNumber": 6789,
+          "language": "E",
+          "availability": {
+            "capacity": 34,
+            "enrolled": 0,
+            "availableSeats": 34,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Farzan FARNIA"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Farzan FARNIA",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:ADJ1:PRJ:6790",
+          "rawSection": "ADJ1-PRJ (6790)",
+          "sectionCode": "ADJ1",
+          "component": "PRJ",
+          "classNumber": 6790,
+          "language": "E",
+          "availability": {
+            "capacity": 34,
+            "enrolled": 0,
+            "availableSeats": 34,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHENG James"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHENG James",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:AEJ1:PRJ:6791",
+          "rawSection": "AEJ1-PRJ (6791)",
+          "sectionCode": "AEJ1",
+          "component": "PRJ",
+          "classNumber": 6791,
+          "language": "E",
+          "availability": {
+            "capacity": 34,
+            "enrolled": 0,
+            "availableSeats": 34,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Yu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:AFJ1:PRJ:6792",
+          "rawSection": "AFJ1-PRJ (6792)",
+          "sectionCode": "AFJ1",
+          "component": "PRJ",
+          "classNumber": 6792,
+          "language": "E",
+          "availability": {
+            "capacity": 34,
+            "enrolled": 0,
+            "availableSeats": 34,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIANG Xiao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIANG Xiao",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:AGJ1:PRJ:6214",
+          "rawSection": "AGJ1-PRJ (6214)",
+          "sectionCode": "AGJ1",
+          "component": "PRJ",
+          "classNumber": 6214,
+          "language": "E",
+          "availability": {
+            "capacity": 34,
+            "enrolled": 0,
+            "availableSeats": 34,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Shengchao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIU Shengchao",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:AHJ1:PRJ:6630",
+          "rawSection": "AHJ1-PRJ (6630)",
+          "sectionCode": "AHJ1",
+          "component": "PRJ",
+          "classNumber": 6630,
+          "language": "E",
+          "availability": {
+            "capacity": 34,
+            "enrolled": 0,
+            "availableSeats": 34,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LU Songtao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LU Songtao",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:AIJ1:PRJ:6610",
+          "rawSection": "AIJ1-PRJ (6610)",
+          "sectionCode": "AIJ1",
+          "component": "PRJ",
+          "classNumber": 6610,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LYU Rung Tsong Michael"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LYU Rung Tsong Michael",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:AJJ1:PRJ:6611",
+          "rawSection": "AJJ1-PRJ (6611)",
+          "sectionCode": "AJJ1",
+          "component": "PRJ",
+          "classNumber": 6611,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Hong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Hong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:BAJ1:PRJ:6609",
+          "rawSection": "BAJ1-PRJ (6609)",
+          "sectionCode": "BAJ1",
+          "component": "PRJ",
+          "classNumber": 6609,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jizhou"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Jizhou",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:BBJ1:PRJ:7877",
+          "rawSection": "BBJ1-PRJ (7877)",
+          "sectionCode": "BBJ1",
+          "component": "PRJ",
+          "classNumber": 7877,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor REN Hongliang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor REN Hongliang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:CAJ1:PRJ:6365",
+          "rawSection": "CAJ1-PRJ (6365)",
+          "sectionCode": "CAJ1",
+          "component": "PRJ",
+          "classNumber": 6365,
+          "language": "E",
+          "availability": {
+            "capacity": 34,
+            "enrolled": 0,
+            "availableSeats": 34,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIN Xiaojun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIN Xiaojun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:CBJ1:PRJ:8070",
+          "rawSection": "CBJ1-PRJ (8070)",
+          "sectionCode": "CBJ1",
+          "component": "PRJ",
+          "classNumber": 8070,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XING Guoliang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XING Guoliang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:CCJ1:PRJ:8090",
+          "rawSection": "CCJ1-PRJ (8090)",
+          "sectionCode": "CCJ1",
+          "component": "PRJ",
+          "classNumber": 8090,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XUE Tianfan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XUE Tianfan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:CDJ1:PRJ:8091",
+          "rawSection": "CDJ1-PRJ (8091)",
+          "sectionCode": "CDJ1",
+          "component": "PRJ",
+          "classNumber": 8091,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAN Zhenyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YAN Zhenyu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:CEJ1:PRJ:7768",
+          "rawSection": "CEJ1-PRJ (7768)",
+          "sectionCode": "CEJ1",
+          "component": "PRJ",
+          "classNumber": 7768,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YUE Xiangyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YUE Xiangyu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:DAJ1:PRJ:8519",
+          "rawSection": "DAJ1-PRJ (8519)",
+          "sectionCode": "DAJ1",
+          "component": "PRJ",
+          "classNumber": 8519,
+          "language": "E",
+          "availability": {
+            "capacity": 34,
+            "enrolled": 0,
+            "availableSeats": 34,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Chun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN Chun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:DBJ1:PRJ:8531",
+          "rawSection": "DBJ1-PRJ (8531)",
+          "sectionCode": "DBJ1",
+          "component": "PRJ",
+          "classNumber": 8531,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Zhongyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Zhongyu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESTR4999:EAJ1:PRJ:6366",
+          "rawSection": "EAJ1-PRJ (6366)",
+          "sectionCode": "EAJ1",
+          "component": "PRJ",
+          "classNumber": 6366,
+          "language": "E",
+          "availability": {
+            "capacity": 34,
+            "enrolled": 0,
+            "availableSeats": 34,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor AHN Dohyun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor AHN Dohyun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

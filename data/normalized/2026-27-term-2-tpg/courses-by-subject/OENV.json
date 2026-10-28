@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "OENV",
+  "courses": [
+    {
+      "id": "OENV5002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "OENV",
+      "catalogNumber": "5002",
+      "courseCode": "OENV5002",
+      "title": "LecS on Occupational Health 職業健康",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "OENV5002:-:LEC:1409",
+          "rawSection": "--LEC (1409)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1409,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. YIP Sung Tat - Professor FOK Pui Chu Joan - Professor TSE Lap Ah - Professor TSIN Tai Wa"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "PWH",
+              "instructor": "Mr. YIP Sung Tat - Professor FOK Pui Chu Joan - Professor TSE Lap Ah - Professor TSIN Tai Wa",
+              "dates": [
+                "08/01/2027 - 29/01/2027",
+                "12/02/2027 - 19/03/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "OENV5012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "OENV",
+      "catalogNumber": "5012",
+      "courseCode": "OENV5012",
+      "title": "Risk Assessment and Management 職業及環境衛生的風險評估和管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "OENV5012:-:LEC:3981",
+          "rawSection": "--LEC (3981)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 3981,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HO Kin Fai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Professor HO Kin Fai",
+              "dates": [
+                "5/1",
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

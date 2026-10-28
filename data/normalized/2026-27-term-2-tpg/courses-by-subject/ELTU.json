@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "ELTU",
+  "courses": [
+    {
+      "id": "ELTU5501",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eltcx/ELTCX.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELTU",
+      "catalogNumber": "5501",
+      "courseCode": "ELTU5501",
+      "title": "PG Presentation Skills 研究生英文口語表達技巧",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "CLW",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "English Language Teaching Unit",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELTU5501:CC01:CLW:9723",
+          "rawSection": "CC01-CLW (9723)",
+          "sectionCode": "CC01",
+          "component": "CLW",
+          "classNumber": 9723,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr Dean William FISHER"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "UCA_312",
+              "instructor": "Mr Dean William FISHER",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

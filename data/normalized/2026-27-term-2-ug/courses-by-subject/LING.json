@@ -1,0 +1,1489 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "LING",
+  "courses": [
+    {
+      "id": "LING1000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "1000",
+      "courseCode": "LING1000",
+      "title": "Invitation to Linguistics 語言學概論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING1000:-:LEC:7547",
+          "rawSection": "--LEC (7547)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7547,
+          "language": "C",
+          "availability": {
+            "capacity": 55,
+            "enrolled": 0,
+            "availableSeats": 55,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEI Ka Yan Margaret"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "NAH_115",
+              "instructor": "Dr. LEI Ka Yan Margaret",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING1000:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 55,
+            "enrolled": 0,
+            "availableSeats": 55,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "NAH_115",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING1000:A:LEC:9945",
+          "rawSection": "A-LEC (9945)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 9945,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. Jonathan Eric HAVENHILL"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "KKB_101",
+              "instructor": "Dr. Jonathan Eric HAVENHILL",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING1000:AT01:TUT:no-class-number",
+          "rawSection": "AT01-TUT",
+          "sectionCode": "AT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "KKB_101",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LING1003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "1003",
+      "courseCode": "LING1003",
+      "title": "Exploring Grammar: English 語法探索：英語",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING1003:-:LEC:4983",
+          "rawSection": "--LEC (4983)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4983,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. Jonathan James WEBSTER"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "KKB_101",
+              "instructor": "Dr. Jonathan James WEBSTER",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING1003:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "KKB_101",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LING2004",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "2004",
+      "courseCode": "LING2004",
+      "title": "Phonology I 音系學（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING2004:-:LEC:7570",
+          "rawSection": "--LEC (7570)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7570,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAI Yee King Regine"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "LHC_104",
+              "instructor": "Professor LAI Yee King Regine",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING2004:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 35,
+            "enrolled": 0,
+            "availableSeats": 35,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "LHC_104",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING2004:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "LPN_LT",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LING2005",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "2005",
+      "courseCode": "LING2005",
+      "title": "Syntax I 句法學（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING2005:-:LEC:7572",
+          "rawSection": "--LEC (7572)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7572,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEN Zhuo"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LSK_LT2",
+              "instructor": "Dr. CHEN Zhuo",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING2005:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "LSK_LT2",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING2005:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "ERB_402",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING2005:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "LSK_208",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LING2007",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "2007",
+      "courseCode": "LING2007",
+      "title": "Linguistic Argumentation I 語言學論證（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING2007:-:LEC:9937",
+          "rawSection": "--LEC (9937)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9937,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEN Zhuo"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "UCC_110",
+              "instructor": "Dr. CHEN Zhuo",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING2007:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "UCC_110",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LING2301",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "2301",
+      "courseCode": "LING2301",
+      "title": "Language and Society 語言與社會",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING2301:-:LEC:7592",
+          "rawSection": "--LEC (7592)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7592,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. Jonathan James WEBSTER"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "SWH_1",
+              "instructor": "Dr. Jonathan James WEBSTER",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING2301:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "SWH_1",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LING3107",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "3107",
+      "courseCode": "LING3107",
+      "title": "Comparative Grammar 比較語法",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING3107:-:LEC:7596",
+          "rawSection": "--LEC (7596)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7596,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEN Zhuo"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "KKB_101",
+              "instructor": "Dr. CHEN Zhuo",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING3107:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "KKB_101",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LING3202",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "3202",
+      "courseCode": "LING3202",
+      "title": "Psycholinguistics 心理語言學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING3202:-:LEC:7616",
+          "rawSection": "--LEC (7616)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7616,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CAI Zhenguang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SWH_1",
+              "instructor": "Professor CAI Zhenguang",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING3202:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "SWH_1",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LING4000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "4000",
+      "courseCode": "LING4000",
+      "title": "Research Project II 語言學研究（二）",
+      "units": 6,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING4000:-:LEC:7941",
+          "rawSection": "--LEC (7941)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7941,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEN Zhuo - Dr. LEI Ka Yan Margaret - Professor CAI Zhenguang - Professor CHEUNG Yam Leung - Professor FENG Gangyi - Professor LAI Yee King Regine - Professor MAI Ziyin - Professor MOK Pik Ki Peggy - Professor PAN Haihua"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHEN Zhuo - Dr. LEI Ka Yan Margaret - Professor CAI Zhenguang - Professor CHEUNG Yam Leung - Professor FENG Gangyi - Professor LAI Yee King Regine - Professor MAI Ziyin - Professor MOK Pik Ki Peggy - Professor PAN Haihua",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LING4001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "4001",
+      "courseCode": "LING4001",
+      "title": "Research Project I 語言學研究（一）",
+      "units": 0,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING4001:-J01:PRJ:6592",
+          "rawSection": "-J01-PRJ (6592)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6592,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAI Yee King Regine"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LAI Yee King Regine",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LING4202",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lin/LIN.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LING",
+      "catalogNumber": "4202",
+      "courseCode": "LING4202",
+      "title": "Special Topics in Lang & Mind 語言與心智專題",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LING4202:-:LEC:7618",
+          "rawSection": "--LEC (7618)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7618,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 6,
+            "availableSeats": 24,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor FENG Gangyi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LDS_214",
+              "instructor": "Professor FENG Gangyi",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "LING4202:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 6,
+            "availableSeats": 24,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "LDS_214",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

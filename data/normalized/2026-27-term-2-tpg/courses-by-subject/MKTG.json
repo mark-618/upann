@@ -1,0 +1,2396 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "MKTG",
+  "courses": [
+    {
+      "id": "MKTG5011",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "5011",
+      "courseCode": "MKTG5011",
+      "title": "Marketing Management 營銷管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG5011:F:LEC:1157",
+          "rawSection": "F-LEC (1157)",
+          "sectionCode": "F",
+          "component": "LEC",
+          "classNumber": 1157,
+          "language": "E",
+          "availability": {
+            "capacity": 75,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHEN Hao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:00PM - 05:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:00",
+              "endTime": "17:30",
+              "startMinutes": 840,
+              "endMinutes": 1050,
+              "location": "CYT_LT5",
+              "instructor": "Professor SHEN Hao",
+              "dates": [
+                "22/12",
+                "2/2"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:00PM - 05:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:00",
+              "endTime": "17:30",
+              "startMinutes": 840,
+              "endMinutes": 1050,
+              "location": "CYT_LT5",
+              "instructor": "Professor SHEN Hao",
+              "dates": [
+                "10/12",
+                "17/12",
+                "14/1",
+                "21/1",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Fr 02:00PM - 05:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:00",
+              "endTime": "17:30",
+              "startMinutes": 840,
+              "endMinutes": 1050,
+              "location": "WMY_506",
+              "instructor": "Professor SHEN Hao",
+              "dates": [
+                "8/1"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG5011:P:LEC:1423",
+          "rawSection": "P-LEC (1423)",
+          "sectionCode": "P",
+          "component": "LEC",
+          "classNumber": 1423,
+          "language": "P",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HU Mantian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 08:30AM - 06:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "08:30",
+              "endTime": "18:30",
+              "startMinutes": 510,
+              "endMinutes": 1110,
+              "location": "CYT_LT2",
+              "instructor": "Professor HU Mantian",
+              "dates": [
+                "10/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 08:30AM - 06:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "18:30",
+              "startMinutes": 510,
+              "endMinutes": 1110,
+              "location": "CYT_LT2",
+              "instructor": "Professor HU Mantian",
+              "dates": [
+                "11/12"
+              ]
+            },
+            {
+              "timeRaw": "Sa 08:30AM - 06:30PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:30",
+              "startMinutes": 510,
+              "endMinutes": 1110,
+              "location": "CYT_LT2",
+              "instructor": "Professor HU Mantian",
+              "dates": [
+                "12/12"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:30PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:30",
+              "startMinutes": 510,
+              "endMinutes": 1110,
+              "location": "CYT_LT2",
+              "instructor": "Professor HU Mantian",
+              "dates": [
+                "13/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG5011:W:LEC:1181",
+          "rawSection": "W-LEC (1181)",
+          "sectionCode": "W",
+          "component": "LEC",
+          "classNumber": 1181,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHEN Luxi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "ARC_G04",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "12/12",
+                "19/12",
+                "9/1",
+                "16/1",
+                "23/1",
+                "30/1",
+                "20/2",
+                "27/2",
+                "6/3"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "CYT_LT4",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "2/1",
+                "13/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG5017",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "5017",
+      "courseCode": "MKTG5017",
+      "title": "Marketing 巿場營銷",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG5017:SA:LEC:1243",
+          "rawSection": "SA-LEC (1243)",
+          "sectionCode": "SA",
+          "component": "LEC",
+          "classNumber": 1243,
+          "language": "P",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Leilei - Professor HU Mantian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Professor GAO Leilei - Professor HU Mantian",
+              "dates": [
+                "25/2"
+              ]
+            },
+            {
+              "timeRaw": "Fr 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Professor GAO Leilei - Professor HU Mantian",
+              "dates": [
+                "26/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Professor GAO Leilei - Professor HU Mantian",
+              "dates": [
+                "27/2"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Professor GAO Leilei - Professor HU Mantian",
+              "dates": [
+                "28/2"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG5017:SB:LEC:1242",
+          "rawSection": "SB-LEC (1242)",
+          "sectionCode": "SB",
+          "component": "LEC",
+          "classNumber": 1242,
+          "language": "P",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Leilei - Professor HU Mantian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Professor GAO Leilei - Professor HU Mantian",
+              "dates": [
+                "6/3",
+                "13/3"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Professor GAO Leilei - Professor HU Mantian",
+              "dates": [
+                "7/3",
+                "14/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6012",
+      "courseCode": "MKTG6012",
+      "title": "Integrated Mkt Communication 整合營銷傳播",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6012:MA:LEC:2516",
+          "rawSection": "MA-LEC (2516)",
+          "sectionCode": "MA",
+          "component": "LEC",
+          "classNumber": 2516,
+          "language": "E",
+          "availability": {
+            "capacity": 58,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor JUNG Sungjin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "CYT_615",
+              "instructor": "Professor JUNG Sungjin",
+              "dates": [
+                "10/12",
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG6012:MB:LEC:1511",
+          "rawSection": "MB-LEC (1511)",
+          "sectionCode": "MB",
+          "component": "LEC",
+          "classNumber": 1511,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor JUNG Sungjin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "WMY_304",
+              "instructor": "Professor JUNG Sungjin",
+              "dates": [
+                "10/12",
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6015",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6015",
+      "courseCode": "MKTG6015",
+      "title": "Art of Sales & Sales Mgt 銷售藝術及管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6015:M:LEC:1227",
+          "rawSection": "M-LEC (1227)",
+          "sectionCode": "M",
+          "component": "LEC",
+          "classNumber": 1227,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor POON Ka Yeung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:00PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:00",
+              "endTime": "21:15",
+              "startMinutes": 1080,
+              "endMinutes": 1275,
+              "location": "LSK_302",
+              "instructor": "Professor POON Ka Yeung",
+              "dates": [
+                "7/12",
+                "14/12",
+                "21/12",
+                "28/12",
+                "4/1",
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6017",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6017",
+      "courseCode": "MKTG6017",
+      "title": "Strategic Brand Management 策略品牌管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6017:G:LEC:2457",
+          "rawSection": "G-LEC (2457)",
+          "sectionCode": "G",
+          "component": "LEC",
+          "classNumber": 2457,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEUNG Hang Yee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "13:15",
+              "startMinutes": 570,
+              "endMinutes": 795,
+              "location": "YIA_LT9",
+              "instructor": "Dr. LEUNG Hang Yee",
+              "dates": [
+                "9/12"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "13:15",
+              "startMinutes": 570,
+              "endMinutes": 795,
+              "location": "CYT_LT1A",
+              "instructor": "Dr. LEUNG Hang Yee",
+              "dates": [
+                "16/12",
+                "23/12",
+                "6/1"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "13:15",
+              "startMinutes": 570,
+              "endMinutes": 795,
+              "location": "ELB_LT1",
+              "instructor": "Dr. LEUNG Hang Yee",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "13:15",
+              "startMinutes": 570,
+              "endMinutes": 795,
+              "location": "CYT_202",
+              "instructor": "Dr. LEUNG Hang Yee",
+              "dates": [
+                "17/2"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "13:15",
+              "startMinutes": 570,
+              "endMinutes": 795,
+              "location": "SB_UG06",
+              "instructor": "Dr. LEUNG Hang Yee",
+              "dates": [
+                "24/2"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG6017:MA:LEC:2270",
+          "rawSection": "MA-LEC (2270)",
+          "sectionCode": "MA",
+          "component": "LEC",
+          "classNumber": 2270,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Leilei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_410",
+              "instructor": "Professor GAO Leilei",
+              "dates": [
+                "8/12",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3"
+              ]
+            },
+            {
+              "timeRaw": "Tu 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_201",
+              "instructor": "Professor GAO Leilei",
+              "dates": [
+                "15/12",
+                "22/12",
+                "29/12",
+                "5/1"
+              ]
+            },
+            {
+              "timeRaw": "Tu 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_LT5",
+              "instructor": "Professor GAO Leilei",
+              "dates": [
+                "12/1"
+              ]
+            },
+            {
+              "timeRaw": "Tu 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "TBA",
+              "instructor": "Professor GAO Leilei",
+              "dates": [
+                "19/1"
+              ]
+            },
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "TBA",
+              "instructor": "Professor GAO Leilei",
+              "dates": [
+                "30/1"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG6017:MB:LEC:2271",
+          "rawSection": "MB-LEC (2271)",
+          "sectionCode": "MB",
+          "component": "LEC",
+          "classNumber": 2271,
+          "language": "E",
+          "availability": {
+            "capacity": 58,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Leilei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_LT5",
+              "instructor": "Professor GAO Leilei",
+              "dates": [
+                "8/12",
+                "15/12",
+                "29/12",
+                "12/1",
+                "16/2",
+                "23/2",
+                "2/3"
+              ]
+            },
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_201",
+              "instructor": "Professor GAO Leilei",
+              "dates": [
+                "22/12",
+                "5/1"
+              ]
+            },
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor GAO Leilei",
+              "dates": [
+                "19/1"
+              ]
+            },
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_615",
+              "instructor": "Professor GAO Leilei",
+              "dates": [
+                "26/1",
+                "2/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor GAO Leilei",
+              "dates": [
+                "30/1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6020",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6020",
+      "courseCode": "MKTG6020",
+      "title": "Special Topics in Marketing 市場營銷專題",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6020:MA:LEC:1053",
+          "rawSection": "MA-LEC (1053)",
+          "sectionCode": "MA",
+          "component": "LEC",
+          "classNumber": 1053,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KIM Yoosun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "CYT_410",
+              "instructor": "Professor KIM Yoosun",
+              "dates": [
+                "8/12",
+                "12/1",
+                "23/2"
+              ]
+            },
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "CYT_202",
+              "instructor": "Professor KIM Yoosun",
+              "dates": [
+                "15/12",
+                "22/12",
+                "29/12",
+                "5/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "2/3"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG6020:MB:LEC:1055",
+          "rawSection": "MB-LEC (1055)",
+          "sectionCode": "MB",
+          "component": "LEC",
+          "classNumber": 1055,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHEN Hao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "CYT_LT4",
+              "instructor": "Professor SHEN Hao",
+              "dates": [
+                "9/12",
+                "16/12",
+                "23/12",
+                "30/12",
+                "6/1",
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6021",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6021",
+      "courseCode": "MKTG6021",
+      "title": "Business Negotiation 商業談判",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6021:AE:LEC:1425",
+          "rawSection": "AE-LEC (1425)",
+          "sectionCode": "AE",
+          "component": "LEC",
+          "classNumber": 1425,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor FRANKLIN Laurence Craig"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:45AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:45",
+              "endTime": "13:15",
+              "startMinutes": 525,
+              "endMinutes": 795,
+              "location": "BATC_DI",
+              "instructor": "Professor FRANKLIN Laurence Craig",
+              "dates": [
+                "21/11",
+                "28/11"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 07:00PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "19:00",
+              "startMinutes": 870,
+              "endMinutes": 1140,
+              "location": "BATC_DI",
+              "instructor": "Professor FRANKLIN Laurence Craig",
+              "dates": [
+                "21/11",
+                "28/11"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:45AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:45",
+              "endTime": "13:15",
+              "startMinutes": 525,
+              "endMinutes": 795,
+              "location": "BATC_DI",
+              "instructor": "Professor FRANKLIN Laurence Craig",
+              "dates": [
+                "22/11",
+                "29/11"
+              ]
+            },
+            {
+              "timeRaw": "Su 02:30PM - 07:00PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "14:30",
+              "endTime": "19:00",
+              "startMinutes": 870,
+              "endMinutes": 1140,
+              "location": "BATC_DI",
+              "instructor": "Professor FRANKLIN Laurence Craig",
+              "dates": [
+                "22/11",
+                "29/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG6021:MA:LEC:1173",
+          "rawSection": "MA-LEC (1173)",
+          "sectionCode": "MA",
+          "component": "LEC",
+          "classNumber": 1173,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHEN Luxi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:00PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:00",
+              "endTime": "21:15",
+              "startMinutes": 1080,
+              "endMinutes": 1275,
+              "location": "WMY_403",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "10/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 06:00PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:00",
+              "endTime": "21:15",
+              "startMinutes": 1080,
+              "endMinutes": 1275,
+              "location": "CYT_206",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 06:00PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:00",
+              "endTime": "21:15",
+              "startMinutes": 1080,
+              "endMinutes": 1275,
+              "location": "CYT_207",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 06:00PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:00",
+              "endTime": "21:15",
+              "startMinutes": 1080,
+              "endMinutes": 1275,
+              "location": "CYT_208",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 06:00PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:00",
+              "endTime": "21:15",
+              "startMinutes": 1080,
+              "endMinutes": 1275,
+              "location": "CYT_205",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 06:00PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:00",
+              "endTime": "21:15",
+              "startMinutes": 1080,
+              "endMinutes": 1275,
+              "location": "CYT_210",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 06:00PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:00",
+              "endTime": "21:15",
+              "startMinutes": 1080,
+              "endMinutes": 1275,
+              "location": "CYT_201",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 06:00PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:00",
+              "endTime": "21:15",
+              "startMinutes": 1080,
+              "endMinutes": 1275,
+              "location": "CYT_211",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG6021:MB:LEC:2269",
+          "rawSection": "MB-LEC (2269)",
+          "sectionCode": "MB",
+          "component": "LEC",
+          "classNumber": 2269,
+          "language": "E",
+          "availability": {
+            "capacity": 48,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHEN Luxi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 04:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "16:45",
+              "startMinutes": 810,
+              "endMinutes": 1005,
+              "location": "CYT_LT4",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "10/12",
+                "14/1",
+                "4/2",
+                "18/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 04:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "16:45",
+              "startMinutes": 810,
+              "endMinutes": 1005,
+              "location": "CYT_205",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 04:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "16:45",
+              "startMinutes": 810,
+              "endMinutes": 1005,
+              "location": "CYT_207",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 04:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "16:45",
+              "startMinutes": 810,
+              "endMinutes": 1005,
+              "location": "CYT_208",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 04:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "16:45",
+              "startMinutes": 810,
+              "endMinutes": 1005,
+              "location": "CYT_211",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 04:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "16:45",
+              "startMinutes": 810,
+              "endMinutes": 1005,
+              "location": "CYT_210",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 04:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "16:45",
+              "startMinutes": 810,
+              "endMinutes": 1005,
+              "location": "CYT_201",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 04:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "16:45",
+              "startMinutes": 810,
+              "endMinutes": 1005,
+              "location": "CYT_206",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 04:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "16:45",
+              "startMinutes": 810,
+              "endMinutes": 1005,
+              "location": "CYT_613",
+              "instructor": "Professor SHEN Luxi",
+              "dates": [
+                "21/1",
+                "28/1",
+                "25/2"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG6021:W:LEC:1129",
+          "rawSection": "W-LEC (1129)",
+          "sectionCode": "W",
+          "component": "LEC",
+          "classNumber": 1129,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor DAI Xianchi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Su 09:30AM - 01:00PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "09:30",
+              "endTime": "13:00",
+              "startMinutes": 570,
+              "endMinutes": 780,
+              "location": "TBA",
+              "instructor": "Professor DAI Xianchi",
+              "dates": [
+                "13/12",
+                "20/12",
+                "3/1",
+                "10/1",
+                "17/1"
+              ]
+            },
+            {
+              "timeRaw": "Su 02:00PM - 05:30PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "14:00",
+              "endTime": "17:30",
+              "startMinutes": 840,
+              "endMinutes": 1050,
+              "location": "TBA",
+              "instructor": "Professor DAI Xianchi",
+              "dates": [
+                "13/12",
+                "20/12",
+                "3/1",
+                "10/1",
+                "17/1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6033",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6033",
+      "courseCode": "MKTG6033",
+      "title": "Digital Marketing 數字營銷",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6033:G:LEC:1270",
+          "rawSection": "G-LEC (1270)",
+          "sectionCode": "G",
+          "component": "LEC",
+          "classNumber": 1270,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CISTERNAS VERA Francisco Orlando"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "YIA_LT9",
+              "instructor": "Dr. CISTERNAS VERA Francisco Orlando",
+              "dates": [
+                "8/12",
+                "15/12"
+              ]
+            },
+            {
+              "timeRaw": "Tu 05:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "17:30",
+              "endTime": "21:15",
+              "startMinutes": 1050,
+              "endMinutes": 1275,
+              "location": "LSB_LT5",
+              "instructor": "Dr. CISTERNAS VERA Francisco Orlando",
+              "dates": [
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "ARC_G01",
+              "instructor": "Dr. CISTERNAS VERA Francisco Orlando",
+              "dates": [
+                "12/12"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "YIA_LT9",
+              "instructor": "Dr. CISTERNAS VERA Francisco Orlando",
+              "dates": [
+                "16/1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6035",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6035",
+      "courseCode": "MKTG6035",
+      "title": "Ana for Strategic MKT Decision 策略營銷決策分析",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6035:MA:LEC:2542",
+          "rawSection": "MA-LEC (2542)",
+          "sectionCode": "MA",
+          "component": "LEC",
+          "classNumber": 2542,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_LT4",
+              "instructor": "Staff",
+              "dates": [
+                "9/12",
+                "16/12",
+                "23/12",
+                "30/12",
+                "6/1",
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG6035:MB:LEC:2272",
+          "rawSection": "MB-LEC (2272)",
+          "sectionCode": "MB",
+          "component": "LEC",
+          "classNumber": 2272,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_410",
+              "instructor": "Staff",
+              "dates": [
+                "9/12",
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_201",
+              "instructor": "Staff",
+              "dates": [
+                "16/12",
+                "23/12",
+                "30/12",
+                "6/1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6036",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6036",
+      "courseCode": "MKTG6036",
+      "title": "Pricing Analytics 定價分析",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6036:MA:LEC:1182",
+          "rawSection": "MA-LEC (1182)",
+          "sectionCode": "MA",
+          "component": "LEC",
+          "classNumber": 1182,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Seung Yoon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "ELB_403",
+              "instructor": "Professor LEE Seung Yoon",
+              "dates": [
+                "8/12",
+                "15/12",
+                "22/12",
+                "29/12",
+                "5/1",
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG6036:MB:LEC:2515",
+          "rawSection": "MB-LEC (2515)",
+          "sectionCode": "MB",
+          "component": "LEC",
+          "classNumber": 2515,
+          "language": "E",
+          "availability": {
+            "capacity": 58,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Seung Yoon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "CYT_615",
+              "instructor": "Professor LEE Seung Yoon",
+              "dates": [
+                "9/12",
+                "16/12",
+                "23/12",
+                "30/12",
+                "6/1",
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6039",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6039",
+      "courseCode": "MKTG6039",
+      "title": "Corporate Sustainability and B 企業可持續發展與品牌傳播",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6039:N:LEC:1540",
+          "rawSection": "N-LEC (1540)",
+          "sectionCode": "N",
+          "component": "LEC",
+          "classNumber": 1540,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Ka Yan Elisa"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "WMY_301",
+              "instructor": "Professor CHAN Ka Yan Elisa",
+              "dates": [
+                "12/12",
+                "19/12",
+                "2/1",
+                "9/1",
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3"
+              ]
+            },
+            {
+              "timeRaw": "Su 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor CHAN Ka Yan Elisa",
+              "dates": [
+                "20/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6040",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6040",
+      "courseCode": "MKTG6040",
+      "title": "Practicum in Strategic Mktg 策略營銷實習",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6040:MA:LEC:1210",
+          "rawSection": "MA-LEC (1210)",
+          "sectionCode": "MA",
+          "component": "LEC",
+          "classNumber": 1210,
+          "language": "E",
+          "availability": {
+            "capacity": 36,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEUNG Hang Yee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "WMY_406",
+              "instructor": "Dr. LEUNG Hang Yee",
+              "dates": [
+                "11/12",
+                "18/12",
+                "8/1",
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MKTG6040:MB:LEC:1282",
+          "rawSection": "MB-LEC (1282)",
+          "sectionCode": "MB",
+          "component": "LEC",
+          "classNumber": 1282,
+          "language": "E",
+          "availability": {
+            "capacity": 35,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. TANG Wing Kin Jacky"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "WMY_304",
+              "instructor": "Dr. TANG Wing Kin Jacky",
+              "dates": [
+                "11/12",
+                "18/12",
+                "8/1",
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MKTG6041",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6041",
+      "courseCode": "MKTG6041",
+      "title": "e-Platform Entrepreneurship 電子平台創業",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6041:M:LEC:2509",
+          "rawSection": "M-LEC (2509)",
+          "sectionCode": "M",
+          "component": "LEC",
+          "classNumber": 2509,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEUNG Hang Yee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "CYT_410",
+              "instructor": "Dr. LEUNG Hang Yee",
+              "dates": [
+                "7/12",
+                "14/12",
+                "21/12",
+                "28/12",
+                "4/1",
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

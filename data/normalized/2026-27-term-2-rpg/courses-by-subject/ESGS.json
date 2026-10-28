@@ -1,0 +1,410 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.773Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5744,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2493,
+      "meetings": 2526,
+      "warnings": 0
+    }
+  },
+  "subject": "ESGS",
+  "courses": [
+    {
+      "id": "ESGS5001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/esgsv/ESGSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESGS",
+      "catalogNumber": "5001",
+      "courseCode": "ESGS5001",
+      "title": "Earth System Science 地球系統科學",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth Sys & Geoinfo Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESGS5001:-:LEC:2824",
+          "rawSection": "--LEC (2824)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2824,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Lin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 04:30PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "16:30",
+              "startMinutes": 870,
+              "endMinutes": 990,
+              "location": "FYT_303",
+              "instructor": "Professor LIU Lin",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ESGS5001:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Sa 04:30PM - 05:30PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "16:30",
+              "endTime": "17:30",
+              "startMinutes": 990,
+              "endMinutes": 1050,
+              "location": "FYT_303",
+              "instructor": null,
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESGS5009",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/esgsv/ESGSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESGS",
+      "catalogNumber": "5009",
+      "courseCode": "ESGS5009",
+      "title": "Research Methods 研究方法",
+      "units": 2,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth Sys & Geoinfo Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESGS5009:-:LEC:1362",
+          "rawSection": "--LEC (1362)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1362,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WU Zherong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "FYT_401",
+              "instructor": "Professor WU Zherong",
+              "dates": [
+                "13/01/2027 - 21/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESGS8003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/esgsv/ESGSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESGS",
+      "catalogNumber": "8003",
+      "courseCode": "ESGS8003",
+      "title": "Thesis Research 論文研究",
+      "units": 6,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth Sys & Geoinfo Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESGS8003:-M01:TMC:4162",
+          "rawSection": "-M01-TMC (4162)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4162,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KWAN Mei Po - Professor MA Peifeng - Professor WU Zherong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor KWAN Mei Po - Professor MA Peifeng - Professor WU Zherong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESGS8006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/esgsv/ESGSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESGS",
+      "catalogNumber": "8006",
+      "courseCode": "ESGS8006",
+      "title": "Thesis Research 論文研究",
+      "units": 6,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth Sys & Geoinfo Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESGS8006:-M01:TMC:4365",
+          "rawSection": "-M01-TMC (4365)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4365,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KWAN Mei Po - Professor MA Peifeng - Professor WU Zherong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor KWAN Mei Po - Professor MA Peifeng - Professor WU Zherong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESGS8012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/esgsv/ESGSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ESGS",
+      "catalogNumber": "8012",
+      "courseCode": "ESGS8012",
+      "title": "Thesis Research 論文研究",
+      "units": 12,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth Sys & Geoinfo Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESGS8012:-M01:TMC:4366",
+          "rawSection": "-M01-TMC (4366)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4366,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KWAN Mei Po - Professor MA Peifeng - Professor WU Zherong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor KWAN Mei Po - Professor MA Peifeng - Professor WU Zherong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

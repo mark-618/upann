@@ -1,0 +1,1206 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "RMSC",
+  "courses": [
+    {
+      "id": "RMSC2001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "2001",
+      "courseCode": "RMSC2001",
+      "title": "Intro to Risk Management 風險管理導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC2001:B:LEC:5690",
+          "rawSection": "B-LEC (5690)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 5690,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SIT Tony"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "14:15",
+              "startMinutes": 690,
+              "endMinutes": 855,
+              "location": "LHC_104",
+              "instructor": "Professor SIT Tony",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "RMSC2001:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC2101",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "2101",
+      "courseCode": "RMSC2101",
+      "title": "Intro Topics in Risk Mgt 風險管理入門導讀",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "SEM, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC2101:-S01:SEM:9535",
+          "rawSection": "-S01-SEM (9535)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 9535,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Chun Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LHC_G04",
+              "instructor": "Dr. CHAN Chun Man",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "RMSC2101:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "LHC_G04",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC3001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "3001",
+      "courseCode": "RMSC3001",
+      "title": "Principles of Credit Risk Mgt 信用風險管理原理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC3001:-:LEC:8431",
+          "rawSection": "--LEC (8431)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8431,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. John Alexander WRIGHT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "MMW_707",
+              "instructor": "Dr. John Alexander WRIGHT",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "SC_LG23",
+              "instructor": "Dr. John Alexander WRIGHT",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "RMSC3001:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC3101",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "3101",
+      "courseCode": "RMSC3101",
+      "title": "Special Topics in Risk Mgt 風險管理專題導讀",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "SEM, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC3101:-S01:SEM:7449",
+          "rawSection": "-S01-SEM (7449)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 7449,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG King Chau"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "SC_L5",
+              "instructor": "Dr. CHEUNG King Chau",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "RMSC3101:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "SC_L5",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC4001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "4001",
+      "courseCode": "RMSC4001",
+      "title": "Simulation Methods: Rms & Fin 財務與風險管理之模擬方法",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC4001:B:LEC:5462",
+          "rawSection": "B-LEC (5462)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 5462,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Hoi Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "ERB_407",
+              "instructor": "Professor WONG Hoi Ying",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "RMSC4001:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC4004",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "4004",
+      "courseCode": "RMSC4004",
+      "title": "Theory of Risk and Insurance 風險理論與保險",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC4004:-:LEC:8505",
+          "rawSection": "--LEC (8505)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8505,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Chun Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "14:15",
+              "startMinutes": 690,
+              "endMinutes": 855,
+              "location": "SC_L4",
+              "instructor": "Dr. CHAN Chun Man",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "RMSC4004:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC4005",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "4005",
+      "courseCode": "RMSC4005",
+      "title": "Stochastic Cal for Fin & Risk 財務與風險之隨機微積分",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC4005:-:LEC:5497",
+          "rawSection": "--LEC (5497)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5497,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAU Chun Yip"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "MMW_702",
+              "instructor": "Professor YAU Chun Yip",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "RMSC4005:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC4102",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "4102",
+      "courseCode": "RMSC4102",
+      "title": "Research Project 專題研究",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC4102:-J01:PRJ:9206",
+          "rawSection": "-J01-PRJ (9206)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 9206,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAU Chun Yip"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "MMW_710",
+              "instructor": "Professor YAU Chun Yip",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "RMSC4102:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC4112",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "4112",
+      "courseCode": "RMSC4112",
+      "title": "Research Project in Risk Analy 風險分析專題研究",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC4112:-J01:PRJ:8661",
+          "rawSection": "-J01-PRJ (8661)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 8661,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAU Chun Yip"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Professor YAU Chun Yip",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "RMSC4112:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC4202",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "4202",
+      "courseCode": "RMSC4202",
+      "title": "Practicum 行業實習",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC4202:-P01:PRA:6321",
+          "rawSection": "-P01-PRA (6321)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 6321,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Hoi Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WONG Hoi Ying",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC4212",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmsp/RMSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "4212",
+      "courseCode": "RMSC4212",
+      "title": "Practicum in Risk Analytics 風險分析行業實習",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Risk Management Science PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC4212:-P01:PRA:6441",
+          "rawSection": "-P01-PRA (6441)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 6441,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Hoi Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WONG Hoi Ying",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

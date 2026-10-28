@@ -1,0 +1,957 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "FNSC",
+  "courses": [
+    {
+      "id": "FNSC2002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/fsp/FSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FNSC",
+      "catalogNumber": "2002",
+      "courseCode": "FNSC2002",
+      "title": "Nutrition for Health 營養與健康",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Food & Nutritional Sci PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FNSC2002:-:LEC:5557",
+          "rawSection": "--LEC (5557)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5557,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Tsz Yan - Ms. SIN Man Ching - Ms. YIP Pui Sze - Professor CHOW Hei Man - Professor WONG Wing Tak Jack"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "BMS_G18",
+              "instructor": "Dr. WONG Tsz Yan - Ms. SIN Man Ching - Ms. YIP Pui Sze - Professor CHOW Hei Man - Professor WONG Wing Tak Jack",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FNSC2005",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/fsp/FSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FNSC",
+      "catalogNumber": "2005",
+      "courseCode": "FNSC2005",
+      "title": "Ethics and Professionalism 營養學家的道德和專業操守",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Food & Nutritional Sci PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FNSC2005:-:LEC:9444",
+          "rawSection": "--LEC (9444)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9444,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 2,
+            "availableSeats": 118,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. YIP Pui Sze"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "LSB_LT6",
+              "instructor": "Ms. YIP Pui Sze",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FNSC3002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/fsp/FSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FNSC",
+      "catalogNumber": "3002",
+      "courseCode": "FNSC3002",
+      "title": "Nutritional Science Lab I 營養科學實驗（一）",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Food & Nutritional Sci PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FNSC3002:AL01:LAB:8676",
+          "rawSection": "AL01-LAB (8676)",
+          "sectionCode": "AL01",
+          "component": "LAB",
+          "classNumber": 8676,
+          "language": "E",
+          "availability": {
+            "capacity": 18,
+            "enrolled": 0,
+            "availableSeats": 18,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LI Yuk Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "SC_190",
+              "instructor": "Dr. LI Yuk Man",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FNSC3002:BL01:LAB:8677",
+          "rawSection": "BL01-LAB (8677)",
+          "sectionCode": "BL01",
+          "component": "LAB",
+          "classNumber": 8677,
+          "language": "E",
+          "availability": {
+            "capacity": 18,
+            "enrolled": 0,
+            "availableSeats": 18,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LI Yuk Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "SC_190",
+              "instructor": "Dr. LI Yuk Man",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FNSC3002:CL01:LAB:8771",
+          "rawSection": "CL01-LAB (8771)",
+          "sectionCode": "CL01",
+          "component": "LAB",
+          "classNumber": 8771,
+          "language": "E",
+          "availability": {
+            "capacity": 18,
+            "enrolled": 0,
+            "availableSeats": 18,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LI Yuk Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "SC_190",
+              "instructor": "Dr. LI Yuk Man",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FNSC3010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/fsp/FSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FNSC",
+      "catalogNumber": "3010",
+      "courseCode": "FNSC3010",
+      "title": "Nutrition and Human Dev 營養及人體發育",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Food & Nutritional Sci PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FNSC3010:-:LEC:7339",
+          "rawSection": "--LEC (7339)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7339,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 9,
+            "availableSeats": 141,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Tsz Yan - Ms. SIN Man Ching - Professor LI Cheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "ERB_LT",
+              "instructor": "Dr. WONG Tsz Yan - Ms. SIN Man Ching - Professor LI Cheng",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FNSC3180",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/fsp/FSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FNSC",
+      "catalogNumber": "3180",
+      "courseCode": "FNSC3180",
+      "title": "Food Microbiology 食品微生物學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Food & Nutritional Sci PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FNSC3180:-:LEC:9541",
+          "rawSection": "--LEC (9541)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9541,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LI Yuk Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "LSB_LT6",
+              "instructor": "Dr. LI Yuk Man",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "BMS_G18",
+              "instructor": "Dr. LI Yuk Man",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FNSC4001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/fsp/FSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FNSC",
+      "catalogNumber": "4001",
+      "courseCode": "FNSC4001",
+      "title": "Food Science Laboratory II 食品科學實驗（二）",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Food & Nutritional Sci PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FNSC4001:AL01:LAB:8675",
+          "rawSection": "AL01-LAB (8675)",
+          "sectionCode": "AL01",
+          "component": "LAB",
+          "classNumber": 8675,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Tsz Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "SC_394",
+              "instructor": "Dr. WONG Tsz Yan",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FNSC4001:BL01:LAB:8644",
+          "rawSection": "BL01-LAB (8644)",
+          "sectionCode": "BL01",
+          "component": "LAB",
+          "classNumber": 8644,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Tsz Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "SC_394",
+              "instructor": "Dr. WONG Tsz Yan",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FNSC4102",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/fsp/FSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FNSC",
+      "catalogNumber": "4102",
+      "courseCode": "FNSC4102",
+      "title": "Human Physi for Nut Studies II 人類生理學（營養學專科）（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Food & Nutritional Sci PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FNSC4102:-:LEC:9014",
+          "rawSection": "--LEC (9014)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9014,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. Erika KWEK - Dr. WONG Tsz Yan - Professor WONG Wing Tak Jack"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "LSB_LT6",
+              "instructor": "Dr. Erika KWEK - Dr. WONG Tsz Yan - Professor WONG Wing Tak Jack",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FNSC4160",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/fsp/FSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FNSC",
+      "catalogNumber": "4160",
+      "courseCode": "FNSC4160",
+      "title": "Nutrition Plan & Food Policy 營養規劃及食品政策",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Food & Nutritional Sci PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FNSC4160:-:LEC:7340",
+          "rawSection": "--LEC (7340)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7340,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Tsz Yan - Ms. YIP Pui Sze"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "LSK_LT1",
+              "instructor": "Dr. WONG Tsz Yan - Ms. YIP Pui Sze",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FNSC4170",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/fsp/FSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FNSC",
+      "catalogNumber": "4170",
+      "courseCode": "FNSC4170",
+      "title": "Food Prod Dev & Qual Control 食品開發及品質控制",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Food & Nutritional Sci PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FNSC4170:-:LEC:5205",
+          "rawSection": "--LEC (5205)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5205,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 8,
+            "availableSeats": 112,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHUNG Hau Yin - Professor LI Cheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "MMW_LT2",
+              "instructor": "Professor CHUNG Hau Yin - Professor LI Cheng",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FNSC4907",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/fsp/FSP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FNSC",
+      "catalogNumber": "4907",
+      "courseCode": "FNSC4907",
+      "title": "Nutrition Practicum 體驗實習",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Food & Nutritional Sci PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FNSC4907:-P01:PRA:9403",
+          "rawSection": "-P01-PRA (9403)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 9403,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. YIP Pui Sze"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "LHC_106",
+              "instructor": "Ms. YIP Pui Sze",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

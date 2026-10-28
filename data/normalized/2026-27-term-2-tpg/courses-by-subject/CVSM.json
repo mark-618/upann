@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "CVSM",
+  "courses": [
+    {
+      "id": "CVSM5002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mescv/MESCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CVSM",
+      "catalogNumber": "5002",
+      "courseCode": "CVSM5002",
+      "title": "Clinical Cardiology I 臨床心臟內科一",
+      "units": 4,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Medical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CVSM5002:-:LEC:1680",
+          "rawSection": "--LEC (1680)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1680,
+          "language": "E",
+          "availability": {
+            "capacity": 300,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAN Ping Yen Bryan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:00PM - 08:45PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:00",
+              "endTime": "20:45",
+              "startMinutes": 960,
+              "endMinutes": 1245,
+              "location": "PWH",
+              "instructor": "Professor YAN Ping Yen Bryan",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

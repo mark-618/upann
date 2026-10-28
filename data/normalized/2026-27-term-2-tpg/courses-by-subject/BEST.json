@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "BEST",
+  "courses": [
+    {
+      "id": "BEST5310",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "best/BEST.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BEST",
+      "catalogNumber": "5310",
+      "courseCode": "BEST5310",
+      "title": "Mol Biol Genom and Bioinfo 分子生物學、基因組學與生物信息學技術",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BEST5310:-:LEC:1613",
+          "rawSection": "--LEC (1613)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1613,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHONG Silin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "ARC_G03",
+              "instructor": "Professor ZHONG Silin",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4",
+                "3/5",
+                "10/5",
+                "17/5",
+                "24/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BEST5330",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "best/BEST.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BEST",
+      "catalogNumber": "5330",
+      "courseCode": "BEST5330",
+      "title": "App. Ecol. Cons. 應用生態學及保育",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BEST5330:-:LEC:1405",
+          "rawSection": "--LEC (1405)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1405,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAW Man Suet Michelle - Dr. TANG Ming Chak"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ARC_G03",
+              "instructor": "Dr. LAW Man Suet Michelle - Dr. TANG Ming Chak",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4",
+                "8/5",
+                "15/5",
+                "22/5",
+                "29/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BEST5350",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "best/BEST.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BEST",
+      "catalogNumber": "5350",
+      "courseCode": "BEST5350",
+      "title": "Zool. Divers. Pest Manag. 動物多樣性與害蟲管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BEST5350:-:LEC:1414",
+          "rawSection": "--LEC (1414)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1414,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. TANG Ming Chak - Professor TSANG Ling Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "ELB_LT2",
+              "instructor": "Dr. TANG Ming Chak - Professor TSANG Ling Ming",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4",
+                "30/4",
+                "7/5",
+                "14/5",
+                "21/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BEST5360",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "best/BEST.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BEST",
+      "catalogNumber": "5360",
+      "courseCode": "BEST5360",
+      "title": "Plant Microb. Tech. 應用植物學、微生物學與技術",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BEST5360:-:LEC:1614",
+          "rawSection": "--LEC (1614)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1614,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. TANG Ming Chak - Professor LUO Haiwei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LSB_LT5",
+              "instructor": "Dr. TANG Ming Chak - Professor LUO Haiwei",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4",
+                "28/4",
+                "5/5",
+                "12/5",
+                "19/5",
+                "26/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BEST5390",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "best/BEST.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BEST",
+      "catalogNumber": "5390",
+      "courseCode": "BEST5390",
+      "title": "Res. Proj. BEST 研究項目",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BEST5390:-J01:PRJ:1406",
+          "rawSection": "-J01-PRJ (1406)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 1406,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HUI Jerome Ho Lam"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "YIA_LT9",
+              "instructor": "Professor HUI Jerome Ho Lam",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4",
+                "8/5",
+                "15/5",
+                "22/5",
+                "29/5"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

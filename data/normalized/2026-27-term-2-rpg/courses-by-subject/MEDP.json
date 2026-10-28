@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.773Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5744,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2493,
+      "meetings": 2526,
+      "warnings": 0
+    }
+  },
+  "subject": "MEDP",
+  "courses": [
+    {
+      "id": "MEDP6001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chpyv/CHPYV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MEDP",
+      "catalogNumber": "6001",
+      "courseCode": "MEDP6001",
+      "title": "Molecular Medicine 分子醫學",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Chemical Pathology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MEDP6001:-:LEC:1404",
+          "rawSection": "--LEC (1404)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1404,
+          "language": "C&E&P",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor JIANG Peiyong - Professor TANG Ming Kuen - Professor WANG Haitian - Professor WANG Huating"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 10:00AM - 12:30PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "10:00",
+              "endTime": "12:30",
+              "startMinutes": 600,
+              "endMinutes": 750,
+              "location": "NRR",
+              "instructor": "Professor JIANG Peiyong - Professor TANG Ming Kuen - Professor WANG Haitian - Professor WANG Huating",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "6/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "27/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MEDP6003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MEDP",
+      "catalogNumber": "6003",
+      "courseCode": "MEDP6003",
+      "title": "Biostatistics II (Med) 生物統計學 (二)",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MEDP6003:-:LEC:1432",
+          "rawSection": "--LEC (1432)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1432,
+          "language": "E",
+          "availability": {
+            "capacity": 250,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr LEE Jock Wai - Dr. WANG Jingxuan - Professor CAO Lirong - Professor WANG Haitian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:30",
+              "startMinutes": 870,
+              "endMinutes": 1050,
+              "location": "PWH",
+              "instructor": "Dr LEE Jock Wai - Dr. WANG Jingxuan - Professor CAO Lirong - Professor WANG Haitian",
+              "dates": [
+                "12/1",
+                "26/1",
+                "16/2",
+                "23/2",
+                "2/3",
+                "30/3"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 05:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:30",
+              "startMinutes": 870,
+              "endMinutes": 1050,
+              "location": "PWH",
+              "instructor": "Dr LEE Jock Wai - Dr. WANG Jingxuan - Professor CAO Lirong - Professor WANG Haitian",
+              "dates": [
+                "20/1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

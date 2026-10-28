@@ -1,0 +1,4434 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "MUSC",
+  "courses": [
+    {
+      "id": "MUSC1002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "1002",
+      "courseCode": "MUSC1002",
+      "title": "Choral Singing II 合唱訓練二",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC1002:-P01:PRA:8987",
+          "rawSection": "-P01-PRA (8987)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8987,
+          "language": "C#E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LAM Ho Yan Dominic"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LHCH",
+              "instructor": "Mr. LAM Ho Yan Dominic",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC1021",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "1021",
+      "courseCode": "MUSC1021",
+      "title": "Applied Music (Minor II) 音樂術科(副修二)",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC1021:-:LEC:7776",
+          "rawSection": "--LEC (7776)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7776,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC1022",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "1022",
+      "courseCode": "MUSC1022",
+      "title": "Applied Music (Major X) 音樂術科(主修十)",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC1022:-:LEC:6367",
+          "rawSection": "--LEC (6367)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6367,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC1023",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "1023",
+      "courseCode": "MUSC1023",
+      "title": "African Drumming II 非洲擊鼓樂實習二",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC1023:-:LEC:8102",
+          "rawSection": "--LEC (8102)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8102,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr LEUNG Wai Wa Raymond"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Mr LEUNG Wai Wa Raymond",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC1024",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "1024",
+      "courseCode": "MUSC1024",
+      "title": "Chamber Music Ensemble II 室內樂二",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC1024:-P01:PRA:9692",
+          "rawSection": "-P01-PRA (9692)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 9692,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC1027",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "1027",
+      "courseCode": "MUSC1027",
+      "title": "Javanese Gamelan Ensemble II 印尼爪哇甘美朗理論與實技二",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC1027:-:LEC:8221",
+          "rawSection": "--LEC (8221)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8221,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Deborah Jane WAUGH"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "HYS_LG02",
+              "instructor": "Professor Deborah Jane WAUGH",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC1032",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "1032",
+      "courseCode": "MUSC1032",
+      "title": "Orchestral Training II 管弦樂合奏二",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC1032:-P01:PRA:8986",
+          "rawSection": "-P01-PRA (8986)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8986,
+          "language": "C#E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss IP Wing Wun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 07:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "19:30",
+              "endTime": "21:30",
+              "startMinutes": 1170,
+              "endMinutes": 1290,
+              "location": "LHCH",
+              "instructor": "Miss IP Wing Wun",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC1042",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "1042",
+      "courseCode": "MUSC1042",
+      "title": "Wind Orchestra II 管樂團二",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC1042:-P01:PRA:8996",
+          "rawSection": "-P01-PRA (8996)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8996,
+          "language": "C#E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LEUNG Chun Yin Marco"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "LHCH",
+              "instructor": "Mr. LEUNG Chun Yin Marco",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC1061",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "1061",
+      "courseCode": "MUSC1061",
+      "title": "Applied Music (Major II) 音樂術科（主修二）",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC1061:-:LEC:6759",
+          "rawSection": "--LEC (6759)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6759,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC1222",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "1222",
+      "courseCode": "MUSC1222",
+      "title": "Fundamentals of Tonal Music II 基本調性音樂二",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC1222:-:LEC:8602",
+          "rawSection": "--LEC (8602)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8602,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Chun Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "HYS_LG04",
+              "instructor": "Dr. WONG Chun Wai",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2002",
+      "courseCode": "MUSC2002",
+      "title": "Choral Singing IV 合唱訓練四",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2002:-P01:PRA:8998",
+          "rawSection": "-P01-PRA (8998)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8998,
+          "language": "C#E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LAM Ho Yan Dominic"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LHCH",
+              "instructor": "Mr. LAM Ho Yan Dominic",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2021",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2021",
+      "courseCode": "MUSC2021",
+      "title": "Applied Music (Minor IV) 音樂術科(副修四)",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2021:-:LEC:7779",
+          "rawSection": "--LEC (7779)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7779,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2022",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2022",
+      "courseCode": "MUSC2022",
+      "title": "Applied Music (Major XII) 音樂術科(主修十二)",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2022:-:LEC:6726",
+          "rawSection": "--LEC (6726)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6726,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2023",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2023",
+      "courseCode": "MUSC2023",
+      "title": "African Drumming IV 非洲擊鼓樂實習四",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2023:-:LEC:8101",
+          "rawSection": "--LEC (8101)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8101,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr LEUNG Wai Wa Raymond"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Mr LEUNG Wai Wa Raymond",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2024",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2024",
+      "courseCode": "MUSC2024",
+      "title": "Chamber Music Ensemble IV 室內樂四",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2024:-P01:PRA:9693",
+          "rawSection": "-P01-PRA (9693)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 9693,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2027",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2027",
+      "courseCode": "MUSC2027",
+      "title": "Javanese Gamelan Ensemble IV 印尼爪哇甘美朗理論與實技四",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2027:-:LEC:8235",
+          "rawSection": "--LEC (8235)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8235,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Deborah Jane WAUGH"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "HYS_LG02",
+              "instructor": "Professor Deborah Jane WAUGH",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2032",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2032",
+      "courseCode": "MUSC2032",
+      "title": "Orchestral Training IV 管弦樂合奏四",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2032:-P01:PRA:8997",
+          "rawSection": "-P01-PRA (8997)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8997,
+          "language": "C#E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss IP Wing Wun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 07:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "19:30",
+              "endTime": "21:30",
+              "startMinutes": 1170,
+              "endMinutes": 1290,
+              "location": "LHCH",
+              "instructor": "Miss IP Wing Wun",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2042",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2042",
+      "courseCode": "MUSC2042",
+      "title": "Wind Orchestra IV 管樂團四",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2042:-P01:PRA:8999",
+          "rawSection": "-P01-PRA (8999)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8999,
+          "language": "C#E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LEUNG Chun Yin Marco"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "LHCH",
+              "instructor": "Mr. LEUNG Chun Yin Marco",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2061",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2061",
+      "courseCode": "MUSC2061",
+      "title": "Applied Music (Major IV) 音樂術科（主修四）",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2061:-:LEC:8036",
+          "rawSection": "--LEC (8036)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8036,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2262",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2262",
+      "courseCode": "MUSC2262",
+      "title": "Advanced Harmonic Practice 和聲運用高階",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2262:-:LEC:6988",
+          "rawSection": "--LEC (6988)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6988,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Wan Ki Wendy"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "HYS_LG04",
+              "instructor": "Professor LEE Wan Ki Wendy",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2540",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2540",
+      "courseCode": "MUSC2540",
+      "title": "An Introduction to Arts Mgt 藝術管理導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2540:-:LEC:8236",
+          "rawSection": "--LEC (8236)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8236,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "HYS_304",
+              "instructor": "Staff",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2543",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2543",
+      "courseCode": "MUSC2543",
+      "title": "Conducting 指揮學",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2543:-:LEC:8835",
+          "rawSection": "--LEC (8835)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8835,
+          "language": "C&E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss IP Wing Wun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "HYS_LG01",
+              "instructor": "Miss IP Wing Wun",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2545",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2545",
+      "courseCode": "MUSC2545",
+      "title": "Music Therapy 音樂治療",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2545:-:LEC:7221",
+          "rawSection": "--LEC (7221)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7221,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "HYS_LG04",
+              "instructor": "Staff",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2552",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2552",
+      "courseCode": "MUSC2552",
+      "title": "Music, Culture and Society 音樂、文化與社會",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2552:-:LEC:8852",
+          "rawSection": "--LEC (8852)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8852,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Hei Yin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "HYS_LG04",
+              "instructor": "Professor WONG Hei Yin",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2882",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2882",
+      "courseCode": "MUSC2882",
+      "title": "History of Western Music II 西洋音樂史二",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2882:-:LEC:7742",
+          "rawSection": "--LEC (7742)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7742,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIAO Yvonne"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "HYS_G01",
+              "instructor": "Professor LIAO Yvonne",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC2913",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2913",
+      "courseCode": "MUSC2913",
+      "title": "Selected Study I 專題研讀一",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2913:-:LEC:6649",
+          "rawSection": "--LEC (6649)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6649,
+          "language": "C&E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3002",
+      "courseCode": "MUSC3002",
+      "title": "Choral Singing VI 合唱訓練六",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3002:-P01:PRA:9001",
+          "rawSection": "-P01-PRA (9001)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 9001,
+          "language": "C#E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LAM Ho Yan Dominic"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LHCH",
+              "instructor": "Mr. LAM Ho Yan Dominic",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3021",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3021",
+      "courseCode": "MUSC3021",
+      "title": "Applied Music (Minor VI) 音樂術科(副修六)",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3021:-:LEC:7777",
+          "rawSection": "--LEC (7777)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7777,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3022",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3022",
+      "courseCode": "MUSC3022",
+      "title": "Applied Music (Major XIV) 音樂術科(主修十四)",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3022:-:LEC:7778",
+          "rawSection": "--LEC (7778)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7778,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3023",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3023",
+      "courseCode": "MUSC3023",
+      "title": "African Drumming VI 非洲擊鼓樂實習六",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3023:-:LEC:6668",
+          "rawSection": "--LEC (6668)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6668,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr LEUNG Wai Wa Raymond"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Mr LEUNG Wai Wa Raymond",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3024",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3024",
+      "courseCode": "MUSC3024",
+      "title": "Chamber Music Ensemble VI 室內樂六",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3024:-P01:PRA:9694",
+          "rawSection": "-P01-PRA (9694)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 9694,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3027",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3027",
+      "courseCode": "MUSC3027",
+      "title": "Javanese Gamelan Ensemble VI 印尼爪哇甘美朗理論與實技六",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3027:-:LEC:8250",
+          "rawSection": "--LEC (8250)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8250,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Deborah Jane WAUGH"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "HYS_LG02",
+              "instructor": "Professor Deborah Jane WAUGH",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3032",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3032",
+      "courseCode": "MUSC3032",
+      "title": "Orchestral Training VI 管弦樂合奏六",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3032:-P01:PRA:9000",
+          "rawSection": "-P01-PRA (9000)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 9000,
+          "language": "C#E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss IP Wing Wun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 07:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "19:30",
+              "endTime": "21:30",
+              "startMinutes": 1170,
+              "endMinutes": 1290,
+              "location": "LHCH",
+              "instructor": "Miss IP Wing Wun",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3042",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3042",
+      "courseCode": "MUSC3042",
+      "title": "Wind Orchestra VI 管樂團六",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3042:-P01:PRA:9012",
+          "rawSection": "-P01-PRA (9012)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 9012,
+          "language": "C#E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LEUNG Chun Yin Marco"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "LHCH",
+              "instructor": "Mr. LEUNG Chun Yin Marco",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3061",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3061",
+      "courseCode": "MUSC3061",
+      "title": "Applied Music (Major VI) 音樂術科(主修六)",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3061:-:LEC:6357",
+          "rawSection": "--LEC (6357)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6357,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3333",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3333",
+      "courseCode": "MUSC3333",
+      "title": "Orchestral Techniques 配器法",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3333:-:LEC:7302",
+          "rawSection": "--LEC (7302)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7302,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Chun Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "HYS_101",
+              "instructor": "Dr. WONG Chun Wai",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3353",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3353",
+      "courseCode": "MUSC3353",
+      "title": "Composition II 作曲二",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3353:-:LEC:6738",
+          "rawSection": "--LEC (6738)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6738,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Wan Ki Wendy"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "HYS_304",
+              "instructor": "Professor LEE Wan Ki Wendy",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Wan Ki Wendy",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3492",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3492",
+      "courseCode": "MUSC3492",
+      "title": "Analysis and Performance 音樂分析與演奏",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3492:-:LEC:8775",
+          "rawSection": "--LEC (8775)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8775,
+          "language": "C&E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MAK Susanna Su Yin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "HYS_LG04",
+              "instructor": "Professor MAK Susanna Su Yin",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3502",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3502",
+      "courseCode": "MUSC3502",
+      "title": "Vocal/Instrumental Pedagogy 聲樂及器樂教學法",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3502:-:LEC:8850",
+          "rawSection": "--LEC (8850)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8850,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MOK On Nei Annie"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "HYS_101",
+              "instructor": "Professor MOK On Nei Annie",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3562",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3562",
+      "courseCode": "MUSC3562",
+      "title": "Chinese Music: Selected Topics 中國音樂選論",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3562:-:LEC:8251",
+          "rawSection": "--LEC (8251)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8251,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOW Man Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "HYS_101",
+              "instructor": "Professor CHOW Man Ying",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3802",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3802",
+      "courseCode": "MUSC3802",
+      "title": "Introduction to Jazz 爵士樂概論",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3802:-:LEC:7149",
+          "rawSection": "--LEC (7149)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7149,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Adam Joseph KIELMAN"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "HYS_304",
+              "instructor": "Professor Adam Joseph KIELMAN",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3923",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3923",
+      "courseCode": "MUSC3923",
+      "title": "Selected Study II 專題研讀二",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3923:-:LEC:6650",
+          "rawSection": "--LEC (6650)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6650,
+          "language": "C&E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC3933",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3933",
+      "courseCode": "MUSC3933",
+      "title": "Selected Study III 專題研讀三",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3933:-:LEC:8055",
+          "rawSection": "--LEC (8055)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8055,
+          "language": "C&E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4002",
+      "courseCode": "MUSC4002",
+      "title": "Choral Singing VIII 合唱訓練八",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4002:-P01:PRA:8753",
+          "rawSection": "-P01-PRA (8753)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8753,
+          "language": "C#E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LAM Ho Yan Dominic"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LHCH",
+              "instructor": "Mr. LAM Ho Yan Dominic",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4003",
+      "courseCode": "MUSC4003",
+      "title": "Senior Recital 畢業音樂會",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4003:-:LEC:7775",
+          "rawSection": "--LEC (7775)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7775,
+          "language": "C&E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4021",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4021",
+      "courseCode": "MUSC4021",
+      "title": "Applied Music (Minor VIII) 音樂術科(副修八)",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4021:-:LEC:6727",
+          "rawSection": "--LEC (6727)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6727,
+          "language": "C&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4023",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4023",
+      "courseCode": "MUSC4023",
+      "title": "African Drumming VIII 非洲擊鼓樂實習八",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4023:-:LEC:6667",
+          "rawSection": "--LEC (6667)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6667,
+          "language": "C&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr LEUNG Wai Wa Raymond"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Mr LEUNG Wai Wa Raymond",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4024",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4024",
+      "courseCode": "MUSC4024",
+      "title": "Chamber Music Ensemble VIII 室內樂八",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4024:-P01:PRA:9695",
+          "rawSection": "-P01-PRA (9695)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 9695,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4027",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4027",
+      "courseCode": "MUSC4027",
+      "title": "Javanese Gamelan Ensemble VIII 印尼爪哇甘美朗理論與實技八",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4027:-:LEC:8252",
+          "rawSection": "--LEC (8252)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8252,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Deborah Jane WAUGH"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "HYS_LG02",
+              "instructor": "Professor Deborah Jane WAUGH",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4032",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4032",
+      "courseCode": "MUSC4032",
+      "title": "Orchestral Training VIII 管弦樂合奏八",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4032:-P01:PRA:8610",
+          "rawSection": "-P01-PRA (8610)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8610,
+          "language": "C#E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss IP Wing Wun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 07:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "19:30",
+              "endTime": "21:30",
+              "startMinutes": 1170,
+              "endMinutes": 1290,
+              "location": "LHCH",
+              "instructor": "Miss IP Wing Wun",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4042",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4042",
+      "courseCode": "MUSC4042",
+      "title": "Wind Orchestra VIII 管樂團八",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4042:-P01:PRA:8611",
+          "rawSection": "-P01-PRA (8611)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 8611,
+          "language": "C#E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LEUNG Chun Yin Marco"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "LHCH",
+              "instructor": "Mr. LEUNG Chun Yin Marco",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4061",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4061",
+      "courseCode": "MUSC4061",
+      "title": "Applied Music (Major VIII) 音樂術科(主修八)",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4061:-:LEC:6358",
+          "rawSection": "--LEC (6358)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6358,
+          "language": "C&E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4243",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4243",
+      "courseCode": "MUSC4243",
+      "title": "Research Methods in Music 音樂的研究方法",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4243:-:LEC:6989",
+          "rawSection": "--LEC (6989)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6989,
+          "language": "C&E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Ka Chi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "HYS_304",
+              "instructor": "Professor LI Ka Chi",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4523",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4523",
+      "courseCode": "MUSC4523",
+      "title": "Senior Pedagogy Project II 畢業教學專題研究二",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4523:A:LEC:6382",
+          "rawSection": "A-LEC (6382)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 6382,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss IP Wing Wun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Miss IP Wing Wun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4523:B:LEC:6511",
+          "rawSection": "B-LEC (6511)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 6511,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOW Man Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHOW Man Ying",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4523:C:LEC:6512",
+          "rawSection": "C-LEC (6512)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 6512,
+          "language": "C&E",
+          "availability": {
+            "capacity": 2,
+            "enrolled": 0,
+            "availableSeats": 2,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. POON Kiu Tung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. POON Kiu Tung",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4523:D:LEC:6513",
+          "rawSection": "D-LEC (6513)",
+          "sectionCode": "D",
+          "component": "LEC",
+          "classNumber": 6513,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Ka Chi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Ka Chi",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4523:E:LEC:6514",
+          "rawSection": "E-LEC (6514)",
+          "sectionCode": "E",
+          "component": "LEC",
+          "classNumber": 6514,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Wan Ki Wendy"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Wan Ki Wendy",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4523:F:LEC:8063",
+          "rawSection": "F-LEC (8063)",
+          "sectionCode": "F",
+          "component": "LEC",
+          "classNumber": 8063,
+          "language": "C&E",
+          "availability": {
+            "capacity": 2,
+            "enrolled": 0,
+            "availableSeats": 2,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIAO Yvonne"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIAO Yvonne",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4613",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4613",
+      "courseCode": "MUSC4613",
+      "title": "Senior Research Project I 畢業專題研究一",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4613:-:LEC:8074",
+          "rawSection": "--LEC (8074)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8074,
+          "language": "C&E",
+          "availability": {
+            "capacity": 2,
+            "enrolled": 0,
+            "availableSeats": 2,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Ka Chi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor LI Ka Chi",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4623",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4623",
+      "courseCode": "MUSC4623",
+      "title": "Senior Research Project II 畢業專題研究二",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4623:A:LEC:9879",
+          "rawSection": "A-LEC (9879)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 9879,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOW Man Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHOW Man Ying",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4623:B:LEC:9880",
+          "rawSection": "B-LEC (9880)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 9880,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Wan Ki Wendy"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Wan Ki Wendy",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4823",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4823",
+      "courseCode": "MUSC4823",
+      "title": "Senior Thesis II 畢業論文二",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4823:A:LEC:8037",
+          "rawSection": "A-LEC (8037)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 8037,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIAO Yvonne"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIAO Yvonne",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4823:B:LEC:8014",
+          "rawSection": "B-LEC (8014)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 8014,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Hei Yin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WONG Hei Yin",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4823:C:LEC:9881",
+          "rawSection": "C-LEC (9881)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 9881,
+          "language": "E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Adam Joseph KIELMAN"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Adam Joseph KIELMAN",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4823:D:LEC:9882",
+          "rawSection": "D-LEC (9882)",
+          "sectionCode": "D",
+          "component": "LEC",
+          "classNumber": 9882,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Chun Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. WONG Chun Wai",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUSC4943",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4943",
+      "courseCode": "MUSC4943",
+      "title": "Selected Study IV 專題研讀四",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4943:-:LEC:8056",
+          "rawSection": "--LEC (8056)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8056,
+          "language": "C&E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "JASP",
+  "courses": [
+    {
+      "id": "JASP5501",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/jaspv/JASPV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "JASP",
+      "catalogNumber": "5501",
+      "courseCode": "JASP5501",
+      "title": "Teaching Jap As a Second Lang 以日語為第二語言的日語教學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Japanese Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "JASP5501:-:LEC:1006",
+          "rawSection": "--LEC (1006)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1006,
+          "language": "J",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GODA Miho"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "WMY_404",
+              "instructor": "Professor GODA Miho",
+              "dates": [
+                "17/5",
+                "24/5",
+                "31/5",
+                "7/6"
+              ]
+            },
+            {
+              "timeRaw": "Tu 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "WMY_404",
+              "instructor": "Professor GODA Miho",
+              "dates": [
+                "18/5",
+                "25/5",
+                "1/6",
+                "8/6"
+              ]
+            },
+            {
+              "timeRaw": "Th 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "WMY_404",
+              "instructor": "Professor GODA Miho",
+              "dates": [
+                "20/5",
+                "27/5",
+                "3/6",
+                "10/6"
+              ]
+            },
+            {
+              "timeRaw": "Sa 10:30AM - 01:00PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "10:30",
+              "endTime": "13:00",
+              "startMinutes": 630,
+              "endMinutes": 780,
+              "location": "WMY_404",
+              "instructor": "Professor GODA Miho",
+              "dates": [
+                "22/5",
+                "29/5",
+                "5/6",
+                "12/6"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

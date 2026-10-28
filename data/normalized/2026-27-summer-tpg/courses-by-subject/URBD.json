@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "URBD",
+  "courses": [
+    {
+      "id": "URBD5734",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/archv/ARCHV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "URBD",
+      "catalogNumber": "5734",
+      "courseCode": "URBD5734",
+      "title": "Top Studies in Urban Design 4 城市設計專題(四) — 國際工作坊",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC, FLD, STD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "URBD5734:B:LEC:1198",
+          "rawSection": "B-LEC (1198)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 1198,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. CHEUNG Tin Yan - Professor LAU Sing Yeung Sunnie"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "ARC_EXH_A",
+              "instructor": "Ms. CHEUNG Tin Yan - Professor LAU Sing Yeung Sunnie",
+              "dates": [
+                "17/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "URBD5734:BF01:FLD:no-class-number",
+          "rawSection": "BF01-FLD",
+          "sectionCode": "BF01",
+          "component": "FLD",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "ARC_EXH_A",
+              "instructor": null,
+              "dates": [
+                "17/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "URBD5734:BU01:STD:no-class-number",
+          "rawSection": "BU01-STD",
+          "sectionCode": "BU01",
+          "component": "STD",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "ARC_EXH_A",
+              "instructor": null,
+              "dates": [
+                "17/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

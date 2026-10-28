@@ -1,0 +1,4841 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "UGFN",
+  "courses": [
+    {
+      "id": "UGFN1000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGFN",
+      "catalogNumber": "1000",
+      "courseCode": "UGFN1000",
+      "title": "In Dialogue With Nature 與自然對話",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Office of University GE",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGFN1000:A:LEC:9530",
+          "rawSection": "A-LEC (9530)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 9530,
+          "language": "C",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIP Lo Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "ELB_LT2",
+              "instructor": "Dr. YIP Lo Ming",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:AT01:TUT:no-class-number",
+          "rawSection": "AT01-TUT",
+          "sectionCode": "AT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "WMY_503",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "WMY_503",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:AT03:TUT:no-class-number",
+          "rawSection": "AT03-TUT",
+          "sectionCode": "AT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "YIA_410",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:AT04:TUT:no-class-number",
+          "rawSection": "AT04-TUT",
+          "sectionCode": "AT04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "YIA_410",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:AT05:TUT:no-class-number",
+          "rawSection": "AT05-TUT",
+          "sectionCode": "AT05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "YIA_406",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:AT06:TUT:no-class-number",
+          "rawSection": "AT06-TUT",
+          "sectionCode": "AT06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "YIA_406",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:B:LEC:7464",
+          "rawSection": "B-LEC (7464)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 7464,
+          "language": "E",
+          "availability": {
+            "capacity": 75,
+            "enrolled": 0,
+            "availableSeats": 75,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAI Chi Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "YIA_LT4",
+              "instructor": "Dr. LAI Chi Wai",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_507",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:BT02:TUT:no-class-number",
+          "rawSection": "BT02-TUT",
+          "sectionCode": "BT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "YIA_507",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:BT03:TUT:no-class-number",
+          "rawSection": "BT03-TUT",
+          "sectionCode": "BT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "YIA_411",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:C:LEC:7503",
+          "rawSection": "C-LEC (7503)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 7503,
+          "language": "C",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LO Chun Yeung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "YIA_LT3",
+              "instructor": "Dr. LO Chun Yeung",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:CT01:TUT:no-class-number",
+          "rawSection": "CT01-TUT",
+          "sectionCode": "CT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 08:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "08:30",
+              "endTime": "10:15",
+              "startMinutes": 510,
+              "endMinutes": 615,
+              "location": "FYB_603",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:CT02:TUT:no-class-number",
+          "rawSection": "CT02-TUT",
+          "sectionCode": "CT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "FYB_603",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:CT03:TUT:no-class-number",
+          "rawSection": "CT03-TUT",
+          "sectionCode": "CT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "FYB_603",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:CT04:TUT:no-class-number",
+          "rawSection": "CT04-TUT",
+          "sectionCode": "CT04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 08:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "08:30",
+              "endTime": "10:15",
+              "startMinutes": 510,
+              "endMinutes": 615,
+              "location": "YIA_408",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:CT05:TUT:no-class-number",
+          "rawSection": "CT05-TUT",
+          "sectionCode": "CT05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "YIA_408",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:CT06:TUT:no-class-number",
+          "rawSection": "CT06-TUT",
+          "sectionCode": "CT06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "ELB_302",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:E:LEC:9522",
+          "rawSection": "E-LEC (9522)",
+          "sectionCode": "E",
+          "component": "LEC",
+          "classNumber": 9522,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. Klaus John Charles COLANERO"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "ELB_LT1",
+              "instructor": "Dr. Klaus John Charles COLANERO",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ET01:TUT:no-class-number",
+          "rawSection": "ET01-TUT",
+          "sectionCode": "ET01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "WMY_501",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ET02:TUT:no-class-number",
+          "rawSection": "ET02-TUT",
+          "sectionCode": "ET02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "FYB_401",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ET03:TUT:no-class-number",
+          "rawSection": "ET03-TUT",
+          "sectionCode": "ET03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "FYB_106",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ET04:TUT:no-class-number",
+          "rawSection": "ET04-TUT",
+          "sectionCode": "ET04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "WMY_302",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ET05:TUT:no-class-number",
+          "rawSection": "ET05-TUT",
+          "sectionCode": "ET05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "YIA_403",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ET06:TUT:no-class-number",
+          "rawSection": "ET06-TUT",
+          "sectionCode": "ET06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "CYT_214",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:F:LEC:7500",
+          "rawSection": "F-LEC (7500)",
+          "sectionCode": "F",
+          "component": "LEC",
+          "classNumber": 7500,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. PANG Kam Moon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSK_LT1",
+              "instructor": "Dr. PANG Kam Moon",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:FT01:TUT:no-class-number",
+          "rawSection": "FT01-TUT",
+          "sectionCode": "FT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 08:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "08:30",
+              "endTime": "10:15",
+              "startMinutes": 510,
+              "endMinutes": 615,
+              "location": "YIA_506",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:FT02:TUT:no-class-number",
+          "rawSection": "FT02-TUT",
+          "sectionCode": "FT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "YIA_511",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:FT03:TUT:no-class-number",
+          "rawSection": "FT03-TUT",
+          "sectionCode": "FT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "WMY_401",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:FT04:TUT:no-class-number",
+          "rawSection": "FT04-TUT",
+          "sectionCode": "FT04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "WMY_502",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:FT05:TUT:no-class-number",
+          "rawSection": "FT05-TUT",
+          "sectionCode": "FT05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "WMY_401",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:FT06:TUT:no-class-number",
+          "rawSection": "FT06-TUT",
+          "sectionCode": "FT06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "YIA_401",
+              "instructor": null,
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:H:LEC:9490",
+          "rawSection": "H-LEC (9490)",
+          "sectionCode": "H",
+          "component": "LEC",
+          "classNumber": 9490,
+          "language": "C",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YU Hiu Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LKC_LT1",
+              "instructor": "Dr. YU Hiu Yan",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:HT01:TUT:no-class-number",
+          "rawSection": "HT01-TUT",
+          "sectionCode": "HT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_410",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:HT02:TUT:no-class-number",
+          "rawSection": "HT02-TUT",
+          "sectionCode": "HT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "YIA_410",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:HT03:TUT:no-class-number",
+          "rawSection": "HT03-TUT",
+          "sectionCode": "HT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "ELB_305",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:HT04:TUT:no-class-number",
+          "rawSection": "HT04-TUT",
+          "sectionCode": "HT04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "ELB_305",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:HT05:TUT:no-class-number",
+          "rawSection": "HT05-TUT",
+          "sectionCode": "HT05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "YIA_408",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:HT06:TUT:no-class-number",
+          "rawSection": "HT06-TUT",
+          "sectionCode": "HT06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_408",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:L:LEC:9523",
+          "rawSection": "L-LEC (9523)",
+          "sectionCode": "L",
+          "component": "LEC",
+          "classNumber": 9523,
+          "language": "C",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LI Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "ELB_LT1",
+              "instructor": "Dr. LI Ming",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:LT01:TUT:no-class-number",
+          "rawSection": "LT01-TUT",
+          "sectionCode": "LT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "WMY_402",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:LT02:TUT:no-class-number",
+          "rawSection": "LT02-TUT",
+          "sectionCode": "LT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "UCA_111",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:LT03:TUT:no-class-number",
+          "rawSection": "LT03-TUT",
+          "sectionCode": "LT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "SB_239",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:LT04:TUT:no-class-number",
+          "rawSection": "LT04-TUT",
+          "sectionCode": "LT04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_501",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:LT05:TUT:no-class-number",
+          "rawSection": "LT05-TUT",
+          "sectionCode": "LT05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SB_239",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:LT06:TUT:no-class-number",
+          "rawSection": "LT06-TUT",
+          "sectionCode": "LT06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "SB_239",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:M:LEC:5742",
+          "rawSection": "M-LEC (5742)",
+          "sectionCode": "M",
+          "component": "LEC",
+          "classNumber": 5742,
+          "language": "C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MA Hok Lun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "WMY_502",
+              "instructor": "Dr. MA Hok Lun",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:MT01:TUT:no-class-number",
+          "rawSection": "MT01-TUT",
+          "sectionCode": "MT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "YIA_407",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:MT02:TUT:no-class-number",
+          "rawSection": "MT02-TUT",
+          "sectionCode": "MT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "SB_239",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:N:LEC:9301",
+          "rawSection": "N-LEC (9301)",
+          "sectionCode": "N",
+          "component": "LEC",
+          "classNumber": 9301,
+          "language": "C",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. NG Ka Leung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "ELB_LT3",
+              "instructor": "Dr. NG Ka Leung",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:NT01:TUT:no-class-number",
+          "rawSection": "NT01-TUT",
+          "sectionCode": "NT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "ELB_305",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:NT02:TUT:no-class-number",
+          "rawSection": "NT02-TUT",
+          "sectionCode": "NT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "ELB_305",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:NT03:TUT:no-class-number",
+          "rawSection": "NT03-TUT",
+          "sectionCode": "NT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "YIA_501",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:NT04:TUT:no-class-number",
+          "rawSection": "NT04-TUT",
+          "sectionCode": "NT04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "YIA_501",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:NT05:TUT:no-class-number",
+          "rawSection": "NT05-TUT",
+          "sectionCode": "NT05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "WMY_405",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:NT06:TUT:no-class-number",
+          "rawSection": "NT06-TUT",
+          "sectionCode": "NT06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "YIA_501",
+              "instructor": null,
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:P:LEC:5907",
+          "rawSection": "P-LEC (5907)",
+          "sectionCode": "P",
+          "component": "LEC",
+          "classNumber": 5907,
+          "language": "P",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WU Jun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LSK_LT1",
+              "instructor": "Dr. WU Jun",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:PT01:TUT:no-class-number",
+          "rawSection": "PT01-TUT",
+          "sectionCode": "PT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "CYT_215",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:PT02:TUT:no-class-number",
+          "rawSection": "PT02-TUT",
+          "sectionCode": "PT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "YIA_402",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:PT03:TUT:no-class-number",
+          "rawSection": "PT03-TUT",
+          "sectionCode": "PT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "ELB_305",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:PT04:TUT:no-class-number",
+          "rawSection": "PT04-TUT",
+          "sectionCode": "PT04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "CKB_UG05",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:PT05:TUT:no-class-number",
+          "rawSection": "PT05-TUT",
+          "sectionCode": "PT05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "WMY_305",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:PT06:TUT:no-class-number",
+          "rawSection": "PT06-TUT",
+          "sectionCode": "PT06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "UCA_103",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:Q:LEC:5934",
+          "rawSection": "Q-LEC (5934)",
+          "sectionCode": "Q",
+          "component": "LEC",
+          "classNumber": 5934,
+          "language": "P",
+          "availability": {
+            "capacity": 125,
+            "enrolled": 0,
+            "availableSeats": 125,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YANG Jie"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "FYB_LT4",
+              "instructor": "Dr. YANG Jie",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:QT01:TUT:no-class-number",
+          "rawSection": "QT01-TUT",
+          "sectionCode": "QT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_409",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:QT02:TUT:no-class-number",
+          "rawSection": "QT02-TUT",
+          "sectionCode": "QT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "YIA_409",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:QT03:TUT:no-class-number",
+          "rawSection": "QT03-TUT",
+          "sectionCode": "QT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "YIA_407",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:QT04:TUT:no-class-number",
+          "rawSection": "QT04-TUT",
+          "sectionCode": "QT04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "YIA_502",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:QT05:TUT:no-class-number",
+          "rawSection": "QT05-TUT",
+          "sectionCode": "QT05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "CKB_108",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:S:LEC:7504",
+          "rawSection": "S-LEC (7504)",
+          "sectionCode": "S",
+          "component": "LEC",
+          "classNumber": 7504,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HOI Wan Heng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "YIA_LT6",
+              "instructor": "Dr. HOI Wan Heng",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ST01:TUT:no-class-number",
+          "rawSection": "ST01-TUT",
+          "sectionCode": "ST01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "YIA_508",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ST02:TUT:no-class-number",
+          "rawSection": "ST02-TUT",
+          "sectionCode": "ST02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "YIA_508",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ST03:TUT:no-class-number",
+          "rawSection": "ST03-TUT",
+          "sectionCode": "ST03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SB_239",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ST04:TUT:no-class-number",
+          "rawSection": "ST04-TUT",
+          "sectionCode": "ST04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "FYB_603",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ST05:TUT:no-class-number",
+          "rawSection": "ST05-TUT",
+          "sectionCode": "ST05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "ELB_305",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ST06:TUT:no-class-number",
+          "rawSection": "ST06-TUT",
+          "sectionCode": "ST06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "ELB_305",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:T:LEC:9527",
+          "rawSection": "T-LEC (9527)",
+          "sectionCode": "T",
+          "component": "LEC",
+          "classNumber": 9527,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAM To Kam"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "ELB_LT3",
+              "instructor": "Dr. LAM To Kam",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:TT01:TUT:no-class-number",
+          "rawSection": "TT01-TUT",
+          "sectionCode": "TT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "YIA_507",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:TT02:TUT:no-class-number",
+          "rawSection": "TT02-TUT",
+          "sectionCode": "TT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "YIA_501",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:TT03:TUT:no-class-number",
+          "rawSection": "TT03-TUT",
+          "sectionCode": "TT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "HYS_G06",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:TT04:TUT:no-class-number",
+          "rawSection": "TT04-TUT",
+          "sectionCode": "TT04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "FYB_603",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:TT05:TUT:no-class-number",
+          "rawSection": "TT05-TUT",
+          "sectionCode": "TT05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "ELB_205",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:TT06:TUT:no-class-number",
+          "rawSection": "TT06-TUT",
+          "sectionCode": "TT06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "WMY_504",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:U:LEC:5484",
+          "rawSection": "U-LEC (5484)",
+          "sectionCode": "U",
+          "component": "LEC",
+          "classNumber": 5484,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr PONG Sze Ho Cecil"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "ELB_205",
+              "instructor": "Mr PONG Sze Ho Cecil",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:UT01:TUT:no-class-number",
+          "rawSection": "UT01-TUT",
+          "sectionCode": "UT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "YIA_507",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:UT02:TUT:no-class-number",
+          "rawSection": "UT02-TUT",
+          "sectionCode": "UT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "YIA_401",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:V:LEC:7620",
+          "rawSection": "V-LEC (7620)",
+          "sectionCode": "V",
+          "component": "LEC",
+          "classNumber": 7620,
+          "language": "C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "YIA_502",
+              "instructor": "Staff",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:VT01:TUT:no-class-number",
+          "rawSection": "VT01-TUT",
+          "sectionCode": "VT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "YIA_409",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:VT02:TUT:no-class-number",
+          "rawSection": "VT02-TUT",
+          "sectionCode": "VT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "YIA_409",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:Z:LEC:7352",
+          "rawSection": "Z-LEC (7352)",
+          "sectionCode": "Z",
+          "component": "LEC",
+          "classNumber": 7352,
+          "language": "C",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. SZETO Wai Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "YIA_LT6",
+              "instructor": "Dr. SZETO Wai Man",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ZT01:TUT:no-class-number",
+          "rawSection": "ZT01-TUT",
+          "sectionCode": "ZT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_511",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ZT02:TUT:no-class-number",
+          "rawSection": "ZT02-TUT",
+          "sectionCode": "ZT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "YIA_511",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ZT03:TUT:no-class-number",
+          "rawSection": "ZT03-TUT",
+          "sectionCode": "ZT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "YIA_508",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ZT04:TUT:no-class-number",
+          "rawSection": "ZT04-TUT",
+          "sectionCode": "ZT04",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "YIA_508",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ZT05:TUT:no-class-number",
+          "rawSection": "ZT05-TUT",
+          "sectionCode": "ZT05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "YIA_507",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1000:ZT06:TUT:no-class-number",
+          "rawSection": "ZT06-TUT",
+          "sectionCode": "ZT06",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "YIA_507",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGFN1002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGFN",
+      "catalogNumber": "1002",
+      "courseCode": "UGFN1002",
+      "title": "In Dialogue with Nature 與自然對話",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Office of University GE",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGFN1002:D:LEC:10034",
+          "rawSection": "D-LEC (10034)",
+          "sectionCode": "D",
+          "component": "LEC",
+          "classNumber": 10034,
+          "language": "E",
+          "availability": {
+            "capacity": 46,
+            "enrolled": 0,
+            "availableSeats": 46,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Wing Hung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "WMY_502",
+              "instructor": "Dr. WONG Wing Hung",
+              "dates": [
+                "15/1",
+                "29/1",
+                "12/2",
+                "26/2",
+                "19/3",
+                "2/4",
+                "16/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1002:DT01:TUT:no-class-number",
+          "rawSection": "DT01-TUT",
+          "sectionCode": "DT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 23,
+            "enrolled": 0,
+            "availableSeats": 23,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "YIA_408",
+              "instructor": null,
+              "dates": [
+                "20/1",
+                "3/2",
+                "17/2",
+                "3/3",
+                "24/3",
+                "7/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1002:DT02:TUT:no-class-number",
+          "rawSection": "DT02-TUT",
+          "sectionCode": "DT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 23,
+            "enrolled": 0,
+            "availableSeats": 23,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_504",
+              "instructor": null,
+              "dates": [
+                "20/1",
+                "3/2",
+                "17/2",
+                "3/3",
+                "24/3",
+                "7/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1002:G:LEC:10038",
+          "rawSection": "G-LEC (10038)",
+          "sectionCode": "G",
+          "component": "LEC",
+          "classNumber": 10038,
+          "language": "E",
+          "availability": {
+            "capacity": 46,
+            "enrolled": 0,
+            "availableSeats": 46,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Wing Hung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "WMY_502",
+              "instructor": "Dr. WONG Wing Hung",
+              "dates": [
+                "22/1",
+                "19/2",
+                "5/3",
+                "9/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1002:GT01:TUT:no-class-number",
+          "rawSection": "GT01-TUT",
+          "sectionCode": "GT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 23,
+            "enrolled": 0,
+            "availableSeats": 23,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "YIA_408",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "27/1",
+                "24/2",
+                "17/3",
+                "31/3",
+                "14/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFN1002:GT02:TUT:no-class-number",
+          "rawSection": "GT02-TUT",
+          "sectionCode": "GT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 23,
+            "enrolled": 0,
+            "availableSeats": 23,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_504",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "27/1",
+                "24/2",
+                "17/3",
+                "31/3",
+                "14/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "MBAC",
+  "courses": [
+    {
+      "id": "MBAC6083",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "MBAC",
+      "catalogNumber": "6083",
+      "courseCode": "MBAC6083",
+      "title": "Bus Field Stud - North America 實地考察－北美商務",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "FLD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MBAC6083:FF01:FLD:1089",
+          "rawSection": "FF01-FLD (1089)",
+          "sectionCode": "FF01",
+          "component": "FLD",
+          "classNumber": 1089,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CISTERNAS VERA Francisco Orlando"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "21:30",
+              "startMinutes": 570,
+              "endMinutes": 1290,
+              "location": "NRR",
+              "instructor": "Dr. CISTERNAS VERA Francisco Orlando",
+              "dates": [
+                "14/6"
+              ]
+            },
+            {
+              "timeRaw": "Tu 09:30AM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "21:30",
+              "startMinutes": 570,
+              "endMinutes": 1290,
+              "location": "NRR",
+              "instructor": "Dr. CISTERNAS VERA Francisco Orlando",
+              "dates": [
+                "15/6"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "21:30",
+              "startMinutes": 570,
+              "endMinutes": 1290,
+              "location": "NRR",
+              "instructor": "Dr. CISTERNAS VERA Francisco Orlando",
+              "dates": [
+                "16/6"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "21:30",
+              "startMinutes": 570,
+              "endMinutes": 1290,
+              "location": "NRR",
+              "instructor": "Dr. CISTERNAS VERA Francisco Orlando",
+              "dates": [
+                "17/6"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "21:30",
+              "startMinutes": 570,
+              "endMinutes": 1290,
+              "location": "NRR",
+              "instructor": "Dr. CISTERNAS VERA Francisco Orlando",
+              "dates": [
+                "18/6"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

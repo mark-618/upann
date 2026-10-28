@@ -1,0 +1,4504 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "FINA",
+  "courses": [
+    {
+      "id": "FINA5010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "5010",
+      "courseCode": "FINA5010",
+      "title": "Financial Management 財務管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA5010:CA:LEC:1386",
+          "rawSection": "CA-LEC (1386)",
+          "sectionCode": "CA",
+          "component": "LEC",
+          "classNumber": 1386,
+          "language": "E",
+          "availability": {
+            "capacity": 79,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KOT Hung Wan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "CYT_LT5",
+              "instructor": "Dr. KOT Hung Wan",
+              "dates": [
+                "9/12",
+                "16/12",
+                "23/12",
+                "30/12",
+                "6/1",
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2"
+              ]
+            },
+            {
+              "timeRaw": "Su 09:00AM - 12:30PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "09:00",
+              "endTime": "12:30",
+              "startMinutes": 540,
+              "endMinutes": 750,
+              "location": "TBA",
+              "instructor": "Dr. KOT Hung Wan",
+              "dates": [
+                "28/2"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA5010:W:LEC:1174",
+          "rawSection": "W-LEC (1174)",
+          "sectionCode": "W",
+          "component": "LEC",
+          "classNumber": 1174,
+          "language": "E",
+          "availability": {
+            "capacity": 47,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU YEUNG Chau Kin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "CYT_LT5",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "12/12",
+                "19/12",
+                "2/1",
+                "16/1",
+                "13/2",
+                "20/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "YIA_403",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "9/1"
+              ]
+            },
+            {
+              "timeRaw": "Sa 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "YIA_201",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "23/1",
+                "30/1",
+                "27/2",
+                "6/3"
+              ]
+            },
+            {
+              "timeRaw": "Su 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "CYT_410",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "7/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA5011",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "5011",
+      "courseCode": "FINA5011",
+      "title": "Corporate Finance 公司財務",
+      "units": 1.5,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA5011:G:LEC:2440",
+          "rawSection": "G-LEC (2440)",
+          "sectionCode": "G",
+          "component": "LEC",
+          "classNumber": 2440,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU YEUNG Chau Kin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_LT9",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "10/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_LT1A",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "17/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_LT5",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "7/1",
+                "4/2"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA5011:GA:LEC:2439",
+          "rawSection": "GA-LEC (2439)",
+          "sectionCode": "GA",
+          "component": "LEC",
+          "classNumber": 2439,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU YEUNG Chau Kin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "WMY_301",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "8/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_LT1A",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "17/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_LT4",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "7/1"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "LPN_LT",
+              "instructor": "Dr. AU YEUNG Chau Kin",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA5012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "5012",
+      "courseCode": "FINA5012",
+      "title": "Fundam of Sustainable Fin 可持續金融導論",
+      "units": 1.5,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA5012:G:LEC:9875",
+          "rawSection": "G-LEC (9875)",
+          "sectionCode": "G",
+          "component": "LEC",
+          "classNumber": 9875,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LIU Chun Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "WMY_505",
+              "instructor": "Mr. LIU Chun Wai",
+              "dates": [
+                "9/1",
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6022",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6022",
+      "courseCode": "FINA6022",
+      "title": "Current Topics in Finance 當前金融專題",
+      "units": 1.5,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6022:AE:LEC:1364",
+          "rawSection": "AE-LEC (1364)",
+          "sectionCode": "AE",
+          "component": "LEC",
+          "classNumber": 1364,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAU Chi Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:45AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:45",
+              "endTime": "13:15",
+              "startMinutes": 525,
+              "endMinutes": 795,
+              "location": "BATC_DI",
+              "instructor": "Professor CHAU Chi Wai",
+              "dates": [
+                "5/12"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 07:00PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "19:00",
+              "startMinutes": 870,
+              "endMinutes": 1140,
+              "location": "BATC_DI",
+              "instructor": "Professor CHAU Chi Wai",
+              "dates": [
+                "5/12"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:45AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:45",
+              "endTime": "13:15",
+              "startMinutes": 525,
+              "endMinutes": 795,
+              "location": "BATC_DI",
+              "instructor": "Professor CHAU Chi Wai",
+              "dates": [
+                "6/12"
+              ]
+            },
+            {
+              "timeRaw": "Su 02:30PM - 07:00PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "14:30",
+              "endTime": "19:00",
+              "startMinutes": 870,
+              "endMinutes": 1140,
+              "location": "BATC_DI",
+              "instructor": "Professor CHAU Chi Wai",
+              "dates": [
+                "6/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6023",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6023",
+      "courseCode": "FINA6023",
+      "title": "Application of AI in Finance 金融業人工智能的應用",
+      "units": 1.5,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6023:S:LEC:1435",
+          "rawSection": "S-LEC (1435)",
+          "sectionCode": "S",
+          "component": "LEC",
+          "classNumber": 1435,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Staff",
+              "dates": [
+                "12/12"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Staff",
+              "dates": [
+                "13/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6040",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6040",
+      "courseCode": "FINA6040",
+      "title": "Invest Anal & Portfo Managt 投資分析與組合管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6040:W:LEC:2526",
+          "rawSection": "W-LEC (2526)",
+          "sectionCode": "W",
+          "component": "LEC",
+          "classNumber": 2526,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHENG Wui Wing Joseph"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "CYT_LT5",
+              "instructor": "Professor CHENG Wui Wing Joseph",
+              "dates": [
+                "12/12",
+                "19/12",
+                "2/1",
+                "16/1",
+                "13/2",
+                "20/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "ARC_G02",
+              "instructor": "Professor CHENG Wui Wing Joseph",
+              "dates": [
+                "9/1",
+                "23/1",
+                "30/1",
+                "27/2",
+                "6/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6081",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6081",
+      "courseCode": "FINA6081",
+      "title": "Investments 金融投資",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6081:AE:LEC:2349",
+          "rawSection": "AE-LEC (2349)",
+          "sectionCode": "AE",
+          "component": "LEC",
+          "classNumber": 2349,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor FRANKLIN Laurence Craig"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:45AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:45",
+              "endTime": "13:15",
+              "startMinutes": 525,
+              "endMinutes": 795,
+              "location": "BATC_DI",
+              "instructor": "Professor FRANKLIN Laurence Craig",
+              "dates": [
+                "12/12",
+                "19/12"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 07:00PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "19:00",
+              "startMinutes": 870,
+              "endMinutes": 1140,
+              "location": "BATC_DI",
+              "instructor": "Professor FRANKLIN Laurence Craig",
+              "dates": [
+                "12/12",
+                "19/12"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:45AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:45",
+              "endTime": "13:15",
+              "startMinutes": 525,
+              "endMinutes": 795,
+              "location": "BATC_DI",
+              "instructor": "Professor FRANKLIN Laurence Craig",
+              "dates": [
+                "13/12",
+                "20/12"
+              ]
+            },
+            {
+              "timeRaw": "Su 02:30PM - 07:00PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "14:30",
+              "endTime": "19:00",
+              "startMinutes": 870,
+              "endMinutes": 1140,
+              "location": "BATC_DI",
+              "instructor": "Professor FRANKLIN Laurence Craig",
+              "dates": [
+                "13/12",
+                "20/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6092",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6092",
+      "courseCode": "FINA6092",
+      "title": "Advanced Financial Management 高級財務管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6092:SA:LEC:1263",
+          "rawSection": "SA-LEC (1263)",
+          "sectionCode": "SA",
+          "component": "LEC",
+          "classNumber": 1263,
+          "language": "P",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XIAO Yizhou"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT5",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "19/11"
+              ]
+            },
+            {
+              "timeRaw": "Fr 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT5",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "20/11"
+              ]
+            },
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT5",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "21/11"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "22/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6092:SB:LEC:1238",
+          "rawSection": "SB-LEC (1238)",
+          "sectionCode": "SB",
+          "component": "LEC",
+          "classNumber": 1238,
+          "language": "P",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XIAO Yizhou"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT5",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "14/11",
+                "28/11"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "15/11",
+                "29/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6121",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6121",
+      "courseCode": "FINA6121",
+      "title": "Sem Glob Fin Sys & Cor Govern 國際金融制度與公司治理專題研討",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6121:P:LEC:1428",
+          "rawSection": "P-LEC (1428)",
+          "sectionCode": "P",
+          "component": "LEC",
+          "classNumber": 1428,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HUANG Guobo"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:00AM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:00",
+              "endTime": "18:00",
+              "startMinutes": 540,
+              "endMinutes": 1080,
+              "location": "CYT_LT2",
+              "instructor": "Professor HUANG Guobo",
+              "dates": [
+                "17/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:00AM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:00",
+              "endTime": "18:00",
+              "startMinutes": 540,
+              "endMinutes": 1080,
+              "location": "CYT_LT2",
+              "instructor": "Professor HUANG Guobo",
+              "dates": [
+                "18/12"
+              ]
+            },
+            {
+              "timeRaw": "Sa 09:00AM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:00",
+              "endTime": "18:00",
+              "startMinutes": 540,
+              "endMinutes": 1080,
+              "location": "CYT_LT2",
+              "instructor": "Professor HUANG Guobo",
+              "dates": [
+                "19/12"
+              ]
+            },
+            {
+              "timeRaw": "Su 09:00AM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "09:00",
+              "endTime": "18:00",
+              "startMinutes": 540,
+              "endMinutes": 1080,
+              "location": "CYT_LT2",
+              "instructor": "Professor HUANG Guobo",
+              "dates": [
+                "20/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6122",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6122",
+      "courseCode": "FINA6122",
+      "title": "Fin Markets & Instruments 金融市場與工具",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6122:CB:LEC:1615",
+          "rawSection": "CB-LEC (1615)",
+          "sectionCode": "CB",
+          "component": "LEC",
+          "classNumber": 1615,
+          "language": "E",
+          "availability": {
+            "capacity": 75,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KOT Hung Wan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:45PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:45",
+              "startMinutes": 870,
+              "endMinutes": 1065,
+              "location": "CYT_LT4",
+              "instructor": "Dr. KOT Hung Wan",
+              "dates": [
+                "8/12",
+                "15/12",
+                "22/12",
+                "29/12",
+                "5/1",
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6142",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6142",
+      "courseCode": "FINA6142",
+      "title": "Global Finance 國際金融",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6142:S:LEC:1512",
+          "rawSection": "S-LEC (1512)",
+          "sectionCode": "S",
+          "component": "LEC",
+          "classNumber": 1512,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HUANG Guobo"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Professor HUANG Guobo",
+              "dates": [
+                "21/1"
+              ]
+            },
+            {
+              "timeRaw": "Fr 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Professor HUANG Guobo",
+              "dates": [
+                "22/1"
+              ]
+            },
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Professor HUANG Guobo",
+              "dates": [
+                "23/1"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Professor HUANG Guobo",
+              "dates": [
+                "24/1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6152",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6152",
+      "courseCode": "FINA6152",
+      "title": "Fixed-Income Securities Analy 固定收入証券分析",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6152:FA:LEC:1002",
+          "rawSection": "FA-LEC (1002)",
+          "sectionCode": "FA",
+          "component": "LEC",
+          "classNumber": 1002,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XIAO Yizhou"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "CYT_LT5",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "8/12",
+                "15/12",
+                "22/12",
+                "29/12",
+                "5/1",
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2"
+              ]
+            },
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "CYT_209B",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "12/1",
+                "23/2"
+              ]
+            },
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "CYT_202",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "12/1",
+                "23/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ARC_G01",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "9/1"
+              ]
+            },
+            {
+              "timeRaw": "Sa 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "TBA",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "20/2"
+              ]
+            },
+            {
+              "timeRaw": "Su 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor XIAO Yizhou",
+              "dates": [
+                "20/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6172",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6172",
+      "courseCode": "FINA6172",
+      "title": "Mergers & Acquisitions 合併與收購",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6172:W:LEC:1069",
+          "rawSection": "W-LEC (1069)",
+          "sectionCode": "W",
+          "component": "LEC",
+          "classNumber": 1069,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XIE Wensi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "WMY_305",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "12/12",
+                "19/12",
+                "9/1",
+                "16/1",
+                "23/1",
+                "30/1",
+                "20/2",
+                "27/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "CYT_LT4",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "13/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "CYT_410",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "6/3"
+              ]
+            },
+            {
+              "timeRaw": "Sa 06:30PM - 09:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "18:30",
+              "endTime": "21:45",
+              "startMinutes": 1110,
+              "endMinutes": 1305,
+              "location": "TBA",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "19/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6192",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6192",
+      "courseCode": "FINA6192",
+      "title": "Cases in Cor Fin & Investment 公司金融個案研究與投資實踐",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6192:FA:LEC:1004",
+          "rawSection": "FA-LEC (1004)",
+          "sectionCode": "FA",
+          "component": "LEC",
+          "classNumber": 1004,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss CHAN Wai Hing Annie - Mr. Olivier Rene COTARD"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 10:00PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "22:00",
+              "startMinutes": 1110,
+              "endMinutes": 1320,
+              "location": "BATC_SA",
+              "instructor": "Miss CHAN Wai Hing Annie - Mr. Olivier Rene COTARD",
+              "dates": [
+                "7/12",
+                "14/12",
+                "21/12",
+                "4/1",
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6203",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6203",
+      "courseCode": "FINA6203",
+      "title": "Python in Finance Python 在金融領域的應用",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6203:FA:LEC:1671",
+          "rawSection": "FA-LEC (1671)",
+          "sectionCode": "FA",
+          "component": "LEC",
+          "classNumber": 1671,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAW Kody Chinon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "CYT_409",
+              "instructor": "Professor LAW Kody Chinon",
+              "dates": [
+                "8/12",
+                "15/12",
+                "22/12",
+                "29/12",
+                "5/1",
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3"
+              ]
+            },
+            {
+              "timeRaw": "Fr 11:30AM - 01:00PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "11:30",
+              "endTime": "13:00",
+              "startMinutes": 690,
+              "endMinutes": 780,
+              "location": "CYT_409",
+              "instructor": "Professor LAW Kody Chinon",
+              "dates": [
+                "11/12",
+                "18/12",
+                "8/1",
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6203:FB:LEC:1660",
+          "rawSection": "FB-LEC (1660)",
+          "sectionCode": "FB",
+          "component": "LEC",
+          "classNumber": 1660,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAW Kody Chinon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "CYT_409",
+              "instructor": "Professor LAW Kody Chinon",
+              "dates": [
+                "7/12",
+                "14/12",
+                "21/12",
+                "28/12",
+                "4/1",
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3"
+              ]
+            },
+            {
+              "timeRaw": "Fr 04:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "16:00",
+              "endTime": "17:15",
+              "startMinutes": 960,
+              "endMinutes": 1035,
+              "location": "CYT_409",
+              "instructor": "Professor LAW Kody Chinon",
+              "dates": [
+                "11/12",
+                "18/12",
+                "8/1",
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6203:FC:LEC:1659",
+          "rawSection": "FC-LEC (1659)",
+          "sectionCode": "FC",
+          "component": "LEC",
+          "classNumber": 1659,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAW Kody Chinon"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "CYT_409",
+              "instructor": "Professor LAW Kody Chinon",
+              "dates": [
+                "7/12",
+                "14/12",
+                "21/12",
+                "28/12",
+                "4/1",
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3"
+              ]
+            },
+            {
+              "timeRaw": "Fr 02:00PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:00",
+              "endTime": "15:15",
+              "startMinutes": 840,
+              "endMinutes": 915,
+              "location": "CYT_409",
+              "instructor": "Professor LAW Kody Chinon",
+              "dates": [
+                "11/12",
+                "18/12",
+                "8/1",
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6203:FD:LEC:1363",
+          "rawSection": "FD-LEC (1363)",
+          "sectionCode": "FD",
+          "component": "LEC",
+          "classNumber": 1363,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. SUN Pengfei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:45PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:45",
+              "startMinutes": 1110,
+              "endMinutes": 1305,
+              "location": "CYT_409",
+              "instructor": "Dr. SUN Pengfei",
+              "dates": [
+                "2/3"
+              ]
+            },
+            {
+              "timeRaw": "Th 06:30PM - 09:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:45",
+              "startMinutes": 1110,
+              "endMinutes": 1305,
+              "location": "CYT_409",
+              "instructor": "Dr. SUN Pengfei",
+              "dates": [
+                "10/12",
+                "17/12",
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "18/2",
+                "25/2"
+              ]
+            },
+            {
+              "timeRaw": "Fr 06:30PM - 08:00PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "20:00",
+              "startMinutes": 1110,
+              "endMinutes": 1200,
+              "location": "CYT_409",
+              "instructor": "Dr. SUN Pengfei",
+              "dates": [
+                "11/12",
+                "8/1",
+                "15/1",
+                "22/1",
+                "12/2",
+                "19/2",
+                "26/2"
+              ]
+            },
+            {
+              "timeRaw": "Fr 06:30PM - 09:45PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:45",
+              "startMinutes": 1110,
+              "endMinutes": 1305,
+              "location": "CYT_409",
+              "instructor": "Dr. SUN Pengfei",
+              "dates": [
+                "18/12",
+                "29/1"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 04:00PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "16:00",
+              "startMinutes": 870,
+              "endMinutes": 960,
+              "location": "CYT_409",
+              "instructor": "Dr. SUN Pengfei",
+              "dates": [
+                "19/12",
+                "30/1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6209",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6209",
+      "courseCode": "FINA6209",
+      "title": "Contemporary Topics in Finance 當代金融話題",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6209:FB:LEC:4058",
+          "rawSection": "FB-LEC (4058)",
+          "sectionCode": "FB",
+          "component": "LEC",
+          "classNumber": 4058,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KUONG Chi Fong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "WMY_306",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "9/12"
+              ]
+            },
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "CYT_201",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "16/12",
+                "23/12",
+                "30/12",
+                "6/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2"
+              ]
+            },
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "ARC_G03",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "13/1"
+              ]
+            },
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "SC_L1",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "24/2"
+              ]
+            },
+            {
+              "timeRaw": "Su 10:00AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "10:00",
+              "endTime": "13:15",
+              "startMinutes": 600,
+              "endMinutes": 795,
+              "location": "TBA",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "24/1",
+                "14/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6222",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6222",
+      "courseCode": "FINA6222",
+      "title": "Selected Topics in Finance 金融專題",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6222:-:LEC:1070",
+          "rawSection": "--LEC (1070)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1070,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HE Songrun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor HE Songrun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6222:FB:LEC:1380",
+          "rawSection": "FB-LEC (1380)",
+          "sectionCode": "FB",
+          "component": "LEC",
+          "classNumber": 1380,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEW Seen Meng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "CYT_LT5",
+              "instructor": "Professor CHEW Seen Meng",
+              "dates": [
+                "7/12",
+                "14/12",
+                "21/12",
+                "28/12",
+                "4/1",
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2"
+              ]
+            },
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "CYT_615",
+              "instructor": "Professor CHEW Seen Meng",
+              "dates": [
+                "1/3"
+              ]
+            },
+            {
+              "timeRaw": "Su 10:00AM - 01:00PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "10:00",
+              "endTime": "13:00",
+              "startMinutes": 600,
+              "endMinutes": 780,
+              "location": "TBA",
+              "instructor": "Professor CHEW Seen Meng",
+              "dates": [
+                "10/1"
+              ]
+            },
+            {
+              "timeRaw": "Su 02:00PM - 04:00PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "14:00",
+              "endTime": "16:00",
+              "startMinutes": 840,
+              "endMinutes": 960,
+              "location": "TBA",
+              "instructor": "Professor CHEW Seen Meng",
+              "dates": [
+                "10/1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6236",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6236",
+      "courseCode": "FINA6236",
+      "title": "Sustainable Finance 可持續金融",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6236:N:LEC:2576",
+          "rawSection": "N-LEC (2576)",
+          "sectionCode": "N",
+          "component": "LEC",
+          "classNumber": 2576,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MOK Ka Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "ERB_803",
+              "instructor": "Dr. MOK Ka Ming",
+              "dates": [
+                "7/12",
+                "14/12",
+                "21/12",
+                "28/12",
+                "4/1",
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3"
+              ]
+            },
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "TBA",
+              "instructor": "Dr. MOK Ka Ming",
+              "dates": [
+                "1/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6250",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6250",
+      "courseCode": "FINA6250",
+      "title": "Fundamen of Dervia Trad Strate 衍生商品交易策略基礎",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6250:-:LEC:9682",
+          "rawSection": "--LEC (9682)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9682,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAM Full Yet Eric Campbell"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ERB_706",
+              "instructor": "Dr. LAM Full Yet Eric Campbell",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6282",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6282",
+      "courseCode": "FINA6282",
+      "title": "Economics for Finance Practice 金融實務經濟學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6282:FA:LEC:1274",
+          "rawSection": "FA-LEC (1274)",
+          "sectionCode": "FA",
+          "component": "LEC",
+          "classNumber": 1274,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XIE Wensi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_LT4",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "7/12",
+                "14/12",
+                "21/12",
+                "28/12",
+                "4/1",
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_LT1B",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "17/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "21/1"
+              ]
+            },
+            {
+              "timeRaw": "Fr 02:30PM - 04:00PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "16:00",
+              "startMinutes": 870,
+              "endMinutes": 960,
+              "location": "WMY_305",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "18/12",
+                "8/1",
+                "15/1",
+                "22/1",
+                "29/1"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6282:FB:LEC:1276",
+          "rawSection": "FB-LEC (1276)",
+          "sectionCode": "FB",
+          "component": "LEC",
+          "classNumber": 1276,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XIE Wensi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_201",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "8/12"
+              ]
+            },
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_202",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "15/12",
+                "22/12",
+                "29/12",
+                "5/1"
+              ]
+            },
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_LT1B",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "17/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "21/1"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 11:00AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:00",
+              "startMinutes": 570,
+              "endMinutes": 660,
+              "location": "WMY_305",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "18/12",
+                "8/1",
+                "15/1",
+                "22/1",
+                "29/1"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6282:FC:LEC:1281",
+          "rawSection": "FC-LEC (1281)",
+          "sectionCode": "FC",
+          "component": "LEC",
+          "classNumber": 1281,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XIE Wensi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:00AM - 01:00PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:00",
+              "endTime": "13:00",
+              "startMinutes": 600,
+              "endMinutes": 780,
+              "location": "YIA_201",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "8/12"
+              ]
+            },
+            {
+              "timeRaw": "Tu 10:00AM - 01:00PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:00",
+              "endTime": "13:00",
+              "startMinutes": 600,
+              "endMinutes": 780,
+              "location": "CYT_LT1A",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "15/12",
+                "22/12",
+                "29/12",
+                "5/1"
+              ]
+            },
+            {
+              "timeRaw": "Tu 10:00AM - 01:00PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:00",
+              "endTime": "13:00",
+              "startMinutes": 600,
+              "endMinutes": 780,
+              "location": "TBA",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_LT1B",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "17/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "21/1"
+              ]
+            },
+            {
+              "timeRaw": "Fr 11:00AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "11:00",
+              "endTime": "12:15",
+              "startMinutes": 660,
+              "endMinutes": 735,
+              "location": "WMY_305",
+              "instructor": "Professor XIE Wensi",
+              "dates": [
+                "18/12",
+                "8/1",
+                "15/1",
+                "22/1",
+                "29/1"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6282:FD:LEC:1275",
+          "rawSection": "FD-LEC (1275)",
+          "sectionCode": "FD",
+          "component": "LEC",
+          "classNumber": 1275,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAM Full Yet Eric Campbell"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "YIA_201",
+              "instructor": "Dr. LAM Full Yet Eric Campbell",
+              "dates": [
+                "9/12"
+              ]
+            },
+            {
+              "timeRaw": "We 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "CYT_LT1A",
+              "instructor": "Dr. LAM Full Yet Eric Campbell",
+              "dates": [
+                "16/12",
+                "23/12",
+                "30/12",
+                "6/1"
+              ]
+            },
+            {
+              "timeRaw": "We 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Dr. LAM Full Yet Eric Campbell",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2"
+              ]
+            },
+            {
+              "timeRaw": "Fr 04:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "16:00",
+              "endTime": "17:15",
+              "startMinutes": 960,
+              "endMinutes": 1035,
+              "location": "WMY_305",
+              "instructor": "Dr. LAM Full Yet Eric Campbell",
+              "dates": [
+                "18/12",
+                "8/1",
+                "15/1",
+                "22/1",
+                "29/1"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6282:FE:LEC:1407",
+          "rawSection": "FE-LEC (1407)",
+          "sectionCode": "FE",
+          "component": "LEC",
+          "classNumber": 1407,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LAM Full Yet Eric Campbell"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 05:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:45",
+              "startMinutes": 870,
+              "endMinutes": 1065,
+              "location": "WMY_403",
+              "instructor": "Dr. LAM Full Yet Eric Campbell",
+              "dates": [
+                "12/12",
+                "19/12",
+                "2/1",
+                "9/1",
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 06:00PM - 07:30PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "18:00",
+              "endTime": "19:30",
+              "startMinutes": 1080,
+              "endMinutes": 1170,
+              "location": "TBA",
+              "instructor": "Dr. LAM Full Yet Eric Campbell",
+              "dates": [
+                "19/12",
+                "9/1"
+              ]
+            },
+            {
+              "timeRaw": "Su 02:30PM - 05:45PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "14:30",
+              "endTime": "17:45",
+              "startMinutes": 870,
+              "endMinutes": 1065,
+              "location": "TBA",
+              "instructor": "Dr. LAM Full Yet Eric Campbell",
+              "dates": [
+                "20/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6292",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6292",
+      "courseCode": "FINA6292",
+      "title": "Capital Markets 資本市場",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6292:FA:LEC:1233",
+          "rawSection": "FA-LEC (1233)",
+          "sectionCode": "FA",
+          "component": "LEC",
+          "classNumber": 1233,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KUONG Chi Fong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "YIA_LT8",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "8/12"
+              ]
+            },
+            {
+              "timeRaw": "Tu 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "CYT_LT1A",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "15/12",
+                "22/12",
+                "29/12",
+                "5/1"
+              ]
+            },
+            {
+              "timeRaw": "Tu 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "LSK_LT5",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "23/1",
+                "27/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "ARC_G01",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "13/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LSK_LT5",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "16/1",
+                "20/2"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6292:FB:LEC:1184",
+          "rawSection": "FB-LEC (1184)",
+          "sectionCode": "FB",
+          "component": "LEC",
+          "classNumber": 1184,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KUONG Chi Fong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LSB_LT4",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "8/12",
+                "15/12",
+                "22/12",
+                "29/12",
+                "5/1",
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:00PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:00",
+              "endTime": "17:15",
+              "startMinutes": 840,
+              "endMinutes": 1035,
+              "location": "LSK_LT7",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "23/1",
+                "27/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LSK_LT7",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "16/1",
+                "20/2"
+              ]
+            },
+            {
+              "timeRaw": "Sa 06:30PM - 09:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "18:30",
+              "endTime": "21:45",
+              "startMinutes": 1110,
+              "endMinutes": 1305,
+              "location": "TBA",
+              "instructor": "Professor KUONG Chi Fong",
+              "dates": [
+                "13/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6508",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6508",
+      "courseCode": "FINA6508",
+      "title": "Commercial Banking 商業銀行管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6508:FA:LEC:1185",
+          "rawSection": "FA-LEC (1185)",
+          "sectionCode": "FA",
+          "component": "LEC",
+          "classNumber": 1185,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TANG Nai Pan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:45PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:45",
+              "startMinutes": 1110,
+              "endMinutes": 1305,
+              "location": "BATC_SA",
+              "instructor": "Professor TANG Nai Pan",
+              "dates": [
+                "9/12",
+                "16/12",
+                "23/12",
+                "6/1",
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2"
+              ]
+            },
+            {
+              "timeRaw": "Su 10:00AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "10:00",
+              "endTime": "13:15",
+              "startMinutes": 600,
+              "endMinutes": 795,
+              "location": "TBA",
+              "instructor": "Professor TANG Nai Pan",
+              "dates": [
+                "24/1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6512",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6512",
+      "courseCode": "FINA6512",
+      "title": "Merg, Acq & Recon of Corp Fin 兼併、收購與財務重組",
+      "units": 1.5,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6512:S:LEC:1513",
+          "rawSection": "S-LEC (1513)",
+          "sectionCode": "S",
+          "component": "LEC",
+          "classNumber": 1513,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHU Tao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Professor SHU Tao",
+              "dates": [
+                "20/2"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Professor SHU Tao",
+              "dates": [
+                "21/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6514",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6514",
+      "courseCode": "FINA6514",
+      "title": "Special Topics in Finance 財務專題",
+      "units": 1.5,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6514:S:LEC:1514",
+          "rawSection": "S-LEC (1514)",
+          "sectionCode": "S",
+          "component": "LEC",
+          "classNumber": 1514,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HE Jia"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT5",
+              "instructor": "Professor HE Jia",
+              "dates": [
+                "30/1"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Professor HE Jia",
+              "dates": [
+                "31/1"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6514:SA:LEC:1516",
+          "rawSection": "SA-LEC (1516)",
+          "sectionCode": "SA",
+          "component": "LEC",
+          "classNumber": 1516,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor FAN Po Hung Joseph"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Professor FAN Po Hung Joseph",
+              "dates": [
+                "16/1"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Professor FAN Po Hung Joseph",
+              "dates": [
+                "17/1"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FINA6514:SB:LEC:1515",
+          "rawSection": "SB-LEC (1515)",
+          "sectionCode": "SB",
+          "component": "LEC",
+          "classNumber": 1515,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Staff",
+              "dates": [
+                "9/1"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Staff",
+              "dates": [
+                "10/1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6542",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6542",
+      "courseCode": "FINA6542",
+      "title": "Quantitative Risk Management 計量風險管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6542:FA:LEC:1569",
+          "rawSection": "FA-LEC (1569)",
+          "sectionCode": "FA",
+          "component": "LEC",
+          "classNumber": 1569,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHANG Hwa Ping"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 10:00AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "10:00",
+              "endTime": "13:15",
+              "startMinutes": 600,
+              "endMinutes": 795,
+              "location": "WMY_407",
+              "instructor": "Dr. CHANG Hwa Ping",
+              "dates": [
+                "12/12",
+                "19/12",
+                "2/1",
+                "9/1",
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2"
+              ]
+            },
+            {
+              "timeRaw": "Su 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "TBA",
+              "instructor": "Dr. CHANG Hwa Ping",
+              "dates": [
+                "13/12",
+                "3/1",
+                "21/2"
+              ]
+            },
+            {
+              "timeRaw": "Su 10:00AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "10:00",
+              "endTime": "13:15",
+              "startMinutes": 600,
+              "endMinutes": 795,
+              "location": "TBA",
+              "instructor": "Dr. CHANG Hwa Ping",
+              "dates": [
+                "20/12"
+              ]
+            },
+            {
+              "timeRaw": "Su 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Dr. CHANG Hwa Ping",
+              "dates": [
+                "24/1",
+                "14/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6605",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6605",
+      "courseCode": "FINA6605",
+      "title": "Stats for Risk Modelling 建立風險模型之統計方法",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6605:-:LEC:1249",
+          "rawSection": "--LEC (1249)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1249,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEE Wing Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_LT5",
+              "instructor": "Dr. LEE Wing Yan",
+              "dates": [
+                "7/12",
+                "14/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "WMY_406",
+              "instructor": "Dr. LEE Wing Yan",
+              "dates": [
+                "4/12",
+                "11/12",
+                "18/12",
+                "8/1",
+                "22/1",
+                "29/1",
+                "19/2",
+                "26/2"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_LT5",
+              "instructor": "Dr. LEE Wing Yan",
+              "dates": [
+                "15/1",
+                "5/3"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_LT4",
+              "instructor": "Dr. LEE Wing Yan",
+              "dates": [
+                "15/1",
+                "5/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6606",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6606",
+      "courseCode": "FINA6606",
+      "title": "Actuar Math for Long-Term Insu 精算數學在長期保險的應用",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6606:-:LEC:1005",
+          "rawSection": "--LEC (1005)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1005,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor NG Cheuk Yin Andrew"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "CYT_LT5",
+              "instructor": "Professor NG Cheuk Yin Andrew",
+              "dates": [
+                "11/1"
+              ]
+            },
+            {
+              "timeRaw": "Mo 04:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "21:30",
+              "startMinutes": 990,
+              "endMinutes": 1290,
+              "location": "TBA",
+              "instructor": "Professor NG Cheuk Yin Andrew",
+              "dates": [
+                "11/1"
+              ]
+            },
+            {
+              "timeRaw": "Mo 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "YIA_LT8",
+              "instructor": "Professor NG Cheuk Yin Andrew",
+              "dates": [
+                "7/12",
+                "14/12",
+                "21/12",
+                "4/1"
+              ]
+            },
+            {
+              "timeRaw": "Mo 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "LPN_LT",
+              "instructor": "Professor NG Cheuk Yin Andrew",
+              "dates": [
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2"
+              ]
+            },
+            {
+              "timeRaw": "Mo 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "CYT_LT4",
+              "instructor": "Professor NG Cheuk Yin Andrew",
+              "dates": [
+                "22/2"
+              ]
+            },
+            {
+              "timeRaw": "Mo 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "CYT_LT5",
+              "instructor": "Professor NG Cheuk Yin Andrew",
+              "dates": [
+                "1/3"
+              ]
+            },
+            {
+              "timeRaw": "Mo 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "LSK_LT5",
+              "instructor": "Professor NG Cheuk Yin Andrew",
+              "dates": [
+                "1/3"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_202",
+              "instructor": "Professor NG Cheuk Yin Andrew",
+              "dates": [
+                "16/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6607",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6607",
+      "courseCode": "FINA6607",
+      "title": "Actua Math for Short-Term Insu 精算數學在短期保險的應用",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6607:-:LEC:1003",
+          "rawSection": "--LEC (1003)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1003,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Zijia"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
+              "instructor": "Professor WANG Zijia",
+              "dates": [
+                "3/3"
+              ]
+            },
+            {
+              "timeRaw": "We 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "CYT_202",
+              "instructor": "Professor WANG Zijia",
+              "dates": [
+                "2/12",
+                "16/12",
+                "23/12",
+                "6/1"
+              ]
+            },
+            {
+              "timeRaw": "We 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "ARC_G01",
+              "instructor": "Professor WANG Zijia",
+              "dates": [
+                "9/12"
+              ]
+            },
+            {
+              "timeRaw": "We 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "CYT_201",
+              "instructor": "Professor WANG Zijia",
+              "dates": [
+                "13/1"
+              ]
+            },
+            {
+              "timeRaw": "We 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "CYT_214",
+              "instructor": "Professor WANG Zijia",
+              "dates": [
+                "13/1"
+              ]
+            },
+            {
+              "timeRaw": "We 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "CYT_215",
+              "instructor": "Professor WANG Zijia",
+              "dates": [
+                "13/1"
+              ]
+            },
+            {
+              "timeRaw": "We 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "ARC_G03",
+              "instructor": "Professor WANG Zijia",
+              "dates": [
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2"
+              ]
+            },
+            {
+              "timeRaw": "We 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "CYT_LT5",
+              "instructor": "Professor WANG Zijia",
+              "dates": [
+                "24/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6612",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6612",
+      "courseCode": "FINA6612",
+      "title": "Life Insurance 人壽保險",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6612:-:LEC:1250",
+          "rawSection": "--LEC (1250)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1250,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEE Wing Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_LT5",
+              "instructor": "Dr. LEE Wing Yan",
+              "dates": [
+                "8/12",
+                "15/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_LT5",
+              "instructor": "Dr. LEE Wing Yan",
+              "dates": [
+                "4/12",
+                "11/12",
+                "18/12",
+                "15/1",
+                "22/1",
+                "19/2",
+                "26/2",
+                "5/3"
+              ]
+            },
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_LT4",
+              "instructor": "Dr. LEE Wing Yan",
+              "dates": [
+                "8/1"
+              ]
+            },
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "WMY_504",
+              "instructor": "Dr. LEE Wing Yan",
+              "dates": [
+                "29/1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FINA6613",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FINA",
+      "catalogNumber": "6613",
+      "courseCode": "FINA6613",
+      "title": "Comm Proper & Liabi Insur 商業財產與責任保險",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FINA6613:-:LEC:1043",
+          "rawSection": "--LEC (1043)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1043,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YEH Jia Hsing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "CYT_201",
+              "instructor": "Professor YEH Jia Hsing",
+              "dates": [
+                "1/12",
+                "15/12",
+                "22/12",
+                "5/1",
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3"
+              ]
+            },
+            {
+              "timeRaw": "Tu 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "WMY_304",
+              "instructor": "Professor YEH Jia Hsing",
+              "dates": [
+                "8/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

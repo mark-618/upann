@@ -1,0 +1,789 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "PSYC",
+  "courses": [
+    {
+      "id": "PSYC5130",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "5130",
+      "courseCode": "PSYC5130",
+      "title": "Biological Psychology 生物心理學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC5130:-:LEC:1060",
+          "rawSection": "--LEC (1060)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1060,
+          "language": "E",
+          "availability": {
+            "capacity": 145,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. GONG Xianmin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LKC_LT1",
+              "instructor": "Dr. GONG Xianmin",
+              "dates": [
+                "17/5",
+                "24/5",
+                "31/5",
+                "7/6",
+                "14/6",
+                "21/6",
+                "28/6"
+              ]
+            },
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LKC_LT1",
+              "instructor": "Dr. GONG Xianmin",
+              "dates": [
+                "19/5",
+                "26/5",
+                "2/6",
+                "16/6",
+                "23/6",
+                "30/6"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSYC5170",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "5170",
+      "courseCode": "PSYC5170",
+      "title": "Abnormal Psychology 異常心理學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC5170:-:LEC:1021",
+          "rawSection": "--LEC (1021)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1021,
+          "language": "E",
+          "availability": {
+            "capacity": 140,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEUNG Yiu Kin Freedom"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LKC_LT1",
+              "instructor": "Professor LEUNG Yiu Kin Freedom",
+              "dates": [
+                "18/5",
+                "25/5",
+                "1/6",
+                "8/6",
+                "15/6",
+                "22/6",
+                "29/6"
+              ]
+            },
+            {
+              "timeRaw": "Th 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LKC_LT1",
+              "instructor": "Professor LEUNG Yiu Kin Freedom",
+              "dates": [
+                "20/5",
+                "27/5",
+                "3/6",
+                "10/6",
+                "17/6",
+                "24/6"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSYC6231",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "6231",
+      "courseCode": "PSYC6231",
+      "title": "Thesis II 碩士論文(二)",
+      "units": 1,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC6231:-J01:PRJ:1171",
+          "rawSection": "-J01-PRJ (1171)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 1171,
+          "language": "C&E",
+          "availability": {
+            "capacity": 25,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Hoi Kei Gloria - Dr. GONG An Tong - Professor CHIU Chui De - Professor HO Yan Yee Fiona - Professor LEUNG Wing Leung Patrick - Professor MAK Wing Sze Winnie - Professor SO Ho Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHAN Hoi Kei Gloria - Dr. GONG An Tong - Professor CHIU Chui De - Professor HO Yan Yee Fiona - Professor LEUNG Wing Leung Patrick - Professor MAK Wing Sze Winnie - Professor SO Ho Wai",
+              "dates": [
+                "10/05/2027 - 19/07/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSYC6510",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "6510",
+      "courseCode": "PSYC6510",
+      "title": "Applied Research I 應用研究 (一)",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC6510:-J01:PRJ:1201",
+          "rawSection": "-J01-PRJ (1201)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 1201,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "17/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSYC6511",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "6511",
+      "courseCode": "PSYC6511",
+      "title": "Applied Research II 應用研究 (二)",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC6511:-J01:PRJ:1170",
+          "rawSection": "-J01-PRJ (1170)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 1170,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "17/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSYC6543",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "6543",
+      "courseCode": "PSYC6543",
+      "title": "Organizational Placement 機構實習",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC6543:-P01:PRA:1168",
+          "rawSection": "-P01-PRA (1168)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 1168,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor AU Wing Tung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor AU Wing Tung",
+              "dates": [
+                "17/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSYC6810",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "6810",
+      "courseCode": "PSYC6810",
+      "title": "Clinical Placement I 臨床實習（一）",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC6810:-L01:LAB:1118",
+          "rawSection": "-L01-LAB (1118)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 1118,
+          "language": "C",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "03/05/2027 - 19/07/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSYC6820",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "6820",
+      "courseCode": "PSYC6820",
+      "title": "Clinical Placement II 臨床實習（二）",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC6820:-L01:LAB:1119",
+          "rawSection": "-L01-LAB (1119)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 1119,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "03/05/2027 - 19/07/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSYC6830",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "6830",
+      "courseCode": "PSYC6830",
+      "title": "Clinical Placement III 臨床實習（三）",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC6830:-L01:LAB:1120",
+          "rawSection": "-L01-LAB (1120)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 1120,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "03/05/2027 - 19/07/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSYC6840",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "6840",
+      "courseCode": "PSYC6840",
+      "title": "Clinical Placement IV 臨床實習（四）",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC6840:-L01:LAB:1121",
+          "rawSection": "-L01-LAB (1121)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 1121,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "10/05/2027 - 19/07/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSYC6850",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "6850",
+      "courseCode": "PSYC6850",
+      "title": "Clinical Placement V 臨床實習（五）",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC6850:-L01:LAB:1175",
+          "rawSection": "-L01-LAB (1175)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 1175,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "10/05/2027 - 26/07/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

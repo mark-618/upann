@@ -1,0 +1,725 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "GNBF",
+  "courses": [
+    {
+      "id": "GNBF5030",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sbmsv/SBMSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "GNBF",
+      "catalogNumber": "5030",
+      "courseCode": "GNBF5030",
+      "title": "Bio-computing and Statistics 生物運算和統計學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GNBF5030:-:LEC:1286",
+          "rawSection": "--LEC (1286)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1286,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HUANG Yongjie"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 01:30PM - 03:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "13:30",
+              "endTime": "15:45",
+              "startMinutes": 810,
+              "endMinutes": 945,
+              "location": "WMY_305",
+              "instructor": "Dr. HUANG Yongjie",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4",
+                "8/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GNBF5040",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sbmsv/SBMSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "GNBF",
+      "catalogNumber": "5040",
+      "courseCode": "GNBF5040",
+      "title": "Genomics: Basic Concepts and A 基因組學﹕基本概念和應用",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GNBF5040:-:LEC:1287",
+          "rawSection": "--LEC (1287)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1287,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SUN Hao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 04:00PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "16:00",
+              "endTime": "18:15",
+              "startMinutes": 960,
+              "endMinutes": 1095,
+              "location": "WMY_305",
+              "instructor": "Professor SUN Hao",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4",
+                "8/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GNBF5050",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sbmsv/SBMSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "GNBF",
+      "catalogNumber": "5050",
+      "courseCode": "GNBF5050",
+      "title": "Theories and Algorithms 生物信息學的理論和演算法",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GNBF5050:-:LEC:1186",
+          "rawSection": "--LEC (1186)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1186,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. Nandita MULLAPUDI - Professor SUNG Wing Kin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "YIA_LT8",
+              "instructor": "Dr. Nandita MULLAPUDI - Professor SUNG Wing Kin",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4",
+                "27/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "SWH_1",
+              "instructor": "Dr. Nandita MULLAPUDI - Professor SUNG Wing Kin",
+              "dates": [
+                "13/4",
+                "20/4",
+                "27/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "SWH_2",
+              "instructor": "Dr. Nandita MULLAPUDI - Professor SUNG Wing Kin",
+              "dates": [
+                "13/4",
+                "20/4",
+                "27/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GNBF5060",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sbmsv/SBMSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "GNBF",
+      "catalogNumber": "5060",
+      "courseCode": "GNBF5060",
+      "title": "Artificial Intelligence for Ge 基因組學與生物信息學的人工智能",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GNBF5060:-:LEC:1591",
+          "rawSection": "--LEC (1591)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1591,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CAO Qin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "YIA_LT8",
+              "instructor": "Professor CAO Qin",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4",
+                "29/4",
+                "6/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GNBF5070",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sbmsv/SBMSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "GNBF",
+      "catalogNumber": "5070",
+      "courseCode": "GNBF5070",
+      "title": "Genome Informatics 基因組資訊學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GNBF5070:-:LEC:1517",
+          "rawSection": "--LEC (1517)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1517,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Xin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "YIA_LT8",
+              "instructor": "Professor LIU Xin",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GNBF6010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/sbmsv/SBMSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "GNBF",
+      "catalogNumber": "6010",
+      "courseCode": "GNBF6010",
+      "title": "Research Project 研究項目",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GNBF6010:-J01:PRJ:1277",
+          "rawSection": "-J01-PRJ (1277)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 1277,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. Nandita MULLAPUDI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "YIA_510",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "24/4"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "YIA_511",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "24/4"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "YIA_411",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "24/4"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "YIA_408",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "24/4"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "YIA_401",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "24/4"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "YIA_508",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "24/4"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "YIA_501",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "24/4"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "WMY_401",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "8/5"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "WMY_302",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "8/5"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "WMY_404",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "8/5"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "WMY_303",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "8/5"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "WMY_407",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "8/5"
+              ]
+            },
+            {
+              "timeRaw": "Sa 11:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "11:30",
+              "endTime": "18:15",
+              "startMinutes": 690,
+              "endMinutes": 1095,
+              "location": "WMY_503",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "8/5"
+              ]
+            },
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. Nandita MULLAPUDI",
+              "dates": [
+                "16/01/2027 - 01/05/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

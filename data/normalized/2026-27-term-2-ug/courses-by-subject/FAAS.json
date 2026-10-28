@@ -1,0 +1,3334 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "FAAS",
+  "courses": [
+    {
+      "id": "FAAS1100",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "1100",
+      "courseCode": "FAAS1100",
+      "title": "Drawing Fundamentals 素描基礎",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS1100:C:LEC:8881",
+          "rawSection": "C-LEC (8881)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 8881,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Wai Yin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "NAA_310",
+              "instructor": "Dr. WONG Wai Yin",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1100:CE01:EXR:no-class-number",
+          "rawSection": "CE01-EXR",
+          "sectionCode": "CE01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "NAA_310",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1100:D:LEC:8703",
+          "rawSection": "D-LEC (8703)",
+          "sectionCode": "D",
+          "component": "LEC",
+          "classNumber": 8703,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr TSE Yim On"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "NAA_310",
+              "instructor": "Mr TSE Yim On",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1100:DE01:EXR:no-class-number",
+          "rawSection": "DE01-EXR",
+          "sectionCode": "DE01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "NAA_310",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS1110",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "1110",
+      "courseCode": "FAAS1110",
+      "title": "Principles of Chi Calligraphy 書法基礎",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS1110:-:LEC:9704",
+          "rawSection": "--LEC (9704)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9704,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HO Weng Chi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "NAA_204",
+              "instructor": "Dr. HO Weng Chi",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1110:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "NAA_204",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS1130",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "1130",
+      "courseCode": "FAAS1130",
+      "title": "Principles of Chi Painting 國畫基礎",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS1130:A:LEC:8738",
+          "rawSection": "A-LEC (8738)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 8738,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss CHEUNG Fan Fong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "NAA_207",
+              "instructor": "Miss CHEUNG Fan Fong",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1130:AE01:EXR:no-class-number",
+          "rawSection": "AE01-EXR",
+          "sectionCode": "AE01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "NAA_204",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1130:B:LEC:8748",
+          "rawSection": "B-LEC (8748)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 8748,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss CHEUNG Fan Fong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "NAA_207",
+              "instructor": "Miss CHEUNG Fan Fong",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1130:BE01:EXR:no-class-number",
+          "rawSection": "BE01-EXR",
+          "sectionCode": "BE01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "NAA_204",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS1140",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "1140",
+      "courseCode": "FAAS1140",
+      "title": "Fundamentals of 3D Forming 立體造型藝術基礎",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS1140:A:LEC:8855",
+          "rawSection": "A-LEC (8855)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 8855,
+          "language": "C",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YIM Sui Fong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "NAH_1",
+              "instructor": "Professor YIM Sui Fong",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1140:AE01:EXR:no-class-number",
+          "rawSection": "AE01-EXR",
+          "sectionCode": "AE01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "NAH_1",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1140:B:LEC:8856",
+          "rawSection": "B-LEC (8856)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 8856,
+          "language": "C",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss CHAN Tsz Man Ivy"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "NAH_1",
+              "instructor": "Miss CHAN Tsz Man Ivy",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1140:BE01:EXR:no-class-number",
+          "rawSection": "BE01-EXR",
+          "sectionCode": "BE01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "NAH_1",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS1600",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "1600",
+      "courseCode": "FAAS1600",
+      "title": "Artistic Traditions in China 中國藝術傳統",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS1600:A:LEC:9580",
+          "rawSection": "A-LEC (9580)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 9580,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HO Ka Yi - Professor LI Yu Chieh - Professor PENG Peng - Professor WAN Chui Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "UCC_114",
+              "instructor": "Professor HO Ka Yi - Professor LI Yu Chieh - Professor PENG Peng - Professor WAN Chui Ki",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1600:AT01:TUT:no-class-number",
+          "rawSection": "AT01-TUT",
+          "sectionCode": "AT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "UCC_201",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1600:B:LEC:9581",
+          "rawSection": "B-LEC (9581)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 9581,
+          "language": "C&E&P",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HO Ka Yi - Professor LI Yu Chieh - Professor PENG Peng - Professor WAN Chui Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "UCC_C5",
+              "instructor": "Professor HO Ka Yi - Professor LI Yu Chieh - Professor PENG Peng - Professor WAN Chui Ki",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1600:BT01:TUT:no-class-number",
+          "rawSection": "BT01-TUT",
+          "sectionCode": "BT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E&P",
+          "availability": {
+            "capacity": 23,
+            "enrolled": 0,
+            "availableSeats": 23,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "UCC_201",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS1600:BT02:TUT:no-class-number",
+          "rawSection": "BT02-TUT",
+          "sectionCode": "BT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E&P",
+          "availability": {
+            "capacity": 22,
+            "enrolled": 0,
+            "availableSeats": 22,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "UCC_201",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS2113",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "2113",
+      "courseCode": "FAAS2113",
+      "title": "Introduction to Asian Art 亞洲藝術史入門 ── 西亞、南",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS2113:-:LEC:4847",
+          "rawSection": "--LEC (4847)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4847,
+          "language": "P",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PENG Peng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "UCA_104",
+              "instructor": "Professor PENG Peng",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS2113:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "UCA_104",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS2119",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "2119",
+      "courseCode": "FAAS2119",
+      "title": "West Art1:Fm 15 to Late 19Cent 西方藝術史（一）── 從十五世紀至十九世紀末期",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS2119:-:LEC:7722",
+          "rawSection": "--LEC (7722)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7722,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Frank Joseph Emmanuel VIGNERON"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "UCA_104",
+              "instructor": "Professor Frank Joseph Emmanuel VIGNERON",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS2119:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "UCA_104",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS2204",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "2204",
+      "courseCode": "FAAS2204",
+      "title": "Mineral-pigment Painting 岩彩繪畫",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS2204:-:LEC:8883",
+          "rawSection": "--LEC (8883)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8883,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr CHUNG Tai Fu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "NAA_207",
+              "instructor": "Mr CHUNG Tai Fu",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS2204:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "NAA_207",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS2211",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "2211",
+      "courseCode": "FAAS2211",
+      "title": "Western Painting I 西畫 (一)",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS2211:-:LEC:8905",
+          "rawSection": "--LEC (8905)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8905,
+          "language": "C",
+          "availability": {
+            "capacity": 18,
+            "enrolled": 0,
+            "availableSeats": 18,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss AU Hoi Lam"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "NAA_309",
+              "instructor": "Miss AU Hoi Lam",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS2211:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 18,
+            "enrolled": 0,
+            "availableSeats": 18,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "NAA_309",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS2219",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "2219",
+      "courseCode": "FAAS2219",
+      "title": "Digital Imaging Workshop 數位影像工作坊",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS2219:-:LEC:8836",
+          "rawSection": "--LEC (8836)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8836,
+          "language": "C",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "NAA_219",
+              "instructor": "Staff",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS2219:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "NAA_219",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS3119",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "3119",
+      "courseCode": "FAAS3119",
+      "title": "West Art2:Fm Impres to lat1940 西方藝術史（二）── 從印象主義至1940年末期",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS3119:-:LEC:4858",
+          "rawSection": "--LEC (4858)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4858,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Frank Joseph Emmanuel VIGNERON"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "NAH_11",
+              "instructor": "Professor Frank Joseph Emmanuel VIGNERON",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS3119:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "NAH_11",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS3201",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "3201",
+      "courseCode": "FAAS3201",
+      "title": "Western Painting II 西畫 (二)",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS3201:-:LEC:8887",
+          "rawSection": "--LEC (8887)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8887,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr CHOW Chun Fai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "NAA_303",
+              "instructor": "Mr CHOW Chun Fai",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS3201:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "NAA_303",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS3203",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "3203",
+      "courseCode": "FAAS3203",
+      "title": "Running and Cursive Scripts 行草",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS3203:-:LEC:8897",
+          "rawSection": "--LEC (8897)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8897,
+          "language": "P",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TAO Shuhui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "NAA_204",
+              "instructor": "Professor TAO Shuhui",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS3203:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "NAA_204",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS3204",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "3204",
+      "courseCode": "FAAS3204",
+      "title": "Xieyi: Chi Expressive Painting 中國寫意畫",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS3204:-:LEC:8878",
+          "rawSection": "--LEC (8878)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8878,
+          "language": "P",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHOU Jin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "NAA_207",
+              "instructor": "Professor ZHOU Jin",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS3204:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "NAA_207",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS3210",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "3210",
+      "courseCode": "FAAS3210",
+      "title": "Art in Public Space 藝術在公共空間",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS3210:-:LEC:8907",
+          "rawSection": "--LEC (8907)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8907,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YIM Sui Fong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "NAA_303",
+              "instructor": "Professor YIM Sui Fong",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS3210:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "NAA_303",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS3211",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "3211",
+      "courseCode": "FAAS3211",
+      "title": "Experimental Drawing 實驗素描",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS3211:-:LEC:8910",
+          "rawSection": "--LEC (8910)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8910,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TAM Wai Ping"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "NAA_303",
+              "instructor": "Professor TAM Wai Ping",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS3211:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "NAA_303",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS3216",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "3216",
+      "courseCode": "FAAS3216",
+      "title": "Sculpture:Building and Carving 雕塑──構成與雕刻",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "EXR, LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS3216:-E01:EXR:4860",
+          "rawSection": "-E01-EXR (4860)",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": 4860,
+          "language": "C",
+          "availability": {
+            "capacity": 12,
+            "enrolled": 0,
+            "availableSeats": 12,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HO Siu Kee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "NAH_1",
+              "instructor": "Professor HO Siu Kee",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS3216:-:LEC:no-class-number",
+          "rawSection": "--LEC",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 12,
+            "enrolled": 0,
+            "availableSeats": 12,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "NAH_1",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS3234",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "3234",
+      "courseCode": "FAAS3234",
+      "title": "Chinese Landscape Painting 中國山水畫",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS3234:-:LEC:8646",
+          "rawSection": "--LEC (8646)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8646,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TONG Kam Tang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "NAA_204",
+              "instructor": "Professor TONG Kam Tang",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS3234:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "NAA_204",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS3236",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "3236",
+      "courseCode": "FAAS3236",
+      "title": "Ceramic Art: Form and Space 陶瓷藝術﹕形體與空間",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS3236:-:LEC:8900",
+          "rawSection": "--LEC (8900)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8900,
+          "language": "C",
+          "availability": {
+            "capacity": 12,
+            "enrolled": 0,
+            "availableSeats": 12,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss WONG Lai Ching"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "NAH_2",
+              "instructor": "Miss WONG Lai Ching",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS3236:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 12,
+            "enrolled": 0,
+            "availableSeats": 12,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "NAH_2",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS4100",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "4100",
+      "courseCode": "FAAS4100",
+      "title": "Special Topics in Art History 藝術史專題研究",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS4100:-:LEC:4845",
+          "rawSection": "--LEC (4845)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4845,
+          "language": "P",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "UCA_104",
+              "instructor": "Staff",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS4100:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "UCA_104",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS4182",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "4182",
+      "courseCode": "FAAS4182",
+      "title": "Thesis Research II 畢業論文 （二）",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "IND",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS4182:-I01:IND:6237",
+          "rawSection": "-I01-IND (6237)",
+          "sectionCode": "-I01",
+          "component": "IND",
+          "classNumber": 6237,
+          "language": "C&E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Frank Joseph Emmanuel VIGNERON - Professor HO Ka Yi - Professor LI Yu Chieh - Professor PENG Peng - Professor WAN Chui Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Frank Joseph Emmanuel VIGNERON - Professor HO Ka Yi - Professor LI Yu Chieh - Professor PENG Peng - Professor WAN Chui Ki",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS4203",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "4203",
+      "courseCode": "FAAS4203",
+      "title": "Seal Carving 篆刻",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS4203:-:LEC:8917",
+          "rawSection": "--LEC (8917)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8917,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss PAU Mo Ching"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "NAA_204",
+              "instructor": "Miss PAU Mo Ching",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS4203:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "NAA_204",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS4211",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "4211",
+      "courseCode": "FAAS4211",
+      "title": "Creative Workshop II 創作研討（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS4211:-:LEC:8941",
+          "rawSection": "--LEC (8941)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8941,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TAM Wai Ping - Professor YIM Sui Fong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "NAA_303",
+              "instructor": "Professor TAM Wai Ping - Professor YIM Sui Fong",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FAAS4211:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "NAA_303",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS4282",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "4282",
+      "courseCode": "FAAS4282",
+      "title": "Graduation Workshop II 畢業創作（二）",
+      "units": 4,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "IND",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS4282:-I01:IND:6233",
+          "rawSection": "-I01-IND (6233)",
+          "sectionCode": "-I01",
+          "component": "IND",
+          "classNumber": 6233,
+          "language": "C&E&P",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TAM Wai Ping - Professor TAO Shuhui - Professor YIM Sui Fong - Professor ZHOU Jin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TAM Wai Ping - Professor TAO Shuhui - Professor YIM Sui Fong - Professor ZHOU Jin",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAAS4283",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/faa/FAA.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FAAS",
+      "catalogNumber": "4283",
+      "courseCode": "FAAS4283",
+      "title": "Graduation Workshop II 畢業創作（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "IND",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Fine Arts",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FAAS4283:-I01:IND:10012",
+          "rawSection": "-I01-IND (10012)",
+          "sectionCode": "-I01",
+          "component": "IND",
+          "classNumber": 10012,
+          "language": "C&E&P",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TAM Wai Ping - Professor TAO Shuhui - Professor YIM Sui Fong - Professor ZHOU Jin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TAM Wai Ping - Professor TAO Shuhui - Professor YIM Sui Fong - Professor ZHOU Jin",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

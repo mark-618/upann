@@ -1,0 +1,549 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "JASP",
+  "courses": [
+    {
+      "id": "JASP5060",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/jaspv/JASPV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "JASP",
+      "catalogNumber": "5060",
+      "courseCode": "JASP5060",
+      "title": "Sp Topics in Jap Studies 日本研究專題特講",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Japanese Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "JASP5060:CL:LEC:1014",
+          "rawSection": "CL-LEC (1014)",
+          "sectionCode": "CL",
+          "component": "LEC",
+          "classNumber": 1014,
+          "language": "P",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LIN Chaochun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 10:00AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "10:00",
+              "endTime": "12:45",
+              "startMinutes": 600,
+              "endMinutes": 765,
+              "location": "WMY_506",
+              "instructor": "Dr. LIN Chaochun",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "JASP5060:JC:LEC:1098",
+          "rawSection": "JC-LEC (1098)",
+          "sectionCode": "JC",
+          "component": "LEC",
+          "classNumber": 1098,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHO Jieun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "WMY_306",
+              "instructor": "Professor CHO Jieun",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4",
+                "3/5"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "JASP5060:KP:LEC:1349",
+          "rawSection": "KP-LEC (1349)",
+          "sectionCode": "KP",
+          "component": "LEC",
+          "classNumber": 1349,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Kyle Austin PETERS"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "WMY_305",
+              "instructor": "Professor Kyle Austin PETERS",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "JASP5060:MW:LEC:1097",
+          "rawSection": "MW-LEC (1097)",
+          "sectionCode": "MW",
+          "component": "LEC",
+          "classNumber": 1097,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Matthew Stanhope MEWHINNEY"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "ELB_LT2",
+              "instructor": "Professor Matthew Stanhope MEWHINNEY",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "JASP5519",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/jaspv/JASPV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "JASP",
+      "catalogNumber": "5519",
+      "courseCode": "JASP5519",
+      "title": "Contemp Jap Trad. & Modernity 日本傳統文化及現代社會",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Japanese Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "JASP5519:-:LEC:1340",
+          "rawSection": "--LEC (1340)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1340,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Lynne Yukie NAKANO"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 07:00PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "19:00",
+              "endTime": "21:30",
+              "startMinutes": 1140,
+              "endMinutes": 1290,
+              "location": "WMY_403",
+              "instructor": "Professor Lynne Yukie NAKANO",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "JASP5530",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/jaspv/JASPV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "JASP",
+      "catalogNumber": "5530",
+      "courseCode": "JASP5530",
+      "title": "Special Topics in Jap Language 日語專論",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Japanese Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "JASP5530:WL:LEC:1539",
+          "rawSection": "WL-LEC (1539)",
+          "sectionCode": "WL",
+          "component": "LEC",
+          "classNumber": 1539,
+          "language": "J",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Wood Hung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 05:00PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:00",
+              "startMinutes": 870,
+              "endMinutes": 1020,
+              "location": "WMY_406",
+              "instructor": "Professor LEE Wood Hung",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4",
+                "8/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "JASP5625",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/jaspv/JASPV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "JASP",
+      "catalogNumber": "5625",
+      "courseCode": "JASP5625",
+      "title": "Japanese Philosophy 日本哲學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Japanese Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "JASP5625:-:LEC:2460",
+          "rawSection": "--LEC (2460)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2460,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Kyle Austin PETERS"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "LHC_106",
+              "instructor": "Professor Kyle Austin PETERS",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "JASP5700",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/jaspv/JASPV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "JASP",
+      "catalogNumber": "5700",
+      "courseCode": "JASP5700",
+      "title": "Independent Research Project 獨立專題研究",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "IND",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Japanese Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "JASP5700:-I01:IND:3406",
+          "rawSection": "-I01-IND (3406)",
+          "sectionCode": "-I01",
+          "component": "IND",
+          "classNumber": 3406,
+          "language": "E",
+          "availability": {
+            "capacity": 6,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Jeremy Avrum YELLEN - Professor Lynne Yukie NAKANO"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Jeremy Avrum YELLEN - Professor Lynne Yukie NAKANO",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

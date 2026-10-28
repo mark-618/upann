@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.773Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5744,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2493,
+      "meetings": 2526,
+      "warnings": 0
+    }
+  },
+  "subject": "AIST",
+  "courses": [
+    {
+      "id": "AIST5030",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aist/AIST.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "AIST",
+      "catalogNumber": "5030",
+      "courseCode": "AIST5030",
+      "title": "Generative AI 生成式人工智能",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Computer Science & Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIST5030:-:LEC:9718",
+          "rawSection": "--LEC (9718)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9718,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Weiyang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "14:15",
+              "startMinutes": 690,
+              "endMinutes": 855,
+              "location": "NAH_213",
+              "instructor": "Professor LIU Weiyang",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1004 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "STAT",
+  "courses": [
+    {
+      "id": "STAT5102",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "5102",
+      "courseCode": "STAT5102",
+      "title": "Regression in Practice 務實迴歸分析",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT5102:-:LEC:1372",
+          "rawSection": "--LEC (1372)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1372,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LIU Kin Yat"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT5",
+              "instructor": "Dr. LIU Kin Yat",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4",
+                "27/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT5104",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "5104",
+      "courseCode": "STAT5104",
+      "title": "Data Mining 數據挖掘",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT5104:-:LEC:1373",
+          "rawSection": "--LEC (1373)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1373,
+          "language": "E",
+          "availability": {
+            "capacity": 130,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEUNG Pui Lam William"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT5",
+              "instructor": "Professor LEUNG Pui Lam William",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT5105",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "5105",
+      "courseCode": "STAT5105",
+      "title": "Applied Survival Data Analysis 應用生存數據分析",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT5105:-:LEC:1441",
+          "rawSection": "--LEC (1441)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1441,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Ping Shing Ben"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT7",
+              "instructor": "Professor CHAN Ping Shing Ben",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4",
+                "30/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT5107",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "5107",
+      "courseCode": "STAT5107",
+      "title": "Discrete Data Analytics 離散數據分析",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT5107:-:LEC:1384",
+          "rawSection": "--LEC (1384)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1384,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIN Yuanyuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT7",
+              "instructor": "Professor LIN Yuanyuan",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4",
+                "28/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT5203",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "5203",
+      "courseCode": "STAT5203",
+      "title": "Applied Linear Models for DS 數據科學的應用線性模型",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT5203:-:LEC:1493",
+          "rawSection": "--LEC (1493)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1493,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Junhui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LSB_LT2",
+              "instructor": "Professor WANG Junhui",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT6104",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "6104",
+      "courseCode": "STAT6104",
+      "title": "Financial Time Series 財務時間序列",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT6104:-:LEC:1559",
+          "rawSection": "--LEC (1559)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1559,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAU Chun Yip"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LSB_LT5",
+              "instructor": "Professor YAU Chun Yip",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT6105",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "6105",
+      "courseCode": "STAT6105",
+      "title": "Bas Actuarial Prin & Their App 精算學基本原理及應用",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT6105:-:LEC:1438",
+          "rawSection": "--LEC (1438)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1438,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAM Sheung Chi Phillip"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "CKB_UG05",
+              "instructor": "Professor YAM Sheung Chi Phillip",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4",
+                "29/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT6111",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "6111",
+      "courseCode": "STAT6111",
+      "title": "Research Workshop 研究工作坊",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT6111:-P01:PRA:3972",
+          "rawSection": "-P01-PRA (3972)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 3972,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LIU Kin Yat - Dr. OUYANG Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. LIU Kin Yat - Dr. OUYANG Ming",
+              "dates": [
+                "11/01/2027 - 26/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT6204",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "6204",
+      "courseCode": "STAT6204",
+      "title": "Advanced Time Series 高階時間序列",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT6204:-:LEC:1494",
+          "rawSection": "--LEC (1494)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1494,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEUNG Sze Him Isaac"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT7",
+              "instructor": "Dr. LEUNG Sze Him Isaac",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT6205",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "6205",
+      "courseCode": "STAT6205",
+      "title": "Probabilistic Machine Learning 概率機器學習",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT6205:-:LEC:1495",
+          "rawSection": "--LEC (1495)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1495,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIN Zhixiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "ARC_211",
+              "instructor": "Professor LIN Zhixiang",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT6206",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "6206",
+      "courseCode": "STAT6206",
+      "title": "Bayesian stat machine learning 貝葉斯統計在機器學習中的應用",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT6206:-:LEC:1506",
+          "rawSection": "--LEC (1506)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1506,
+          "language": "E",
+          "availability": {
+            "capacity": 66,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SONG Xinyuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "WMY_301",
+              "instructor": "Professor SONG Xinyuan",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT6209",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "6209",
+      "courseCode": "STAT6209",
+      "title": "Special Topics in Statistics 統計學的特別課題",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "OTH",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT6209:-O01:OTH:1507",
+          "rawSection": "-O01-OTH (1507)",
+          "sectionCode": "-O01",
+          "component": "OTH",
+          "classNumber": 1507,
+          "language": "E",
+          "availability": {
+            "capacity": 95,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Pak Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT9",
+              "instructor": "Dr. CHEUNG Pak Ming",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT6211",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "STAT",
+      "catalogNumber": "6211",
+      "courseCode": "STAT6211",
+      "title": "Research Workshop 研究工作坊",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "WKS",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT6211:-W01:WKS:2860",
+          "rawSection": "-W01-WKS (2860)",
+          "sectionCode": "-W01",
+          "component": "WKS",
+          "classNumber": 2860,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG King Chau"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHEUNG King Chau",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

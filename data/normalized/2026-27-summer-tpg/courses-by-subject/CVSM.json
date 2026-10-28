@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "CVSM",
+  "courses": [
+    {
+      "id": "CVSM5004",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mescv/MESCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "CVSM",
+      "catalogNumber": "5004",
+      "courseCode": "CVSM5004",
+      "title": "Clinical Seminar I 臨床心臟病研討會一",
+      "units": 1,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Medical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CVSM5004:-S01:SEM:1055",
+          "rawSection": "-S01-SEM (1055)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 1055,
+          "language": "E",
+          "availability": {
+            "capacity": 300,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAN Ping Yen Bryan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:00PM - 08:45PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:00",
+              "endTime": "20:45",
+              "startMinutes": 960,
+              "endMinutes": 1245,
+              "location": "PWH",
+              "instructor": "Professor YAN Ping Yen Bryan",
+              "dates": [
+                "18/5",
+                "25/5",
+                "1/6",
+                "8/6",
+                "15/6",
+                "22/6",
+                "29/6"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CVSM5008",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mescv/MESCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "CVSM",
+      "catalogNumber": "5008",
+      "courseCode": "CVSM5008",
+      "title": "Dissertation 專題論文",
+      "units": 6,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Medical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CVSM5008:-T01:TUT:1182",
+          "rawSection": "-T01-TUT (1182)",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": 1182,
+          "language": "E",
+          "availability": {
+            "capacity": 200,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAN Ping Yen Bryan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:00PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:00",
+              "endTime": "21:15",
+              "startMinutes": 960,
+              "endMinutes": 1275,
+              "location": "PWH",
+              "instructor": "Professor YAN Ping Yen Bryan",
+              "dates": [
+                "18/5",
+                "25/5",
+                "1/6",
+                "8/6",
+                "15/6",
+                "22/6",
+                "29/6"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

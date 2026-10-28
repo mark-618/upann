@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "ARAB",
+  "courses": [
+    {
+      "id": "ARAB1000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arab/ARAB.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ARAB",
+      "catalogNumber": "1000",
+      "courseCode": "ARAB1000",
+      "title": "Arabic I 阿拉伯語（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "CLW",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARAB1000:-C01:CLW:5442",
+          "rawSection": "-C01-CLW (5442)",
+          "sectionCode": "-C01",
+          "component": "CLW",
+          "classNumber": 5442,
+          "language": "A&E",
+          "availability": {
+            "capacity": 28,
+            "enrolled": 0,
+            "availableSeats": 28,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. Ammar SALEH"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_215",
+              "instructor": "Mr. Ammar SALEH",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ARAB2000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "arab/ARAB.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ARAB",
+      "catalogNumber": "2000",
+      "courseCode": "ARAB2000",
+      "title": "Arabic II 阿拉伯語（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "CLW",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ARAB2000:-C01:CLW:5443",
+          "rawSection": "-C01-CLW (5443)",
+          "sectionCode": "-C01",
+          "component": "CLW",
+          "classNumber": 5443,
+          "language": "A&E",
+          "availability": {
+            "capacity": 28,
+            "enrolled": 0,
+            "availableSeats": 28,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. Ammar SALEH"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "WMY_306",
+              "instructor": "Mr. Ammar SALEH",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

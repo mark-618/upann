@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.523Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 60,
+      "courses": 21,
+      "rawCoursesWithTargetTerm": 21,
+      "subjects": 5,
+      "sections": 21,
+      "meetings": 25,
+      "warnings": 0
+    }
+  },
+  "subject": "MKTG",
+  "courses": [
+    {
+      "id": "MKTG6204",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "MKTG",
+      "catalogNumber": "6204",
+      "courseCode": "MKTG6204",
+      "title": "Contemp topics in Quant MKT 數量市場學當代專題",
+      "units": 1.5,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MKTG6204:B:LEC:1009",
+          "rawSection": "B-LEC (1009)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 1009,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "CYT_1128A",
+              "instructor": "Staff",
+              "dates": [
+                "17/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

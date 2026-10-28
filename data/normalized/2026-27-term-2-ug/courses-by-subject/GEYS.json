@@ -1,0 +1,523 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "GEYS",
+  "courses": [
+    {
+      "id": "GEYS1000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ys/YS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "GEYS",
+      "catalogNumber": "1000",
+      "courseCode": "GEYS1000",
+      "title": "College Assembly/ Forum 書院聚會／書院論壇",
+      "units": 0,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "ASB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Wu Yee Sun College",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GEYS1000:-A01:ASB:5958",
+          "rawSection": "-A01-ASB (5958)",
+          "sectionCode": "-A01",
+          "component": "ASB",
+          "classNumber": 5958,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1300,
+            "enrolled": 0,
+            "availableSeats": 1300,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "LSK_LT5",
+              "instructor": "Staff",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEYS1010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ys/YS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "GEYS",
+      "catalogNumber": "1010",
+      "courseCode": "GEYS1010",
+      "title": "Creative Social Responsibility 創新社會責任及持續發展",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Wu Yee Sun College",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GEYS1010:-:LEC:5861",
+          "rawSection": "--LEC (5861)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5861,
+          "language": "C&E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEUNG Po Kin - Dr. WONG Wing Yu Esther - Professor LEE Albert - Professor WONG Ka Fai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "MMW_LT1",
+              "instructor": "Dr. LEUNG Po Kin - Dr. WONG Wing Yu Esther - Professor LEE Albert - Professor WONG Ka Fai",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEYS4010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ys/YS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "GEYS",
+      "catalogNumber": "4010",
+      "courseCode": "GEYS4010",
+      "title": "College Senior Seminar 專題討論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Wu Yee Sun College",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GEYS4010:AS01:SEM:6022",
+          "rawSection": "AS01-SEM (6022)",
+          "sectionCode": "AS01",
+          "component": "SEM",
+          "classNumber": 6022,
+          "language": "C&E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LEUNG Kwong Hon Philip"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "ERB_803",
+              "instructor": "Mr. LEUNG Kwong Hon Philip",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GEYS4010:BS01:SEM:5887",
+          "rawSection": "BS01-SEM (5887)",
+          "sectionCode": "BS01",
+          "component": "SEM",
+          "classNumber": 5887,
+          "language": "C&E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": 0,
+            "availableSeats": 65,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Albert"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "MMW_710",
+              "instructor": "Professor LEE Albert",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GEYS4010:CS01:SEM:5968",
+          "rawSection": "CS01-SEM (5968)",
+          "sectionCode": "CS01",
+          "component": "SEM",
+          "classNumber": 5968,
+          "language": "C&E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HO Sin Cheung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "MMW_705",
+              "instructor": "Dr. HO Sin Cheung",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEYS4011",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ys/YS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "GEYS",
+      "catalogNumber": "4011",
+      "courseCode": "GEYS4011",
+      "title": "Community Engagement 實踐社會責任：服務學習",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Wu Yee Sun College",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "GEYS4011:AJ01:PRJ:9866",
+          "rawSection": "AJ01-PRJ (9866)",
+          "sectionCode": "AJ01",
+          "component": "PRJ",
+          "classNumber": 9866,
+          "language": "C&E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "LSK_206",
+              "instructor": "Staff",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GEYS4011:BJ01:PRJ:9865",
+          "rawSection": "BJ01-PRJ (9865)",
+          "sectionCode": "BJ01",
+          "component": "PRJ",
+          "classNumber": 9865,
+          "language": "C&E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "LDS_214",
+              "instructor": "Staff",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GEYS4011:CJ01:PRJ:9867",
+          "rawSection": "CJ01-PRJ (9867)",
+          "sectionCode": "CJ01",
+          "component": "PRJ",
+          "classNumber": 9867,
+          "language": "C&E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "ERB_401",
+              "instructor": "Staff",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4187 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "IERG",
+  "courses": [
+    {
+      "id": "IERG1080",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "1080",
+      "courseCode": "IERG1080",
+      "title": "Intro to Python for Engg Appls Python導論及工程應用",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG1080:-:LEC:5873",
+          "rawSection": "--LEC (5873)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5873,
+          "language": "E",
+          "availability": {
+            "capacity": 140,
+            "enrolled": 0,
+            "availableSeats": 140,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YUE Xiangyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "ERB_LT",
+              "instructor": "Professor YUE Xiangyu",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ERB_1004",
+              "instructor": "Professor YUE Xiangyu",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG1080:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 140,
+            "enrolled": 0,
+            "availableSeats": 140,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "ERB_1004",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG2080",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "2080",
+      "courseCode": "IERG2080",
+      "title": "Intro to Sys Programming 系統編程導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG2080:-:LEC:8492",
+          "rawSection": "--LEC (8492)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8492,
+          "language": "E",
+          "availability": {
+            "capacity": 130,
+            "enrolled": 0,
+            "availableSeats": 130,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIN Ho Fai Hoover"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSB_LT6",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "ERB_1004",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG2080:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 130,
+            "enrolled": 0,
+            "availableSeats": 130,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "ERB_1004",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG2310",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "2310",
+      "courseCode": "IERG2310",
+      "title": "Principles of Communication Sy 通信系統原理",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG2310:-:LEC:5813",
+          "rawSection": "--LEC (5813)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5813,
+          "language": "E",
+          "availability": {
+            "capacity": 185,
+            "enrolled": 0,
+            "availableSeats": 185,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LOK Tat Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "HTB_B6",
+              "instructor": "Professor LOK Tat Ming",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "ERB_LT",
+              "instructor": "Professor LOK Tat Ming",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG2310:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 185,
+            "enrolled": 0,
+            "availableSeats": 185,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG2470",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "2470",
+      "courseCode": "IERG2470",
+      "title": "Probability Models and Appli'n 概率模型及應用",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG2470:-:LEC:5814",
+          "rawSection": "--LEC (5814)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5814,
+          "language": "E",
+          "availability": {
+            "capacity": 140,
+            "enrolled": 0,
+            "availableSeats": 140,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIN Xiaojun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "MMW_LT1",
+              "instructor": "Professor LIN Xiaojun",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "BMS_G18",
+              "instructor": "Professor LIN Xiaojun",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG2470:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "WMY_505",
+              "instructor": null,
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG2470:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "WMY_505",
+              "instructor": null,
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3050",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3050",
+      "courseCode": "IERG3050",
+      "title": "Simulation & Statistical Analy 仿真與統計分析",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3050:-:LEC:5815",
+          "rawSection": "--LEC (5815)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5815,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Cheuk Ting"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "BMS_LT",
+              "instructor": "Professor LI Cheuk Ting",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "MMW_710",
+              "instructor": "Professor LI Cheuk Ting",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG3050:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3060",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3060",
+      "courseCode": "IERG3060",
+      "title": "Microcontrollers & Embedded Sy 微控制器和嵌入式系統",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3060:-:LEC:5389",
+          "rawSection": "--LEC (5389)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5389,
+          "language": "E",
+          "availability": {
+            "capacity": 116,
+            "enrolled": 0,
+            "availableSeats": 116,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Lian Kuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "SC_L1",
+              "instructor": "Professor CHEN Lian Kuan",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSB_LT6",
+              "instructor": "Professor CHEN Lian Kuan",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG3060:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 116,
+            "enrolled": 0,
+            "availableSeats": 116,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3070",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3070",
+      "courseCode": "IERG3070",
+      "title": "Operating Systems in Linux 操作系統實踐：Linux 視角",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3070:-:LEC:5918",
+          "rawSection": "--LEC (5918)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5918,
+          "language": "E",
+          "availability": {
+            "capacity": 75,
+            "enrolled": 0,
+            "availableSeats": 75,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIN Ho Fai Hoover"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "SC_L5",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ERB_803",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG3070:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 75,
+            "enrolled": 0,
+            "availableSeats": 75,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3310",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3310",
+      "courseCode": "IERG3310",
+      "title": "Computer Networks 計算機網絡",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3310:-:LEC:4876",
+          "rawSection": "--LEC (4876)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4876,
+          "language": "E",
+          "availability": {
+            "capacity": 140,
+            "enrolled": 0,
+            "availableSeats": 140,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIEW Soung Chang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "MMW_LT2",
+              "instructor": "Professor LIEW Soung Chang",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "HTB_B6",
+              "instructor": "Professor LIEW Soung Chang",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG3310:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 140,
+            "enrolled": 0,
+            "availableSeats": 140,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3320",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3320",
+      "courseCode": "IERG3320",
+      "title": "Soc Media & Human Infor Int 社交媒體與人際信息互動",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3320:-:LEC:5448",
+          "rawSection": "--LEC (5448)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5448,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Yuen Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "LSB_LT3",
+              "instructor": "Professor CHAN Yuen Yan",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "MMW_710",
+              "instructor": "Professor CHAN Yuen Yan",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG3320:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3800",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3800",
+      "courseCode": "IERG3800",
+      "title": "Info Infrastructure Design Lab 信息基礎設施設計實驗",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3800:-L01:LAB:8622",
+          "rawSection": "-L01-LAB (8622)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 8622,
+          "language": "E",
+          "availability": {
+            "capacity": 125,
+            "enrolled": 0,
+            "availableSeats": 125,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Yiu Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "ERB_1004",
+              "instructor": "Professor LEE Yiu Bun",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3810",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3810",
+      "courseCode": "IERG3810",
+      "title": "Microcontrollers & Embed S Lab 嵌入式系統實驗",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3810:AL01:LAB:8759",
+          "rawSection": "AL01-LAB (8759)",
+          "sectionCode": "AL01",
+          "component": "LAB",
+          "classNumber": 8759,
+          "language": "E",
+          "availability": {
+            "capacity": 42,
+            "enrolled": 0,
+            "availableSeats": 42,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Lian Kuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "ERB_1008",
+              "instructor": "Professor CHEN Lian Kuan",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG3810:BL01:LAB:8762",
+          "rawSection": "BL01-LAB (8762)",
+          "sectionCode": "BL01",
+          "component": "LAB",
+          "classNumber": 8762,
+          "language": "E",
+          "availability": {
+            "capacity": 42,
+            "enrolled": 0,
+            "availableSeats": 42,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Lian Kuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "ERB_1008",
+              "instructor": "Professor CHEN Lian Kuan",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG3810:CL01:LAB:8746",
+          "rawSection": "CL01-LAB (8746)",
+          "sectionCode": "CL01",
+          "component": "LAB",
+          "classNumber": 8746,
+          "language": "E",
+          "availability": {
+            "capacity": 42,
+            "enrolled": 0,
+            "availableSeats": 42,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Lian Kuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "ERB_1008",
+              "instructor": "Professor CHEN Lian Kuan",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3820",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3820",
+      "courseCode": "IERG3820",
+      "title": "Communications Lab 通信實驗",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3820:AL01:LAB:8683",
+          "rawSection": "AL01-LAB (8683)",
+          "sectionCode": "AL01",
+          "component": "LAB",
+          "classNumber": 8683,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chun Kit"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "ERB_1007",
+              "instructor": "Professor CHAN Chun Kit",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG3820:BL01:LAB:8684",
+          "rawSection": "BL01-LAB (8684)",
+          "sectionCode": "BL01",
+          "component": "LAB",
+          "classNumber": 8684,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chun Kit"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "ERB_1007",
+              "instructor": "Professor CHAN Chun Kit",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG3820:CL01:LAB:8863",
+          "rawSection": "CL01-LAB (8863)",
+          "sectionCode": "CL01",
+          "component": "LAB",
+          "classNumber": 8863,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chun Kit"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "ERB_1007",
+              "instructor": "Professor CHAN Chun Kit",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG3820:DL01:LAB:8776",
+          "rawSection": "DL01-LAB (8776)",
+          "sectionCode": "DL01",
+          "component": "LAB",
+          "classNumber": 8776,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chun Kit"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "ERB_1007",
+              "instructor": "Professor CHAN Chun Kit",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3830",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3830",
+      "courseCode": "IERG3830",
+      "title": "Product Design and Development 產品設計與開發",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3830:-J01:PRJ:6639",
+          "rawSection": "-J01-PRJ (6639)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 6639,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIP Kit Sang Danny"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "ERB_712",
+              "instructor": "Dr. YIP Kit Sang Danny",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. YIP Kit Sang Danny",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3842",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3842",
+      "courseCode": "IERG3842",
+      "title": "Mobile Network App Dev Project 流動網絡應用程式開發",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3842:-P01:PRA:4877",
+          "rawSection": "-P01-PRA (4877)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 4877,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIP Kit Sang Danny"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "ERB_1004",
+              "instructor": "Dr. YIP Kit Sang Danny",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG3844",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "3844",
+      "courseCode": "IERG3844",
+      "title": "Hands-on GenAI Tools: App Dev 實踐型生成式人工智慧工具：應用開發項目",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG3844:-L01:LAB:5182",
+          "rawSection": "-L01-LAB (5182)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 5182,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": 0,
+            "availableSeats": 80,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIP Kit Sang Danny"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "ERB_1004",
+              "instructor": "Dr. YIP Kit Sang Danny",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4080",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4080",
+      "courseCode": "IERG4080",
+      "title": "Bldg Scalable Int-based Serv 搭建可擴展的互聯網服務",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4080:-:LEC:5447",
+          "rawSection": "--LEC (5447)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5447,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIP Kit Sang Danny"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "LSK_LT5",
+              "instructor": "Dr. YIP Kit Sang Danny",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSB_LT1",
+              "instructor": "Dr. YIP Kit Sang Danny",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4080:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4090",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4090",
+      "courseCode": "IERG4090",
+      "title": "Networking Protocols and Sys 網絡協議與系統",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4090:-:LEC:4878",
+          "rawSection": "--LEC (4878)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4878,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XUE Diwen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_LT6",
+              "instructor": "Professor XUE Diwen",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "ICS_L1",
+              "instructor": "Professor XUE Diwen",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4090:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4160",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4160",
+      "courseCode": "IERG4160",
+      "title": "Image Proc & Visual Understand 影像處理與電腦視覺理解",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4160:-:LEC:4881",
+          "rawSection": "--LEC (4881)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4881,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor FEI Ben"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "LHC_103",
+              "instructor": "Professor FEI Ben",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "LSB_LT3",
+              "instructor": "Professor FEI Ben",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4160:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4180",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4180",
+      "courseCode": "IERG4180",
+      "title": "Network Soft Design & Prog'g 網絡軟件之程序設計",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4180:-:LEC:5449",
+          "rawSection": "--LEC (5449)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5449,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Yiu Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "SWH_2",
+              "instructor": "Professor LEE Yiu Bun",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "MMW_703",
+              "instructor": "Professor LEE Yiu Bun",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4180:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4210",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4210",
+      "courseCode": "IERG4210",
+      "title": "Web Programming and Security 網頁編程及網頁安全",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4210:-:LEC:6132",
+          "rawSection": "--LEC (6132)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6132,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MA Pui Kit"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "SC_L4",
+              "instructor": "Dr. MA Pui Kit",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "ICS_L1",
+              "instructor": "Dr. MA Pui Kit",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4210:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4240",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4240",
+      "courseCode": "IERG4240",
+      "title": "Positioning Principles & Tech 定位原理和技術",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4240:-:LEC:4897",
+          "rawSection": "--LEC (4897)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4897,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chun Kit"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "ARC_G02",
+              "instructor": "Professor CHAN Chun Kit",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "10:15",
+              "startMinutes": 570,
+              "endMinutes": 615,
+              "location": "ERB_401",
+              "instructor": "Professor CHAN Chun Kit",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4240:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "ERB_1008",
+              "instructor": null,
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4300",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4300",
+      "courseCode": "IERG4300",
+      "title": "Web-scale Info Analytics 網絡規模資訊分析",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4300:-:LEC:5534",
+          "rawSection": "--LEC (5534)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5534,
+          "language": "E",
+          "availability": {
+            "capacity": 73,
+            "enrolled": 0,
+            "availableSeats": 73,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAU Wing Cheong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "BMS_G18",
+              "instructor": "Professor LAU Wing Cheong",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "BMS_G18",
+              "instructor": "Professor LAU Wing Cheong",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4300:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 73,
+            "enrolled": 0,
+            "availableSeats": 73,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4831",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4831",
+      "courseCode": "IERG4831",
+      "title": "Networking Laboratory I 網絡實驗室（一）",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4831:-L01:LAB:8122",
+          "rawSection": "-L01-LAB (8122)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 8122,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Yiu Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Yiu Bun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4841",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4841",
+      "courseCode": "IERG4841",
+      "title": "Networking Laboratory II 網絡實驗室（二）",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4841:-L01:LAB:6385",
+          "rawSection": "-L01-LAB (6385)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 6385,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Yiu Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Yiu Bun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4998",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4998",
+      "courseCode": "IERG4998",
+      "title": "Final Year Project I 畢業專題研究（一）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4998:NJ01:PRJ:8530",
+          "rawSection": "NJ01-PRJ (8530)",
+          "sectionCode": "NJ01",
+          "component": "PRJ",
+          "classNumber": 8530,
+          "language": "E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 0,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Chandrasekhar MADHAVAN NAIR"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Chandrasekhar MADHAVAN NAIR",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4998:VJ01:PRJ:8520",
+          "rawSection": "VJ01-PRJ (8520)",
+          "sectionCode": "VJ01",
+          "component": "PRJ",
+          "classNumber": 8520,
+          "language": "E",
+          "availability": {
+            "capacity": 2,
+            "enrolled": 0,
+            "availableSeats": 2,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Pascal Olivier VONTOBEL"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Pascal Olivier VONTOBEL",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG4999",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ieg/IEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "IERG",
+      "catalogNumber": "4999",
+      "courseCode": "IERG4999",
+      "title": "Final Year Project II 畢業專題研究（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Information Engg",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG4999:AAJ1:PRJ:6490",
+          "rawSection": "AAJ1-PRJ (6490)",
+          "sectionCode": "AAJ1",
+          "component": "PRJ",
+          "classNumber": 6490,
+          "language": "E",
+          "availability": {
+            "capacity": 6,
+            "enrolled": 0,
+            "availableSeats": 6,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MA Pui Kit"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. MA Pui Kit",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:ACJ1:PRJ:6488",
+          "rawSection": "ACJ1-PRJ (6488)",
+          "sectionCode": "ACJ1",
+          "component": "PRJ",
+          "classNumber": 6488,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor OUYANG Wanli"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor OUYANG Wanli",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:AEJ1:PRJ:4898",
+          "rawSection": "AEJ1-PRJ (4898)",
+          "sectionCode": "AEJ1",
+          "component": "PRJ",
+          "classNumber": 4898,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHOU Yajin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHOU Yajin",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:CJ01:PRJ:4899",
+          "rawSection": "CJ01-PRJ (4899)",
+          "sectionCode": "CJ01",
+          "component": "PRJ",
+          "classNumber": 4899,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XUE Diwen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XUE Diwen",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:DJ01:PRJ:7851",
+          "rawSection": "DJ01-PRJ (7851)",
+          "sectionCode": "DJ01",
+          "component": "PRJ",
+          "classNumber": 7851,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN He"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN He",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:EJ01:PRJ:6622",
+          "rawSection": "EJ01-PRJ (6622)",
+          "sectionCode": "EJ01",
+          "component": "PRJ",
+          "classNumber": 6622,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YUE Xiangyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YUE Xiangyu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:FJ01:PRJ:6624",
+          "rawSection": "FJ01-PRJ (6624)",
+          "sectionCode": "FJ01",
+          "component": "PRJ",
+          "classNumber": 6624,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XUE Tianfan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XUE Tianfan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:GJ01:PRJ:7853",
+          "rawSection": "GJ01-PRJ (7853)",
+          "sectionCode": "GJ01",
+          "component": "PRJ",
+          "classNumber": 7853,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Amin AMINZADEH GOHARI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Amin AMINZADEH GOHARI",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:HJ01:PRJ:6241",
+          "rawSection": "HJ01-PRJ (6241)",
+          "sectionCode": "HJ01",
+          "component": "PRJ",
+          "classNumber": 6241,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAU Wing Cheong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LAU Wing Cheong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:IJ01:PRJ:6242",
+          "rawSection": "IJ01-PRJ (6242)",
+          "sectionCode": "IJ01",
+          "component": "PRJ",
+          "classNumber": 6242,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOW Sze Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHOW Sze Ming",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:JJ01:PRJ:7824",
+          "rawSection": "JJ01-PRJ (7824)",
+          "sectionCode": "JJ01",
+          "component": "PRJ",
+          "classNumber": 7824,
+          "language": "E",
+          "availability": {
+            "capacity": 6,
+            "enrolled": 0,
+            "availableSeats": 6,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Yiu Bun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Yiu Bun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:LJ01:PRJ:6556",
+          "rawSection": "LJ01-PRJ (6556)",
+          "sectionCode": "LJ01",
+          "component": "PRJ",
+          "classNumber": 6556,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIEW Soung Chang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIEW Soung Chang",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:MJ01:PRJ:6314",
+          "rawSection": "MJ01-PRJ (6314)",
+          "sectionCode": "MJ01",
+          "component": "PRJ",
+          "classNumber": 6314,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LOK Tat Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LOK Tat Ming",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:NJ01:PRJ:4918",
+          "rawSection": "NJ01-PRJ (4918)",
+          "sectionCode": "NJ01",
+          "component": "PRJ",
+          "classNumber": 4918,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 0,
+            "availableSeats": 5,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Chandrasekhar MADHAVAN NAIR"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Chandrasekhar MADHAVAN NAIR",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:OJ01:PRJ:6623",
+          "rawSection": "OJ01-PRJ (6623)",
+          "sectionCode": "OJ01",
+          "component": "PRJ",
+          "classNumber": 6623,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIN Xiaojun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIN Xiaojun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:PJ01:PRJ:6364",
+          "rawSection": "PJ01-PRJ (6364)",
+          "sectionCode": "PJ01",
+          "component": "PRJ",
+          "classNumber": 6364,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHAO Changhong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHAO Changhong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:QJ01:PRJ:6387",
+          "rawSection": "QJ01-PRJ (6387)",
+          "sectionCode": "QJ01",
+          "component": "PRJ",
+          "classNumber": 6387,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YEUNG Wai Ho"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YEUNG Wai Ho",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:RJ01:PRJ:6300",
+          "rawSection": "RJ01-PRJ (6300)",
+          "sectionCode": "RJ01",
+          "component": "PRJ",
+          "classNumber": 6300,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Yingjun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHANG Yingjun",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:TJ01:PRJ:6218",
+          "rawSection": "TJ01-PRJ (6218)",
+          "sectionCode": "TJ01",
+          "component": "PRJ",
+          "classNumber": 6218,
+          "language": "E",
+          "availability": {
+            "capacity": 6,
+            "enrolled": 0,
+            "availableSeats": 6,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Cheuk Ting"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Cheuk Ting",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:UJ01:PRJ:6393",
+          "rawSection": "UJ01-PRJ (6393)",
+          "sectionCode": "UJ01",
+          "component": "PRJ",
+          "classNumber": 6393,
+          "language": "E",
+          "availability": {
+            "capacity": 9,
+            "enrolled": 0,
+            "availableSeats": 9,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIP Kit Sang Danny"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. YIP Kit Sang Danny",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:VJ01:PRJ:6386",
+          "rawSection": "VJ01-PRJ (6386)",
+          "sectionCode": "VJ01",
+          "component": "PRJ",
+          "classNumber": 6386,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Pascal Olivier VONTOBEL"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Pascal Olivier VONTOBEL",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:WJ01:PRJ:6546",
+          "rawSection": "WJ01-PRJ (6546)",
+          "sectionCode": "WJ01",
+          "component": "PRJ",
+          "classNumber": 6546,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. YIN Ho Fai Hoover"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. YIN Ho Fai Hoover",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:XJ01:PRJ:6315",
+          "rawSection": "XJ01-PRJ (6315)",
+          "sectionCode": "XJ01",
+          "component": "PRJ",
+          "classNumber": 6315,
+          "language": "E",
+          "availability": {
+            "capacity": 6,
+            "enrolled": 0,
+            "availableSeats": 6,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Yuen Yan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHAN Yuen Yan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IERG4999:ZJ01:PRJ:6547",
+          "rawSection": "ZJ01-PRJ (6547)",
+          "sectionCode": "ZJ01",
+          "component": "PRJ",
+          "classNumber": 6547,
+          "language": "E",
+          "availability": {
+            "capacity": 4,
+            "enrolled": 0,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAN Zhenyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YAN Zhenyu",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

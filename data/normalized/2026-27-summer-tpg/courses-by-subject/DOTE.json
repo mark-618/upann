@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "DOTE",
+  "courses": [
+    {
+      "id": "DOTE6790",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "DOTE",
+      "catalogNumber": "6790",
+      "courseCode": "DOTE6790",
+      "title": "Technology Field Study 科技考察",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "FLD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "DOTE6790:IF01:FLD:1066",
+          "rawSection": "IF01-FLD (1066)",
+          "sectionCode": "IF01",
+          "component": "FLD",
+          "classNumber": 1066,
+          "language": "E",
+          "availability": {
+            "capacity": 26,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Chi Bong Dominic"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor CHAN Chi Bong Dominic",
+              "dates": [
+                "21/06/2027 - 26/07/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

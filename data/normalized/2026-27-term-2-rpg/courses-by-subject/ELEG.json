@@ -1,0 +1,3562 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.773Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5744,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2493,
+      "meetings": 2526,
+      "warnings": 0
+    }
+  },
+  "subject": "ELEG",
+  "courses": [
+    {
+      "id": "ELEG5060",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "5060",
+      "courseCode": "ELEG5060",
+      "title": "Applied Functional Analysis 應用泛函分析",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG5060:-:LEC:2355",
+          "rawSection": "--LEC (2355)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2355,
+          "language": "E",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Thierry Albert Jean Louis BLU"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "LHC_101",
+              "instructor": "Professor Thierry Albert Jean Louis BLU",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "ERB_407",
+              "instructor": "Professor Thierry Albert Jean Louis BLU",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG5550",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "5550",
+      "courseCode": "ELEG5550",
+      "title": "Micro- & Nano-Fabrication Lab 微納制備實驗",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC, LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG5550:-:LEC:2517",
+          "rawSection": "--LEC (2517)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2517,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SUN Xiankai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "ERB_713",
+              "instructor": "Professor SUN Xiankai",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG5550:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "ERB_G03",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG8003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "8003",
+      "courseCode": "ELEG8003",
+      "title": "Thesis Research 論文研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG8003:AM01:TMC:4180",
+          "rawSection": "AM01-TMC (4180)",
+          "sectionCode": "AM01",
+          "component": "TMC",
+          "classNumber": 4180,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor REN Hongliang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor REN Hongliang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:ABM1:TMC:3216",
+          "rawSection": "ABM1-TMC (3216)",
+          "sectionCode": "ABM1",
+          "component": "TMC",
+          "classNumber": 3216,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jizhou"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Jizhou",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:ADM1:TMC:3592",
+          "rawSection": "ADM1-TMC (3592)",
+          "sectionCode": "ADM1",
+          "component": "TMC",
+          "classNumber": 3592,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XUE Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XUE Ying",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:AHM1:TMC:2709",
+          "rawSection": "AHM1-TMC (2709)",
+          "sectionCode": "AHM1",
+          "component": "TMC",
+          "classNumber": 2709,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Anding"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHU Anding",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:BM01:TMC:4181",
+          "rawSection": "BM01-TMC (4181)",
+          "sectionCode": "BM01",
+          "component": "TMC",
+          "classNumber": 4181,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HUANG Chaoran"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HUANG Chaoran",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:CM01:TMC:4182",
+          "rawSection": "CM01-TMC (4182)",
+          "sectionCode": "CM01",
+          "component": "TMC",
+          "classNumber": 4182,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SUN Xiankai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SUN Xiankai",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:DM01:TMC:4183",
+          "rawSection": "DM01-TMC (4183)",
+          "sectionCode": "DM01",
+          "component": "TMC",
+          "classNumber": 4183,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHENG Kwok Keung Michael"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHENG Kwok Keung Michael",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:EM01:TMC:4184",
+          "rawSection": "EM01-TMC (4184)",
+          "sectionCode": "EM01",
+          "component": "TMC",
+          "classNumber": 4184,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHING Pak Chung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHING Pak Chung",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:FM01:TMC:4539",
+          "rawSection": "FM01-TMC (4539)",
+          "sectionCode": "FM01",
+          "component": "TMC",
+          "classNumber": 4539,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Martin STOLTERFOHT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Martin STOLTERFOHT",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:GM01:TMC:4185",
+          "rawSection": "GM01-TMC (4185)",
+          "sectionCode": "GM01",
+          "component": "TMC",
+          "classNumber": 4185,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Shichang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor GAO Shichang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:HM01:TMC:4186",
+          "rawSection": "HM01-TMC (4186)",
+          "sectionCode": "HM01",
+          "component": "TMC",
+          "classNumber": 4186,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Tan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Tan",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:IM01:TMC:4187",
+          "rawSection": "IM01-TMC (4187)",
+          "sectionCode": "IM01",
+          "component": "TMC",
+          "classNumber": 4187,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEUNG Ka Nang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEUNG Ka Nang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:JM01:TMC:4188",
+          "rawSection": "JM01-TMC (4188)",
+          "sectionCode": "JM01",
+          "component": "TMC",
+          "classNumber": 4188,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MENG Max Qing Hu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MENG Max Qing Hu",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:KM01:TMC:4189",
+          "rawSection": "KM01-TMC (4189)",
+          "sectionCode": "KM01",
+          "component": "TMC",
+          "classNumber": 4189,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Hongsheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Hongsheng",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:LM01:TMC:4190",
+          "rawSection": "LM01-TMC (4190)",
+          "sectionCode": "LM01",
+          "component": "TMC",
+          "classNumber": 4190,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PUN Kong Pang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor PUN Kong Pang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:MM01:TMC:4191",
+          "rawSection": "MM01-TMC (4191)",
+          "sectionCode": "MM01",
+          "component": "TMC",
+          "classNumber": 4191,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHU Ching Tat Chester"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SHU Ching Tat Chester",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:NM01:TMC:4239",
+          "rawSection": "NM01-TMC (4239)",
+          "sectionCode": "NM01",
+          "component": "TMC",
+          "classNumber": 4239,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TSANG Hon Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TSANG Hon Ki",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:OM01:TMC:4192",
+          "rawSection": "OM01-TMC (4192)",
+          "sectionCode": "OM01",
+          "component": "TMC",
+          "classNumber": 4192,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LOH Poh Chiang Andrew"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LOH Poh Chiang Andrew",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:PM01:TMC:4193",
+          "rawSection": "PM01-TMC (4193)",
+          "sectionCode": "PM01",
+          "component": "TMC",
+          "classNumber": 4193,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LONG Yi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LONG Yi",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:QM01:TMC:4457",
+          "rawSection": "QM01-TMC (4457)",
+          "sectionCode": "QM01",
+          "component": "TMC",
+          "classNumber": 4457,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WU Ke Li"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WU Ke Li",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:RM01:TMC:4236",
+          "rawSection": "RM01-TMC (4236)",
+          "sectionCode": "RM01",
+          "component": "TMC",
+          "classNumber": 4236,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Jianbin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Jianbin",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:SM01:TMC:4237",
+          "rawSection": "SM01-TMC (4237)",
+          "sectionCode": "SM01",
+          "component": "TMC",
+          "classNumber": 4237,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YUAN Yixuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YUAN Yixuan",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:TM01:TMC:4460",
+          "rawSection": "TM01-TMC (4460)",
+          "sectionCode": "TM01",
+          "component": "TMC",
+          "classNumber": 4460,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Thierry Albert Jean Louis BLU"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Thierry Albert Jean Louis BLU",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:UM01:TMC:4240",
+          "rawSection": "UM01-TMC (4240)",
+          "sectionCode": "UM01",
+          "component": "TMC",
+          "classNumber": 4240,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MA Wing Kin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MA Wing Kin",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:VM01:TMC:4238",
+          "rawSection": "VM01-TMC (4238)",
+          "sectionCode": "VM01",
+          "component": "TMC",
+          "classNumber": 4238,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KONG Qiuqiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor KONG Qiuqiang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:WM01:TMC:4410",
+          "rawSection": "WM01-TMC (4410)",
+          "sectionCode": "WM01",
+          "component": "TMC",
+          "classNumber": 4410,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Xiaogang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Xiaogang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:XM01:TMC:3766",
+          "rawSection": "XM01-TMC (3766)",
+          "sectionCode": "XM01",
+          "component": "TMC",
+          "classNumber": 3766,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHAO Ni"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHAO Ni",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:YM01:TMC:1736",
+          "rawSection": "YM01-TMC (1736)",
+          "sectionCode": "YM01",
+          "component": "TMC",
+          "classNumber": 1736,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HU Guohua"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HU Guohua",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8003:ZM01:TMC:3217",
+          "rawSection": "ZM01-TMC (3217)",
+          "sectionCode": "ZM01",
+          "component": "TMC",
+          "classNumber": 3217,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Ady SUWARDI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Ady SUWARDI",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG8006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "8006",
+      "courseCode": "ELEG8006",
+      "title": "Thesis Research 論文研究",
+      "units": 6,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG8006:AM01:TMC:4241",
+          "rawSection": "AM01-TMC (4241)",
+          "sectionCode": "AM01",
+          "component": "TMC",
+          "classNumber": 4241,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor REN Hongliang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor REN Hongliang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:ABM1:TMC:3218",
+          "rawSection": "ABM1-TMC (3218)",
+          "sectionCode": "ABM1",
+          "component": "TMC",
+          "classNumber": 3218,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jizhou"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Jizhou",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:ADM1:TMC:3612",
+          "rawSection": "ADM1-TMC (3612)",
+          "sectionCode": "ADM1",
+          "component": "TMC",
+          "classNumber": 3612,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XUE Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XUE Ying",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:AHM1:TMC:1025",
+          "rawSection": "AHM1-TMC (1025)",
+          "sectionCode": "AHM1",
+          "component": "TMC",
+          "classNumber": 1025,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Anding"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHU Anding",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:BM01:TMC:4242",
+          "rawSection": "BM01-TMC (4242)",
+          "sectionCode": "BM01",
+          "component": "TMC",
+          "classNumber": 4242,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HUANG Chaoran"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HUANG Chaoran",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:CM01:TMC:4244",
+          "rawSection": "CM01-TMC (4244)",
+          "sectionCode": "CM01",
+          "component": "TMC",
+          "classNumber": 4244,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SUN Xiankai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SUN Xiankai",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:DM01:TMC:4243",
+          "rawSection": "DM01-TMC (4243)",
+          "sectionCode": "DM01",
+          "component": "TMC",
+          "classNumber": 4243,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHENG Kwok Keung Michael"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHENG Kwok Keung Michael",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:EM01:TMC:4245",
+          "rawSection": "EM01-TMC (4245)",
+          "sectionCode": "EM01",
+          "component": "TMC",
+          "classNumber": 4245,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHING Pak Chung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHING Pak Chung",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:FM01:TMC:4567",
+          "rawSection": "FM01-TMC (4567)",
+          "sectionCode": "FM01",
+          "component": "TMC",
+          "classNumber": 4567,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Martin STOLTERFOHT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Martin STOLTERFOHT",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:GM01:TMC:4246",
+          "rawSection": "GM01-TMC (4246)",
+          "sectionCode": "GM01",
+          "component": "TMC",
+          "classNumber": 4246,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Shichang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor GAO Shichang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:HM01:TMC:4247",
+          "rawSection": "HM01-TMC (4247)",
+          "sectionCode": "HM01",
+          "component": "TMC",
+          "classNumber": 4247,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Tan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Tan",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:IM01:TMC:4280",
+          "rawSection": "IM01-TMC (4280)",
+          "sectionCode": "IM01",
+          "component": "TMC",
+          "classNumber": 4280,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEUNG Ka Nang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEUNG Ka Nang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:JM01:TMC:4281",
+          "rawSection": "JM01-TMC (4281)",
+          "sectionCode": "JM01",
+          "component": "TMC",
+          "classNumber": 4281,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MENG Max Qing Hu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MENG Max Qing Hu",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:KM01:TMC:4282",
+          "rawSection": "KM01-TMC (4282)",
+          "sectionCode": "KM01",
+          "component": "TMC",
+          "classNumber": 4282,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Hongsheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Hongsheng",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:LM01:TMC:4283",
+          "rawSection": "LM01-TMC (4283)",
+          "sectionCode": "LM01",
+          "component": "TMC",
+          "classNumber": 4283,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PUN Kong Pang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor PUN Kong Pang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:MM01:TMC:4284",
+          "rawSection": "MM01-TMC (4284)",
+          "sectionCode": "MM01",
+          "component": "TMC",
+          "classNumber": 4284,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHU Ching Tat Chester"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SHU Ching Tat Chester",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:NM01:TMC:4285",
+          "rawSection": "NM01-TMC (4285)",
+          "sectionCode": "NM01",
+          "component": "TMC",
+          "classNumber": 4285,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TSANG Hon Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TSANG Hon Ki",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:OM01:TMC:4286",
+          "rawSection": "OM01-TMC (4286)",
+          "sectionCode": "OM01",
+          "component": "TMC",
+          "classNumber": 4286,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LOH Poh Chiang Andrew"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LOH Poh Chiang Andrew",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:PM01:TMC:4287",
+          "rawSection": "PM01-TMC (4287)",
+          "sectionCode": "PM01",
+          "component": "TMC",
+          "classNumber": 4287,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LONG Yi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LONG Yi",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:QM01:TMC:4288",
+          "rawSection": "QM01-TMC (4288)",
+          "sectionCode": "QM01",
+          "component": "TMC",
+          "classNumber": 4288,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WU Ke Li"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WU Ke Li",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:RM01:TMC:4289",
+          "rawSection": "RM01-TMC (4289)",
+          "sectionCode": "RM01",
+          "component": "TMC",
+          "classNumber": 4289,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Jianbin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Jianbin",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:SM01:TMC:4290",
+          "rawSection": "SM01-TMC (4290)",
+          "sectionCode": "SM01",
+          "component": "TMC",
+          "classNumber": 4290,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YUAN Yixuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YUAN Yixuan",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:TM01:TMC:4291",
+          "rawSection": "TM01-TMC (4291)",
+          "sectionCode": "TM01",
+          "component": "TMC",
+          "classNumber": 4291,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Thierry Albert Jean Louis BLU"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Thierry Albert Jean Louis BLU",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:UM01:TMC:4292",
+          "rawSection": "UM01-TMC (4292)",
+          "sectionCode": "UM01",
+          "component": "TMC",
+          "classNumber": 4292,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MA Wing Kin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MA Wing Kin",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:VM01:TMC:4407",
+          "rawSection": "VM01-TMC (4407)",
+          "sectionCode": "VM01",
+          "component": "TMC",
+          "classNumber": 4407,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KONG Qiuqiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor KONG Qiuqiang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:WM01:TMC:4377",
+          "rawSection": "WM01-TMC (4377)",
+          "sectionCode": "WM01",
+          "component": "TMC",
+          "classNumber": 4377,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Xiaogang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Xiaogang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:XM01:TMC:3767",
+          "rawSection": "XM01-TMC (3767)",
+          "sectionCode": "XM01",
+          "component": "TMC",
+          "classNumber": 3767,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHAO Ni"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHAO Ni",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:YM01:TMC:1735",
+          "rawSection": "YM01-TMC (1735)",
+          "sectionCode": "YM01",
+          "component": "TMC",
+          "classNumber": 1735,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HU Guohua"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HU Guohua",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8006:ZM01:TMC:3239",
+          "rawSection": "ZM01-TMC (3239)",
+          "sectionCode": "ZM01",
+          "component": "TMC",
+          "classNumber": 3239,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Ady SUWARDI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Ady SUWARDI",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ELEG8012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/elegv/ELEGV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "ELEG",
+      "catalogNumber": "8012",
+      "courseCode": "ELEG8012",
+      "title": "Thesis Research 論文研究",
+      "units": 12,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Electronic Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ELEG8012:AM01:TMC:4331",
+          "rawSection": "AM01-TMC (4331)",
+          "sectionCode": "AM01",
+          "component": "TMC",
+          "classNumber": 4331,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor REN Hongliang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor REN Hongliang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:ABM1:TMC:3240",
+          "rawSection": "ABM1-TMC (3240)",
+          "sectionCode": "ABM1",
+          "component": "TMC",
+          "classNumber": 3240,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jizhou"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Jizhou",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:ADM1:TMC:3613",
+          "rawSection": "ADM1-TMC (3613)",
+          "sectionCode": "ADM1",
+          "component": "TMC",
+          "classNumber": 3613,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XUE Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XUE Ying",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:AHM1:TMC:2710",
+          "rawSection": "AHM1-TMC (2710)",
+          "sectionCode": "AHM1",
+          "component": "TMC",
+          "classNumber": 2710,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHU Anding"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHU Anding",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:BM01:TMC:4332",
+          "rawSection": "BM01-TMC (4332)",
+          "sectionCode": "BM01",
+          "component": "TMC",
+          "classNumber": 4332,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HUANG Chaoran"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HUANG Chaoran",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:CM01:TMC:4333",
+          "rawSection": "CM01-TMC (4333)",
+          "sectionCode": "CM01",
+          "component": "TMC",
+          "classNumber": 4333,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SUN Xiankai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SUN Xiankai",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:DM01:TMC:4334",
+          "rawSection": "DM01-TMC (4334)",
+          "sectionCode": "DM01",
+          "component": "TMC",
+          "classNumber": 4334,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHENG Kwok Keung Michael"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHENG Kwok Keung Michael",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:EM01:TMC:4335",
+          "rawSection": "EM01-TMC (4335)",
+          "sectionCode": "EM01",
+          "component": "TMC",
+          "classNumber": 4335,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHING Pak Chung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHING Pak Chung",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:FM01:TMC:4568",
+          "rawSection": "FM01-TMC (4568)",
+          "sectionCode": "FM01",
+          "component": "TMC",
+          "classNumber": 4568,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Martin STOLTERFOHT"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Martin STOLTERFOHT",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:GM01:TMC:4336",
+          "rawSection": "GM01-TMC (4336)",
+          "sectionCode": "GM01",
+          "component": "TMC",
+          "classNumber": 4336,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Shichang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor GAO Shichang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:HM01:TMC:4337",
+          "rawSection": "HM01-TMC (4337)",
+          "sectionCode": "HM01",
+          "component": "TMC",
+          "classNumber": 4337,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEE Tan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEE Tan",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:IM01:TMC:4338",
+          "rawSection": "IM01-TMC (4338)",
+          "sectionCode": "IM01",
+          "component": "TMC",
+          "classNumber": 4338,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEUNG Ka Nang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LEUNG Ka Nang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:JM01:TMC:4339",
+          "rawSection": "JM01-TMC (4339)",
+          "sectionCode": "JM01",
+          "component": "TMC",
+          "classNumber": 4339,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MENG Max Qing Hu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MENG Max Qing Hu",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:KM01:TMC:4340",
+          "rawSection": "KM01-TMC (4340)",
+          "sectionCode": "KM01",
+          "component": "TMC",
+          "classNumber": 4340,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Hongsheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Hongsheng",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:LM01:TMC:4341",
+          "rawSection": "LM01-TMC (4341)",
+          "sectionCode": "LM01",
+          "component": "TMC",
+          "classNumber": 4341,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PUN Kong Pang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor PUN Kong Pang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:MM01:TMC:4342",
+          "rawSection": "MM01-TMC (4342)",
+          "sectionCode": "MM01",
+          "component": "TMC",
+          "classNumber": 4342,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHU Ching Tat Chester"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor SHU Ching Tat Chester",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:NM01:TMC:4344",
+          "rawSection": "NM01-TMC (4344)",
+          "sectionCode": "NM01",
+          "component": "TMC",
+          "classNumber": 4344,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TSANG Hon Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TSANG Hon Ki",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:OM01:TMC:4343",
+          "rawSection": "OM01-TMC (4343)",
+          "sectionCode": "OM01",
+          "component": "TMC",
+          "classNumber": 4343,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LOH Poh Chiang Andrew"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LOH Poh Chiang Andrew",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:PM01:TMC:4345",
+          "rawSection": "PM01-TMC (4345)",
+          "sectionCode": "PM01",
+          "component": "TMC",
+          "classNumber": 4345,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LONG Yi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LONG Yi",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:QM01:TMC:4346",
+          "rawSection": "QM01-TMC (4346)",
+          "sectionCode": "QM01",
+          "component": "TMC",
+          "classNumber": 4346,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WU Ke Li"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WU Ke Li",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:RM01:TMC:4347",
+          "rawSection": "RM01-TMC (4347)",
+          "sectionCode": "RM01",
+          "component": "TMC",
+          "classNumber": 4347,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Jianbin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Jianbin",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:SM01:TMC:4348",
+          "rawSection": "SM01-TMC (4348)",
+          "sectionCode": "SM01",
+          "component": "TMC",
+          "classNumber": 4348,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YUAN Yixuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YUAN Yixuan",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:TM01:TMC:4349",
+          "rawSection": "TM01-TMC (4349)",
+          "sectionCode": "TM01",
+          "component": "TMC",
+          "classNumber": 4349,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Thierry Albert Jean Louis BLU"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Thierry Albert Jean Louis BLU",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:UM01:TMC:4350",
+          "rawSection": "UM01-TMC (4350)",
+          "sectionCode": "UM01",
+          "component": "TMC",
+          "classNumber": 4350,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MA Wing Kin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor MA Wing Kin",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:VM01:TMC:4409",
+          "rawSection": "VM01-TMC (4409)",
+          "sectionCode": "VM01",
+          "component": "TMC",
+          "classNumber": 4409,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor KONG Qiuqiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor KONG Qiuqiang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:WM01:TMC:4408",
+          "rawSection": "WM01-TMC (4408)",
+          "sectionCode": "WM01",
+          "component": "TMC",
+          "classNumber": 4408,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Xiaogang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Xiaogang",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:XM01:TMC:3768",
+          "rawSection": "XM01-TMC (3768)",
+          "sectionCode": "XM01",
+          "component": "TMC",
+          "classNumber": 3768,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHAO Ni"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHAO Ni",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:YM01:TMC:1737",
+          "rawSection": "YM01-TMC (1737)",
+          "sectionCode": "YM01",
+          "component": "TMC",
+          "classNumber": 1737,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HU Guohua"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor HU Guohua",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ELEG8012:ZM01:TMC:3241",
+          "rawSection": "ZM01-TMC (3241)",
+          "sectionCode": "ZM01",
+          "component": "TMC",
+          "classNumber": 3241,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Ady SUWARDI"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Ady SUWARDI",
+              "dates": [
+                "11/01/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

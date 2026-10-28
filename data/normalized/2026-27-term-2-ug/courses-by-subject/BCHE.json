@@ -1,0 +1,1069 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "BCHE",
+  "courses": [
+    {
+      "id": "BCHE2000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "2000",
+      "courseCode": "BCHE2000",
+      "title": "Frontiers in Biochemistry 生物化學專題簡介",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE2000:-:LEC:9032",
+          "rawSection": "--LEC (9032)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9032,
+          "language": "E",
+          "availability": {
+            "capacity": 92,
+            "enrolled": 0,
+            "availableSeats": 92,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. NGAI Hung Kui - Professor AU Wing Ngor Shannon - Professor CHAN Ho Yin Edwin - Professor CHAN Ting Fung Philos - Professor NGO Chi Ki Jacky - Professor TSANG Suk Ying - Professor ZHAO Yanyan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "ICS_L1",
+              "instructor": "Dr. NGAI Hung Kui - Professor AU Wing Ngor Shannon - Professor CHAN Ho Yin Edwin - Professor CHAN Ting Fung Philos - Professor NGO Chi Ki Jacky - Professor TSANG Suk Ying - Professor ZHAO Yanyan",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE2070",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "2070",
+      "courseCode": "BCHE2070",
+      "title": "Research Internship 研究實習",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE2070:-J01:PRJ:7829",
+          "rawSection": "-J01-PRJ (7829)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 7829,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Ting Fung Philos"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHAN Ting Fung Philos",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE3040",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "3040",
+      "courseCode": "BCHE3040",
+      "title": "Proteins and Enzymes 蛋白質與酶",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE3040:-:LEC:9305",
+          "rawSection": "--LEC (9305)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9305,
+          "language": "E",
+          "availability": {
+            "capacity": 78,
+            "enrolled": 0,
+            "availableSeats": 78,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor FONG Wing Ping - Professor ZHAO Yanyan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LHC_103",
+              "instructor": "Professor FONG Wing Ping - Professor ZHAO Yanyan",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "LSB_LT5",
+              "instructor": "Professor FONG Wing Ping - Professor ZHAO Yanyan",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE3050",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "3050",
+      "courseCode": "BCHE3050",
+      "title": "Molecular Biology 分子生物學",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE3050:-:LEC:5571",
+          "rawSection": "--LEC (5571)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5571,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Congyan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "MMW_LT2",
+              "instructor": "Professor ZHANG Congyan",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE3070",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "3070",
+      "courseCode": "BCHE3070",
+      "title": "Recombinant DNA Techniques 重組DNA技術",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE3070:-:LEC:5590",
+          "rawSection": "--LEC (5590)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5590,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SHAW Pang Chui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "MMW_LT1",
+              "instructor": "Professor SHAW Pang Chui",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE3080",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "3080",
+      "courseCode": "BCHE3080",
+      "title": "Bioenergetics and Metabolism 生物能量與新陳代謝",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE3080:-:LEC:9307",
+          "rawSection": "--LEC (9307)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9307,
+          "language": "E",
+          "availability": {
+            "capacity": 75,
+            "enrolled": 0,
+            "availableSeats": 75,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. NGAI Hung Kui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "MMW_703",
+              "instructor": "Dr. NGAI Hung Kui",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE3650",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "3650",
+      "courseCode": "BCHE3650",
+      "title": "Molecular Biology and DNA Lab 分子生物及重組DNA實驗",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE3650:-L01:LAB:8923",
+          "rawSection": "-L01-LAB (8923)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 8923,
+          "language": "E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": 0,
+            "availableSeats": 45,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. NGAI Hung Kui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "SCE_E108",
+              "instructor": "Dr. NGAI Hung Kui",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE4030",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "4030",
+      "courseCode": "BCHE4030",
+      "title": "Clinical Biochemistry 臨牀生物化學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE4030:-:LEC:6851",
+          "rawSection": "--LEC (6851)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6851,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LO Fai Hang - Professor CHEN Zhefan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "MMW_LT2",
+              "instructor": "Dr. LO Fai Hang - Professor CHEN Zhefan",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 08:30AM - 10:15AM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "08:30",
+              "endTime": "10:15",
+              "startMinutes": 510,
+              "endMinutes": 615,
+              "location": "LSB_LT6",
+              "instructor": "Dr. LO Fai Hang - Professor CHEN Zhefan",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE4070",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "4070",
+      "courseCode": "BCHE4070",
+      "title": "Manage & Accredit of BCHE Lab 生化實驗室管理與認證",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE4070:-:LEC:8629",
+          "rawSection": "--LEC (8629)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8629,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr WONG Yuen Ting - Dr. CHOI Pui Wah - Dr. YEUNG Hiu Yan - Dr. YEUNG Shu Ying - Professor CHO Chi Shing - Professor LAU Kwok Fai - Professor LEE Chi Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_LT7",
+              "instructor": "Dr WONG Yuen Ting - Dr. CHOI Pui Wah - Dr. YEUNG Hiu Yan - Dr. YEUNG Shu Ying - Professor CHO Chi Shing - Professor LAU Kwok Fai - Professor LEE Chi Ming",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE4090",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "4090",
+      "courseCode": "BCHE4090",
+      "title": "Biochem for Sport and Exercise 運動生物化學",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE4090:-:LEC:6062",
+          "rawSection": "--LEC (6062)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6062,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LO Fai Hang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 09:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "MMW_704",
+              "instructor": "Dr. LO Fai Hang",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE4130",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "4130",
+      "courseCode": "BCHE4130",
+      "title": "Molecular Endocrinology 分子內分泌學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE4130:-:LEC:7354",
+          "rawSection": "--LEC (7354)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7354,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. Erika KWEK - Dr. LO Fai Hang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "KKB_101",
+              "instructor": "Dr. Erika KWEK - Dr. LO Fai Hang",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LHC_101",
+              "instructor": "Dr. Erika KWEK - Dr. LO Fai Hang",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE4830",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "4830",
+      "courseCode": "BCHE4830",
+      "title": "Medical Biochemistry Lab 醫學生物化學實驗",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE4830:-L01:LAB:8713",
+          "rawSection": "-L01-LAB (8713)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 8713,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LO Fai Hang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "SCE_E108",
+              "instructor": "Dr. LO Fai Hang",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BCHE4903",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bche/BCHE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BCHE",
+      "catalogNumber": "4903",
+      "courseCode": "BCHE4903",
+      "title": "Senior Experimental Proj III 實驗專題討論（三）",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Biochemistry Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BCHE4903:-J01:PRJ:7070",
+          "rawSection": "-J01-PRJ (7070)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 7070,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": 0,
+            "availableSeats": 70,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Ho Yin Edwin - Professor CHAN Ting Fung Philos - Professor CHU Wai Kit - Professor KWAN Kin Ming - Professor LAM Hon Ming - Professor LAU Kwok Fai - Professor LI Cheng - Professor LUO Haiwei - Professor NGO Chi Ki"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHAN Ho Yin Edwin - Professor CHAN Ting Fung Philos - Professor CHU Wai Kit - Professor KWAN Kin Ming - Professor LAM Hon Ming - Professor LAU Kwok Fai - Professor LI Cheng - Professor LUO Haiwei - Professor NGO Chi Ki",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

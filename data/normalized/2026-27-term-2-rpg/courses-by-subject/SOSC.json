@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.773Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5744,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2493,
+      "meetings": 2526,
+      "warnings": 0
+    }
+  },
+  "subject": "SOSC",
+  "courses": [
+    {
+      "id": "SOSC7010",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ssciv/SSCIV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SOSC",
+      "catalogNumber": "7010",
+      "courseCode": "SOSC7010",
+      "title": "Seminar (I) 研討會（一）",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Social Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOSC7010:-S01:SEM:1304",
+          "rawSection": "-S01-SEM (1304)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 1304,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIANG Hai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "14:15",
+              "startMinutes": 690,
+              "endMinutes": 855,
+              "location": "HYS_501",
+              "instructor": "Professor LIANG Hai",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4",
+                "29/4",
+                "6/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SOSC7020",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ssciv/SSCIV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SOSC",
+      "catalogNumber": "7020",
+      "courseCode": "SOSC7020",
+      "title": "Seminar (II) 研討會（二）",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Social Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SOSC7020:-S01:SEM:2362",
+          "rawSection": "-S01-SEM (2362)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 2362,
+          "language": "E",
+          "availability": {
+            "capacity": 35,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIANG Hai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 11:30AM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "14:15",
+              "startMinutes": 690,
+              "endMinutes": 855,
+              "location": "HYS_501",
+              "instructor": "Professor LIANG Hai",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4",
+                "29/4",
+                "6/5"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

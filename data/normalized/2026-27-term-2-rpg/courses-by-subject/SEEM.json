@@ -1,0 +1,708 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.773Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5744,
+      "courses": 557,
+      "rawCoursesWithTargetTerm": 557,
+      "subjects": 73,
+      "sections": 2493,
+      "meetings": 2526,
+      "warnings": 0
+    }
+  },
+  "subject": "SEEM",
+  "courses": [
+    {
+      "id": "SEEM5120",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5120",
+      "courseCode": "SEEM5120",
+      "title": "Advanced Topics in SE&EM (I) 系統工程與工程管理學高級專題(一)",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5120:-:LEC:2469",
+          "rawSection": "--LEC (2469)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2469,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "14:15",
+              "startMinutes": 690,
+              "endMinutes": 855,
+              "location": "ARC_G03",
+              "instructor": "Staff",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5202",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5202",
+      "courseCode": "SEEM5202",
+      "title": "Seminars in SE&EM (II) 系統工程與工程管理學研討班(二)",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "WKS",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5202:-W01:WKS:1204",
+          "rawSection": "-W01-WKS (1204)",
+          "sectionCode": "-W01",
+          "component": "WKS",
+          "classNumber": 1204,
+          "language": "E",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "ERB_404",
+              "instructor": "Staff",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5350",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5350",
+      "courseCode": "SEEM5350",
+      "title": "Numerical Optimization 數值優化",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5350:-:LEC:2506",
+          "rawSection": "--LEC (2506)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2506,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Huifu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "FYB_405",
+              "instructor": "Professor XU Huifu",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5650",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5650",
+      "courseCode": "SEEM5650",
+      "title": "Integer Programming 整數規劃",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5650:-:LEC:1616",
+          "rawSection": "--LEC (1616)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1616,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HO Sin Cheung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "15:15",
+              "startMinutes": 750,
+              "endMinutes": 915,
+              "location": "YIA_LT4",
+              "instructor": "Dr. HO Sin Cheung",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5670",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5670",
+      "courseCode": "SEEM5670",
+      "title": "Advan Models in Financial Eng 高等金融工程模型",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5670:-:LEC:2494",
+          "rawSection": "--LEC (2494)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2494,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YANG Chen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "ERB_804",
+              "instructor": "Professor YANG Chen",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM5680",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "5680",
+      "courseCode": "SEEM5680",
+      "title": "Text Mining Models & Applicatn 文字探勘模型及應用",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM5680:-:LEC:1228",
+          "rawSection": "--LEC (1228)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1228,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAM Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "ERB_408",
+              "instructor": "Professor LAM Wai",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Tu 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "YIA_402",
+              "instructor": "Professor LAM Wai",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM8003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "8003",
+      "courseCode": "SEEM8003",
+      "title": "Thesis Research 論文研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM8003:-M01:TMC:4159",
+          "rawSection": "-M01-TMC (4159)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4159,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Nan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN Nan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM8006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "8006",
+      "courseCode": "SEEM8006",
+      "title": "Thesis Research 論文研究",
+      "units": 6,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM8006:-M01:TMC:4160",
+          "rawSection": "-M01-TMC (4160)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4160,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Nan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN Nan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SEEM8012",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/seemv/SEEMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "SEEM",
+      "catalogNumber": "8012",
+      "courseCode": "SEEM8012",
+      "title": "Thesis Research 論文研究",
+      "units": 12,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of System Erg & Erg Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "SEEM8012:-M01:TMC:4161",
+          "rawSection": "-M01-TMC (4161)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 4161,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Nan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN Nan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

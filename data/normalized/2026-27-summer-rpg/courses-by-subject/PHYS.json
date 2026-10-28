@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.523Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 60,
+      "courses": 21,
+      "rawCoursesWithTargetTerm": 21,
+      "subjects": 5,
+      "sections": 21,
+      "meetings": 25,
+      "warnings": 0
+    }
+  },
+  "subject": "PHYS",
+  "courses": [
+    {
+      "id": "PHYS5790",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/physv/PHYSV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PHYS",
+      "catalogNumber": "5790",
+      "courseCode": "PHYS5790",
+      "title": "Guided Study 導修",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PHYS5790:-T01:TUT:1102",
+          "rawSection": "-T01-TUT (1102)",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": 1102,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Kenneth YOUNG"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Kenneth YOUNG",
+              "dates": [
+                "17/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

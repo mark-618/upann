@@ -1,0 +1,479 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "RMSC",
+  "courses": [
+    {
+      "id": "RMSC5001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "5001",
+      "courseCode": "RMSC5001",
+      "title": "Advanced Stat Theory in RMS 風險管理高等統計理論",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC5001:-:LEC:1437",
+          "rawSection": "--LEC (1437)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1437,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LEUNG Pui Lam William"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "YIA_LT6",
+              "instructor": "Professor LEUNG Pui Lam William",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC5004",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "5004",
+      "courseCode": "RMSC5004",
+      "title": "Cases for RMS in Practice 風險管理案例的實踐",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC5004:-S01:SEM:1443",
+          "rawSection": "-S01-SEM (1443)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 1443,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_LT6",
+              "instructor": "Staff",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC5102",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "5102",
+      "courseCode": "RMSC5102",
+      "title": "Simulatn Technq in RMS & FIN 財務與風險管理之模擬方法",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC5102:-:LEC:1371",
+          "rawSection": "--LEC (1371)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1371,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHANG Jiacheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "YIA_201",
+              "instructor": "Professor ZHANG Jiacheng",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4",
+                "29/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC6001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "6001",
+      "courseCode": "RMSC6001",
+      "title": "Int Rat & Fix Incomes Risk Mgt 利率及固定收益證券之風險管理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC6001:-:LEC:1367",
+          "rawSection": "--LEC (1367)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1367,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Hoi Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT7",
+              "instructor": "Professor WONG Hoi Ying",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4",
+                "27/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC6007",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "6007",
+      "courseCode": "RMSC6007",
+      "title": "Risk & Fin Data Anal w/ Python 風險和金融數據分析及其Python應用",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC6007:-:LEC:1393",
+          "rawSection": "--LEC (1393)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1393,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor SIT Tony"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "WMY_406",
+              "instructor": "Professor SIT Tony",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RMSC6008",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/rmscv/RMSCV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RMSC",
+      "catalogNumber": "6008",
+      "courseCode": "RMSC6008",
+      "title": "Practicum 行業實習",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Risk Management Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RMSC6008:-P01:PRA:3379",
+          "rawSection": "-P01-PRA (3379)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 3379,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Tat Wing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. WONG Tat Wing",
+              "dates": [
+                "11/01/2027 - 26/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

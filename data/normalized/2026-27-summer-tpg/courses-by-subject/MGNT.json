@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "MGNT",
+  "courses": [
+    {
+      "id": "MGNT6822",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "MGNT",
+      "catalogNumber": "6822",
+      "courseCode": "MGNT6822",
+      "title": "Design Thinking for Bus Inno 創新營商的設計思維",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MGNT6822:W:LEC:1107",
+          "rawSection": "W-LEC (1107)",
+          "sectionCode": "W",
+          "component": "LEC",
+          "classNumber": 1107,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOI Wai Shan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Su 10:00AM - 01:30PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "10:00",
+              "endTime": "13:30",
+              "startMinutes": 600,
+              "endMinutes": 810,
+              "location": "TBA",
+              "instructor": "Professor CHOI Wai Shan",
+              "dates": [
+                "27/6",
+                "4/7",
+                "11/7",
+                "18/7",
+                "25/7"
+              ]
+            },
+            {
+              "timeRaw": "Su 02:30PM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "14:30",
+              "endTime": "18:00",
+              "startMinutes": 870,
+              "endMinutes": 1080,
+              "location": "TBA",
+              "instructor": "Professor CHOI Wai Shan",
+              "dates": [
+                "27/6",
+                "4/7",
+                "11/7",
+                "18/7",
+                "25/7"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

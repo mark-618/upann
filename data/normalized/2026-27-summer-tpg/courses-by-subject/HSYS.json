@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "HSYS",
+  "courses": [
+    {
+      "id": "HSYS5020",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "HSYS",
+      "catalogNumber": "5020",
+      "courseCode": "HSYS5020",
+      "title": "Corp.Communication & Marketing 企業傳訊及市場學",
+      "units": 1,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "HSYS5020:-:LEC:1058",
+          "rawSection": "--LEC (1058)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1058,
+          "language": "C&E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor FUNG Hong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 05:00PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "17:00",
+              "startMinutes": 570,
+              "endMinutes": 1020,
+              "location": "PWH",
+              "instructor": "Professor FUNG Hong",
+              "dates": [
+                "26/6",
+                "3/7"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "HSYS5021",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "HSYS",
+      "catalogNumber": "5021",
+      "courseCode": "HSYS5021",
+      "title": "Advanced Organization Mgt 醫療機構管理學進階課程",
+      "units": 1,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "HSYS5021:-:LEC:1057",
+          "rawSection": "--LEC (1057)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1057,
+          "language": "C&E",
+          "availability": {
+            "capacity": 45,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor HUNG Chi Tim"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Su 10:00AM - 05:00PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "10:00",
+              "endTime": "17:00",
+              "startMinutes": 600,
+              "endMinutes": 1020,
+              "location": "PWH",
+              "instructor": "Professor HUNG Chi Tim",
+              "dates": [
+                "27/6",
+                "4/7"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

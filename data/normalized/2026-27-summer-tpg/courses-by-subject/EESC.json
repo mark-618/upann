@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "EESC",
+  "courses": [
+    {
+      "id": "EESC5800",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eescv/EESCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "EESC",
+      "catalogNumber": "5800",
+      "courseCode": "EESC5800",
+      "title": "Advanced Research Project 地球與環境分析學高階研究項目",
+      "units": 6,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "DIS",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Earth & Env Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "EESC5800:-D01:DIS:1165",
+          "rawSection": "-D01-DIS (1165)",
+          "sectionCode": "-D01",
+          "component": "DIS",
+          "classNumber": 1165,
+          "language": "E",
+          "availability": {
+            "capacity": 65,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU-YEUNG Yee Man - Dr. LI Kwan Kit Ronald - Dr. TAM Pui Yuk - Dr. ZHANG Li - Professor Benoit THIBODEAU - Professor CHAN Man Nin - Professor CHOW Tat Shing - Professor LIU Lin - Professor TAI Pui Kuen Amos - Professor TAM"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. AU-YEUNG Yee Man - Dr. LI Kwan Kit Ronald - Dr. TAM Pui Yuk - Dr. ZHANG Li - Professor Benoit THIBODEAU - Professor CHAN Man Nin - Professor CHOW Tat Shing - Professor LIU Lin - Professor TAI Pui Kuen Amos - Professor TAM",
+              "dates": [
+                "17/05/2027 - 28/06/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

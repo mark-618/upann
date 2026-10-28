@@ -1,0 +1,646 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "AIMS",
+  "courses": [
+    {
+      "id": "AIMS5703",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aims/AIMS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "AIMS",
+      "catalogNumber": "5703",
+      "courseCode": "AIMS5703",
+      "title": "Emerging Technologies in AI 新興人工智能技術",
+      "units": 1,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIMS5703:-:LEC:1544",
+          "rawSection": "--LEC (1544)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1544,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YUAN Yixuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 08:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "20:30",
+              "startMinutes": 1110,
+              "endMinutes": 1230,
+              "location": "LSK_LT7",
+              "instructor": "Professor YUAN Yixuan",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AIMS5704",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aims/AIMS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "AIMS",
+      "catalogNumber": "5704",
+      "courseCode": "AIMS5704",
+      "title": "ML Theory 機器學習理論",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIMS5704:-:LEC:3974",
+          "rawSection": "--LEC (3974)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 3974,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Farzan FARNIA"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT4",
+              "instructor": "Professor Farzan FARNIA",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AIMS5720",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aims/AIMS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "AIMS",
+      "catalogNumber": "5720",
+      "courseCode": "AIMS5720",
+      "title": "Com Vision & Pattern Recognit 計算機視覺和模式識別",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIMS5720:-:LEC:1556",
+          "rawSection": "--LEC (1556)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1556,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor OUYANG Wanli"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "YIA_LT4",
+              "instructor": "Professor OUYANG Wanli",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AIMS5730",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aims/AIMS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "AIMS",
+      "catalogNumber": "5730",
+      "courseCode": "AIMS5730",
+      "title": "Natural Language Processing 自然語言處理",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIMS5730:-:LEC:2399",
+          "rawSection": "--LEC (2399)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2399,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Liwei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "LSK_LT5",
+              "instructor": "Professor WANG Liwei",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "LSK_LT5",
+              "instructor": "Professor WANG Liwei",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AIMS5740",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aims/AIMS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "AIMS",
+      "catalogNumber": "5740",
+      "courseCode": "AIMS5740",
+      "title": "Generative AI 生成人工智能",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIMS5740:-:LEC:1392",
+          "rawSection": "--LEC (1392)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1392,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Liming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "ERB_LT",
+              "instructor": "Professor WANG Liming",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AIMS5760",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aims/AIMS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "AIMS",
+      "catalogNumber": "5760",
+      "courseCode": "AIMS5760",
+      "title": "Tech Com. of AI Innovations 人工智能創新技術的商業化",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIMS5760:-:LEC:1678",
+          "rawSection": "--LEC (1678)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1678,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOI Wai Shan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ELB_203",
+              "instructor": "Professor CHOI Wai Shan",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AIMS5770",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aims/AIMS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "AIMS",
+      "catalogNumber": "5770",
+      "courseCode": "AIMS5770",
+      "title": "Adv. Topics in AI (I) 人工智能高級專題（一）",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIMS5770:-:LEC:9721",
+          "rawSection": "--LEC (9721)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9721,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YUAN Yixuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YUAN Yixuan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AIMS5790",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aims/AIMS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "AIMS",
+      "catalogNumber": "5790",
+      "courseCode": "AIMS5790",
+      "title": "AI Project I 人工智能專案項目（一）",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AIMS5790:-J01:PRJ:3688",
+          "rawSection": "-J01-PRJ (3688)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 3688,
+          "language": "E",
+          "availability": {
+            "capacity": 2,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

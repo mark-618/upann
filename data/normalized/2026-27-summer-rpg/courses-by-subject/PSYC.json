@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.523Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/rpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "RPG",
+    "counts": {
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 60,
+      "courses": 21,
+      "rawCoursesWithTargetTerm": 21,
+      "subjects": 5,
+      "sections": 21,
+      "meetings": 25,
+      "warnings": 0
+    }
+  },
+  "subject": "PSYC",
+  "courses": [
+    {
+      "id": "PSYC6542",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/psycv/PSYCV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "PSYC",
+      "catalogNumber": "6542",
+      "courseCode": "PSYC6542",
+      "title": "Organizational Placement III 實習 (三)",
+      "units": 2,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "PRA",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Psychology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "PSYC6542:-P01:PRA:1132",
+          "rawSection": "-P01-PRA (1132)",
+          "sectionCode": "-P01",
+          "component": "PRA",
+          "classNumber": 1132,
+          "language": "C&E&P",
+          "availability": {
+            "capacity": 15,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Sarah"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHAN Sarah",
+              "dates": [
+                "03/05/2027 - 09/08/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

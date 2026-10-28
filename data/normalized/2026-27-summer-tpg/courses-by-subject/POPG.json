@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "POPG",
+  "courses": [
+    {
+      "id": "POPG5006",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "POPG",
+      "catalogNumber": "5006",
+      "courseCode": "POPG5006",
+      "title": "Disaster & Humanitarian Crisis 災難與人道危機",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "POPG5006:-:LEC:1046",
+          "rawSection": "--LEC (1046)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1046,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. CHIU Cheuk Pong - Professor CHAN Ying Yang Emily - Professor HUNG Kei Ching Kevin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "18:00",
+              "startMinutes": 810,
+              "endMinutes": 1080,
+              "location": "PWH",
+              "instructor": "Mr. CHIU Cheuk Pong - Professor CHAN Ying Yang Emily - Professor HUNG Kei Ching Kevin",
+              "dates": [
+                "21/6"
+              ]
+            },
+            {
+              "timeRaw": "Tu 09:30AM - 05:00PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "17:00",
+              "startMinutes": 570,
+              "endMinutes": 1020,
+              "location": "PWH",
+              "instructor": "Mr. CHIU Cheuk Pong - Professor CHAN Ying Yang Emily - Professor HUNG Kei Ching Kevin",
+              "dates": [
+                "22/6"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 06:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "18:30",
+              "startMinutes": 570,
+              "endMinutes": 1110,
+              "location": "PWH",
+              "instructor": "Mr. CHIU Cheuk Pong - Professor CHAN Ying Yang Emily - Professor HUNG Kei Ching Kevin",
+              "dates": [
+                "23/6"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 04:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "16:30",
+              "startMinutes": 570,
+              "endMinutes": 990,
+              "location": "TBA",
+              "instructor": "Mr. CHIU Cheuk Pong - Professor CHAN Ying Yang Emily - Professor HUNG Kei Ching Kevin",
+              "dates": [
+                "24/6"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 04:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "16:30",
+              "startMinutes": 570,
+              "endMinutes": 990,
+              "location": "PWH",
+              "instructor": "Mr. CHIU Cheuk Pong - Professor CHAN Ying Yang Emily - Professor HUNG Kei Ching Kevin",
+              "dates": [
+                "25/6"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

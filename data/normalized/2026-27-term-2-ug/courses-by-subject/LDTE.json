@@ -1,0 +1,397 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "LDTE",
+  "courses": [
+    {
+      "id": "LDTE1300",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ldtpc/LDTPC.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LDTE",
+      "catalogNumber": "1300",
+      "courseCode": "LDTE1300",
+      "title": "Intro to Learning Sciences 學習科學導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Learning Design & Tech PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LDTE1300:-:LEC:4831",
+          "rawSection": "--LEC (4831)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4831,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TSE Chi Shing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "HTB_107",
+              "instructor": "Professor TSE Chi Shing",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LDTE3100",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ldtpc/LDTPC.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LDTE",
+      "catalogNumber": "3100",
+      "courseCode": "LDTE3100",
+      "title": "Des Think'g as Scientific Inq 設計思維作為科學探究",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Learning Design & Tech PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LDTE3100:-:LEC:4862",
+          "rawSection": "--LEC (4862)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4862,
+          "language": "E",
+          "availability": {
+            "capacity": 21,
+            "enrolled": 0,
+            "availableSeats": 21,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GUO Kai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "HTB_G6",
+              "instructor": "Professor GUO Kai",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LDTE3110",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ldtpc/LDTPC.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LDTE",
+      "catalogNumber": "3110",
+      "courseCode": "LDTE3110",
+      "title": "Digital Citizenship Education 數碼公民的教育",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Learning Design & Tech PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LDTE3110:-:LEC:4832",
+          "rawSection": "--LEC (4832)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4832,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Wun Wa"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "HTB_G2",
+              "instructor": "Dr. CHAN Wun Wa",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LDTE4210",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ldtpc/LDTPC.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LDTE",
+      "catalogNumber": "4210",
+      "courseCode": "LDTE4210",
+      "title": "Edu'n, Tech&Human Development 教育、科技和人類發展",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Learning Design & Tech PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LDTE4210:-:LEC:4833",
+          "rawSection": "--LEC (4833)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4833,
+          "language": "E",
+          "availability": {
+            "capacity": 35,
+            "enrolled": 0,
+            "availableSeats": 35,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor OU Dongshu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "HTB_G2",
+              "instructor": "Professor OU Dongshu",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LDTE4500",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ldtpc/LDTPC.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LDTE",
+      "catalogNumber": "4500",
+      "courseCode": "LDTE4500",
+      "title": "Project in Learn'g Des'n&Tech 學習設計與科技專題研習",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Learning Design & Tech PC",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LDTE4500:-M01:TMC:6534",
+          "rawSection": "-M01-TMC (6534)",
+          "sectionCode": "-M01",
+          "component": "TMC",
+          "classNumber": 6534,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHIU Kin Fung - Professor JONG Siu Yung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHIU Kin Fung - Professor JONG Siu Yung",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:42.303Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2450"
+    },
+    "term": {
+      "name": "2026-27 Summer Session",
+      "codes": [
+        "2450"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 526,
+      "courses": 124,
+      "rawCoursesWithTargetTerm": 124,
+      "subjects": 45,
+      "sections": 173,
+      "meetings": 245,
+      "warnings": 0
+    }
+  },
+  "subject": "HIST",
+  "courses": [
+    {
+      "id": "HIST5680",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/histv/HISTV.json"
+      },
+      "term": {
+        "code": "2450",
+        "name": "2026-27 Summer Session"
+      },
+      "subject": "HIST",
+      "catalogNumber": "5680",
+      "courseCode": "HIST5680",
+      "title": "Study of Emigrant Com 僑鄉研究：近代華南與海外的連繫",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of History",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "HIST5680:-:LEC:1062",
+          "rawSection": "--LEC (1062)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1062,
+          "language": "P",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOI Chi Cheung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "18:15",
+              "startMinutes": 870,
+              "endMinutes": 1095,
+              "location": "WMY_507",
+              "instructor": "Professor CHOI Chi Cheung",
+              "dates": [
+                "22/5",
+                "29/5",
+                "5/6",
+                "12/6",
+                "19/6",
+                "26/6",
+                "3/7"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "HIST5680:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "22/05/2027 - 03/07/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

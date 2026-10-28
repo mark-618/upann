@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "MBAC",
+  "courses": [
+    {
+      "id": "MBAC6050",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MBAC",
+      "catalogNumber": "6050",
+      "courseCode": "MBAC6050",
+      "title": "Directed Research 專題指導研究",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MBAC6050:PJ01:PRJ:9902",
+          "rawSection": "PJ01-PRJ (9902)",
+          "sectionCode": "PJ01",
+          "component": "PRJ",
+          "classNumber": 9902,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:00AM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:00",
+              "endTime": "18:00",
+              "startMinutes": 540,
+              "endMinutes": 1080,
+              "location": "TBA",
+              "instructor": "Professor LIU Ming",
+              "dates": [
+                "20/2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MBAC6090",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MBAC",
+      "catalogNumber": "6090",
+      "courseCode": "MBAC6090",
+      "title": "Selected Topics in Business 商業專題",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MBAC6090:E:LEC:1128",
+          "rawSection": "E-LEC (1128)",
+          "sectionCode": "E",
+          "component": "LEC",
+          "classNumber": 1128,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. Olivier Rene COTARD"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 07:00PM - 10:00PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "19:00",
+              "endTime": "22:00",
+              "startMinutes": 1140,
+              "endMinutes": 1320,
+              "location": "BATC_EM",
+              "instructor": "Mr. Olivier Rene COTARD",
+              "dates": [
+                "11/12",
+                "18/12",
+                "8/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MBAC6090:S:LEC:1239",
+          "rawSection": "S-LEC (1239)",
+          "sectionCode": "S",
+          "component": "LEC",
+          "classNumber": 1239,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Staff",
+              "dates": [
+                "17/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Staff",
+              "dates": [
+                "18/12"
+              ]
+            },
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT4",
+              "instructor": "Staff",
+              "dates": [
+                "19/12"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Staff",
+              "dates": [
+                "20/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MBAC6130",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "MBAC",
+      "catalogNumber": "6130",
+      "courseCode": "MBAC6130",
+      "title": "Group Report 小組報告",
+      "units": 1.5,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MBAC6130:SJ01:PRJ:1241",
+          "rawSection": "SJ01-PRJ (1241)",
+          "sectionCode": "SJ01",
+          "component": "PRJ",
+          "classNumber": 1241,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CAO Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "CYT_LT5",
+              "instructor": "Professor CAO Ying",
+              "dates": [
+                "6/3"
+              ]
+            },
+            {
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "TBA",
+              "instructor": "Professor CAO Ying",
+              "dates": [
+                "7/3"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "HPSB",
+  "courses": [
+    {
+      "id": "HPSB5001",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "HPSB",
+      "catalogNumber": "5001",
+      "courseCode": "HPSB5001",
+      "title": "Intro to Health & Social Behav 健康及社會行為導論",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "HPSB5001:P:LEC:1051",
+          "rawSection": "P-LEC (1051)",
+          "sectionCode": "P",
+          "component": "LEC",
+          "classNumber": 1051,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MUI Wai Ho - Dr. WANG Jingxuan - Dr. YUNG Ka Chun - Mr. YUEN Hei Kan Higgins - Professor MACKAY Judith Mary - Professor MO Phoenix Kit Han - Professor WONG Chi Sang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Dr. MUI Wai Ho - Dr. WANG Jingxuan - Dr. YUNG Ka Chun - Mr. YUEN Hei Kan Higgins - Professor MACKAY Judith Mary - Professor MO Phoenix Kit Han - Professor WONG Chi Sang",
+              "dates": [
+                "6/1",
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "HPSB5002",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "HPSB",
+      "catalogNumber": "5002",
+      "courseCode": "HPSB5002",
+      "title": "Health Promotion Prog Planning 健康促進項目規劃及實施",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "HPSB5002:-:LEC:4782",
+          "rawSection": "--LEC (4782)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4782,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MUI Wai Ho"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Dr. MUI Wai Ho",
+              "dates": [
+                "4/1",
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

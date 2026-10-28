@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "INFD",
+  "courses": [
+    {
+      "id": "INFD5004",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "INFD",
+      "catalogNumber": "5004",
+      "courseCode": "INFD5004",
+      "title": "Ic in Hc and Community Sett'gs 醫療環境及社區感染控制",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "INFD5004:-:LEC:1121",
+          "rawSection": "--LEC (1121)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1121,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. ZEE Sze Tsing Jonpaul - Professor CHEN Hong - Professor CHOI Kin Wing - Professor FUNG Sau Chun Kitty - Professor MA Siu Keung - Professor YUEN Pak Leung - Professor YUNG Wai Hung Raymond"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Dr. ZEE Sze Tsing Jonpaul - Professor CHEN Hong - Professor CHOI Kin Wing - Professor FUNG Sau Chun Kitty - Professor MA Siu Keung - Professor YUEN Pak Leung - Professor YUNG Wai Hung Raymond",
+              "dates": [
+                "7/1",
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "11/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "INFD5008",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/pubhv/PUBHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "INFD",
+      "catalogNumber": "5008",
+      "courseCode": "INFD5008",
+      "title": "Public Health & Infect Disease 公共衞生與傳染病",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Public Health",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "INFD5008:-:LEC:4787",
+          "rawSection": "--LEC (4787)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 4787,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor MOK Ka Pun - Professor TUN Hein Min"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "PWH",
+              "instructor": "Professor MOK Ka Pun - Professor TUN Hein Min",
+              "dates": [
+                "4/1",
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

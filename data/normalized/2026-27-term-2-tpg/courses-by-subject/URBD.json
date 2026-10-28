@@ -1,0 +1,497 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "URBD",
+  "courses": [
+    {
+      "id": "URBD5704",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/archv/ARCHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "URBD",
+      "catalogNumber": "5704",
+      "courseCode": "URBD5704",
+      "title": "Research Methods in Urban Desi 城市設計研究方法",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "URBD5704:-:LEC:2476",
+          "rawSection": "--LEC (2476)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2476,
+          "language": "E",
+          "availability": {
+            "capacity": 55,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LIU Xinyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "ARC_G04",
+              "instructor": "Dr. LIU Xinyu",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "URBD5720",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/archv/ARCHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "URBD",
+      "catalogNumber": "5720",
+      "courseCode": "URBD5720",
+      "title": "Urban Design Studio II 城市設計工作室(二)",
+      "units": 6,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "STD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "URBD5720:AU01:STD:1376",
+          "rawSection": "AU01-STD (1376)",
+          "sectionCode": "AU01",
+          "component": "STD",
+          "classNumber": 1376,
+          "language": "E",
+          "availability": {
+            "capacity": 35,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. HO Lick Fai Eric - Mr. LAM Yin Cheuk Richard - Professor Hendrik TIEBEN"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "ARC_EXH_A",
+              "instructor": "Mr. HO Lick Fai Eric - Mr. LAM Yin Cheuk Richard - Professor Hendrik TIEBEN",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "18:15",
+              "startMinutes": 810,
+              "endMinutes": 1095,
+              "location": "ARC_EXH_A",
+              "instructor": "Mr. HO Lick Fai Eric - Mr. LAM Yin Cheuk Richard - Professor Hendrik TIEBEN",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "URBD5732",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/archv/ARCHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "URBD",
+      "catalogNumber": "5732",
+      "courseCode": "URBD5732",
+      "title": "Top Studies in Urban Design 2 城市設計專題 (二)",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "URBD5732:-:LEC:1267",
+          "rawSection": "--LEC (1267)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1267,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor PAETZOLD Daniel Amos Sebastian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "WMY_504",
+              "instructor": "Professor PAETZOLD Daniel Amos Sebastian",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "URBD5734",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/archv/ARCHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "URBD",
+      "catalogNumber": "5734",
+      "courseCode": "URBD5734",
+      "title": "Top Studies in Urban Design 4 城市設計專題(四) — 國際工作坊",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC, FLD, STD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "URBD5734:A:LEC:9713",
+          "rawSection": "A-LEC (9713)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 9713,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Hendrik TIEBEN"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "ARC_EXH_A",
+              "instructor": "Professor Hendrik TIEBEN",
+              "dates": [
+                "12/01/2027 - 20/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "URBD5734:AF01:FLD:no-class-number",
+          "rawSection": "AF01-FLD",
+          "sectionCode": "AF01",
+          "component": "FLD",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "ARC_EXH_A",
+              "instructor": null,
+              "dates": [
+                "17/01/2027 - 25/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "URBD5734:AU01:STD:no-class-number",
+          "rawSection": "AU01-STD",
+          "sectionCode": "AU01",
+          "component": "STD",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "ARC_EXH_A",
+              "instructor": null,
+              "dates": [
+                "15/01/2027 - 23/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "URBD5735",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/archv/ARCHV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "URBD",
+      "catalogNumber": "5735",
+      "courseCode": "URBD5735",
+      "title": "Environmental Design for Livea 環境設計",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Architecture",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "URBD5735:-:LEC:2334",
+          "rawSection": "--LEC (2334)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2334,
+          "language": "E",
+          "availability": {
+            "capacity": 35,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAU Sing Yeung Sunnie"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "ARC_G01",
+              "instructor": "Professor LAU Sing Yeung Sunnie",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

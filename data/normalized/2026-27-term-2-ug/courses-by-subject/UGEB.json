@@ -1,0 +1,2542 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/ug/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "UG",
+    "counts": {
+      "rawFiles": 223,
+      "rawFilesScanned": 223,
+      "rawRowsSeen": 31745,
+      "courses": 1719,
+      "rawCoursesWithTargetTerm": 1719,
+      "subjects": 124,
+      "sections": 4911,
+      "meetings": 5532,
+      "warnings": 0
+    }
+  },
+  "subject": "UGEB",
+  "courses": [
+    {
+      "id": "UGEB1382",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chm/CHM.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "1382",
+      "courseCode": "UGEB1382",
+      "title": "Energy Magic in Chemistry 能源魔法-化學與環保的奥秘",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB1382:-:LEC:5410",
+          "rawSection": "--LEC (5410)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5410,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LO Chui Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "YIA_503",
+              "instructor": "Dr. LO Chui Man",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB1408",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "1408",
+      "courseCode": "UGEB1408",
+      "title": "AI in Action 實用人工智能",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, LAB, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB1408:-:LEC:8346",
+          "rawSection": "--LEC (8346)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8346,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. KEUNG Wai Yiu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "HYS_G01",
+              "instructor": "Mr. KEUNG Wai Yiu",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGEB1408:-L01:LAB:no-class-number",
+          "rawSection": "-L01-LAB",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGEB1408:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB1492",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "1492",
+      "courseCode": "UGEB1492",
+      "title": "Data Expl - Stat in Daily Life 數據探究：日常生活中的統計",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Stat and Data Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB1492:-:LEC:7357",
+          "rawSection": "--LEC (7357)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7357,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG King Chau"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LHC_G04",
+              "instructor": "Dr. CHEUNG King Chau",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB1506",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "1506",
+      "courseCode": "UGEB1506",
+      "title": "Explore PHY World with STEM 從 STEM 角度探索物理世界",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB1506:E:LEC:7717",
+          "rawSection": "E-LEC (7717)",
+          "sectionCode": "E",
+          "component": "LEC",
+          "classNumber": 7717,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. TONG Shiu Sing Dominic"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "SC_L2",
+              "instructor": "Dr. TONG Shiu Sing Dominic",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "Th 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "SC_L2",
+              "instructor": "Dr. TONG Shiu Sing Dominic",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2008",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2008",
+      "courseCode": "UGEB2008",
+      "title": "Mind, Brain and AI 心靈、人腦與人工智能",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Philosophy",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2008:-:LEC:6932",
+          "rawSection": "--LEC (6932)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 6932,
+          "language": "C&E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Kin Lok"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "LSK_208",
+              "instructor": "Dr. CHAN Kin Lok",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2046",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2046",
+      "courseCode": "UGEB2046",
+      "title": "Phy in Movies: Sci or Friction 科幻電影中的物理",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2046:-:LEC:9263",
+          "rawSection": "--LEC (9263)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9263,
+          "language": "C",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor NG Chun Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "15:15",
+              "startMinutes": 810,
+              "endMinutes": 915,
+              "location": "LSB_LT2",
+              "instructor": "Professor NG Chun Yu",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2113",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/geo/GEO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2113",
+      "courseCode": "UGEB2113",
+      "title": "Nature Conservation in HK 自然保育在香港",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, FLD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2113:-:LEC:8368",
+          "rawSection": "--LEC (8368)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8368,
+          "language": "C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. NG Kit Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "CYT_LT1B",
+              "instructor": "Dr. NG Kit Ying",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGEB2113:-F01:FLD:no-class-number",
+          "rawSection": "-F01-FLD",
+          "sectionCode": "-F01",
+          "component": "FLD",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2114",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/geo/GEO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2114",
+      "courseCode": "UGEB2114",
+      "title": "Climate, Energy & Life 氣候、能源與生命",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2114:-:LEC:9441",
+          "rawSection": "--LEC (9441)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9441,
+          "language": "P",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jianfeng - Professor XU Yuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "YIA_LT3",
+              "instructor": "Professor LI Jianfeng - Professor XU Yuan",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2123",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/geo/GEO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2123",
+      "courseCode": "UGEB2123",
+      "title": "Env Crises – China & the World 環境危機 ─ 中國與世界",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2123:-:LEC:8458",
+          "rawSection": "--LEC (8458)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8458,
+          "language": "E",
+          "availability": {
+            "capacity": 105,
+            "enrolled": 0,
+            "availableSeats": 105,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Yuan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "SB_LT2",
+              "instructor": "Professor XU Yuan",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2149",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2149",
+      "courseCode": "UGEB2149",
+      "title": "Music, Mind and AI 音樂、心靈與人工智能",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2149:-:LEC:9013",
+          "rawSection": "--LEC (9013)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9013,
+          "language": "C",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. POON Kiu Tung - Dr. SZETO Wai Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "HYS_LG04",
+              "instructor": "Dr. POON Kiu Tung - Dr. SZETO Wai Man",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2151",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/geo/GEO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2151",
+      "courseCode": "UGEB2151",
+      "title": "Chi Megaproj in New Millennium 中國世紀工程",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2151:-:LEC:9631",
+          "rawSection": "--LEC (9631)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9631,
+          "language": "P",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor JIN Ting"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "FYB_LT4",
+              "instructor": "Professor JIN Ting",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2161",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/geo/GEO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2161",
+      "courseCode": "UGEB2161",
+      "title": "Resource Issues in Age of Glob 全球化時代的資源問題",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2161:-:LEC:9900",
+          "rawSection": "--LEC (9900)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9900,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "SB_UG06",
+              "instructor": "Staff",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2182",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/geo/GEO.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2182",
+      "courseCode": "UGEB2182",
+      "title": "Environmental Challenges HK 香港環境的挑戰",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Geo & Resource Mgt",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2182:-:LEC:9487",
+          "rawSection": "--LEC (9487)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9487,
+          "language": "C",
+          "availability": {
+            "capacity": 54,
+            "enrolled": 0,
+            "availableSeats": 54,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Jianfeng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "ELB_203",
+              "instructor": "Professor LI Jianfeng",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2262",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2262",
+      "courseCode": "UGEB2262",
+      "title": "From Genes to Life 從基因到生命",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2262:-:LEC:5694",
+          "rawSection": "--LEC (5694)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5694,
+          "language": "C&E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHIU Chi Ming Lawrence"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "SC_L2",
+              "instructor": "Dr. CHIU Chi Ming Lawrence",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2361",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2361",
+      "courseCode": "UGEB2361",
+      "title": "Great Discoveries in Life Sci 生命科學大發現",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2361:-:LEC:9662",
+          "rawSection": "--LEC (9662)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9662,
+          "language": "C&E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. NGAI Hung Kui"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "WMY_306",
+              "instructor": "Dr. NGAI Hung Kui",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2362",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2362",
+      "courseCode": "UGEB2362",
+      "title": "Nutrition For Healthy Living 營養與健康生活",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "School of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2362:-:LEC:9004",
+          "rawSection": "--LEC (9004)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9004,
+          "language": "C&E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. SIN Man Ching - Ms. YIP Pui Sze"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "SWH_2",
+              "instructor": "Ms. SIN Man Ching - Ms. YIP Pui Sze",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2370",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chm/CHM.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2370",
+      "courseCode": "UGEB2370",
+      "title": "Chemistry: The X-Files 化學X檔案",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2370:B:LEC:7126",
+          "rawSection": "B-LEC (7126)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 7126,
+          "language": "C",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG Yu San"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "MMW_710",
+              "instructor": "Dr. CHEUNG Yu San",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2380",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chm/CHM.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2380",
+      "courseCode": "UGEB2380",
+      "title": "Chemistry of Life 生命化學",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2380:C:LEC:6112",
+          "rawSection": "C-LEC (6112)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 6112,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HAU Chun Kit"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "LSK_308",
+              "instructor": "Dr. HAU Chun Kit",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2381",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chm/CHM.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2381",
+      "courseCode": "UGEB2381",
+      "title": "Chem for a Sustainable Future 化學：可持續未來",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2381:-:LEC:5528",
+          "rawSection": "--LEC (5528)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 5528,
+          "language": "C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Ka Long Donald"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "ERB_804",
+              "instructor": "Dr. CHAN Ka Long Donald",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2401",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2401",
+      "courseCode": "UGEB2401",
+      "title": "Astronomy 天文學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2401:A:LEC:5430",
+          "rawSection": "A-LEC (5430)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 5430,
+          "language": "C",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. TONG Shiu Sing Dominic"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LSB_LT2",
+              "instructor": "Dr. TONG Shiu Sing Dominic",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            },
+            {
+              "timeRaw": "We 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "BMS_G18",
+              "instructor": "Dr. TONG Shiu Sing Dominic",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2411",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2411",
+      "courseCode": "UGEB2411",
+      "title": "Astronomy – A Short Introd 天文學 - 簡介",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Physics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2411:D:LEC:8494",
+          "rawSection": "D-LEC (8494)",
+          "sectionCode": "D",
+          "component": "LEC",
+          "classNumber": 8494,
+          "language": "C",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHAN Tsang Keung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "LHC_103",
+              "instructor": "Professor CHAN Tsang Keung",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2420",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chm/CHM.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2420",
+      "courseCode": "UGEB2420",
+      "title": "Chemistry in the Kitchen 化學色香味",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2420:B:LEC:5790",
+          "rawSection": "B-LEC (5790)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 5790,
+          "language": "C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LO Chui Man"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "MMW_707",
+              "instructor": "Dr. LO Chui Man",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2440",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/chm/CHM.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2440",
+      "courseCode": "UGEB2440",
+      "title": "Chemistry of Food and Drinks 飲食中的化學",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Chemistry",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2440:A:LEC:5535",
+          "rawSection": "A-LEC (5535)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 5535,
+          "language": "C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MAK Kin Wah"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "SC_LG23",
+              "instructor": "Dr. MAK Kin Wah",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGEB2440:B:LEC:9188",
+          "rawSection": "B-LEC (9188)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 9188,
+          "language": "C",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MAK Kin Wah"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "LPN_LT",
+              "instructor": "Dr. MAK Kin Wah",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2460",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2460",
+      "courseCode": "UGEB2460",
+      "title": "Appreciation of Mathematics 數學賞析",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2460:-:LEC:9478",
+          "rawSection": "--LEC (9478)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9478,
+          "language": "C&E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHAN Tsz Lung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LHC_104",
+              "instructor": "Dr. CHAN Tsz Lung",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2530",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2530",
+      "courseCode": "UGEB2530",
+      "title": "Games and Strategic Thinking 博奕和策略思想",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Mathematics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2530:B:LEC:7510",
+          "rawSection": "B-LEC (7510)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 7510,
+          "language": "C&E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LIU Chun Lung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "BMS_G18",
+              "instructor": "Dr. LIU Chun Lung",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGEB2530:C:LEC:9197",
+          "rawSection": "C-LEC (9197)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 9197,
+          "language": "C&E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Chak Fu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LSB_LT1",
+              "instructor": "Dr. WONG Chak Fu",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2781",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/oge/OGE.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2781",
+      "courseCode": "UGEB2781",
+      "title": "Perspectives in Medical Sci. 醫學科學探索",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, EXR, PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Biomedical Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2781:-:LEC:7217",
+          "rawSection": "--LEC (7217)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7217,
+          "language": "E",
+          "availability": {
+            "capacity": 135,
+            "enrolled": 0,
+            "availableSeats": 135,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Pui Man Molly"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "BMS_G18",
+              "instructor": "Dr. WONG Pui Man Molly",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGEB2781:-E01:EXR:no-class-number",
+          "rawSection": "-E01-EXR",
+          "sectionCode": "-E01",
+          "component": "EXR",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 135,
+            "enrolled": 0,
+            "availableSeats": 135,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "BMS_G18",
+              "instructor": null,
+              "dates": [
+                "16/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGEB2781:-J01:PRJ:no-class-number",
+          "rawSection": "-J01-PRJ",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 135,
+            "enrolled": 0,
+            "availableSeats": 135,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "BMS_G18",
+              "instructor": null,
+              "dates": [
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2831",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/cmp/CMP.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2831",
+      "courseCode": "UGEB2831",
+      "title": "Fundamentals in Chi Med 中醫與中藥",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Sch of Chinese Medicine",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2831:-:LEC:7334",
+          "rawSection": "--LEC (7334)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 7334,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LIONG Ching - Dr. SO Tsz Ho - Miss HUNG Hing Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "CKB_LT3",
+              "instructor": "Dr. LIONG Ching - Dr. SO Tsz Ho - Miss HUNG Hing Yu",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2871",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ees/EES.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2871",
+      "courseCode": "UGEB2871",
+      "title": "Climate Change Extreme Weather 氣候變化與極端天氣",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Earth & Environ Sci",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2871:-:LEC:9462",
+          "rawSection": "--LEC (9462)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9462,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. AU-YEUNG Yee Man - Professor CHAN Chung Leung Johnny"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "ARC_G02",
+              "instructor": "Dr. AU-YEUNG Yee Man - Professor CHAN Chung Leung Johnny",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UGEB2991",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/ent/ENT.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "UGEB",
+      "catalogNumber": "2991",
+      "courseCode": "UGEB2991",
+      "title": "Viewing Communication from ST 從言語治療看溝通",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Otor, Head & Neck Sur",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "UGEB2991:-:LEC:8183",
+          "rawSection": "--LEC (8183)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 8183,
+          "language": "C&E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAW Thomas Ka Tung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "SB_LT2",
+              "instructor": "Professor LAW Thomas Ka Tung",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T01:58:41.376Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2430"
+    },
+    "term": {
+      "name": "2026-27 Term 2",
+      "codes": [
+        "2430"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 6658,
+      "courses": 894,
+      "rawCoursesWithTargetTerm": 894,
+      "subjects": 103,
+      "sections": 1370,
+      "meetings": 1809,
+      "warnings": 0
+    }
+  },
+  "subject": "BMEG",
+  "courses": [
+    {
+      "id": "BMEG5530",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "5530",
+      "courseCode": "BMEG5530",
+      "title": "Tissue Engineering 組織工程學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG5530:-:LEC:1501",
+          "rawSection": "--LEC (1501)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1501,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Zhong - Professor MAO Chuanbin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "SC_L2",
+              "instructor": "Professor LI Zhong - Professor MAO Chuanbin",
+              "dates": [
+                "11/1",
+                "18/1",
+                "25/1",
+                "1/2",
+                "15/2",
+                "22/2",
+                "1/3",
+                "8/3",
+                "15/3",
+                "22/3",
+                "12/4",
+                "19/4",
+                "26/4",
+                "3/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG5750",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "5750",
+      "courseCode": "BMEG5750",
+      "title": "Medical Robotics 醫用機器人技術與應用",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG5750:-:LEC:1503",
+          "rawSection": "--LEC (1503)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1503,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Zheng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "WMY_408",
+              "instructor": "Professor LI Zheng",
+              "dates": [
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4",
+                "28/4",
+                "5/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG5760",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "5760",
+      "courseCode": "BMEG5760",
+      "title": "Bioelectronics & Nanotechnolog 生物電子和納米技術",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG5760:-:LEC:1463",
+          "rawSection": "--LEC (1463)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1463,
+          "language": "E",
+          "availability": {
+            "capacity": 90,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Zhaoli - Professor LI Tiantian - Professor SHAO Baihao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "ELB_LT4",
+              "instructor": "Professor GAO Zhaoli - Professor LI Tiantian - Professor SHAO Baihao",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "12/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4",
+                "30/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG5790",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "5790",
+      "courseCode": "BMEG5790",
+      "title": "Bioinformatics 生物資訊學",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG5790:-:LEC:2701",
+          "rawSection": "--LEC (2701)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 2701,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TANG Leung Sang Nelson"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "ERB_1122",
+              "instructor": "Professor TANG Leung Sang Nelson",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4",
+                "29/4",
+                "6/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG5840",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "5840",
+      "courseCode": "BMEG5840",
+      "title": "BME Laboratories 生物醫學工程實驗",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LAB, LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG5840:-L01:LAB:1454",
+          "rawSection": "-L01-LAB (1454)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 1454,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOI Chung Hang Jonathan - Professor GAO Zhaoli - Professor SHAO Baihao - Professor TONG Kai Yu - Professor XUE Yang - Professor YUAN Wu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 03:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "15:30",
+              "endTime": "17:15",
+              "startMinutes": 930,
+              "endMinutes": 1035,
+              "location": "WMY_304",
+              "instructor": "Professor CHOI Chung Hang Jonathan - Professor GAO Zhaoli - Professor SHAO Baihao - Professor TONG Kai Yu - Professor XUE Yang - Professor YUAN Wu",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4",
+                "8/5"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "BMEG5840:-:LEC:no-class-number",
+          "rawSection": "--LEC",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Sa 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "WMY_304",
+              "instructor": null,
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4",
+                "8/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG5850",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "5850",
+      "courseCode": "BMEG5850",
+      "title": "Medical Device Regulatory & IP 醫療器械規管和知識產權",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG5850:-:LEC:1343",
+          "rawSection": "--LEC (1343)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 1343,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TONG Kai Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "LSB_LT3",
+              "instructor": "Professor TONG Kai Yu",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4",
+                "27/4",
+                "4/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG5870",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "5870",
+      "courseCode": "BMEG5870",
+      "title": "Golden Age Opp & Sustain 黃金時代的機遇與可持續智能安老",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG5870:-:LEC:9709",
+          "rawSection": "--LEC (9709)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9709,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. WONG Lung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:45PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:45",
+              "endTime": "21:30",
+              "startMinutes": 1125,
+              "endMinutes": 1290,
+              "location": "LHC_104",
+              "instructor": "Mr. WONG Lung",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "11/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4",
+                "29/4",
+                "6/5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMEG5930",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmeg/BMEG.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "BMEG",
+      "catalogNumber": "5930",
+      "courseCode": "BMEG5930",
+      "title": "M.Sc. Project II 專題研究II",
+      "units": 6,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Biomedical Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMEG5930:-J01:PRJ:3295",
+          "rawSection": "-J01-PRJ (3295)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 3295,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GAO Zhaoli"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor GAO Zhaoli",
+              "dates": [
+                "11/01/2027 - 03/05/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
