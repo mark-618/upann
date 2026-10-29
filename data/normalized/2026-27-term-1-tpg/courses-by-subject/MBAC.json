@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.633Z",
+    "generatedAt": "2026-10-28T22:20:42.612Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,19 +14,83 @@
     },
     "career": "TPG",
     "counts": {
-      "rawFiles": 156,
-      "rawFilesScanned": 156,
-      "rawRowsSeen": 4914,
-      "courses": 819,
-      "rawCoursesWithTargetTerm": 819,
-      "subjects": 98,
-      "sections": 1247,
-      "meetings": 1700,
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
       "warnings": 0
     }
   },
   "subject": "MBAC",
   "courses": [
+    {
+      "id": "MBAC6050",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/badmv/BADMV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "MBAC",
+      "catalogNumber": "6050",
+      "courseCode": "MBAC6050",
+      "title": "Directed Research 專題指導研究",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Business Administration",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MBAC6050:PJ01:PRJ:10219",
+          "rawSection": "PJ01-PRJ (10219)",
+          "sectionCode": "PJ01",
+          "component": "PRJ",
+          "classNumber": 10219,
+          "language": "P",
+          "availability": {
+            "capacity": 60,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIU Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:00AM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:00",
+              "endTime": "18:00",
+              "startMinutes": 540,
+              "endMinutes": 1080,
+              "location": "TBA",
+              "instructor": "Professor LIU Ming",
+              "dates": [
+                "14/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "MBAC6060",
       "source": {
@@ -72,14 +136,14 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Sa 08:45AM - 06:00PM",
+              "timeRaw": "Sa 09:00AM - 06:00PM",
               "isTba": false,
               "dayCode": "Sa",
               "day": "Saturday",
               "dayIndex": 6,
-              "startTime": "08:45",
+              "startTime": "09:00",
               "endTime": "18:00",
-              "startMinutes": 525,
+              "startMinutes": 540,
               "endMinutes": 1080,
               "location": "CYT_209B",
               "instructor": "Dr. CISTERNAS VERA Francisco Orlando - Professor CHEW Seen Meng - Professor Wan Tay Tat WONG SUN-WAI",
@@ -89,14 +153,14 @@
               ]
             },
             {
-              "timeRaw": "Sa 08:45AM - 06:00PM",
+              "timeRaw": "Sa 09:00AM - 06:00PM",
               "isTba": false,
               "dayCode": "Sa",
               "day": "Saturday",
               "dayIndex": 6,
-              "startTime": "08:45",
+              "startTime": "09:00",
               "endTime": "18:00",
-              "startMinutes": 525,
+              "startMinutes": 540,
               "endMinutes": 1080,
               "location": "CYT_209A",
               "instructor": "Dr. CISTERNAS VERA Francisco Orlando - Professor CHEW Seen Meng - Professor Wan Tay Tat WONG SUN-WAI",
@@ -106,15 +170,15 @@
               ]
             },
             {
-              "timeRaw": "Sa 08:45AM - 12:45PM",
+              "timeRaw": "Sa 09:00AM - 12:30PM",
               "isTba": false,
               "dayCode": "Sa",
               "day": "Saturday",
               "dayIndex": 6,
-              "startTime": "08:45",
-              "endTime": "12:45",
-              "startMinutes": 525,
-              "endMinutes": 765,
+              "startTime": "09:00",
+              "endTime": "12:30",
+              "startMinutes": 540,
+              "endMinutes": 750,
               "location": "YIA_LT4",
               "instructor": "Dr. CISTERNAS VERA Francisco Orlando - Professor CHEW Seen Meng - Professor Wan Tay Tat WONG SUN-WAI",
               "dates": [
@@ -138,16 +202,33 @@
               ]
             },
             {
-              "timeRaw": "Su 08:45AM - 06:00PM",
+              "timeRaw": "Su 09:00AM - 06:00PM",
               "isTba": false,
               "dayCode": "Su",
               "day": "Sunday",
               "dayIndex": 7,
-              "startTime": "08:45",
+              "startTime": "09:00",
               "endTime": "18:00",
-              "startMinutes": 525,
+              "startMinutes": 540,
               "endMinutes": 1080,
-              "location": "TBA",
+              "location": "CYT_209B",
+              "instructor": "Dr. CISTERNAS VERA Francisco Orlando - Professor CHEW Seen Meng - Professor Wan Tay Tat WONG SUN-WAI",
+              "dates": [
+                "16/8",
+                "30/8"
+              ]
+            },
+            {
+              "timeRaw": "Su 09:00AM - 06:00PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "09:00",
+              "endTime": "18:00",
+              "startMinutes": 540,
+              "endMinutes": 1080,
+              "location": "CYT_209A",
               "instructor": "Dr. CISTERNAS VERA Francisco Orlando - Professor CHEW Seen Meng - Professor Wan Tay Tat WONG SUN-WAI",
               "dates": [
                 "16/8",
@@ -203,83 +284,83 @@
           ],
           "meetings": [
             {
-              "timeRaw": "We -",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
+              "timeRaw": "We 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
               "location": "TBA",
               "instructor": "Professor GU Zhaoyang",
               "dates": [
-                "9/9"
+                "19/8"
               ]
             },
             {
-              "timeRaw": "Th -",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
+              "timeRaw": "Th 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
               "location": "TBA",
               "instructor": "Professor GU Zhaoyang",
               "dates": [
-                "10/9"
+                "20/8"
               ]
             },
             {
-              "timeRaw": "Fr -",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
+              "timeRaw": "Fr 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
               "location": "TBA",
               "instructor": "Professor GU Zhaoyang",
               "dates": [
-                "11/9"
+                "21/8"
               ]
             },
             {
-              "timeRaw": "Sa -",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
               "location": "TBA",
               "instructor": "Professor GU Zhaoyang",
               "dates": [
-                "12/9"
+                "22/8"
               ]
             },
             {
-              "timeRaw": "Su -",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
+              "timeRaw": "Su 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
               "location": "TBA",
               "instructor": "Professor GU Zhaoyang",
               "dates": [
-                "13/9"
+                "23/8"
               ]
             }
           ]
@@ -411,16 +492,16 @@
               ]
             },
             {
-              "timeRaw": "Fr 07:00PM - 08:30PM",
+              "timeRaw": "Fr 07:00PM - 09:30PM",
               "isTba": false,
               "dayCode": "Fr",
               "day": "Friday",
               "dayIndex": 5,
               "startTime": "19:00",
-              "endTime": "20:30",
+              "endTime": "21:30",
               "startMinutes": 1140,
-              "endMinutes": 1230,
-              "location": "NRR",
+              "endMinutes": 1290,
+              "location": "YIA_402",
               "instructor": "Professor CHAU Chi Wai",
               "dates": [
                 "30/10"

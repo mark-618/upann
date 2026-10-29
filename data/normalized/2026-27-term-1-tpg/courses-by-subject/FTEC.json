@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.633Z",
+    "generatedAt": "2026-10-28T22:20:42.612Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "TPG",
     "counts": {
-      "rawFiles": 156,
-      "rawFilesScanned": 156,
-      "rawRowsSeen": 4914,
-      "courses": 819,
-      "rawCoursesWithTargetTerm": 819,
-      "subjects": 98,
-      "sections": 1247,
-      "meetings": 1700,
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -60,7 +60,7 @@
           "classNumber": 1394,
           "language": "E",
           "availability": {
-            "capacity": 100,
+            "capacity": 160,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -97,55 +97,6 @@
                 "26/11",
                 "3/12",
                 "10/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FTEC5510:B:LEC:1499",
-          "rawSection": "B-LEC (1499)",
-          "sectionCode": "B",
-          "component": "LEC",
-          "classNumber": 1499,
-          "language": "E",
-          "availability": {
-            "capacity": 100,
-            "enrolled": null,
-            "availableSeats": null,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Professor CHAN Chun Kwong"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Fr 09:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Fr",
-              "day": "Friday",
-              "dayIndex": 5,
-              "startTime": "09:30",
-              "endTime": "12:15",
-              "startMinutes": 570,
-              "endMinutes": 735,
-              "location": "ERB_LT",
-              "instructor": "Professor CHAN Chun Kwong",
-              "dates": [
-                "11/9",
-                "18/9",
-                "25/9",
-                "2/10",
-                "9/10",
-                "16/10",
-                "23/10",
-                "30/10",
-                "6/11",
-                "13/11",
-                "20/11",
-                "27/11",
-                "4/12"
               ]
             }
           ]
@@ -386,7 +337,7 @@
               "endTime": "17:15",
               "startMinutes": 930,
               "endMinutes": 1035,
-              "location": "ELB_LT1",
+              "location": "SHB_833",
               "instructor": "Professor LAU Wing Cheong",
               "dates": [
                 "8/9",
@@ -441,7 +392,7 @@
           "classNumber": 9855,
           "language": "E",
           "availability": {
-            "capacity": 80,
+            "capacity": 120,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -556,6 +507,22 @@
                 "4/12",
                 "11/12"
               ]
+            },
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LSB_LT3",
+              "instructor": "Dr. LEUNG Kwai Sun",
+              "dates": [
+                "2/10"
+              ]
             }
           ]
         }
@@ -587,14 +554,14 @@
       "description": null,
       "sections": [
         {
-          "id": "FTEC5910:-J01:PRJ:9861",
-          "rawSection": "-J01-PRJ (9861)",
-          "sectionCode": "-J01",
+          "id": "FTEC5910:AJ01:PRJ:10148",
+          "rawSection": "AJ01-PRJ (10148)",
+          "sectionCode": "AJ01",
           "component": "PRJ",
-          "classNumber": 9861,
+          "classNumber": 10148,
           "language": "E",
           "availability": {
-            "capacity": 50,
+            "capacity": 15,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -617,6 +584,228 @@
               "endMinutes": null,
               "location": "NRR",
               "instructor": "Professor CHAN Chun Kwong",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FTEC5910:BJ01:PRJ:10147",
+          "rawSection": "BJ01-PRJ (10147)",
+          "sectionCode": "BJ01",
+          "component": "PRJ",
+          "classNumber": 10147,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEUNG Kwai Sun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. LEUNG Kwai Sun",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FTEC5910:CJ01:PRJ:10149",
+          "rawSection": "CJ01-PRJ (10149)",
+          "sectionCode": "CJ01",
+          "component": "PRJ",
+          "classNumber": 10149,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. HAN Dongkun"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. HAN Dongkun",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FTEC5910:DJ01:PRJ:10150",
+          "rawSection": "DJ01-PRJ (10150)",
+          "sectionCode": "DJ01",
+          "component": "PRJ",
+          "classNumber": 10150,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor NGUYEN Viet Anh"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor NGUYEN Viet Anh",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FTEC5910:EJ01:PRJ:10151",
+          "rawSection": "EJ01-PRJ (10151)",
+          "sectionCode": "EJ01",
+          "component": "PRJ",
+          "classNumber": 10151,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WU Xixin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WU Xixin",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FTEC5910:FJ01:PRJ:10152",
+          "rawSection": "FJ01-PRJ (10152)",
+          "sectionCode": "FJ01",
+          "component": "PRJ",
+          "classNumber": 10152,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN He"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN He",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FTEC5910:GJ01:PRJ:10308",
+          "rawSection": "GJ01-PRJ (10308)",
+          "sectionCode": "GJ01",
+          "component": "PRJ",
+          "classNumber": 10308,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN Nan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN Nan",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "generatedAt": "2026-10-28T22:43:53.318Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 31745,
-      "courses": 1719,
-      "rawCoursesWithTargetTerm": 1719,
+      "rawRowsSeen": 32053,
+      "courses": 1721,
+      "rawCoursesWithTargetTerm": 1721,
       "subjects": 124,
-      "sections": 4911,
-      "meetings": 5532,
+      "sections": 4931,
+      "meetings": 5552,
       "warnings": 0
     }
   },
@@ -968,59 +968,31 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Tu 09:30AM - 12:15PM",
+              "timeRaw": "Th 11:30AM - 02:15PM",
               "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "09:30",
-              "endTime": "12:15",
-              "startMinutes": 570,
-              "endMinutes": 735,
-              "location": "NAH_213",
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "14:15",
+              "startMinutes": 690,
+              "endMinutes": 855,
+              "location": "BMS_LT",
               "instructor": "Dr. LI Qin",
               "dates": [
-                "12/1",
-                "19/1",
-                "26/1",
-                "2/2",
-                "16/2",
-                "23/2",
-                "2/3",
-                "16/3",
-                "23/3",
-                "30/3",
-                "6/4",
-                "13/4",
-                "20/4"
-              ]
-            },
-            {
-              "timeRaw": "Tu 10:30AM - 01:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "10:30",
-              "endTime": "13:15",
-              "startMinutes": 630,
-              "endMinutes": 795,
-              "location": "UCC_C2",
-              "instructor": "Dr. LI Qin",
-              "dates": [
-                "12/1",
-                "19/1",
-                "26/1",
-                "2/2",
-                "16/2",
-                "23/2",
-                "2/3",
-                "16/3",
-                "23/3",
-                "30/3",
-                "6/4",
-                "13/4",
-                "20/4"
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
               ]
             }
           ]
@@ -1791,82 +1763,6 @@
               "endMinutes": 795,
               "location": "ICS_L1",
               "instructor": "Dr. TANG Wai Man",
-              "dates": [
-                "14/1",
-                "21/1",
-                "28/1",
-                "4/2",
-                "18/2",
-                "25/2",
-                "4/3",
-                "18/3",
-                "25/3",
-                "1/4",
-                "8/4",
-                "15/4",
-                "22/4"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "UGEC1823",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "ugec/UGEC.json"
-      },
-      "term": {
-        "code": "2430",
-        "name": "2026-27 Term 2"
-      },
-      "subject": "UGEC",
-      "catalogNumber": "1823",
-      "courseCode": "UGEC1823",
-      "title": "Sociology and Modern Society 社會學與現代社會",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Sociology",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "UGEC1823:-:LEC:8156",
-          "rawSection": "--LEC (8156)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 8156,
-          "language": "E",
-          "availability": {
-            "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Professor WONG Suk Ying Veronica"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Th 10:30AM - 01:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "10:30",
-              "endTime": "13:15",
-              "startMinutes": 630,
-              "endMinutes": 795,
-              "location": "FYB_LT4",
-              "instructor": "Professor WONG Suk Ying Veronica",
               "dates": [
                 "14/1",
                 "21/1",
@@ -3434,34 +3330,6 @@
                 "13/4",
                 "20/4"
               ]
-            },
-            {
-              "timeRaw": "Th 02:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
-              "location": "UCC_C3",
-              "instructor": "Mr. LEUNG Wing Yee",
-              "dates": [
-                "14/1",
-                "21/1",
-                "28/1",
-                "4/2",
-                "18/2",
-                "25/2",
-                "4/3",
-                "18/3",
-                "25/3",
-                "1/4",
-                "8/4",
-                "15/4",
-                "22/4"
-              ]
             }
           ]
         }
@@ -3511,34 +3379,6 @@
             "Dr. NG Chui Ha - Dr. WONG Po Ki - Ms. NG Tsui Shan"
           ],
           "meetings": [
-            {
-              "timeRaw": "Tu 09:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "09:30",
-              "endTime": "12:15",
-              "startMinutes": 570,
-              "endMinutes": 735,
-              "location": "NAH_11",
-              "instructor": "Dr. NG Chui Ha - Dr. WONG Po Ki - Ms. NG Tsui Shan",
-              "dates": [
-                "12/1",
-                "19/1",
-                "26/1",
-                "2/2",
-                "16/2",
-                "23/2",
-                "2/3",
-                "16/3",
-                "23/3",
-                "30/3",
-                "6/4",
-                "13/4",
-                "20/4"
-              ]
-            },
             {
               "timeRaw": "Th 02:30PM - 05:15PM",
               "isTba": false,

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.991Z",
+    "generatedAt": "2026-10-28T22:28:52.727Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "RPG",
     "counts": {
-      "rawFiles": 134,
-      "rawFilesScanned": 134,
-      "rawRowsSeen": 5288,
-      "courses": 564,
-      "rawCoursesWithTargetTerm": 564,
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5420,
+      "courses": 573,
+      "rawCoursesWithTargetTerm": 573,
       "subjects": 75,
-      "sections": 2482,
-      "meetings": 2525,
+      "sections": 2532,
+      "meetings": 2586,
       "warnings": 0
     }
   },
@@ -423,6 +423,70 @@
                 "26/11",
                 "3/12",
                 "10/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "STAT8003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/statv/STATV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "STAT",
+      "catalogNumber": "8003",
+      "courseCode": "STAT8003",
+      "title": "Thesis Research 論文研究",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "TMC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Statistics",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "STAT8003:AM01:TMC:10129",
+          "rawSection": "AM01-TMC (10129)",
+          "sectionCode": "AM01",
+          "component": "TMC",
+          "classNumber": 10129,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Hoi Ying"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WONG Hoi Ying",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
               ]
             }
           ]
@@ -1099,7 +1163,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor XIA Dong"
           ],
           "meetings": [
             {
@@ -1113,7 +1177,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor XIA Dong",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]

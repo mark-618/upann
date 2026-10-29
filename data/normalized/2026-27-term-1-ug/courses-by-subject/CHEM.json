@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
@@ -61,8 +61,8 @@
           "language": "E",
           "availability": {
             "capacity": 249,
-            "enrolled": 0,
-            "availableSeats": 249,
+            "enrolled": 247,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -137,8 +137,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 249,
-            "enrolled": 0,
-            "availableSeats": 249,
+            "enrolled": 247,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -209,9 +209,9 @@
           "classNumber": 7438,
           "language": "E",
           "availability": {
-            "capacity": 80,
-            "enrolled": 0,
-            "availableSeats": 80,
+            "capacity": 81,
+            "enrolled": 74,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -285,9 +285,9 @@
           "classNumber": null,
           "language": "C&E&P",
           "availability": {
-            "capacity": 80,
-            "enrolled": 0,
-            "availableSeats": 80,
+            "capacity": 81,
+            "enrolled": 74,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -360,8 +360,8 @@
           "language": "E",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 91,
+            "availableSeats": 9,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -436,8 +436,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 91,
+            "availableSeats": 9,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -510,8 +510,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 17,
+            "availableSeats": 33,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -558,8 +558,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 17,
+            "availableSeats": 33,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -631,8 +631,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 50,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -707,8 +707,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 50,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -740,82 +740,6 @@
                 "19/11",
                 "26/11",
                 "3/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CHEM1870",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/chm/CHM.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CHEM",
-      "catalogNumber": "1870",
-      "courseCode": "CHEM1870",
-      "title": "Chem Lab: STEM and Daily Life 化學實驗：STEM 與日常生活",
-      "units": 2,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LAB",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Chemistry",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CHEM1870:AL01:LAB:8805",
-          "rawSection": "AL01-LAB (8805)",
-          "sectionCode": "AL01",
-          "component": "LAB",
-          "classNumber": 8805,
-          "language": "C&E&P",
-          "availability": {
-            "capacity": 24,
-            "enrolled": 0,
-            "availableSeats": 24,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Dr. CHEUNG Yu San - Dr. LO Chui Man"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 02:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "14:30",
-              "endTime": "18:15",
-              "startMinutes": 870,
-              "endMinutes": 1095,
-              "location": "SC_257",
-              "instructor": "Dr. CHEUNG Yu San - Dr. LO Chui Man",
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
               ]
             }
           ]
@@ -856,8 +780,8 @@
           "language": "E",
           "availability": {
             "capacity": 80,
-            "enrolled": 0,
-            "availableSeats": 80,
+            "enrolled": 79,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -905,8 +829,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 80,
-            "enrolled": 0,
-            "availableSeats": 80,
+            "enrolled": 79,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -978,8 +902,8 @@
           "language": "E",
           "availability": {
             "capacity": 80,
-            "enrolled": 0,
-            "availableSeats": 80,
+            "enrolled": 65,
+            "availableSeats": 15,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1081,8 +1005,8 @@
           "language": "E",
           "availability": {
             "capacity": 90,
-            "enrolled": 0,
-            "availableSeats": 90,
+            "enrolled": 79,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1184,8 +1108,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 16,
-            "enrolled": 0,
-            "availableSeats": 16,
+            "enrolled": 16,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1260,8 +1184,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 16,
-            "enrolled": 0,
-            "availableSeats": 16,
+            "enrolled": 11,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1335,8 +1259,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 16,
-            "enrolled": 0,
-            "availableSeats": 16,
+            "enrolled": 15,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1412,8 +1336,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 16,
-            "enrolled": 0,
-            "availableSeats": 16,
+            "enrolled": 14,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1514,9 +1438,9 @@
           "classNumber": 8840,
           "language": "C&E&P",
           "availability": {
-            "capacity": 6,
-            "enrolled": 0,
-            "availableSeats": 6,
+            "capacity": 2,
+            "enrolled": 2,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1590,9 +1514,9 @@
           "classNumber": 8421,
           "language": "C&E&P",
           "availability": {
-            "capacity": 6,
-            "enrolled": 0,
-            "availableSeats": 6,
+            "capacity": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1665,9 +1589,9 @@
           "classNumber": 9045,
           "language": "C&E&P",
           "availability": {
-            "capacity": 6,
-            "enrolled": 0,
-            "availableSeats": 6,
+            "capacity": 4,
+            "enrolled": 4,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1742,9 +1666,9 @@
           "classNumber": 8423,
           "language": "C&E&P",
           "availability": {
-            "capacity": 6,
-            "enrolled": 0,
-            "availableSeats": 6,
+            "capacity": 2,
+            "enrolled": 2,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1809,55 +1733,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "CHEM2868:EL01:LAB:8899",
-          "rawSection": "EL01-LAB (8899)",
-          "sectionCode": "EL01",
-          "component": "LAB",
-          "classNumber": 8899,
-          "language": "C&E&P",
-          "availability": {
-            "capacity": 12,
-            "enrolled": 0,
-            "availableSeats": 12,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Dr. HAU Chun Kit - Dr. MAK Kin Wah"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Fr 02:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "Fr",
-              "day": "Friday",
-              "dayIndex": 5,
-              "startTime": "14:30",
-              "endTime": "18:15",
-              "startMinutes": 870,
-              "endMinutes": 1095,
-              "location": "SC_356",
-              "instructor": "Dr. HAU Chun Kit - Dr. MAK Kin Wah",
-              "dates": [
-                "11/9",
-                "18/9",
-                "25/9",
-                "2/10",
-                "9/10",
-                "16/10",
-                "23/10",
-                "30/10",
-                "6/11",
-                "13/11",
-                "20/11",
-                "27/11",
-                "4/12"
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1895,8 +1770,8 @@
           "language": "E",
           "availability": {
             "capacity": 90,
-            "enrolled": 0,
-            "availableSeats": 90,
+            "enrolled": 82,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1943,8 +1818,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 90,
-            "enrolled": 0,
-            "availableSeats": 90,
+            "enrolled": 82,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2017,8 +1892,8 @@
           "language": "E",
           "availability": {
             "capacity": 85,
-            "enrolled": 0,
-            "availableSeats": 85,
+            "enrolled": 84,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2121,8 +1996,8 @@
           "language": "E",
           "availability": {
             "capacity": 80,
-            "enrolled": 0,
-            "availableSeats": 80,
+            "enrolled": 80,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2224,8 +2099,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 36,
-            "enrolled": 0,
-            "availableSeats": 36,
+            "enrolled": 36,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2273,8 +2148,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 36,
-            "enrolled": 0,
-            "availableSeats": 36,
+            "enrolled": 36,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2348,8 +2223,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 36,
-            "enrolled": 0,
-            "availableSeats": 36,
+            "enrolled": 35,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2396,8 +2271,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 36,
-            "enrolled": 0,
-            "availableSeats": 36,
+            "enrolled": 36,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2472,8 +2347,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 24,
-            "enrolled": 0,
-            "availableSeats": 24,
+            "enrolled": 24,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2521,8 +2396,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 24,
-            "enrolled": 0,
-            "availableSeats": 24,
+            "enrolled": 24,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2569,8 +2444,8 @@
           "language": "C&E&P",
           "availability": {
             "capacity": 24,
-            "enrolled": 0,
-            "availableSeats": 24,
+            "enrolled": 22,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2645,8 +2520,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 61,
-            "enrolled": 0,
-            "availableSeats": 61,
+            "enrolled": 59,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2682,8 +2557,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 61,
-            "enrolled": 0,
-            "availableSeats": 61,
+            "enrolled": 59,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2744,8 +2619,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 3,
-            "enrolled": 0,
-            "availableSeats": 3,
+            "enrolled": 3,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2781,8 +2656,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 3,
-            "enrolled": 0,
-            "availableSeats": 3,
+            "enrolled": 3,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2843,8 +2718,8 @@
           "language": "E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 11,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2919,8 +2794,8 @@
           "language": "E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 40,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2994,8 +2869,8 @@
           "language": "E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 27,
+            "availableSeats": 13,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3096,8 +2971,8 @@
           "language": "E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 9,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3159,9 +3034,9 @@
           "classNumber": 5223,
           "language": "E",
           "availability": {
-            "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "capacity": 42,
+            "enrolled": 36,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3263,8 +3138,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 40,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3312,8 +3187,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 40,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3386,8 +3261,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 4,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3423,8 +3298,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 4,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3485,8 +3360,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 4,
-            "enrolled": 0,
-            "availableSeats": 4,
+            "enrolled": 4,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null

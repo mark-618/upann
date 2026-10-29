@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.991Z",
+    "generatedAt": "2026-10-28T22:28:52.727Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "RPG",
     "counts": {
-      "rawFiles": 134,
-      "rawFilesScanned": 134,
-      "rawRowsSeen": 5288,
-      "courses": 564,
-      "rawCoursesWithTargetTerm": 564,
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5420,
+      "courses": 573,
+      "rawCoursesWithTargetTerm": 573,
       "subjects": 75,
-      "sections": 2482,
-      "meetings": 2525,
+      "sections": 2532,
+      "meetings": 2586,
       "warnings": 0
     }
   },
@@ -81,7 +81,7 @@
               "endTime": "13:15",
               "startMinutes": 690,
               "endMinutes": 795,
-              "location": "LSK_LT7",
+              "location": "SHB_801",
               "instructor": "Professor LAU Wing Cheong",
               "dates": [
                 "7/9",
@@ -106,7 +106,7 @@
               "endTime": "13:15",
               "startMinutes": 690,
               "endMinutes": 795,
-              "location": "CKB_LT3",
+              "location": "SHB_801",
               "instructor": "Professor LAU Wing Cheong",
               "dates": [
                 "9/9",
@@ -120,6 +120,82 @@
                 "18/11",
                 "25/11",
                 "2/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG5130",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/iergv/IERGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "IERG",
+      "catalogNumber": "5130",
+      "courseCode": "IERG5130",
+      "title": "Prob. Models for Learning 機器學習中的概率模型和推斷算法",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Information Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG5130:-:LEC:9903",
+          "rawSection": "--LEC (9903)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9903,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIN Dahua"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "YIA_LT7",
+              "instructor": "Professor LIN Dahua",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
               ]
             }
           ]
@@ -196,6 +272,81 @@
                 "20/11",
                 "27/11",
                 "4/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IERG5250",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/iergv/IERGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "IERG",
+      "catalogNumber": "5250",
+      "courseCode": "IERG5250",
+      "title": "Edge AI and Applications 邊緣計算及其應用",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Information Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IERG5250:-:LEC:9906",
+          "rawSection": "--LEC (9906)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 9906,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAN Zhenyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "ELB_LT1",
+              "instructor": "Professor YAN Zhenyu",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
               ]
             }
           ]

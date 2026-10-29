@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
@@ -61,8 +61,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 50,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -110,8 +110,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 50,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -184,8 +184,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 33,
+            "availableSeats": 17,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -233,8 +233,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 33,
+            "availableSeats": 17,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -307,8 +307,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 17,
+            "availableSeats": 33,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -355,8 +355,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 17,
+            "availableSeats": 33,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -428,8 +428,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 23,
+            "availableSeats": 27,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -477,8 +477,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 23,
+            "availableSeats": 27,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -551,8 +551,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 19,
+            "availableSeats": 31,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -600,8 +600,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 19,
+            "availableSeats": 31,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -674,8 +674,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 9,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -696,6 +696,70 @@
               "endMinutes": null,
               "location": "NRR",
               "instructor": "Dr. LI Jieqiong - Dr. ZHAO Wenjing - Professor David Philip THIERFELDER - Professor TANG Wai Lan Gladys",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BMBL4102",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "bmbl/BMBL.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "BMBL",
+      "catalogNumber": "4102",
+      "courseCode": "BMBL4102",
+      "title": "Research Project II 專題研究（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Linguistics & Mod Lang",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "BMBL4102:-J01:PRJ:9899",
+          "rawSection": "-J01-PRJ (9899)",
+          "sectionCode": "-J01",
+          "component": "PRJ",
+          "classNumber": 9899,
+          "language": "E",
+          "availability": {
+            "capacity": 2,
+            "enrolled": 2,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor TANG Wai Lan Gladys"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor TANG Wai Lan Gladys",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -738,8 +802,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 6,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null

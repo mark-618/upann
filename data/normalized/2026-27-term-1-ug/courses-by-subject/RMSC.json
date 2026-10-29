@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
@@ -61,8 +61,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 35,
+            "availableSeats": 15,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -109,8 +109,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 35,
+            "availableSeats": 15,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -182,8 +182,8 @@
           "language": "E",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 80,
+            "availableSeats": 20,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -258,8 +258,8 @@
           "language": "E",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 80,
+            "availableSeats": 20,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -320,8 +320,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 49,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -369,8 +369,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 49,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -431,8 +431,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 33,
+            "availableSeats": 17,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -480,8 +480,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 33,
+            "availableSeats": 17,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -542,8 +542,8 @@
           "language": "E",
           "availability": {
             "capacity": 120,
-            "enrolled": 0,
-            "availableSeats": 120,
+            "enrolled": 120,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -591,8 +591,8 @@
           "language": "E",
           "availability": {
             "capacity": 120,
-            "enrolled": 0,
-            "availableSeats": 120,
+            "enrolled": 120,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -613,6 +613,52 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "RMSC4003:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "YIA_LT3",
+              "instructor": null,
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
               ]
             }
           ]
@@ -653,8 +699,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 12,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -717,8 +763,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 2,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null

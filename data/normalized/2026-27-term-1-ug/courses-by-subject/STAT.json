@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
@@ -60,9 +60,9 @@
           "classNumber": 9714,
           "language": "E",
           "availability": {
-            "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "capacity": 153,
+            "enrolled": 151,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -109,9 +109,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "capacity": 153,
+            "enrolled": 151,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -137,6 +137,99 @@
           ]
         },
         {
+          "id": "STAT1011:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "ERB_LT",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT1011:AT03:TUT:no-class-number",
+          "rawSection": "AT03-TUT",
+          "sectionCode": "AT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "LSK_LT4",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
           "id": "STAT1011:B:LEC:9334",
           "rawSection": "B-LEC (9334)",
           "sectionCode": "B",
@@ -144,9 +237,9 @@
           "classNumber": 9334,
           "language": "E",
           "availability": {
-            "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "capacity": 160,
+            "enrolled": 160,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -219,9 +312,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "capacity": 160,
+            "enrolled": 160,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -247,6 +340,100 @@
           ]
         },
         {
+          "id": "STAT1011:BT02:TUT:no-class-number",
+          "rawSection": "BT02-TUT",
+          "sectionCode": "BT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LSK_LT3",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT1011:BT03:TUT:no-class-number",
+          "rawSection": "BT03-TUT",
+          "sectionCode": "BT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 40,
+            "enrolled": 0,
+            "availableSeats": 40,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "SB_LT2",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
           "id": "STAT1011:C:LEC:9415",
           "rawSection": "C-LEC (9415)",
           "sectionCode": "C",
@@ -254,9 +441,9 @@
           "classNumber": 9415,
           "language": "E",
           "availability": {
-            "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "capacity": 160,
+            "enrolled": 160,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -303,9 +490,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "capacity": 160,
+            "enrolled": 160,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -326,6 +513,99 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT1011:CT02:TUT:no-class-number",
+          "rawSection": "CT02-TUT",
+          "sectionCode": "CT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "ELB_LT3",
+              "instructor": null,
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT1011:CT03:TUT:no-class-number",
+          "rawSection": "CT03-TUT",
+          "sectionCode": "CT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 03:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "ELB_LT1",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
               ]
             }
           ]
@@ -366,8 +646,8 @@
           "language": "E",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 89,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -442,8 +722,8 @@
           "language": "E",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 89,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -464,6 +744,52 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT1012:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "SWH_1",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
               ]
             }
           ]
@@ -504,8 +830,8 @@
           "language": "E",
           "availability": {
             "capacity": 160,
-            "enrolled": 0,
-            "availableSeats": 160,
+            "enrolled": 160,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -580,8 +906,8 @@
           "language": "E",
           "availability": {
             "capacity": 160,
-            "enrolled": 0,
-            "availableSeats": 160,
+            "enrolled": 160,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -607,6 +933,52 @@
           ]
         },
         {
+          "id": "STAT2001:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 160,
+            "enrolled": 0,
+            "availableSeats": 160,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "SC_L1",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
           "id": "STAT2001:B:LEC:5310",
           "rawSection": "B-LEC (5310)",
           "sectionCode": "B",
@@ -615,8 +987,8 @@
           "language": "E",
           "availability": {
             "capacity": 160,
-            "enrolled": 0,
-            "availableSeats": 160,
+            "enrolled": 139,
+            "availableSeats": 21,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -691,8 +1063,8 @@
           "language": "E",
           "availability": {
             "capacity": 160,
-            "enrolled": 0,
-            "availableSeats": 160,
+            "enrolled": 139,
+            "availableSeats": 21,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -713,6 +1085,98 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2001:BT02:TUT:no-class-number",
+          "rawSection": "BT02-TUT",
+          "sectionCode": "BT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "UCC_111",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2001:BT03:TUT:no-class-number",
+          "rawSection": "BT03-TUT",
+          "sectionCode": "BT03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "CK_TSE",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
               ]
             }
           ]
@@ -753,8 +1217,8 @@
           "language": "E",
           "availability": {
             "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "enrolled": 131,
+            "availableSeats": 19,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -829,8 +1293,8 @@
           "language": "E",
           "availability": {
             "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "enrolled": 131,
+            "availableSeats": 19,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -851,6 +1315,52 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2005:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSB_LT6",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
               ]
             }
           ]
@@ -891,8 +1401,8 @@
           "language": "E",
           "availability": {
             "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "enrolled": 99,
+            "availableSeats": 51,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -967,8 +1477,8 @@
           "language": "E",
           "availability": {
             "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "enrolled": 99,
+            "availableSeats": 51,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -989,6 +1499,53 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT2006:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSK_LT1",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
               ]
             }
           ]
@@ -1029,8 +1586,8 @@
           "language": "E",
           "availability": {
             "capacity": 120,
-            "enrolled": 0,
-            "availableSeats": 120,
+            "enrolled": 120,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1078,8 +1635,8 @@
           "language": "E",
           "availability": {
             "capacity": 120,
-            "enrolled": 0,
-            "availableSeats": 120,
+            "enrolled": 120,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1100,6 +1657,53 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3003:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "LSB_LT1",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
               ]
             }
           ]
@@ -1140,8 +1744,8 @@
           "language": "E",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 99,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1189,8 +1793,8 @@
           "language": "E",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 99,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1211,6 +1815,99 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3005:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "ERB_407",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3005:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "MMW_LT2",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
               ]
             }
           ]
@@ -1251,8 +1948,8 @@
           "language": "E",
           "availability": {
             "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "enrolled": 125,
+            "availableSeats": 25,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1299,8 +1996,8 @@
           "language": "E",
           "availability": {
             "capacity": 150,
-            "enrolled": 0,
-            "availableSeats": 150,
+            "enrolled": 125,
+            "availableSeats": 25,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1321,6 +2018,52 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3007:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 150,
+            "enrolled": 0,
+            "availableSeats": 150,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "SC_L1",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
               ]
             }
           ]
@@ -1361,14 +2104,14 @@
           "language": "E",
           "availability": {
             "capacity": 120,
-            "enrolled": 0,
-            "availableSeats": 120,
+            "enrolled": 116,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor XIA Dong"
           ],
           "meetings": [
             {
@@ -1382,7 +2125,7 @@
               "startMinutes": 810,
               "endMinutes": 975,
               "location": "MMW_LT2",
-              "instructor": "Staff",
+              "instructor": "Professor XIA Dong",
               "dates": [
                 "9/9",
                 "16/9",
@@ -1410,8 +2153,8 @@
           "language": "E",
           "availability": {
             "capacity": 120,
-            "enrolled": 0,
-            "availableSeats": 120,
+            "enrolled": 116,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1437,6 +2180,53 @@
           ]
         },
         {
+          "id": "STAT3008:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "LSK_LT3",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
           "id": "STAT3008:B:LEC:5217",
           "rawSection": "B-LEC (5217)",
           "sectionCode": "B",
@@ -1445,8 +2235,8 @@
           "language": "E",
           "availability": {
             "capacity": 120,
-            "enrolled": 0,
-            "availableSeats": 120,
+            "enrolled": 119,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1493,8 +2283,8 @@
           "language": "E",
           "availability": {
             "capacity": 120,
-            "enrolled": 0,
-            "availableSeats": 120,
+            "enrolled": 119,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1515,6 +2305,52 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3008:BT02:TUT:no-class-number",
+          "rawSection": "BT02-TUT",
+          "sectionCode": "BT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 120,
+            "enrolled": 0,
+            "availableSeats": 120,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "13:15",
+              "startMinutes": 750,
+              "endMinutes": 795,
+              "location": "YIA_LT4",
+              "instructor": null,
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
               ]
             }
           ]
@@ -1555,8 +2391,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 37,
+            "availableSeats": 23,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1603,8 +2439,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 37,
+            "availableSeats": 23,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1625,6 +2461,52 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3009:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 60,
+            "enrolled": 0,
+            "availableSeats": 60,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "LHC_G04",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
               ]
             }
           ]
@@ -1665,8 +2547,8 @@
           "language": "E",
           "availability": {
             "capacity": 110,
-            "enrolled": 0,
-            "availableSeats": 110,
+            "enrolled": 110,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1713,8 +2595,8 @@
           "language": "E",
           "availability": {
             "capacity": 110,
-            "enrolled": 0,
-            "availableSeats": 110,
+            "enrolled": 110,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1735,6 +2617,52 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT3210:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "SC_L1",
+              "instructor": null,
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
               ]
             }
           ]
@@ -1775,8 +2703,8 @@
           "language": "E",
           "availability": {
             "capacity": 110,
-            "enrolled": 0,
-            "availableSeats": 110,
+            "enrolled": 110,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1823,8 +2751,8 @@
           "language": "E",
           "availability": {
             "capacity": 110,
-            "enrolled": 0,
-            "availableSeats": 110,
+            "enrolled": 110,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1845,6 +2773,100 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT4001:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "SC_L4",
+              "instructor": null,
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT4001:-T03:TUT:no-class-number",
+          "rawSection": "-T03-TUT",
+          "sectionCode": "-T03",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 100,
+            "enrolled": 0,
+            "availableSeats": 100,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "12:15",
+              "startMinutes": 690,
+              "endMinutes": 735,
+              "location": "YIA_LT8",
+              "instructor": null,
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
               ]
             }
           ]
@@ -1885,8 +2907,8 @@
           "language": "E",
           "availability": {
             "capacity": 110,
-            "enrolled": 0,
-            "availableSeats": 110,
+            "enrolled": 110,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1933,8 +2955,8 @@
           "language": "E",
           "availability": {
             "capacity": 110,
-            "enrolled": 0,
-            "availableSeats": 110,
+            "enrolled": 110,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1955,6 +2977,53 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT4003:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LSB_LT6",
+              "instructor": null,
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
               ]
             }
           ]
@@ -1995,8 +3064,8 @@
           "language": "E",
           "availability": {
             "capacity": 130,
-            "enrolled": 0,
-            "availableSeats": 130,
+            "enrolled": 130,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2071,8 +3140,8 @@
           "language": "E",
           "availability": {
             "capacity": 130,
-            "enrolled": 0,
-            "availableSeats": 130,
+            "enrolled": 130,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2093,6 +3162,52 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT4005:AT02:TUT:no-class-number",
+          "rawSection": "AT02-TUT",
+          "sectionCode": "AT02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 130,
+            "enrolled": 1,
+            "availableSeats": 129,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
+              "endMinutes": 915,
+              "location": "LSK_LT1",
+              "instructor": null,
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
               ]
             }
           ]
@@ -2133,8 +3248,8 @@
           "language": "E",
           "availability": {
             "capacity": 110,
-            "enrolled": 0,
-            "availableSeats": 110,
+            "enrolled": 107,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2182,8 +3297,8 @@
           "language": "E",
           "availability": {
             "capacity": 110,
-            "enrolled": 0,
-            "availableSeats": 110,
+            "enrolled": 107,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2204,6 +3319,53 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "STAT4006:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 110,
+            "enrolled": 0,
+            "availableSeats": 110,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "We 05:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "LSK_LT2",
+              "instructor": null,
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
               ]
             }
           ]
@@ -2244,8 +3406,8 @@
           "language": "E",
           "availability": {
             "capacity": 130,
-            "enrolled": 0,
-            "availableSeats": 130,
+            "enrolled": 96,
+            "availableSeats": 34,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2293,8 +3455,8 @@
           "language": "E",
           "availability": {
             "capacity": 33,
-            "enrolled": 0,
-            "availableSeats": 33,
+            "enrolled": 32,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2339,8 +3501,8 @@
           "language": "E",
           "availability": {
             "capacity": 33,
-            "enrolled": 0,
-            "availableSeats": 33,
+            "enrolled": 9,
+            "availableSeats": 24,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2386,8 +3548,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 27,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2433,8 +3595,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 28,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2506,8 +3668,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 9,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null

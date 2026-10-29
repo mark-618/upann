@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,127 +16,17 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
   "subject": "CLCP",
   "courses": [
-    {
-      "id": "CLCP1000",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/clc/CLC.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CLCP",
-      "catalogNumber": "1000",
-      "courseCode": "CLCP1000",
-      "title": "Survival PTH for Int’l Student 生活中的普通話（以普通話/華語為第二語言者適用）",
-      "units": 0,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, WBL",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Yale-China Chin Lang Acad",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CLCP1000:-:LEC:5091",
-          "rawSection": "--LEC (5091)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 5091,
-          "language": "P&E",
-          "availability": {
-            "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 06:30PM - 08:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "18:30",
-              "endTime": "20:15",
-              "startMinutes": 1110,
-              "endMinutes": 1215,
-              "location": "YIA_409",
-              "instructor": "Staff",
-              "dates": [
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP1000:-X01:WBL:no-class-number",
-          "rawSection": "-X01-WBL",
-          "sectionCode": "-X01",
-          "component": "WBL",
-          "classNumber": null,
-          "language": "P&E",
-          "availability": {
-            "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": null,
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "CLCP1001",
       "source": {
@@ -235,14 +125,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HE Shan"
           ],
           "meetings": [
             {
@@ -256,7 +146,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "YIA_510",
-              "instructor": "Staff",
+              "instructor": "Miss HE Shan",
               "dates": [
                 "7/9",
                 "14/9",
@@ -283,14 +173,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 15,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. LI Rong"
           ],
           "meetings": [
             {
@@ -304,7 +194,7 @@
               "startMinutes": 630,
               "endMinutes": 795,
               "location": "FYB_UG02",
-              "instructor": "Staff",
+              "instructor": "Dr. LI Rong",
               "dates": [
                 "8/9",
                 "15/9",
@@ -332,14 +222,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 17,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. LI Rong"
           ],
           "meetings": [
             {
@@ -353,7 +243,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "SB_239",
-              "instructor": "Staff",
+              "instructor": "Dr. LI Rong",
               "dates": [
                 "9/9",
                 "16/9",
@@ -472,14 +362,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. LI Rong"
           ],
           "meetings": [
             {
@@ -493,7 +383,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "YIA_605",
-              "instructor": "Staff",
+              "instructor": "Dr. LI Rong",
               "dates": [
                 "7/9",
                 "14/9",
@@ -520,8 +410,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -555,14 +445,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss LIN Xiaojing"
           ],
           "meetings": [
             {
@@ -576,7 +466,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "YIA_607",
-              "instructor": "Staff",
+              "instructor": "Miss LIN Xiaojing",
               "dates": [
                 "7/9",
                 "14/9",
@@ -603,8 +493,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -638,14 +528,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. LIU Zhenxia"
           ],
           "meetings": [
             {
@@ -659,7 +549,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "YIA_605",
-              "instructor": "Staff",
+              "instructor": "Ms. LIU Zhenxia",
               "dates": [
                 "8/9",
                 "15/9",
@@ -687,8 +577,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -722,14 +612,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HE Shan"
           ],
           "meetings": [
             {
@@ -743,7 +633,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "YIA_607",
-              "instructor": "Staff",
+              "instructor": "Miss HE Shan",
               "dates": [
                 "8/9",
                 "15/9",
@@ -771,8 +661,176 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP1113:E:LEC:10240",
+          "rawSection": "E-LEC (10240)",
+          "sectionCode": "E",
+          "component": "LEC",
+          "classNumber": 10240,
+          "language": "P&E",
+          "availability": {
+            "capacity": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. WU Xiaobo"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "WMY_404",
+              "instructor": "Ms. WU Xiaobo",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP1113:EX01:WBL:no-class-number",
+          "rawSection": "EX01-WBL",
+          "sectionCode": "EX01",
+          "component": "WBL",
+          "classNumber": null,
+          "language": "P&E",
+          "availability": {
+            "capacity": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP1113:F:LEC:10241",
+          "rawSection": "F-LEC (10241)",
+          "sectionCode": "F",
+          "component": "LEC",
+          "classNumber": 10241,
+          "language": "P&E",
+          "availability": {
+            "capacity": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Ms. WU Xiaobo"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "UCC_110",
+              "instructor": "Ms. WU Xiaobo",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP1113:FX01:WBL:no-class-number",
+          "rawSection": "FX01-WBL",
+          "sectionCode": "FX01",
+          "component": "WBL",
+          "classNumber": null,
+          "language": "P&E",
+          "availability": {
+            "capacity": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -833,14 +891,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 13,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. LI Rong"
           ],
           "meetings": [
             {
@@ -854,7 +912,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "LSK_408",
-              "instructor": "Staff",
+              "instructor": "Dr. LI Rong",
               "dates": [
                 "9/9",
                 "16/9",
@@ -882,8 +940,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 13,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -917,14 +975,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 16,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. WEI Danli"
           ],
           "meetings": [
             {
@@ -938,7 +996,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "YIA_608",
-              "instructor": "Staff",
+              "instructor": "Ms. WEI Danli",
               "dates": [
                 "9/9",
                 "16/9",
@@ -966,8 +1024,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 16,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1001,14 +1059,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 16,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. WU Xiaobo"
           ],
           "meetings": [
             {
@@ -1022,7 +1080,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "LSK_410",
-              "instructor": "Staff",
+              "instructor": "Ms. WU Xiaobo",
               "dates": [
                 "10/9",
                 "17/9",
@@ -1049,8 +1107,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 16,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1084,14 +1142,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 16,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. WU Xiaobo"
           ],
           "meetings": [
             {
@@ -1105,7 +1163,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "LSK_416",
-              "instructor": "Staff",
+              "instructor": "Ms. WU Xiaobo",
               "dates": [
                 "10/9",
                 "17/9",
@@ -1132,8 +1190,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 16,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1194,14 +1252,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. LIU Zhenxia"
           ],
           "meetings": [
             {
@@ -1215,7 +1273,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "YIA_410",
-              "instructor": "Staff",
+              "instructor": "Ms. LIU Zhenxia",
               "dates": [
                 "7/9",
                 "14/9",
@@ -1242,8 +1300,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1277,14 +1335,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HE Shan"
           ],
           "meetings": [
             {
@@ -1298,7 +1356,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "YIA_408",
-              "instructor": "Staff",
+              "instructor": "Miss HE Shan",
               "dates": [
                 "8/9",
                 "15/9",
@@ -1326,8 +1384,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1388,14 +1446,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. LIU Zhenxia"
           ],
           "meetings": [
             {
@@ -1409,7 +1467,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "YIA_607",
-              "instructor": "Staff",
+              "instructor": "Ms. LIU Zhenxia",
               "dates": [
                 "9/9",
                 "16/9",
@@ -1437,202 +1495,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": null,
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP1153:B:LEC:5886",
-          "rawSection": "B-LEC (5886)",
-          "sectionCode": "B",
-          "component": "LEC",
-          "classNumber": 5886,
-          "language": "P&E",
-          "availability": {
-            "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "We 02:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "14:30",
-              "endTime": "16:15",
-              "startMinutes": 870,
-              "endMinutes": 975,
-              "location": "YIA_605",
-              "instructor": "Staff",
-              "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP1153:BX01:WBL:no-class-number",
-          "rawSection": "BX01-WBL",
-          "sectionCode": "BX01",
-          "component": "WBL",
-          "classNumber": null,
-          "language": "P&E",
-          "availability": {
-            "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": null,
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CLCP1703",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/clc/CLC.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CLCP",
-      "catalogNumber": "1703",
-      "courseCode": "CLCP1703",
-      "title": "Elementary Putonghua 初級普通話",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, WBL",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Yale-China Chin Lang Acad",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CLCP1703:-:LEC:5374",
-          "rawSection": "--LEC (5374)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 5374,
-          "language": "P",
-          "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Th 08:30AM - 10:15AM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "08:30",
-              "endTime": "10:15",
-              "startMinutes": 510,
-              "endMinutes": 615,
-              "location": "YIA_510",
-              "instructor": "Staff",
-              "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP1703:-X01:WBL:no-class-number",
-          "rawSection": "-X01-WBL",
-          "sectionCode": "-X01",
-          "component": "WBL",
-          "classNumber": null,
-          "language": "P",
-          "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 19,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1693,14 +1557,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 18,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. LI Rong"
           ],
           "meetings": [
             {
@@ -1714,7 +1578,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "YIA_407",
-              "instructor": "Staff",
+              "instructor": "Dr. LI Rong",
               "dates": [
                 "7/9",
                 "14/9",
@@ -1741,8 +1605,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 18,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1803,14 +1667,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 17,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HE Shan"
           ],
           "meetings": [
             {
@@ -1824,7 +1688,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "YIA_603",
-              "instructor": "Staff",
+              "instructor": "Miss HE Shan",
               "dates": [
                 "9/9",
                 "16/9",
@@ -1852,8 +1716,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 17,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1874,238 +1738,6 @@
               "instructor": null,
               "dates": [
                 "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CLCP2233",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/clc/CLC.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CLCP",
-      "catalogNumber": "2233",
-      "courseCode": "CLCP2233",
-      "title": "Comm in Context II 普通話能力訓練（二）",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, WBL",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Yale-China Chin Lang Acad",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CLCP2233:-:LEC:5381",
-          "rawSection": "--LEC (5381)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 5381,
-          "language": "P&E",
-          "availability": {
-            "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 02:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "14:30",
-              "endTime": "16:15",
-              "startMinutes": 870,
-              "endMinutes": 975,
-              "location": "YIA_401",
-              "instructor": "Staff",
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP2233:-X01:WBL:no-class-number",
-          "rawSection": "-X01-WBL",
-          "sectionCode": "-X01",
-          "component": "WBL",
-          "classNumber": null,
-          "language": "P&E",
-          "availability": {
-            "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": null,
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CLCP2243",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/clc/CLC.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CLCP",
-      "catalogNumber": "2243",
-      "courseCode": "CLCP2243",
-      "title": "L & R Com Sks II - Daily & Bus 聽力及閱讀理解訓練（二） – 日常及商務專題",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, WBL",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Yale-China Chin Lang Acad",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CLCP2243:-:LEC:7102",
-          "rawSection": "--LEC (7102)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 7102,
-          "language": "P&E",
-          "availability": {
-            "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Mo 09:30AM - 11:15AM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "09:30",
-              "endTime": "11:15",
-              "startMinutes": 570,
-              "endMinutes": 675,
-              "location": "LSK_410",
-              "instructor": "Staff",
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP2243:-X01:WBL:no-class-number",
-          "rawSection": "-X01-WBL",
-          "sectionCode": "-X01",
-          "component": "WBL",
-          "classNumber": null,
-          "language": "P&E",
-          "availability": {
-            "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Mo 11:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "11:30",
-              "endTime": "12:15",
-              "startMinutes": 690,
-              "endMinutes": 735,
-              "location": "LSK_410",
-              "instructor": null,
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
               ]
             }
           ]
@@ -2146,14 +1778,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 11,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HE Shan"
           ],
           "meetings": [
             {
@@ -2167,7 +1799,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "YIA_603",
-              "instructor": "Staff",
+              "instructor": "Miss HE Shan",
               "dates": [
                 "10/9",
                 "17/9",
@@ -2194,8 +1826,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 11,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2255,15 +1887,15 @@
           "classNumber": 5646,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. SUN Lei"
           ],
           "meetings": [
             {
@@ -2276,8 +1908,8 @@
               "endTime": "12:15",
               "startMinutes": 630,
               "endMinutes": 735,
-              "location": "WMY_503",
-              "instructor": "Staff",
+              "location": "YIA_511",
+              "instructor": "Mr. SUN Lei",
               "dates": [
                 "7/9",
                 "14/9",
@@ -2303,9 +1935,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2338,15 +1970,15 @@
           "classNumber": 5734,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. WEI Danli"
           ],
           "meetings": [
             {
@@ -2360,7 +1992,7 @@
               "startMinutes": 750,
               "endMinutes": 855,
               "location": "YIA_506",
-              "instructor": "Staff",
+              "instructor": "Ms. WEI Danli",
               "dates": [
                 "7/9",
                 "14/9",
@@ -2386,9 +2018,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2421,15 +2053,15 @@
           "classNumber": 5645,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. WEI Danli"
           ],
           "meetings": [
             {
@@ -2442,8 +2074,8 @@
               "endTime": "16:15",
               "startMinutes": 870,
               "endMinutes": 975,
-              "location": "FYB_603",
-              "instructor": "Staff",
+              "location": "YIA_411",
+              "instructor": "Ms. WEI Danli",
               "dates": [
                 "7/9",
                 "14/9",
@@ -2469,9 +2101,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2504,15 +2136,15 @@
           "classNumber": 5730,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. SUN Lei"
           ],
           "meetings": [
             {
@@ -2526,7 +2158,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "YIA_411",
-              "instructor": "Staff",
+              "instructor": "Mr. SUN Lei",
               "dates": [
                 "7/9",
                 "14/9",
@@ -2552,9 +2184,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2587,15 +2219,15 @@
           "classNumber": 5942,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HON Sun Yu"
           ],
           "meetings": [
             {
@@ -2609,7 +2241,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "WMY_405",
-              "instructor": "Staff",
+              "instructor": "Miss HON Sun Yu",
               "dates": [
                 "8/9",
                 "15/9",
@@ -2636,9 +2268,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2671,15 +2303,15 @@
           "classNumber": 5586,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss YANG Ziping"
           ],
           "meetings": [
             {
@@ -2693,7 +2325,7 @@
               "startMinutes": 750,
               "endMinutes": 855,
               "location": "YIA_504",
-              "instructor": "Staff",
+              "instructor": "Miss YANG Ziping",
               "dates": [
                 "8/9",
                 "15/9",
@@ -2720,9 +2352,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2755,15 +2387,15 @@
           "classNumber": 5643,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. SUN Lei"
           ],
           "meetings": [
             {
@@ -2777,7 +2409,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "YIA_408",
-              "instructor": "Staff",
+              "instructor": "Mr. SUN Lei",
               "dates": [
                 "8/9",
                 "15/9",
@@ -2804,9 +2436,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2839,15 +2471,15 @@
           "classNumber": 5904,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 22,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HON Sun Yu"
           ],
           "meetings": [
             {
@@ -2861,7 +2493,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "YIA_510",
-              "instructor": "Staff",
+              "instructor": "Miss HON Sun Yu",
               "dates": [
                 "8/9",
                 "15/9",
@@ -2888,9 +2520,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 22,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2923,15 +2555,15 @@
           "classNumber": 5644,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 22,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. WU Xiaobo"
           ],
           "meetings": [
             {
@@ -2945,7 +2577,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "HYS_G06",
-              "instructor": "Staff",
+              "instructor": "Ms. WU Xiaobo",
               "dates": [
                 "9/9",
                 "16/9",
@@ -2972,9 +2604,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 22,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3007,15 +2639,15 @@
           "classNumber": 5587,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. WEI Danli"
           ],
           "meetings": [
             {
@@ -3029,7 +2661,7 @@
               "startMinutes": 750,
               "endMinutes": 855,
               "location": "YIA_409",
-              "instructor": "Staff",
+              "instructor": "Ms. WEI Danli",
               "dates": [
                 "9/9",
                 "16/9",
@@ -3056,9 +2688,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3091,15 +2723,15 @@
           "classNumber": 5943,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss LIN Xiaojing"
           ],
           "meetings": [
             {
@@ -3113,7 +2745,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "YIA_410",
-              "instructor": "Staff",
+              "instructor": "Miss LIN Xiaojing",
               "dates": [
                 "9/9",
                 "16/9",
@@ -3140,9 +2772,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3175,15 +2807,15 @@
           "classNumber": 5944,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. WU Xiaobo"
           ],
           "meetings": [
             {
@@ -3197,7 +2829,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "YIA_511",
-              "instructor": "Staff",
+              "instructor": "Ms. WU Xiaobo",
               "dates": [
                 "9/9",
                 "16/9",
@@ -3224,9 +2856,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3259,15 +2891,15 @@
           "classNumber": 5642,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. WAN Jiawei"
           ],
           "meetings": [
             {
@@ -3281,7 +2913,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "FYB_603",
-              "instructor": "Staff",
+              "instructor": "Ms. WAN Jiawei",
               "dates": [
                 "10/9",
                 "17/9",
@@ -3307,9 +2939,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3342,15 +2974,15 @@
           "classNumber": 5698,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. SUN Lei"
           ],
           "meetings": [
             {
@@ -3364,7 +2996,7 @@
               "startMinutes": 750,
               "endMinutes": 855,
               "location": "YIA_409",
-              "instructor": "Staff",
+              "instructor": "Mr. SUN Lei",
               "dates": [
                 "10/9",
                 "17/9",
@@ -3390,9 +3022,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3425,15 +3057,15 @@
           "classNumber": 5588,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HON Sun Yu"
           ],
           "meetings": [
             {
@@ -3447,7 +3079,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "YIA_409",
-              "instructor": "Staff",
+              "instructor": "Miss HON Sun Yu",
               "dates": [
                 "10/9",
                 "17/9",
@@ -3473,9 +3105,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3508,15 +3140,15 @@
           "classNumber": 5600,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss JIANG Han"
           ],
           "meetings": [
             {
@@ -3530,7 +3162,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "YIA_504",
-              "instructor": "Staff",
+              "instructor": "Miss JIANG Han",
               "dates": [
                 "10/9",
                 "17/9",
@@ -3556,9 +3188,9 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3591,15 +3223,15 @@
           "classNumber": 5629,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. WAN Jiawei"
           ],
           "meetings": [
             {
@@ -3613,7 +3245,7 @@
               "startMinutes": 510,
               "endMinutes": 615,
               "location": "YIA_411",
-              "instructor": "Staff",
+              "instructor": "Ms. WAN Jiawei",
               "dates": [
                 "11/9",
                 "18/9",
@@ -3640,9 +3272,425 @@
           "classNumber": null,
           "language": "P",
           "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP2703:R:LEC:10207",
+          "rawSection": "R-LEC (10207)",
+          "sectionCode": "R",
+          "component": "LEC",
+          "classNumber": 10207,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. LI Chunpu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "WMY_503",
+              "instructor": "Mr. LI Chunpu",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP2703:RX01:WBL:no-class-number",
+          "rawSection": "RX01-WBL",
+          "sectionCode": "RX01",
+          "component": "WBL",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP2703:S:LEC:10208",
+          "rawSection": "S-LEC (10208)",
+          "sectionCode": "S",
+          "component": "LEC",
+          "classNumber": 10208,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss YANG Ziping"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 12:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "WMY_504",
+              "instructor": "Miss YANG Ziping",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP2703:SX01:WBL:no-class-number",
+          "rawSection": "SX01-WBL",
+          "sectionCode": "SX01",
+          "component": "WBL",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 24,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP2703:T:LEC:10211",
+          "rawSection": "T-LEC (10211)",
+          "sectionCode": "T",
+          "component": "LEC",
+          "classNumber": 10211,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. SUN Lei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "YIA_502",
+              "instructor": "Mr. SUN Lei",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP2703:TX01:WBL:no-class-number",
+          "rawSection": "TX01-WBL",
+          "sectionCode": "TX01",
+          "component": "WBL",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP2703:U:LEC:10213",
+          "rawSection": "U-LEC (10213)",
+          "sectionCode": "U",
+          "component": "LEC",
+          "classNumber": 10213,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. SUN Lei"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "YIA_408",
+              "instructor": "Mr. SUN Lei",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP2703:UX01:WBL:no-class-number",
+          "rawSection": "UX01-WBL",
+          "sectionCode": "UX01",
+          "component": "WBL",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": null,
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP2703:V:LEC:10216",
+          "rawSection": "V-LEC (10216)",
+          "sectionCode": "V",
+          "component": "LEC",
+          "classNumber": 10216,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss YANG Ziping"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "YIA_402",
+              "instructor": "Miss YANG Ziping",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCP2703:VX01:WBL:no-class-number",
+          "rawSection": "VX01-WBL",
+          "sectionCode": "VX01",
+          "component": "WBL",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 25,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3703,14 +3751,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 8,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss JIANG Han"
           ],
           "meetings": [
             {
@@ -3724,7 +3772,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "MMW_715",
-              "instructor": "Staff",
+              "instructor": "Miss JIANG Han",
               "dates": [
                 "7/9",
                 "14/9",
@@ -3778,14 +3826,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 13,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. WONG Ho Put"
           ],
           "meetings": [
             {
@@ -3799,7 +3847,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "LSK_404",
-              "instructor": "Staff",
+              "instructor": "Dr. WONG Ho Put",
               "dates": [
                 "9/9",
                 "16/9",
@@ -3814,82 +3862,6 @@
                 "18/11",
                 "25/11",
                 "2/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CLCP3333",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/clc/CLC.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CLCP",
-      "catalogNumber": "3333",
-      "courseCode": "CLCP3333",
-      "title": "Comm in Context III 普通話能力訓練（三）",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Yale-China Chin Lang Acad",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CLCP3333:-:LEC:5373",
-          "rawSection": "--LEC (5373)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 5373,
-          "language": "P&E",
-          "availability": {
-            "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 09:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "09:30",
-              "endTime": "12:15",
-              "startMinutes": 570,
-              "endMinutes": 735,
-              "location": "YIA_411",
-              "instructor": "Staff",
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
               ]
             }
           ]
@@ -3930,14 +3902,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 19,
-            "enrolled": 0,
-            "availableSeats": 19,
+            "enrolled": 13,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. WONG Ho Put"
           ],
           "meetings": [
             {
@@ -3951,12 +3923,11 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "CKB_122",
-              "instructor": "Staff",
+              "instructor": "Dr. WONG Ho Put",
               "dates": [
                 "10/9",
                 "17/9",
                 "24/9",
-                "1/10",
                 "8/10",
                 "15/10",
                 "22/10",
@@ -4006,14 +3977,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss JIANG Han"
           ],
           "meetings": [
             {
@@ -4027,7 +3998,7 @@
               "startMinutes": 750,
               "endMinutes": 855,
               "location": "YIA_411",
-              "instructor": "Staff",
+              "instructor": "Miss JIANG Han",
               "dates": [
                 "8/9",
                 "15/9",
@@ -4055,14 +4026,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss JIANG Han"
           ],
           "meetings": [
             {
@@ -4076,7 +4047,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "YIA_506",
-              "instructor": "Staff",
+              "instructor": "Miss JIANG Han",
               "dates": [
                 "9/9",
                 "16/9",
@@ -4104,14 +4075,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HE Shan"
           ],
           "meetings": [
             {
@@ -4125,7 +4096,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "YIA_409",
-              "instructor": "Staff",
+              "instructor": "Miss HE Shan",
               "dates": [
                 "10/9",
                 "17/9",
@@ -4179,14 +4150,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss LIN Xiaojing"
           ],
           "meetings": [
             {
@@ -4200,7 +4171,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "WMY_302",
-              "instructor": "Staff",
+              "instructor": "Miss LIN Xiaojing",
               "dates": [
                 "7/9",
                 "14/9",
@@ -4227,8 +4198,8 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -4262,14 +4233,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss JIANG Han"
           ],
           "meetings": [
             {
@@ -4283,7 +4254,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "WMY_401",
-              "instructor": "Staff",
+              "instructor": "Miss JIANG Han",
               "dates": [
                 "8/9",
                 "15/9",
@@ -4311,8 +4282,8 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -4346,14 +4317,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. LI Chunpu"
           ],
           "meetings": [
             {
@@ -4367,7 +4338,7 @@
               "startMinutes": 750,
               "endMinutes": 855,
               "location": "YIA_411",
-              "instructor": "Staff",
+              "instructor": "Mr. LI Chunpu",
               "dates": [
                 "9/9",
                 "16/9",
@@ -4395,8 +4366,8 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -4430,14 +4401,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss LIN Xiaojing"
           ],
           "meetings": [
             {
@@ -4451,7 +4422,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "WMY_501",
-              "instructor": "Staff",
+              "instructor": "Miss LIN Xiaojing",
               "dates": [
                 "9/9",
                 "16/9",
@@ -4479,8 +4450,8 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -4514,14 +4485,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. LI Chunpu"
           ],
           "meetings": [
             {
@@ -4535,7 +4506,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "YIA_508",
-              "instructor": "Staff",
+              "instructor": "Mr. LI Chunpu",
               "dates": [
                 "10/9",
                 "17/9",
@@ -4562,8 +4533,8 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -4597,14 +4568,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss JIANG Han"
           ],
           "meetings": [
             {
@@ -4618,7 +4589,7 @@
               "startMinutes": 750,
               "endMinutes": 855,
               "location": "WMY_401",
-              "instructor": "Staff",
+              "instructor": "Miss JIANG Han",
               "dates": [
                 "10/9",
                 "17/9",
@@ -4645,8 +4616,8 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -4707,14 +4678,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 14,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HON Sun Yu"
           ],
           "meetings": [
             {
@@ -4728,7 +4699,7 @@
               "startMinutes": 570,
               "endMinutes": 735,
               "location": "ELB_306",
-              "instructor": "Staff",
+              "instructor": "Miss HON Sun Yu",
               "dates": [
                 "9/9",
                 "16/9",
@@ -4783,14 +4754,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 11,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. LI Rong"
           ],
           "meetings": [
             {
@@ -4804,7 +4775,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "FYB_UG02",
-              "instructor": "Staff",
+              "instructor": "Dr. LI Rong",
               "dates": [
                 "8/9",
                 "15/9",
@@ -4819,81 +4790,6 @@
                 "17/11",
                 "24/11",
                 "1/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CLCP4453",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/clc/CLC.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CLCP",
-      "catalogNumber": "4453",
-      "courseCode": "CLCP4453",
-      "title": "Adv Comm Skills & Culture I 高級溝通技巧訓練 - 文化專題（一）",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Yale-China Chin Lang Acad",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CLCP4453:-:LEC:8441",
-          "rawSection": "--LEC (8441)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 8441,
-          "language": "P&E",
-          "availability": {
-            "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Mo 09:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "09:30",
-              "endTime": "12:15",
-              "startMinutes": 570,
-              "endMinutes": 735,
-              "location": "YIA_509",
-              "instructor": "Staff",
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
               ]
             }
           ]
@@ -4934,14 +4830,14 @@
           "language": "P&E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 12,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss HON Sun Yu"
           ],
           "meetings": [
             {
@@ -4955,7 +4851,7 @@
               "startMinutes": 570,
               "endMinutes": 735,
               "location": "YIA_406",
-              "instructor": "Staff",
+              "instructor": "Miss HON Sun Yu",
               "dates": [
                 "10/9",
                 "17/9",
@@ -5009,14 +4905,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. LI Chunpu"
           ],
           "meetings": [
             {
@@ -5030,7 +4926,7 @@
               "startMinutes": 750,
               "endMinutes": 855,
               "location": "WMY_503",
-              "instructor": "Staff",
+              "instructor": "Mr. LI Chunpu",
               "dates": [
                 "7/9",
                 "14/9",
@@ -5044,117 +4940,6 @@
                 "16/11",
                 "23/11",
                 "30/11"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CLCP4713",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/clc/CLC.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CLCP",
-      "catalogNumber": "4713",
-      "courseCode": "CLCP4713",
-      "title": "Current Affairs and Discussion 時事報告與討論",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, WBL",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Yale-China Chin Lang Acad",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CLCP4713:-:LEC:5174",
-          "rawSection": "--LEC (5174)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 5174,
-          "language": "P",
-          "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "We 10:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "10:30",
-              "endTime": "12:15",
-              "startMinutes": 630,
-              "endMinutes": 735,
-              "location": "ELB_307",
-              "instructor": "Staff",
-              "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP4713:-X01:WBL:no-class-number",
-          "rawSection": "-X01-WBL",
-          "sectionCode": "-X01",
-          "component": "WBL",
-          "classNumber": null,
-          "language": "P",
-          "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": null,
-              "dates": [
-                "07/09/2026 - 30/11/2026"
               ]
             }
           ]
@@ -5195,14 +4980,14 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. LI Chunpu"
           ],
           "meetings": [
             {
@@ -5216,7 +5001,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "FYB_603",
-              "instructor": "Staff",
+              "instructor": "Mr. LI Chunpu",
               "dates": [
                 "8/9",
                 "15/9",
@@ -5244,324 +5029,8 @@
           "language": "P",
           "availability": {
             "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": null,
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CLCP4773",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/clc/CLC.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CLCP",
-      "catalogNumber": "4773",
-      "courseCode": "CLCP4773",
-      "title": "Putonghua Speech Training 普通話口才訓練（表達技巧及備考科）",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, WBL",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Yale-China Chin Lang Acad",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CLCP4773:-:LEC:6976",
-          "rawSection": "--LEC (6976)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 6976,
-          "language": "P",
-          "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Th 02:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "14:30",
-              "endTime": "16:15",
-              "startMinutes": 870,
-              "endMinutes": 975,
-              "location": "YIA_607",
-              "instructor": "Staff",
-              "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP4773:-X01:WBL:no-class-number",
-          "rawSection": "-X01-WBL",
-          "sectionCode": "-X01",
-          "component": "WBL",
-          "classNumber": null,
-          "language": "P",
-          "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Th 04:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "16:30",
-              "endTime": "17:15",
-              "startMinutes": 990,
-              "endMinutes": 1035,
-              "location": "YIA_607",
-              "instructor": null,
-              "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CLCP4793",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/clc/CLC.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CLCP",
-      "catalogNumber": "4793",
-      "courseCode": "CLCP4793",
-      "title": "Special Topics in PTH (Med) 普通話專題科（醫學）",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, WBL",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Yale-China Chin Lang Acad",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CLCP4793:A:LEC:5639",
-          "rawSection": "A-LEC (5639)",
-          "sectionCode": "A",
-          "component": "LEC",
-          "classNumber": 5639,
-          "language": "P",
-          "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 10:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "10:30",
-              "endTime": "12:15",
-              "startMinutes": 630,
-              "endMinutes": 735,
-              "location": "HYS_G03",
-              "instructor": "Staff",
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP4793:AX01:WBL:no-class-number",
-          "rawSection": "AX01-WBL",
-          "sectionCode": "AX01",
-          "component": "WBL",
-          "classNumber": null,
-          "language": "P",
-          "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": null,
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP4793:B:LEC:8444",
-          "rawSection": "B-LEC (8444)",
-          "sectionCode": "B",
-          "component": "LEC",
-          "classNumber": 8444,
-          "language": "P",
-          "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Fr 08:30AM - 10:15AM",
-              "isTba": false,
-              "dayCode": "Fr",
-              "day": "Friday",
-              "dayIndex": 5,
-              "startTime": "08:30",
-              "endTime": "10:15",
-              "startMinutes": 510,
-              "endMinutes": 615,
-              "location": "YIA_508",
-              "instructor": "Staff",
-              "dates": [
-                "11/9",
-                "18/9",
-                "25/9",
-                "2/10",
-                "9/10",
-                "16/10",
-                "23/10",
-                "30/10",
-                "6/11",
-                "13/11",
-                "20/11",
-                "27/11",
-                "4/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CLCP4793:BX01:WBL:no-class-number",
-          "rawSection": "BX01-WBL",
-          "sectionCode": "BX01",
-          "component": "WBL",
-          "classNumber": null,
-          "language": "P",
-          "availability": {
-            "capacity": 22,
-            "enrolled": 0,
-            "availableSeats": 22,
+            "enrolled": 22,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null

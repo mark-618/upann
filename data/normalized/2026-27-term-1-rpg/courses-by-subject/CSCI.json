@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.991Z",
+    "generatedAt": "2026-10-28T22:28:52.727Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "RPG",
     "counts": {
-      "rawFiles": 134,
-      "rawFilesScanned": 134,
-      "rawRowsSeen": 5288,
-      "courses": 564,
-      "rawCoursesWithTargetTerm": 564,
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5420,
+      "courses": 573,
+      "rawCoursesWithTargetTerm": 573,
       "subjects": 75,
-      "sections": 2482,
-      "meetings": 2525,
+      "sections": 2532,
+      "meetings": 2586,
       "warnings": 0
     }
   },
@@ -81,7 +81,7 @@
               "endTime": "13:15",
               "startMinutes": 630,
               "endMinutes": 795,
-              "location": "TBA",
+              "location": "ERB_407",
               "instructor": "Professor CHENG James",
               "dates": [
                 "9/9",
@@ -157,7 +157,7 @@
               "endTime": "16:15",
               "startMinutes": 810,
               "endMinutes": 975,
-              "location": "TBA",
+              "location": "UCC_C1",
               "instructor": "Professor PAN Jialin",
               "dates": [
                 "8/9",
@@ -345,16 +345,43 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Th 12:30PM - 03:15PM",
+              "timeRaw": "Th 12:30PM - 02:15PM",
               "isTba": false,
               "dayCode": "Th",
               "day": "Thursday",
               "dayIndex": 4,
               "startTime": "12:30",
-              "endTime": "15:15",
+              "endTime": "14:15",
               "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "LSB_C1",
+              "instructor": "Professor Lauren Marcelyn PICK",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 03:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "15:15",
+              "startMinutes": 870,
               "endMinutes": 915,
-              "location": "TBA",
+              "location": "LSB_LT2",
               "instructor": "Professor Lauren Marcelyn PICK",
               "dates": [
                 "10/9",
@@ -391,16 +418,16 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "Th 11:30AM - 12:15PM",
+              "timeRaw": "Th 03:30PM - 04:15PM",
               "isTba": false,
               "dayCode": "Th",
               "day": "Thursday",
               "dayIndex": 4,
-              "startTime": "11:30",
-              "endTime": "12:15",
-              "startMinutes": 690,
-              "endMinutes": 735,
-              "location": "SWH_2",
+              "startTime": "15:30",
+              "endTime": "16:15",
+              "startMinutes": 930,
+              "endMinutes": 975,
+              "location": "LSB_LT2",
               "instructor": null,
               "dates": [
                 "10/9",
@@ -1160,6 +1187,154 @@
               "endMinutes": null,
               "location": "NRR",
               "instructor": "Professor LIANG Zhiding",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8003:ARM1:TMC:10310",
+          "rawSection": "ARM1-TMC (10310)",
+          "sectionCode": "ARM1",
+          "component": "TMC",
+          "classNumber": 10310,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Boyi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Boyi",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8003:ASM1:TMC:10311",
+          "rawSection": "ASM1-TMC (10311)",
+          "sectionCode": "ASM1",
+          "component": "TMC",
+          "classNumber": 10311,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAI Yao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LAI Yao",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8003:ATM1:TMC:10312",
+          "rawSection": "ATM1-TMC (10312)",
+          "sectionCode": "ATM1",
+          "component": "TMC",
+          "classNumber": 10312,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Zhengrong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Zhengrong",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8003:AUM1:TMC:10313",
+          "rawSection": "AUM1-TMC (10313)",
+          "sectionCode": "AUM1",
+          "component": "TMC",
+          "classNumber": 10313,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Mengya"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Mengya",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -2378,6 +2553,154 @@
           ]
         },
         {
+          "id": "CSCI8006:ARM1:TMC:10314",
+          "rawSection": "ARM1-TMC (10314)",
+          "sectionCode": "ARM1",
+          "component": "TMC",
+          "classNumber": 10314,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Boyi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Boyi",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8006:ASM1:TMC:10316",
+          "rawSection": "ASM1-TMC (10316)",
+          "sectionCode": "ASM1",
+          "component": "TMC",
+          "classNumber": 10316,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAI Yao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LAI Yao",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8006:ATM1:TMC:10317",
+          "rawSection": "ATM1-TMC (10317)",
+          "sectionCode": "ATM1",
+          "component": "TMC",
+          "classNumber": 10317,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Zhengrong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Zhengrong",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8006:AUM1:TMC:10318",
+          "rawSection": "AUM1-TMC (10318)",
+          "sectionCode": "AUM1",
+          "component": "TMC",
+          "classNumber": 10318,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Mengya"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Mengya",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
           "id": "CSCI8006:EM01:TMC:3502",
           "rawSection": "EM01-TMC (3502)",
           "sectionCode": "EM01",
@@ -3582,6 +3905,154 @@
               "endMinutes": null,
               "location": "NRR",
               "instructor": "Professor LIANG Zhiding",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8012:ARM1:TMC:10315",
+          "rawSection": "ARM1-TMC (10315)",
+          "sectionCode": "ARM1",
+          "component": "TMC",
+          "classNumber": 10315,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Boyi"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Boyi",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8012:ASM1:TMC:10319",
+          "rawSection": "ASM1-TMC (10319)",
+          "sectionCode": "ASM1",
+          "component": "TMC",
+          "classNumber": 10319,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAI Yao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LAI Yao",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8012:ATM1:TMC:10320",
+          "rawSection": "ATM1-TMC (10320)",
+          "sectionCode": "ATM1",
+          "component": "TMC",
+          "classNumber": 10320,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WANG Zhengrong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WANG Zhengrong",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CSCI8012:AUM1:TMC:10321",
+          "rawSection": "AUM1-TMC (10321)",
+          "sectionCode": "AUM1",
+          "component": "TMC",
+          "classNumber": 10321,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XU Mengya"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XU Mengya",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]

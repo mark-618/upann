@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.633Z",
+    "generatedAt": "2026-10-28T22:20:42.612Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "TPG",
     "counts": {
-      "rawFiles": 156,
-      "rawFilesScanned": 156,
-      "rawRowsSeen": 4914,
-      "courses": 819,
-      "rawCoursesWithTargetTerm": 819,
-      "subjects": 98,
-      "sections": 1247,
-      "meetings": 1700,
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -142,6 +142,22 @@
           ],
           "meetings": [
             {
+              "timeRaw": "We 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "ELB_401",
+              "instructor": "Professor WONG Pak Ho",
+              "dates": [
+                "25/11"
+              ]
+            },
+            {
               "timeRaw": "We 02:30PM - 05:15PM",
               "isTba": false,
               "dayCode": "We",
@@ -157,7 +173,6 @@
                 "9/9",
                 "16/9",
                 "23/9",
-                "30/9",
                 "7/10",
                 "14/10",
                 "21/10",
@@ -234,8 +249,7 @@
                 "30/9",
                 "14/10",
                 "28/10",
-                "11/11",
-                "25/11"
+                "11/11"
               ]
             },
             {
@@ -252,6 +266,22 @@
               "instructor": "Dr. LAM Wing Chi - Dr. LUI Wan Hap - Dr. WONG Kathy - Mr. NGAN Wai Lam - Ms. LEE Man Wai",
               "dates": [
                 "9/12"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "HTB_B5",
+              "instructor": "Dr. LAM Wing Chi - Dr. LUI Wan Hap - Dr. WONG Kathy - Mr. NGAN Wai Lam - Ms. LEE Man Wai",
+              "dates": [
+                "30/9"
               ]
             }
           ]

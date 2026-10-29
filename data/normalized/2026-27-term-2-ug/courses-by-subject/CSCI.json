@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "generatedAt": "2026-10-28T22:43:53.318Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 31745,
-      "courses": 1719,
-      "rawCoursesWithTargetTerm": 1719,
+      "rawRowsSeen": 32053,
+      "courses": 1721,
+      "rawCoursesWithTargetTerm": 1721,
       "subjects": 124,
-      "sections": 4911,
-      "meetings": 5532,
+      "sections": 4931,
+      "meetings": 5552,
       "warnings": 0
     }
   },
@@ -3096,176 +3096,6 @@
                 "8/4",
                 "15/4",
                 "22/4"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CSCI4200",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "csci/CSCI.json"
-      },
-      "term": {
-        "code": "2430",
-        "name": "2026-27 Term 2"
-      },
-      "subject": "CSCI",
-      "catalogNumber": "4200",
-      "courseCode": "CSCI4200",
-      "title": "Operating System Engineering 操作系統工程",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, LAB, TUT",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Computer Sci & Engg",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CSCI4200:-:LEC:9365",
-          "rawSection": "--LEC (9365)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 9365,
-          "language": "E",
-          "availability": {
-            "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Professor SHAO Zili"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "We 12:30PM - 02:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "12:30",
-              "endTime": "14:15",
-              "startMinutes": 750,
-              "endMinutes": 855,
-              "location": "ERB_401",
-              "instructor": "Professor SHAO Zili",
-              "dates": [
-                "13/1",
-                "20/1",
-                "27/1",
-                "3/2",
-                "17/2",
-                "24/2",
-                "3/3",
-                "17/3",
-                "24/3",
-                "31/3",
-                "7/4",
-                "14/4",
-                "21/4"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CSCI4200:-L01:LAB:no-class-number",
-          "rawSection": "-L01-LAB",
-          "sectionCode": "-L01",
-          "component": "LAB",
-          "classNumber": null,
-          "language": "E",
-          "availability": {
-            "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Tu 04:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "16:30",
-              "endTime": "17:15",
-              "startMinutes": 990,
-              "endMinutes": 1035,
-              "location": "LHC_101",
-              "instructor": null,
-              "dates": [
-                "12/1",
-                "19/1",
-                "26/1",
-                "2/2",
-                "16/2",
-                "23/2",
-                "2/3",
-                "16/3",
-                "23/3",
-                "30/3",
-                "6/4",
-                "13/4",
-                "20/4"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CSCI4200:-T01:TUT:no-class-number",
-          "rawSection": "-T01-TUT",
-          "sectionCode": "-T01",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "E",
-          "availability": {
-            "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Tu 03:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "15:30",
-              "endTime": "16:15",
-              "startMinutes": 930,
-              "endMinutes": 975,
-              "location": "LHC_101",
-              "instructor": null,
-              "dates": [
-                "12/1",
-                "19/1",
-                "26/1",
-                "2/2",
-                "16/2",
-                "23/2",
-                "2/3",
-                "16/3",
-                "23/3",
-                "30/3",
-                "6/4",
-                "13/4",
-                "20/4"
               ]
             }
           ]

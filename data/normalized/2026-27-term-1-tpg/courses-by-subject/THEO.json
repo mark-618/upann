@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.633Z",
+    "generatedAt": "2026-10-28T22:20:42.612Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "TPG",
     "counts": {
-      "rawFiles": 156,
-      "rawFilesScanned": 156,
-      "rawRowsSeen": 4914,
-      "courses": 819,
-      "rawCoursesWithTargetTerm": 819,
-      "subjects": 98,
-      "sections": 1247,
-      "meetings": 1700,
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -156,6 +156,134 @@
       ]
     },
     {
+      "id": "THEO5003",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/theov/THEOV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "THEO",
+      "catalogNumber": "5003",
+      "courseCode": "THEO5003",
+      "title": "Graduate Thesis II 畢業生論文II",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Theology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "THEO5003:-:LEC:10256",
+          "rawSection": "--LEC (10256)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10256,
+          "language": "C&E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Wai Yin Christina"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor WONG Wai Yin Christina",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "THEO5004",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/theov/THEOV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "THEO",
+      "catalogNumber": "5004",
+      "courseCode": "THEO5004",
+      "title": "Graduate Thesis III 畢業生論文III",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Theology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "THEO5004:-:LEC:10257",
+          "rawSection": "--LEC (10257)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10257,
+          "language": "C&E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Wai Yin Christina"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor WONG Wai Yin Christina",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "THEO5006",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -196,7 +324,7 @@
             "status": null
           },
           "instructors": [
-            "Dr. LI Kwan Hung Leo"
+            "Dr. HUNG Shin Fung - Dr. LOK Wing Kai"
           ],
           "meetings": [
             {
@@ -210,7 +338,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "CCT_G01",
-              "instructor": "Dr. LI Kwan Hung Leo",
+              "instructor": "Dr. HUNG Shin Fung - Dr. LOK Wing Kai",
               "dates": [
                 "10/9",
                 "17/9",
@@ -244,7 +372,7 @@
             "status": null
           },
           "instructors": [
-            "Professor WONG Wai Yin Christina"
+            "Dr. MOK Kie Man Bryan - Professor WONG Wai Yin Christina"
           ],
           "meetings": [
             {
@@ -257,8 +385,8 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "YCT_LG201",
-              "instructor": "Professor WONG Wai Yin Christina",
+              "location": "CCT_T21",
+              "instructor": "Dr. MOK Kie Man Bryan - Professor WONG Wai Yin Christina",
               "dates": [
                 "10/9",
                 "17/9",
@@ -319,7 +447,7 @@
             "status": null
           },
           "instructors": [
-            "Dr. LI Kwan Hung Leo"
+            "Dr. HUNG Shin Fung - Dr. LOK Wing Kai"
           ],
           "meetings": [
             {
@@ -333,7 +461,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "CCT_T31",
-              "instructor": "Dr. LI Kwan Hung Leo",
+              "instructor": "Dr. HUNG Shin Fung - Dr. LOK Wing Kai",
               "dates": [
                 "10/9",
                 "17/9",
@@ -367,7 +495,7 @@
             "status": null
           },
           "instructors": [
-            "Professor WONG Wai Yin Christina"
+            "Dr. MOK Kie Man Bryan - Professor WONG Wai Yin Christina"
           ],
           "meetings": [
             {
@@ -380,8 +508,8 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "YCT_LG201",
-              "instructor": "Professor WONG Wai Yin Christina",
+              "location": "CCT_T21",
+              "instructor": "Dr. MOK Kie Man Bryan - Professor WONG Wai Yin Christina",
               "dates": [
                 "10/9",
                 "17/9",
@@ -541,7 +669,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. LOK Wing Kai"
           ],
           "meetings": [
             {
@@ -555,7 +683,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "TBA",
-              "instructor": "Staff",
+              "instructor": "Dr. LOK Wing Kai",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -652,7 +780,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor CHU Ann Gillian"
           ],
           "meetings": [
             {
@@ -666,7 +794,7 @@
               "startMinutes": 570,
               "endMinutes": 735,
               "location": "CKB_UG04",
-              "instructor": "Staff",
+              "instructor": "Professor CHU Ann Gillian",
               "dates": [
                 "7/9",
                 "14/9",
@@ -803,7 +931,7 @@
             "status": null
           },
           "instructors": [
-            "Dr. LI Kwan Hung Leo"
+            "Dr. HUI Po Ying Garbo"
           ],
           "meetings": [
             {
@@ -817,7 +945,7 @@
               "startMinutes": 1140,
               "endMinutes": 1290,
               "location": "CCT_T31",
-              "instructor": "Dr. LI Kwan Hung Leo",
+              "instructor": "Dr. HUI Po Ying Garbo",
               "dates": [
                 "7/9",
                 "14/9",
@@ -870,7 +998,7 @@
           "classNumber": 2483,
           "language": "C&E",
           "availability": {
-            "capacity": 20,
+            "capacity": 30,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -945,7 +1073,7 @@
           "classNumber": 2500,
           "language": "C&E",
           "availability": {
-            "capacity": 20,
+            "capacity": 30,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -966,7 +1094,7 @@
               "endTime": "21:30",
               "startMinutes": 1140,
               "endMinutes": 1290,
-              "location": "CKB_UG05",
+              "location": "FYB_UG02",
               "instructor": "Professor WONG Sonia Kwok",
               "dates": [
                 "11/9",
@@ -982,82 +1110,6 @@
                 "20/11",
                 "27/11",
                 "4/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "THEO5312",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/theov/THEOV.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "THEO",
-      "catalogNumber": "5312",
-      "courseCode": "THEO5312",
-      "title": "Intro to the New Testament 新約聖經導論",
-      "units": 3,
-      "career": "TPG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Div of Theology",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "THEO5312:-:LEC:2276",
-          "rawSection": "--LEC (2276)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 2276,
-          "language": "C&E",
-          "availability": {
-            "capacity": 20,
-            "enrolled": null,
-            "availableSeats": null,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Professor IP Hon Ho"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "We 02:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
-              "location": "CKB_UG04",
-              "instructor": "Professor IP Hon Ho",
-              "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
               ]
             }
           ]
@@ -1140,82 +1192,6 @@
       ]
     },
     {
-      "id": "THEO5319",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/theov/THEOV.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "THEO",
-      "catalogNumber": "5319",
-      "courseCode": "THEO5319",
-      "title": "Ezra-Nehemiah and Chronicles 以斯拉－尼希米記與歷代志上下",
-      "units": 3,
-      "career": "TPG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Div of Theology",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "THEO5319:-:LEC:1425",
-          "rawSection": "--LEC (1425)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 1425,
-          "language": "C&E",
-          "availability": {
-            "capacity": 40,
-            "enrolled": null,
-            "availableSeats": null,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Dr. LI Kwan Hung Leo"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "We 02:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
-              "location": "CCT_T31",
-              "instructor": "Dr. LI Kwan Hung Leo",
-              "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "THEO5321",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -1248,7 +1224,7 @@
           "classNumber": 2274,
           "language": "E",
           "availability": {
-            "capacity": 20,
+            "capacity": 30,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -1345,7 +1321,7 @@
               "endTime": "21:30",
               "startMinutes": 1140,
               "endMinutes": 1290,
-              "location": "WMY_303",
+              "location": "CYT_214",
               "instructor": "Professor Tobias BRANDNER",
               "dates": [
                 "9/9",
@@ -1400,7 +1376,7 @@
           "classNumber": 2501,
           "language": "C&E",
           "availability": {
-            "capacity": 25,
+            "capacity": 30,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -1421,7 +1397,7 @@
               "endTime": "21:30",
               "startMinutes": 1140,
               "endMinutes": 1290,
-              "location": "TBA",
+              "location": "YIA_502",
               "instructor": "Professor YAM Cheuk Yin Colten",
               "dates": [
                 "8/9",
@@ -1476,7 +1452,7 @@
           "classNumber": 1512,
           "language": "C&E",
           "availability": {
-            "capacity": 20,
+            "capacity": 30,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -1484,7 +1460,7 @@
             "status": null
           },
           "instructors": [
-            "Dr. LI Kwan Hung Leo - Professor KWAN Shui Man"
+            "Professor KWAN Shui Man"
           ],
           "meetings": [
             {
@@ -1498,7 +1474,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "YCT_LG201",
-              "instructor": "Dr. LI Kwan Hung Leo - Professor KWAN Shui Man",
+              "instructor": "Professor KWAN Shui Man",
               "dates": [
                 "8/9",
                 "15/9",
@@ -1560,7 +1536,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor CHU Ann Gillian"
           ],
           "meetings": [
             {
@@ -1574,7 +1550,7 @@
               "startMinutes": 1140,
               "endMinutes": 1290,
               "location": "FYB_UG01",
-              "instructor": "Staff",
+              "instructor": "Professor CHU Ann Gillian",
               "dates": [
                 "11/9",
                 "18/9",
@@ -1788,7 +1764,7 @@
               "endTime": "21:30",
               "startMinutes": 1140,
               "endMinutes": 1290,
-              "location": "SC_L3",
+              "location": "YIA_503",
               "instructor": "Professor YAM Cheuk Yin Colten",
               "dates": [
                 "7/9",
@@ -1918,7 +1894,7 @@
           "classNumber": 2653,
           "language": "C&E",
           "availability": {
-            "capacity": 40,
+            "capacity": 32,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -1939,7 +1915,7 @@
               "endTime": "21:30",
               "startMinutes": 1140,
               "endMinutes": 1290,
-              "location": "TBA",
+              "location": "ELB_308",
               "instructor": "Professor WONG Sonia Kwok",
               "dates": [
                 "9/9",
@@ -2079,7 +2055,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. LOK Wing Kai"
           ],
           "meetings": [
             {
@@ -2093,7 +2069,7 @@
               "startMinutes": 570,
               "endMinutes": 735,
               "location": "WMY_305",
-              "instructor": "Staff",
+              "instructor": "Dr. LOK Wing Kai",
               "dates": [
                 "12/9",
                 "19/9",
@@ -2371,7 +2347,7 @@
               "endTime": "21:30",
               "startMinutes": 1140,
               "endMinutes": 1290,
-              "location": "ELB_401",
+              "location": "CCT_G01",
               "instructor": "Professor Naomi Elaine THURSTON",
               "dates": [
                 "9/9",
@@ -2438,31 +2414,30 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Tu 07:00PM - 09:30PM",
+              "timeRaw": "Mo 07:00PM - 09:30PM",
               "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
               "startTime": "19:00",
               "endTime": "21:30",
               "startMinutes": 1140,
               "endMinutes": 1290,
-              "location": "ELB_308",
+              "location": "ELB_205",
               "instructor": "Professor REN Baixin",
               "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
               ]
             }
           ]
@@ -2585,7 +2560,7 @@
             "status": null
           },
           "instructors": [
-            "Rev. YIU Chi Ho"
+            "Miss SHIU Sin Man - Rev. YIU Chi Ho"
           ],
           "meetings": [
             {
@@ -2599,7 +2574,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Rev. YIU Chi Ho",
+              "instructor": "Miss SHIU Sin Man - Rev. YIU Chi Ho",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -2649,7 +2624,7 @@
             "status": null
           },
           "instructors": [
-            "Rev. YIU Chi Ho"
+            "Miss SHIU Sin Man - Rev. YIU Chi Ho"
           ],
           "meetings": [
             {
@@ -2663,7 +2638,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Rev. YIU Chi Ho",
+              "instructor": "Miss SHIU Sin Man - Rev. YIU Chi Ho",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -2713,7 +2688,7 @@
             "status": null
           },
           "instructors": [
-            "Rev. YIU Chi Ho"
+            "Miss SHIU Sin Man - Rev. YIU Chi Ho"
           ],
           "meetings": [
             {
@@ -2727,7 +2702,71 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Rev. YIU Chi Ho",
+              "instructor": "Miss SHIU Sin Man - Rev. YIU Chi Ho",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "THEO6946",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/theov/THEOV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "THEO",
+      "catalogNumber": "6946",
+      "courseCode": "THEO6946",
+      "title": "Field Education VI 實習（六）",
+      "units": 2,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "FLD",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Theology",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "THEO6946:-F01:FLD:10130",
+          "rawSection": "-F01-FLD (10130)",
+          "sectionCode": "-F01",
+          "component": "FLD",
+          "classNumber": 10130,
+          "language": "C&E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Miss SHIU Sin Man - Rev. YIU Chi Ho"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Miss SHIU Sin Man - Rev. YIU Chi Ho",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]

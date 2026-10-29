@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
@@ -61,8 +61,8 @@
           "language": "E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 23,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -110,8 +110,8 @@
           "language": "E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 23,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -184,8 +184,8 @@
           "language": "E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 30,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -232,8 +232,8 @@
           "language": "E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 30,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -267,8 +267,8 @@
           "language": "E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 30,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -329,8 +329,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 47,
+            "availableSeats": 13,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -404,8 +404,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 25,
+            "availableSeats": 35,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -447,191 +447,6 @@
       ]
     },
     {
-      "id": "UGEB2132",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/geo/GEO.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "UGEB",
-      "catalogNumber": "2132",
-      "courseCode": "UGEB2132",
-      "title": "Earth as Seen From Space 從太空觀地球",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, TUT",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Geo & Resource Mgt",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "UGEB2132:A:LEC:7458",
-          "rawSection": "A-LEC (7458)",
-          "sectionCode": "A",
-          "component": "LEC",
-          "classNumber": 7458,
-          "language": "C",
-          "availability": {
-            "capacity": 110,
-            "enrolled": 0,
-            "availableSeats": 110,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Dr. WONG Kwan Kit"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Mo 02:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "14:30",
-              "endTime": "16:15",
-              "startMinutes": 870,
-              "endMinutes": 975,
-              "location": "CKB_LT3",
-              "instructor": "Dr. WONG Kwan Kit",
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "UGEB2132:AT01:TUT:no-class-number",
-          "rawSection": "AT01-TUT",
-          "sectionCode": "AT01",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "C",
-          "availability": {
-            "capacity": 110,
-            "enrolled": 0,
-            "availableSeats": 110,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "TBA",
-              "instructor": null,
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "UGEB2161",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/geo/GEO.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "UGEB",
-      "catalogNumber": "2161",
-      "courseCode": "UGEB2161",
-      "title": "Resource Issues in Age of Glob 全球化時代的資源問題",
-      "units": 2,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Geo & Resource Mgt",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "UGEB2161:-:LEC:5333",
-          "rawSection": "--LEC (5333)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 5333,
-          "language": "E",
-          "availability": {
-            "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Th 10:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "10:30",
-              "endTime": "12:15",
-              "startMinutes": 630,
-              "endMinutes": 735,
-              "location": "ELB_LT1",
-              "instructor": "Staff",
-              "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "UGEB2222",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -665,8 +480,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 80,
-            "enrolled": 0,
-            "availableSeats": 80,
+            "enrolled": 29,
+            "availableSeats": 51,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -740,8 +555,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 17,
+            "availableSeats": 43,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -843,8 +658,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 51,
+            "availableSeats": 9,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -919,8 +734,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 13,
+            "availableSeats": 47,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -995,8 +810,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 60,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1037,82 +852,6 @@
       ]
     },
     {
-      "id": "UGEB2370",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/chm/CHM.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "UGEB",
-      "catalogNumber": "2370",
-      "courseCode": "UGEB2370",
-      "title": "Chemistry: The X-Files 化學X檔案",
-      "units": 2,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Chemistry",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "UGEB2370:A:LEC:5668",
-          "rawSection": "A-LEC (5668)",
-          "sectionCode": "A",
-          "component": "LEC",
-          "classNumber": 5668,
-          "language": "C",
-          "availability": {
-            "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Dr. CHEUNG Yu San"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "We 02:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "14:30",
-              "endTime": "16:15",
-              "startMinutes": 870,
-              "endMinutes": 975,
-              "location": "LHC_101",
-              "instructor": "Dr. CHEUNG Yu San",
-              "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "UGEB2380",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -1146,8 +885,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 34,
+            "availableSeats": 16,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1194,8 +933,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 48,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1270,8 +1009,8 @@
           "language": "C",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 80,
+            "availableSeats": 20,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1319,8 +1058,8 @@
           "language": "C",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 53,
+            "availableSeats": 47,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1368,8 +1107,8 @@
           "language": "P",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 88,
+            "availableSeats": 12,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1443,9 +1182,9 @@
           "classNumber": 7046,
           "language": "C",
           "availability": {
-            "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "capacity": 61,
+            "enrolled": 59,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1519,8 +1258,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 57,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1562,127 +1301,6 @@
       ]
     },
     {
-      "id": "UGEB2502",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/ant/ANT.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "UGEB",
-      "catalogNumber": "2502",
-      "courseCode": "UGEB2502",
-      "title": "Human Evolution 人類的演化",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, TUT",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Anthropology",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "UGEB2502:-:LEC:7568",
-          "rawSection": "--LEC (7568)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 7568,
-          "language": "E",
-          "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Mo 02:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "14:30",
-              "endTime": "16:15",
-              "startMinutes": 870,
-              "endMinutes": 975,
-              "location": "UCC_C4",
-              "instructor": "Staff",
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "UGEB2502:-T01:TUT:no-class-number",
-          "rawSection": "-T01-TUT",
-          "sectionCode": "-T01",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "E",
-          "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Mo 04:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "16:30",
-              "endTime": "17:15",
-              "startMinutes": 990,
-              "endMinutes": 1035,
-              "location": "UCC_C4",
-              "instructor": null,
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "UGEB2530",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -1716,8 +1334,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 99,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1792,8 +1410,8 @@
           "language": "C",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 41,
+            "availableSeats": 59,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1867,8 +1485,8 @@
           "language": "C",
           "availability": {
             "capacity": 75,
-            "enrolled": 0,
-            "availableSeats": 75,
+            "enrolled": 21,
+            "availableSeats": 54,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1943,8 +1561,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 8,
+            "availableSeats": 52,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1992,8 +1610,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 8,
+            "availableSeats": 52,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2053,9 +1671,9 @@
           "classNumber": 8250,
           "language": "C&E",
           "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "capacity": 120,
+            "enrolled": 113,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2090,9 +1708,9 @@
           "classNumber": null,
           "language": "C&E",
           "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "capacity": 120,
+            "enrolled": 113,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2153,8 +1771,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 14,
+            "availableSeats": 46,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null

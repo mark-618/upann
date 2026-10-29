@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.633Z",
+    "generatedAt": "2026-10-28T22:20:42.612Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "TPG",
     "counts": {
-      "rawFiles": 156,
-      "rawFilesScanned": 156,
-      "rawRowsSeen": 4914,
-      "courses": 819,
-      "rawCoursesWithTargetTerm": 819,
-      "subjects": 98,
-      "sections": 1247,
-      "meetings": 1700,
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -291,7 +291,7 @@
           "classNumber": 2593,
           "language": "E",
           "availability": {
-            "capacity": 80,
+            "capacity": 125,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -329,83 +329,6 @@
                 "30/11",
                 "7/12",
                 "14/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ROSE5810",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/maegv/MAEGV.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "ROSE",
-      "catalogNumber": "5810",
-      "courseCode": "ROSE5810",
-      "title": "Practical Robotics 實踐機器人學",
-      "units": 3,
-      "career": "TPG",
-      "gradingBasis": null,
-      "components": "WKS",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Div of Mechan & Automation Erg",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "ROSE5810:-W01:WKS:3963",
-          "rawSection": "-W01-WKS (3963)",
-          "sectionCode": "-W01",
-          "component": "WKS",
-          "classNumber": 3963,
-          "language": "E",
-          "availability": {
-            "capacity": 50,
-            "enrolled": null,
-            "availableSeats": null,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Professor CHEN Fei"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Fr 06:30PM - 09:15PM",
-              "isTba": false,
-              "dayCode": "Fr",
-              "day": "Friday",
-              "dayIndex": 5,
-              "startTime": "18:30",
-              "endTime": "21:15",
-              "startMinutes": 1110,
-              "endMinutes": 1275,
-              "location": "WMY_305",
-              "instructor": "Professor CHEN Fei",
-              "dates": [
-                "11/9",
-                "18/9",
-                "25/9",
-                "2/10",
-                "9/10",
-                "16/10",
-                "23/10",
-                "30/10",
-                "6/11",
-                "13/11",
-                "20/11",
-                "27/11",
-                "4/12",
-                "11/12"
               ]
             }
           ]

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.991Z",
+    "generatedAt": "2026-10-28T22:28:52.727Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "RPG",
     "counts": {
-      "rawFiles": 134,
-      "rawFilesScanned": 134,
-      "rawRowsSeen": 5288,
-      "courses": 564,
-      "rawCoursesWithTargetTerm": 564,
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5420,
+      "courses": 573,
+      "rawCoursesWithTargetTerm": 573,
       "subjects": 75,
-      "sections": 2482,
-      "meetings": 2525,
+      "sections": 2532,
+      "meetings": 2586,
       "warnings": 0
     }
   },
@@ -181,7 +181,7 @@
             "status": null
           },
           "instructors": [
-            "Professor CHAN Hon Fai - Professor CHAN Wood Yee - Professor CHAU Hoi Kin Matthew - Professor CHEUNG Hoi Hung - Professor FENG Bo - Professor FOK Kin Lam Ellis - Professor GAO Bo - Professor JIANG Xiaohua - Professor JIANG Yangz"
+            "Professor CHAN Hon Fai - Professor CHAN Wood Yee - Professor CHAU Hoi Kin Matthew - Professor FENG Bo - Professor FOK Kin Lam Ellis - Professor GAO Bo - Professor JIANG Xiaohua - Professor JIANG Yangzi - Professor Stephen DALTON"
           ],
           "meetings": [
             {
@@ -195,7 +195,7 @@
               "startMinutes": 630,
               "endMinutes": 750,
               "location": "IBSB_G02",
-              "instructor": "Professor CHAN Hon Fai - Professor CHAN Wood Yee - Professor CHAU Hoi Kin Matthew - Professor CHEUNG Hoi Hung - Professor FENG Bo - Professor FOK Kin Lam Ellis - Professor GAO Bo - Professor JIANG Xiaohua - Professor JIANG Yangz",
+              "instructor": "Professor CHAN Hon Fai - Professor CHAN Wood Yee - Professor CHAU Hoi Kin Matthew - Professor FENG Bo - Professor FOK Kin Lam Ellis - Professor GAO Bo - Professor JIANG Xiaohua - Professor JIANG Yangzi - Professor Stephen DALTON",
               "dates": [
                 "10/9",
                 "17/9",
@@ -293,23 +293,71 @@
             "status": null
           },
           "instructors": [
-            "Professor CHEUNG Hoi Hung - Professor John Anthony RUDD"
+            "Professor CHEUNG Hoi Hung"
           ],
           "meetings": [
             {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
+              "timeRaw": "We 03:00PM - 05:00PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:00",
+              "endTime": "17:00",
+              "startMinutes": 900,
+              "endMinutes": 1020,
               "location": "IBSB_G02",
-              "instructor": "Professor CHEUNG Hoi Hung - Professor John Anthony RUDD",
+              "instructor": "Professor CHEUNG Hoi Hung",
               "dates": [
-                "10/09/2026 - 17/12/2026"
+                "28/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:00PM - 04:00PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:00",
+              "endTime": "16:00",
+              "startMinutes": 840,
+              "endMinutes": 960,
+              "location": "IBSB_G02",
+              "instructor": "Professor CHEUNG Hoi Hung",
+              "dates": [
+                "8/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 03:00PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:00",
+              "endTime": "16:15",
+              "startMinutes": 900,
+              "endMinutes": 975,
+              "location": "IBSB_G02",
+              "instructor": "Professor CHEUNG Hoi Hung",
+              "dates": [
+                "10/9"
+              ]
+            },
+            {
+              "timeRaw": "Th 03:00PM - 04:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:00",
+              "endTime": "16:30",
+              "startMinutes": 900,
+              "endMinutes": 990,
+              "location": "IBSB_G02",
+              "instructor": "Professor CHEUNG Hoi Hung",
+              "dates": [
+                "17/9"
               ]
             }
           ]
@@ -332,19 +380,67 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
+              "timeRaw": "We 03:00PM - 05:00PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "15:00",
+              "endTime": "17:00",
+              "startMinutes": 900,
+              "endMinutes": 1020,
+              "location": "IBSB_G02",
               "instructor": null,
               "dates": [
-                "10/09/2026 - 17/12/2026"
+                "28/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:00PM - 04:00PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:00",
+              "endTime": "16:00",
+              "startMinutes": 840,
+              "endMinutes": 960,
+              "location": "IBSB_G02",
+              "instructor": null,
+              "dates": [
+                "8/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 03:00PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:00",
+              "endTime": "16:15",
+              "startMinutes": 900,
+              "endMinutes": 975,
+              "location": "IBSB_G02",
+              "instructor": null,
+              "dates": [
+                "10/9"
+              ]
+            },
+            {
+              "timeRaw": "Th 03:00PM - 04:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "15:00",
+              "endTime": "16:30",
+              "startMinutes": 900,
+              "endMinutes": 990,
+              "location": "IBSB_G02",
+              "instructor": null,
+              "dates": [
+                "17/9"
               ]
             }
           ]

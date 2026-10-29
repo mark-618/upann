@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,17 +16,92 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
   "subject": "THEO",
   "courses": [
+    {
+      "id": "THEO1000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/crs/CRS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "THEO",
+      "catalogNumber": "1000",
+      "courseCode": "THEO1000",
+      "title": "Approaches to Christian Stud 基督教研究導論",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Cultural & Rel Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "THEO1000:-:LEC:10104",
+          "rawSection": "--LEC (10104)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10104,
+          "language": "C&E",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 50,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor IP Hon Ho"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "ARC_G01",
+              "instructor": "Professor IP Hon Ho",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "THEO1211",
       "source": {
@@ -44,7 +119,7 @@
       "units": 3,
       "career": "UG",
       "gradingBasis": null,
-      "components": "LEC",
+      "components": "LEC, TUT",
       "campus": null,
       "academicGroup": null,
       "academicOrg": "Dept of Cultural & Rel Studies",
@@ -60,9 +135,9 @@
           "classNumber": 6716,
           "language": "C&E",
           "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "capacity": 10,
+            "enrolled": 10,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -72,16 +147,16 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Fr 06:30PM - 09:15PM",
+              "timeRaw": "Fr 06:30PM - 08:15PM",
               "isTba": false,
               "dayCode": "Fr",
               "day": "Friday",
               "dayIndex": 5,
               "startTime": "18:30",
-              "endTime": "21:15",
+              "endTime": "20:15",
               "startMinutes": 1110,
-              "endMinutes": 1275,
-              "location": "CKB_UG05",
+              "endMinutes": 1215,
+              "location": "FYB_UG02",
               "instructor": "Professor WONG Sonia Kwok",
               "dates": [
                 "11/9",
@@ -100,79 +175,97 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "THEO1212",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/crs/CRS.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "THEO",
-      "catalogNumber": "1212",
-      "courseCode": "THEO1212",
-      "title": "Intro to the New Testament 新約聖經導論",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Cultural & Rel Studies",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
+        },
         {
-          "id": "THEO1212:-:LEC:5195",
-          "rawSection": "--LEC (5195)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 5195,
+          "id": "THEO1211:-T01:TUT:no-class-number",
+          "rawSection": "-T01-TUT",
+          "sectionCode": "-T01",
+          "component": "TUT",
+          "classNumber": null,
           "language": "C&E",
           "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "capacity": 10,
+            "enrolled": 4,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
-          "instructors": [
-            "Professor IP Hon Ho"
-          ],
+          "instructors": [],
           "meetings": [
             {
-              "timeRaw": "We 02:30PM - 05:15PM",
+              "timeRaw": "Fr 05:30PM - 06:15PM",
               "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
-              "location": "CKB_UG04",
-              "instructor": "Professor IP Hon Ho",
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "17:30",
+              "endTime": "18:15",
+              "startMinutes": 1050,
+              "endMinutes": 1095,
+              "location": "FYB_UG02",
+              "instructor": null,
               "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "THEO1211:-T02:TUT:no-class-number",
+          "rawSection": "-T02-TUT",
+          "sectionCode": "-T02",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C&E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 7,
+            "availableSeats": 3,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Fr 08:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "20:30",
+              "endTime": "21:15",
+              "startMinutes": 1230,
+              "endMinutes": 1275,
+              "location": "FYB_UG02",
+              "instructor": null,
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
               ]
             }
           ]
@@ -213,8 +306,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 9,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -288,8 +381,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 14,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -364,8 +457,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 25,
-            "enrolled": 0,
-            "availableSeats": 25,
+            "enrolled": 13,
+            "availableSeats": 12,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -440,8 +533,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -488,8 +581,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -561,14 +654,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 11,
+            "availableSeats": 9,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Dr. LI Kwan Hung Leo"
+            "Dr. HUI Po Ying Garbo - Dr. LI Kwan Hung Leo"
           ],
           "meetings": [
             {
@@ -582,7 +675,7 @@
               "startMinutes": 1110,
               "endMinutes": 1215,
               "location": "CCT_T31",
-              "instructor": "Dr. LI Kwan Hung Leo",
+              "instructor": "Dr. HUI Po Ying Garbo - Dr. LI Kwan Hung Leo",
               "dates": [
                 "7/9",
                 "14/9",
@@ -609,8 +702,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 11,
+            "availableSeats": 9,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -682,8 +775,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 3,
+            "availableSeats": 17,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -702,7 +795,7 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "ELB_401",
+              "location": "CCT_G01",
               "instructor": "Professor Naomi Elaine THURSTON",
               "dates": [
                 "9/9",
@@ -758,14 +851,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 9,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Dr. LI Kwan Hung Leo - Professor KWAN Shui Man"
+            "Professor KWAN Shui Man"
           ],
           "meetings": [
             {
@@ -779,7 +872,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "YCT_LG201",
-              "instructor": "Dr. LI Kwan Hung Leo - Professor KWAN Shui Man",
+              "instructor": "Professor KWAN Shui Man",
               "dates": [
                 "8/9",
                 "15/9",
@@ -794,6 +887,82 @@
                 "17/11",
                 "24/11",
                 "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "THEO3254",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/crs/CRS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "THEO",
+      "catalogNumber": "3254",
+      "courseCode": "THEO3254",
+      "title": "Christian Ethics 基督教倫理學",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Cultural & Rel Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "THEO3254:-:LEC:10141",
+          "rawSection": "--LEC (10141)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10141,
+          "language": "C&E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 10,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHU Ann Gillian"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "FYB_UG01",
+              "instructor": "Professor CHU Ann Gillian",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
               ]
             }
           ]
@@ -834,14 +1003,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 4,
+            "availableSeats": 46,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Rev. YIU Chi Ho"
+            "Miss SHIU Sin Man - Rev. YIU Chi Ho"
           ],
           "meetings": [
             {
@@ -855,7 +1024,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Rev. YIU Chi Ho",
+              "instructor": "Miss SHIU Sin Man - Rev. YIU Chi Ho",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -898,14 +1067,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 4,
+            "availableSeats": 46,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Rev. YIU Chi Ho"
+            "Miss SHIU Sin Man - Rev. YIU Chi Ho"
           ],
           "meetings": [
             {
@@ -919,7 +1088,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Rev. YIU Chi Ho",
+              "instructor": "Miss SHIU Sin Man - Rev. YIU Chi Ho",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]

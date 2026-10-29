@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.633Z",
+    "generatedAt": "2026-10-28T22:20:42.612Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "TPG",
     "counts": {
-      "rawFiles": 156,
-      "rawFilesScanned": 156,
-      "rawRowsSeen": 4914,
-      "courses": 819,
-      "rawCoursesWithTargetTerm": 819,
-      "subjects": 98,
-      "sections": 1247,
-      "meetings": 1700,
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -232,7 +232,7 @@
           "classNumber": 2447,
           "language": "E",
           "availability": {
-            "capacity": 70,
+            "capacity": 63,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -244,6 +244,22 @@
           ],
           "meetings": [
             {
+              "timeRaw": "Mo 02:00PM - 04:45PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:00",
+              "endTime": "16:45",
+              "startMinutes": 840,
+              "endMinutes": 1005,
+              "location": "BATC_SA",
+              "instructor": "Dr. LAU Ka William",
+              "dates": [
+                "14/9"
+              ]
+            },
+            {
               "timeRaw": "Mo 02:30PM - 05:15PM",
               "isTba": false,
               "dayCode": "Mo",
@@ -253,11 +269,10 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "TBA",
+              "location": "CYT_LT2",
               "instructor": "Dr. LAU Ka William",
               "dates": [
                 "7/9",
-                "14/9",
                 "21/9",
                 "28/9",
                 "5/10",
@@ -266,8 +281,7 @@
                 "2/11",
                 "9/11",
                 "16/11",
-                "23/11",
-                "30/11"
+                "23/11"
               ]
             }
           ]
@@ -315,8 +329,7 @@
                 "3/11",
                 "10/11",
                 "17/11",
-                "24/11",
-                "1/12"
+                "24/11"
               ]
             }
           ]
@@ -363,8 +376,7 @@
                 "5/11",
                 "12/11",
                 "19/11",
-                "26/11",
-                "3/12"
+                "26/11"
               ]
             }
           ]
@@ -409,8 +421,25 @@
                 "5/11",
                 "12/11",
                 "19/11",
-                "26/11",
                 "3/12"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ARC_G01",
+              "instructor": "Professor KO Chiu Yu",
+              "dates": [
+                "10/10",
+                "7/11",
+                "21/11"
               ]
             }
           ]
@@ -435,6 +464,38 @@
           ],
           "meetings": [
             {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_209B",
+              "instructor": "Professor LIU Ruixuan",
+              "dates": [
+                "2/11"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "WLS_LG204",
+              "instructor": "Professor LIU Ruixuan",
+              "dates": [
+                "15/10"
+              ]
+            },
+            {
               "timeRaw": "Fr 09:30AM - 12:15PM",
               "isTba": false,
               "dayCode": "Fr",
@@ -451,9 +512,7 @@
                 "18/9",
                 "25/9",
                 "2/10",
-                "9/10",
                 "16/10",
-                "23/10",
                 "30/10",
                 "6/11",
                 "13/11",
@@ -510,6 +569,22 @@
                 "24/11",
                 "1/12"
               ]
+            },
+            {
+              "timeRaw": "Fr 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "YIA_LT7",
+              "instructor": "Professor LIU Ruixuan",
+              "dates": [
+                "27/11"
+              ]
             }
           ]
         },
@@ -542,11 +617,17 @@
               "endTime": "12:45",
               "startMinutes": 570,
               "endMinutes": 765,
-              "location": "ARC_G02",
+              "location": "CYT_LT4",
               "instructor": "Dr. KU Kei Tat",
               "dates": [
                 "12/9",
-                "31/10"
+                "19/9",
+                "3/10",
+                "24/10",
+                "7/11",
+                "14/11",
+                "21/11",
+                "28/11"
               ]
             },
             {
@@ -559,16 +640,10 @@
               "endTime": "12:45",
               "startMinutes": 570,
               "endMinutes": 765,
-              "location": "CYT_LT4",
+              "location": "YIA_201",
               "instructor": "Dr. KU Kei Tat",
               "dates": [
-                "19/9",
-                "3/10",
-                "24/10",
-                "7/11",
-                "14/11",
-                "21/11",
-                "28/11"
+                "31/10"
               ]
             },
             {
@@ -581,10 +656,25 @@
               "endTime": "12:45",
               "startMinutes": 570,
               "endMinutes": 765,
-              "location": "TBA",
+              "location": "WMY_506",
               "instructor": "Dr. KU Kei Tat",
               "dates": [
-                "20/9",
+                "20/9"
+              ]
+            },
+            {
+              "timeRaw": "Su 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "CYT_LT4",
+              "instructor": "Dr. KU Kei Tat",
+              "dates": [
                 "25/10"
               ]
             }
@@ -852,25 +942,88 @@
           ],
           "meetings": [
             {
-              "timeRaw": "We 04:30PM - 07:15PM",
+              "timeRaw": "Th 02:30PM - 05:15PM",
               "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "16:30",
-              "endTime": "19:15",
-              "startMinutes": 990,
-              "endMinutes": 1155,
-              "location": "NAH_114",
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_611",
               "instructor": "Dr. LAU Ka William",
               "dates": [
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10"
+                "29/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_613",
+              "instructor": "Dr. LAU Ka William",
+              "dates": [
+                "29/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_615",
+              "instructor": "Dr. LAU Ka William",
+              "dates": [
+                "29/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_410",
+              "instructor": "Dr. LAU Ka William",
+              "dates": [
+                "29/10"
+              ]
+            },
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "YIA_LT4",
+              "instructor": "Dr. LAU Ka William",
+              "dates": [
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10"
               ]
             }
           ]
@@ -895,25 +1048,88 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "timeRaw": "We 04:30PM - 07:15PM",
               "isTba": false,
-              "dayCode": "Fr",
-              "day": "Friday",
-              "dayIndex": 5,
-              "startTime": "15:30",
-              "endTime": "18:15",
-              "startMinutes": 930,
-              "endMinutes": 1095,
-              "location": "YIA_LT4",
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "19:15",
+              "startMinutes": 990,
+              "endMinutes": 1155,
+              "location": "NAH_114",
               "instructor": "Dr. LAU Ka William",
               "dates": [
-                "18/9",
-                "25/9",
-                "2/10",
-                "9/10",
-                "16/10",
-                "23/10",
-                "30/10"
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_410",
+              "instructor": "Dr. LAU Ka William",
+              "dates": [
+                "29/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_611",
+              "instructor": "Dr. LAU Ka William",
+              "dates": [
+                "29/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_613",
+              "instructor": "Dr. LAU Ka William",
+              "dates": [
+                "29/10"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "CYT_615",
+              "instructor": "Dr. LAU Ka William",
+              "dates": [
+                "29/10"
               ]
             }
           ]
@@ -974,7 +1190,7 @@
               "endTime": "12:15",
               "startMinutes": 570,
               "endMinutes": 735,
-              "location": "BATC_SA",
+              "location": "BATC_DI",
               "instructor": "Dr. YUEN Chi Lok",
               "dates": [
                 "8/9",
@@ -1036,7 +1252,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. CHENG Sui Pong Paul"
           ],
           "meetings": [
             {
@@ -1050,7 +1266,7 @@
               "startMinutes": 570,
               "endMinutes": 735,
               "location": "TBA",
-              "instructor": "Staff",
+              "instructor": "Dr. CHENG Sui Pong Paul",
               "dates": [
                 "10/9",
                 "17/9",
@@ -1111,7 +1327,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss XIE Zhihuan - Mr. KAM Kwong Fai Alex"
           ],
           "meetings": [
             {
@@ -1125,11 +1341,10 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "YIA_LT3",
-              "instructor": "Staff",
+              "instructor": "Miss XIE Zhihuan - Mr. KAM Kwong Fai Alex",
               "dates": [
                 "11/9",
                 "25/9",
-                "2/10",
                 "9/10",
                 "16/10",
                 "23/10",
@@ -1151,7 +1366,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "CYT_LT5",
-              "instructor": "Staff",
+              "instructor": "Miss XIE Zhihuan - Mr. KAM Kwong Fai Alex",
               "dates": [
                 "18/9"
               ]
@@ -1289,7 +1504,7 @@
               "endTime": "12:15",
               "startMinutes": 570,
               "endMinutes": 735,
-              "location": "WMY_304",
+              "location": "ARC_G03",
               "instructor": "Professor HUANG Junfei",
               "dates": [
                 "11/9",
@@ -1303,8 +1518,7 @@
                 "6/11",
                 "13/11",
                 "20/11",
-                "27/11",
-                "4/12"
+                "27/11"
               ]
             }
           ]
@@ -1365,10 +1579,10 @@
               "endTime": "18:45",
               "startMinutes": 540,
               "endMinutes": 1125,
-              "location": "CYT_LT4",
+              "location": "TBA",
               "instructor": "Dr. ZHANG Jinfan",
               "dates": [
-                "15/10"
+                "22/10"
               ]
             },
             {
@@ -1381,10 +1595,10 @@
               "endTime": "18:45",
               "startMinutes": 540,
               "endMinutes": 1125,
-              "location": "CYT_LT4",
+              "location": "TBA",
               "instructor": "Dr. ZHANG Jinfan",
               "dates": [
-                "16/10"
+                "23/10"
               ]
             },
             {
@@ -1397,10 +1611,10 @@
               "endTime": "18:15",
               "startMinutes": 540,
               "endMinutes": 1095,
-              "location": "KKB_101",
+              "location": "TBA",
               "instructor": "Dr. ZHANG Jinfan",
               "dates": [
-                "17/10"
+                "24/10"
               ]
             },
             {
@@ -1416,7 +1630,7 @@
               "location": "TBA",
               "instructor": "Dr. ZHANG Jinfan",
               "dates": [
-                "18/10"
+                "25/10"
               ]
             }
           ]
@@ -1450,10 +1664,11 @@
               "endTime": "18:15",
               "startMinutes": 540,
               "endMinutes": 1095,
-              "location": "CYT_LT5",
+              "location": "TBA",
               "instructor": "Dr. ZHANG Jinfan",
               "dates": [
-                "12/9"
+                "19/9",
+                "10/10"
               ]
             },
             {
@@ -1469,8 +1684,8 @@
               "location": "TBA",
               "instructor": "Dr. ZHANG Jinfan",
               "dates": [
-                "13/9",
-                "27/9"
+                "20/9",
+                "11/10"
               ]
             }
           ]
@@ -1680,7 +1895,7 @@
           "classNumber": 2528,
           "language": "E",
           "availability": {
-            "capacity": 66,
+            "capacity": 60,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -1701,7 +1916,7 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "CYT_410",
+              "location": "CYT_615",
               "instructor": "Professor GONG Xiting",
               "dates": [
                 "9/9",
@@ -1749,6 +1964,22 @@
               "endTime": "12:15",
               "startMinutes": 570,
               "endMinutes": 735,
+              "location": "CYT_409",
+              "instructor": "Professor GONG Xiting",
+              "dates": [
+                "10/9"
+              ]
+            },
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
               "location": "CYT_615",
               "instructor": "Professor GONG Xiting",
               "dates": [
@@ -1763,22 +1994,6 @@
                 "19/11",
                 "26/11",
                 "3/12"
-              ]
-            },
-            {
-              "timeRaw": "Fr 02:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Fr",
-              "day": "Friday",
-              "dayIndex": 5,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
-              "location": "CYT_615",
-              "instructor": "Professor GONG Xiting",
-              "dates": [
-                "11/9"
               ]
             }
           ]
@@ -2036,7 +2251,7 @@
           "classNumber": 2362,
           "language": "E",
           "availability": {
-            "capacity": 75,
+            "capacity": 70,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -2071,8 +2286,7 @@
                 "4/11",
                 "11/11",
                 "18/11",
-                "25/11",
-                "2/12"
+                "25/11"
               ]
             }
           ]
@@ -2133,10 +2347,25 @@
               "endTime": "12:45",
               "startMinutes": 570,
               "endMinutes": 765,
-              "location": "TBA",
+              "location": "YIA_LT8",
               "instructor": "Professor CHONG Tai Leung",
               "dates": [
-                "13/9",
+                "13/9"
+              ]
+            },
+            {
+              "timeRaw": "Su 09:30AM - 12:45PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "09:30",
+              "endTime": "12:45",
+              "startMinutes": 570,
+              "endMinutes": 765,
+              "location": "CYT_LT5",
+              "instructor": "Professor CHONG Tai Leung",
+              "dates": [
                 "20/9",
                 "27/9",
                 "4/10",
@@ -2214,6 +2443,22 @@
               ]
             },
             {
+              "timeRaw": "Th 09:00AM - 06:45PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:00",
+              "endTime": "18:45",
+              "startMinutes": 540,
+              "endMinutes": 1125,
+              "location": "CYT_LT4",
+              "instructor": "Professor XU Yeren",
+              "dates": [
+                "15/10"
+              ]
+            },
+            {
               "timeRaw": "Fr 08:30AM - 06:15PM",
               "isTba": false,
               "dayCode": "Fr",
@@ -2227,6 +2472,38 @@
               "instructor": "Professor XU Yeren",
               "dates": [
                 "16/10"
+              ]
+            },
+            {
+              "timeRaw": "Fr 09:00AM - 06:45PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "09:00",
+              "endTime": "18:45",
+              "startMinutes": 540,
+              "endMinutes": 1125,
+              "location": "CYT_LT4",
+              "instructor": "Professor XU Yeren",
+              "dates": [
+                "16/10"
+              ]
+            },
+            {
+              "timeRaw": "Sa 08:30AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "08:30",
+              "endTime": "18:15",
+              "startMinutes": 510,
+              "endMinutes": 1095,
+              "location": "LSK_LT7",
+              "instructor": "Professor XU Yeren",
+              "dates": [
+                "17/10"
               ]
             },
             {
@@ -2246,6 +2523,22 @@
               ]
             },
             {
+              "timeRaw": "Sa 09:00AM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:00",
+              "endTime": "18:15",
+              "startMinutes": 540,
+              "endMinutes": 1095,
+              "location": "ARC_G03",
+              "instructor": "Professor XU Yeren",
+              "dates": [
+                "17/10"
+              ]
+            },
+            {
               "timeRaw": "Su 08:30AM - 06:15PM",
               "isTba": false,
               "dayCode": "Su",
@@ -2255,7 +2548,23 @@
               "endTime": "18:15",
               "startMinutes": 510,
               "endMinutes": 1095,
-              "location": "TBA",
+              "location": "CYT_LT5",
+              "instructor": "Professor XU Yeren",
+              "dates": [
+                "18/10"
+              ]
+            },
+            {
+              "timeRaw": "Su 09:00AM - 06:45PM",
+              "isTba": false,
+              "dayCode": "Su",
+              "day": "Sunday",
+              "dayIndex": 7,
+              "startTime": "09:00",
+              "endTime": "18:45",
+              "startMinutes": 540,
+              "endMinutes": 1125,
+              "location": "CYT_LT4",
               "instructor": "Professor XU Yeren",
               "dates": [
                 "18/10"
@@ -2319,7 +2628,7 @@
               "endTime": "21:30",
               "startMinutes": 1125,
               "endMinutes": 1290,
-              "location": "TBA",
+              "location": "BATC_SA",
               "instructor": "Mr SUM Ronald Kwan Ngai",
               "dates": [
                 "7/9",
@@ -2328,7 +2637,6 @@
                 "28/9",
                 "5/10",
                 "12/10",
-                "19/10",
                 "26/10",
                 "2/11",
                 "9/11",
@@ -2454,11 +2762,26 @@
                 "5/10",
                 "12/10",
                 "26/10",
-                "2/11",
                 "9/11",
                 "16/11",
                 "23/11",
                 "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "ELB_LT2",
+              "instructor": "Professor LI Hongfei",
+              "dates": [
+                "24/10"
               ]
             }
           ]
@@ -2527,12 +2850,43 @@
                 "3/10",
                 "10/10",
                 "24/10",
-                "31/10",
                 "7/11",
                 "14/11",
                 "21/11",
                 "28/11",
                 "5/12"
+              ]
+            },
+            {
+              "timeRaw": "Sa 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "ARC_G01",
+              "instructor": "Professor JIN Qianran",
+              "dates": [
+                "3/10"
+              ]
+            },
+            {
+              "timeRaw": "Sa 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "CYT_209B",
+              "instructor": "Professor JIN Qianran",
+              "dates": [
+                "28/11"
               ]
             }
           ]
@@ -2557,6 +2911,22 @@
           ],
           "meetings": [
             {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CYT_613",
+              "instructor": "Professor JIN Qianran",
+              "dates": [
+                "29/10"
+              ]
+            },
+            {
               "timeRaw": "Th 02:30PM - 05:15PM",
               "isTba": false,
               "dayCode": "Th",
@@ -2575,11 +2945,26 @@
                 "8/10",
                 "15/10",
                 "22/10",
-                "29/10",
                 "5/11",
                 "12/11",
                 "19/11",
                 "26/11",
+                "3/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 06:30PM - 09:30PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:30",
+              "startMinutes": 1110,
+              "endMinutes": 1290,
+              "location": "LSK_LT5",
+              "instructor": "Professor JIN Qianran",
+              "dates": [
                 "3/12"
               ]
             }
@@ -2653,6 +3038,22 @@
           ],
           "meetings": [
             {
+              "timeRaw": "Th 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "LSK_LT4",
+              "instructor": "Professor JIN Qianran",
+              "dates": [
+                "3/12"
+              ]
+            },
+            {
               "timeRaw": "Fr 09:30AM - 12:15PM",
               "isTba": false,
               "dayCode": "Fr",
@@ -2668,7 +3069,6 @@
                 "11/9",
                 "18/9",
                 "25/9",
-                "2/10",
                 "9/10",
                 "16/10",
                 "23/10",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,93 +16,17 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
   "subject": "ARCH",
   "courses": [
-    {
-      "id": "ARCH1003",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "arch/ARCH.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "ARCH",
-      "catalogNumber": "1003",
-      "courseCode": "ARCH1003",
-      "title": "Visual Studies 視覺研究",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Sch of Architecture",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "ARCH1003:-:LEC:5406",
-          "rawSection": "--LEC (5406)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 5406,
-          "language": "E",
-          "availability": {
-            "capacity": 109,
-            "enrolled": 0,
-            "availableSeats": 109,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Mr. CHOW Kelly Chi Wai"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 02:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
-              "location": "YIA_LT7",
-              "instructor": "Mr. CHOW Kelly Chi Wai",
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "ARCH2111",
       "source": {
@@ -136,9 +60,9 @@
           "classNumber": 8750,
           "language": "E",
           "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "capacity": 21,
+            "enrolled": 14,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -211,9 +135,9 @@
           "classNumber": 8760,
           "language": "E",
           "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "capacity": 21,
+            "enrolled": 13,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -286,9 +210,9 @@
           "classNumber": 8764,
           "language": "E",
           "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "capacity": 21,
+            "enrolled": 13,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -352,81 +276,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "ARCH2111:DU01:STD:8751",
-          "rawSection": "DU01-STD (8751)",
-          "sectionCode": "DU01",
-          "component": "STD",
-          "classNumber": 8751,
-          "language": "E",
-          "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Mo 01:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "13:30",
-              "endTime": "18:15",
-              "startMinutes": 810,
-              "endMinutes": 1095,
-              "location": "NRR",
-              "instructor": "Staff",
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            },
-            {
-              "timeRaw": "Th 01:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "13:30",
-              "endTime": "18:15",
-              "startMinutes": 810,
-              "endMinutes": 1095,
-              "location": "NRR",
-              "instructor": "Staff",
-              "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
-              ]
-            }
-          ]
         }
       ]
     },
@@ -464,8 +313,8 @@
           "language": "E",
           "availability": {
             "capacity": 70,
-            "enrolled": 0,
-            "availableSeats": 70,
+            "enrolled": 44,
+            "availableSeats": 26,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -540,8 +389,8 @@
           "language": "E",
           "availability": {
             "capacity": 70,
-            "enrolled": 0,
-            "availableSeats": 70,
+            "enrolled": 40,
+            "availableSeats": 30,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -616,8 +465,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 13,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -691,8 +540,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 13,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -766,8 +615,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 13,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -831,81 +680,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "ARCH3113:DU01:STD:8752",
-          "rawSection": "DU01-STD (8752)",
-          "sectionCode": "DU01",
-          "component": "STD",
-          "classNumber": 8752,
-          "language": "E",
-          "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Mo 01:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "13:30",
-              "endTime": "18:15",
-              "startMinutes": 810,
-              "endMinutes": 1095,
-              "location": "NRR",
-              "instructor": "Staff",
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            },
-            {
-              "timeRaw": "Th 01:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "13:30",
-              "endTime": "18:15",
-              "startMinutes": 810,
-              "endMinutes": 1095,
-              "location": "NRR",
-              "instructor": "Staff",
-              "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
-              ]
-            }
-          ]
         }
       ]
     },
@@ -942,9 +716,9 @@
           "classNumber": 8256,
           "language": "E",
           "availability": {
-            "capacity": 70,
-            "enrolled": 0,
-            "availableSeats": 70,
+            "capacity": 73,
+            "enrolled": 44,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -991,9 +765,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "capacity": 23,
+            "enrolled": 13,
+            "availableSeats": 10,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1039,8 +813,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 11,
+            "availableSeats": 9,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1086,8 +860,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 10,
+            "availableSeats": 10,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1133,8 +907,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 10,
+            "availableSeats": 10,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1207,8 +981,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 12,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1282,8 +1056,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 12,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1357,14 +1131,14 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 9,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Ms. Ioana Alexandra PRICOP - Professor WANG Zhenfei"
+            "Professor WANG Zhenfei"
           ],
           "meetings": [
             {
@@ -1378,7 +1152,7 @@
               "startMinutes": 810,
               "endMinutes": 1095,
               "location": "NRR",
-              "instructor": "Ms. Ioana Alexandra PRICOP - Professor WANG Zhenfei",
+              "instructor": "Professor WANG Zhenfei",
               "dates": [
                 "7/9",
                 "14/9",
@@ -1405,7 +1179,7 @@
               "startMinutes": 810,
               "endMinutes": 1095,
               "location": "NRR",
-              "instructor": "Ms. Ioana Alexandra PRICOP - Professor WANG Zhenfei",
+              "instructor": "Professor WANG Zhenfei",
               "dates": [
                 "10/9",
                 "17/9",
@@ -1432,8 +1206,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 12,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1533,9 +1307,9 @@
           "classNumber": 5093,
           "language": "E",
           "availability": {
-            "capacity": 35,
-            "enrolled": 0,
-            "availableSeats": 35,
+            "capacity": 16,
+            "enrolled": 16,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1609,9 +1383,9 @@
           "classNumber": 5092,
           "language": "E",
           "availability": {
-            "capacity": 35,
-            "enrolled": 0,
-            "availableSeats": 35,
+            "capacity": 17,
+            "enrolled": 17,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1686,8 +1460,8 @@
           "language": "E",
           "availability": {
             "capacity": 70,
-            "enrolled": 0,
-            "availableSeats": 70,
+            "enrolled": 45,
+            "availableSeats": 25,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1762,8 +1536,8 @@
           "language": "E",
           "availability": {
             "capacity": 37,
-            "enrolled": 0,
-            "availableSeats": 37,
+            "enrolled": 35,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1782,7 +1556,7 @@
               "endTime": "12:15",
               "startMinutes": 570,
               "endMinutes": 735,
-              "location": "ARC_G01",
+              "location": "WMY_504",
               "instructor": "Professor WANG Shuaizhong",
               "dates": [
                 "10/9",
@@ -1797,82 +1571,6 @@
                 "19/11",
                 "26/11",
                 "3/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ARCH4731",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "arch/ARCH.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "ARCH",
-      "catalogNumber": "4731",
-      "courseCode": "ARCH4731",
-      "title": "Topical Studies of Cities 城市專題研究",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Sch of Architecture",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "ARCH4731:A:LEC:5141",
-          "rawSection": "A-LEC (5141)",
-          "sectionCode": "A",
-          "component": "LEC",
-          "classNumber": 5141,
-          "language": "E",
-          "availability": {
-            "capacity": 81,
-            "enrolled": 0,
-            "availableSeats": 81,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 09:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "09:30",
-              "endTime": "12:15",
-              "startMinutes": 570,
-              "endMinutes": 735,
-              "location": "WMY_505",
-              "instructor": "Staff",
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
               ]
             }
           ]

@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-28T22:20:42.612Z",
+    "source": {
+      "id": "cuhk-official-public-timetable",
+      "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "path": "public/data/raw/official-public/tpg/2420"
+    },
+    "term": {
+      "name": "2026-27 Term 1",
+      "codes": [
+        "2420"
+      ]
+    },
+    "career": "TPG",
+    "counts": {
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
+      "warnings": 0
+    }
+  },
+  "subject": "AISC",
+  "courses": [
+    {
+      "id": "AISC5000",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aisc/AISC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "AISC",
+      "catalogNumber": "5000",
+      "courseCode": "AISC5000",
+      "title": "Founda'n of Mach Learning & AI 基礎機器學習與人工智能",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AISC5000:A:LEC:3938",
+          "rawSection": "A-LEC (3938)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 3938,
+          "language": "E",
+          "availability": {
+            "capacity": 140,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor JIN Bangti - Professor WANG Yi - Professor ZHU Huichen"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "ELB_LT3",
+              "instructor": "Professor JIN Bangti - Professor WANG Yi - Professor ZHU Huichen",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AISC5020",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aisc/AISC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "AISC",
+      "catalogNumber": "5020",
+      "courseCode": "AISC5020",
+      "title": "Math & Stat for AI 人工智能數學與統計",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AISC5020:A:LEC:3948",
+          "rawSection": "A-LEC (3948)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 3948,
+          "language": "E",
+          "availability": {
+            "capacity": 140,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEUNG King Chau - Professor CHOI Pui Tung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "We 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "LSK_LT3",
+              "instructor": "Dr. CHEUNG King Chau - Professor CHOI Pui Tung",
+              "dates": [
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12",
+                "9/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AISC5030",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "aisc/AISC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "AISC",
+      "catalogNumber": "5030",
+      "courseCode": "AISC5030",
+      "title": "Intro of AI for Sci 科學人工智能導論",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Science",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "AISC5030:A:LEC:3892",
+          "rawSection": "A-LEC (3892)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 3892,
+          "language": "E",
+          "availability": {
+            "capacity": 140,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Tat Wing - Professor CHOI Pui Tung - Professor KANG Byung Ho - Professor LIU Lin - Professor LUI Lok Ming - Professor Oleksandr SAVATIEIEV - Professor TSE Ying Lung - Professor WONG Wing Tak Jack - Professor XUE Haoran"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "YIA_LT4",
+              "instructor": "Dr. WONG Tat Wing - Professor CHOI Pui Tung - Professor KANG Byung Ho - Professor LIU Lin - Professor LUI Lok Ming - Professor Oleksandr SAVATIEIEV - Professor TSE Ying Lung - Professor WONG Wing Tak Jack - Professor XUE Haoran",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11",
+                "7/12"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

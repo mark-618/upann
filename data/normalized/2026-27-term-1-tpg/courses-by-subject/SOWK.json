@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.633Z",
+    "generatedAt": "2026-10-28T22:20:42.612Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "TPG",
     "counts": {
-      "rawFiles": 156,
-      "rawFilesScanned": 156,
-      "rawRowsSeen": 4914,
-      "courses": 819,
-      "rawCoursesWithTargetTerm": 819,
-      "subjects": 98,
-      "sections": 1247,
-      "meetings": 1700,
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -299,7 +299,7 @@
             "status": null
           },
           "instructors": [
-            "Dr LI Ping Wai"
+            "Dr. CHAN Kam Tong"
           ],
           "meetings": [
             {
@@ -313,7 +313,7 @@
               "startMinutes": 690,
               "endMinutes": 855,
               "location": "CKB_109",
-              "instructor": "Dr LI Ping Wai",
+              "instructor": "Dr. CHAN Kam Tong",
               "dates": [
                 "7/9",
                 "14/9",
@@ -453,7 +453,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor WONG Evaon Chuklan"
           ],
           "meetings": [
             {
@@ -467,7 +467,7 @@
               "startMinutes": 1110,
               "endMinutes": 1275,
               "location": "ELB_LT3",
-              "instructor": "Staff",
+              "instructor": "Professor WONG Evaon Chuklan",
               "dates": [
                 "8/9",
                 "15/9",
@@ -558,6 +558,22 @@
                 "16/11",
                 "23/11",
                 "30/11"
+              ]
+            },
+            {
+              "timeRaw": "Mo 04:30PM - 07:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "16:30",
+              "endTime": "19:15",
+              "startMinutes": 990,
+              "endMinutes": 1155,
+              "location": "ELB_405",
+              "instructor": "Professor PENG Manman",
+              "dates": [
+                "7/12"
               ]
             }
           ]
@@ -703,7 +719,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. Raees Begum BAIG"
           ],
           "meetings": [
             {
@@ -717,19 +733,15 @@
               "startMinutes": 690,
               "endMinutes": 855,
               "location": "UCC_C1",
-              "instructor": "Staff",
+              "instructor": "Dr. Raees Begum BAIG",
               "dates": [
                 "7/9",
                 "14/9",
                 "21/9",
                 "28/9",
-                "5/10",
                 "12/10",
                 "26/10",
                 "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
                 "30/11"
               ]
             },
@@ -743,8 +755,8 @@
               "endTime": "14:15",
               "startMinutes": 690,
               "endMinutes": 855,
-              "location": "TBA",
-              "instructor": "Staff",
+              "location": "UCC_C2",
+              "instructor": "Dr. Raees Begum BAIG",
               "dates": [
                 "7/12"
               ]
@@ -781,7 +793,7 @@
               "location": "FYB_107B",
               "instructor": null,
               "dates": [
-                "28/9",
+                "5/10",
                 "9/11",
                 "16/11",
                 "23/11"
@@ -819,7 +831,7 @@
               "location": "ELB_204",
               "instructor": null,
               "dates": [
-                "28/9",
+                "5/10",
                 "9/11",
                 "16/11",
                 "23/11"
@@ -845,19 +857,19 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "timeRaw": "Mo 09:30AM - 12:15PM",
               "isTba": false,
               "dayCode": "Mo",
               "day": "Monday",
               "dayIndex": 1,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
-              "location": "ELB_304",
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "TBA",
               "instructor": null,
               "dates": [
-                "28/9",
+                "5/10",
                 "9/11",
                 "16/11",
                 "23/11"
@@ -883,22 +895,22 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "Tu 09:30AM - 12:15PM",
+              "timeRaw": "Mo 02:30PM - 05:15PM",
               "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "09:30",
-              "endTime": "12:15",
-              "startMinutes": 570,
-              "endMinutes": 735,
-              "location": "UCC_105",
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "TBA",
               "instructor": null,
               "dates": [
-                "29/9",
-                "10/11",
-                "17/11",
-                "24/11"
+                "5/10",
+                "9/11",
+                "16/11",
+                "23/11"
               ]
             }
           ]
@@ -921,19 +933,19 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "timeRaw": "Tu 09:30AM - 12:15PM",
               "isTba": false,
               "dayCode": "Tu",
               "day": "Tuesday",
               "dayIndex": 2,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
               "location": "TBA",
               "instructor": null,
               "dates": [
-                "29/9",
+                "6/10",
                 "10/11",
                 "17/11",
                 "24/11"
@@ -957,7 +969,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. CHAN Yui Choi"
           ],
           "meetings": [
             {
@@ -971,7 +983,7 @@
               "startMinutes": 1110,
               "endMinutes": 1275,
               "location": "YIA_LT5",
-              "instructor": "Staff",
+              "instructor": "Dr. CHAN Yui Choi",
               "dates": [
                 "11/9",
                 "18/9",
@@ -981,10 +993,6 @@
                 "16/10",
                 "23/10",
                 "30/10",
-                "6/11",
-                "13/11",
-                "20/11",
-                "27/11",
                 "4/12",
                 "11/12"
               ]
@@ -1018,12 +1026,12 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "YIA_509",
+              "location": "YIA_406",
               "instructor": null,
               "dates": [
-                "16/10",
-                "23/10",
+                "6/11",
                 "13/11",
+                "20/11",
                 "27/11"
               ]
             }
@@ -1056,12 +1064,12 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "YIA_501",
+              "location": "YIA_408",
               "instructor": null,
               "dates": [
-                "16/10",
-                "23/10",
+                "6/11",
                 "13/11",
+                "20/11",
                 "27/11"
               ]
             }
@@ -1094,12 +1102,12 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "YIA_511",
+              "location": "YIA_410",
               "instructor": null,
               "dates": [
-                "16/10",
-                "23/10",
+                "6/11",
                 "13/11",
+                "20/11",
                 "27/11"
               ]
             }
@@ -1132,12 +1140,12 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "YIA_507",
+              "location": "YIA_401",
               "instructor": null,
               "dates": [
-                "16/10",
-                "23/10",
+                "6/11",
                 "13/11",
+                "20/11",
                 "27/11"
               ]
             }
@@ -1170,12 +1178,12 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "YIA_506",
+              "location": "YIA_404",
               "instructor": null,
               "dates": [
-                "16/10",
-                "23/10",
+                "6/11",
                 "13/11",
+                "20/11",
                 "27/11"
               ]
             }
@@ -1240,8 +1248,7 @@
               "location": "UCC_C4",
               "instructor": "Mr AU Pak Ching Romeo - Ms. LEE Wang",
               "dates": [
-                "9/9",
-                "16/9"
+                "9/9"
               ]
             },
             {
@@ -1254,25 +1261,11 @@
               "endTime": "19:15",
               "startMinutes": 990,
               "endMinutes": 1155,
-              "location": "TBA",
+              "location": "ELB_401",
               "instructor": "Mr AU Pak Ching Romeo - Ms. LEE Wang",
               "dates": [
-                "23/9"
-              ]
-            },
-            {
-              "timeRaw": "We 04:30PM - 07:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "16:30",
-              "endTime": "19:15",
-              "startMinutes": 990,
-              "endMinutes": 1155,
-              "location": "SWH_2",
-              "instructor": "Mr AU Pak Ching Romeo - Ms. LEE Wang",
-              "dates": [
+                "16/9",
+                "23/9",
                 "30/9"
               ]
             },
@@ -1316,22 +1309,22 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "We 09:30AM - 12:15PM",
+              "timeRaw": "Tu 06:30PM - 09:15PM",
               "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "09:30",
-              "endTime": "12:15",
-              "startMinutes": 570,
-              "endMinutes": 735,
-              "location": "UCC_109",
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "WMY_302",
               "instructor": null,
               "dates": [
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10"
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10"
               ]
             }
           ]
@@ -1354,16 +1347,16 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "We 02:30PM - 05:15PM",
+              "timeRaw": "We 04:30PM - 07:15PM",
               "isTba": false,
               "dayCode": "We",
               "day": "Wednesday",
               "dayIndex": 3,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
-              "location": "TBA",
+              "startTime": "16:30",
+              "endTime": "19:15",
+              "startMinutes": 990,
+              "endMinutes": 1155,
+              "location": "WMY_503",
               "instructor": null,
               "dates": [
                 "7/10",
@@ -1468,15 +1461,15 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "We 12:30PM - 03:15PM",
+              "timeRaw": "We 09:30AM - 12:15PM",
               "isTba": false,
               "dayCode": "We",
               "day": "Wednesday",
               "dayIndex": 3,
-              "startTime": "12:30",
-              "endTime": "15:15",
-              "startMinutes": 750,
-              "endMinutes": 915,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
               "location": "TBA",
               "instructor": null,
               "dates": [
@@ -1521,7 +1514,7 @@
           "sectionCode": "A",
           "component": "LEC",
           "classNumber": 1494,
-          "language": "E",
+          "language": "C&E",
           "availability": {
             "capacity": 72,
             "enrolled": null,
@@ -1531,7 +1524,7 @@
             "status": null
           },
           "instructors": [
-            "Professor KONG Dexia"
+            "Professor WONG Evaon Chuklan"
           ],
           "meetings": [
             {
@@ -1545,17 +1538,13 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "UCC_C2",
-              "instructor": "Professor KONG Dexia",
+              "instructor": "Professor WONG Evaon Chuklan",
               "dates": [
                 "11/9",
                 "18/9",
-                "25/9",
                 "2/10",
-                "9/10",
                 "16/10",
-                "23/10",
                 "30/10",
-                "6/11",
                 "13/11",
                 "20/11",
                 "27/11",
@@ -1571,7 +1560,7 @@
           "sectionCode": "AT01",
           "component": "TUT",
           "classNumber": null,
-          "language": "E",
+          "language": "C&E",
           "availability": {
             "capacity": 14,
             "enrolled": null,
@@ -1621,6 +1610,22 @@
           "instructors": [],
           "meetings": [
             {
+              "timeRaw": "Mo 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "YIA_407",
+              "instructor": null,
+              "dates": [
+                "21/9"
+              ]
+            },
+            {
               "timeRaw": "Fr 02:30PM - 05:15PM",
               "isTba": false,
               "dayCode": "Fr",
@@ -1633,7 +1638,6 @@
               "location": "UCC_109",
               "instructor": null,
               "dates": [
-                "25/9",
                 "9/10",
                 "23/10",
                 "6/11"
@@ -1659,22 +1663,22 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "timeRaw": "Mo 06:30PM - 09:15PM",
               "isTba": false,
-              "dayCode": "Fr",
-              "day": "Friday",
-              "dayIndex": 5,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
-              "location": "UCC_111",
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "WMY_401",
               "instructor": null,
               "dates": [
-                "25/9",
-                "9/10",
-                "23/10",
-                "6/11"
+                "21/9",
+                "5/10",
+                "26/10",
+                "2/11"
               ]
             }
           ]
@@ -1697,22 +1701,22 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "timeRaw": "Tu 02:30PM - 05:15PM",
               "isTba": false,
-              "dayCode": "Fr",
-              "day": "Friday",
-              "dayIndex": 5,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
               "startTime": "14:30",
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "UCC_108",
+              "location": "TBA",
               "instructor": null,
               "dates": [
-                "25/9",
-                "9/10",
-                "23/10",
-                "6/11"
+                "22/9",
+                "6/10",
+                "20/10",
+                "3/11"
               ]
             }
           ]
@@ -1735,22 +1739,22 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "timeRaw": "Tu 02:30PM - 05:15PM",
               "isTba": false,
-              "dayCode": "Fr",
-              "day": "Friday",
-              "dayIndex": 5,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
               "startTime": "14:30",
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "UCA_111",
+              "location": "TBA",
               "instructor": null,
               "dates": [
-                "25/9",
-                "9/10",
-                "23/10",
-                "6/11"
+                "22/9",
+                "6/10",
+                "20/10",
+                "3/11"
               ]
             }
           ]
@@ -1791,11 +1795,7 @@
                 "15/9",
                 "22/9",
                 "29/9",
-                "6/10",
-                "13/10",
                 "20/10",
-                "27/10",
-                "3/11",
                 "10/11",
                 "17/11",
                 "24/11",
@@ -2051,11 +2051,26 @@
               "endTime": "19:15",
               "startMinutes": 990,
               "endMinutes": 1155,
-              "location": "NAH_213",
+              "location": "NAH_11",
               "instructor": "Dr. WONG Chun Miao",
               "dates": [
                 "9/9",
-                "16/9",
+                "16/9"
+              ]
+            },
+            {
+              "timeRaw": "We 04:30PM - 07:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "19:15",
+              "startMinutes": 990,
+              "endMinutes": 1155,
+              "location": "NAH_213",
+              "instructor": "Dr. WONG Chun Miao",
+              "dates": [
                 "23/9",
                 "30/9",
                 "7/10",
@@ -2067,6 +2082,22 @@
                 "18/11",
                 "25/11",
                 "2/12"
+              ]
+            },
+            {
+              "timeRaw": "We 04:30PM - 07:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "16:30",
+              "endTime": "19:15",
+              "startMinutes": 990,
+              "endMinutes": 1155,
+              "location": "ELB_LT2",
+              "instructor": "Dr. WONG Chun Miao",
+              "dates": [
+                "9/12"
               ]
             }
           ]
@@ -2175,7 +2206,7 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "TBA",
+              "location": "FYB_402",
               "instructor": null,
               "dates": [
                 "8/10",
@@ -2251,7 +2282,7 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "TBA",
+              "location": "FYB_107B",
               "instructor": null,
               "dates": [
                 "8/10",
@@ -2327,7 +2358,7 @@
               "endTime": "12:15",
               "startMinutes": 570,
               "endMinutes": 735,
-              "location": "TBA",
+              "location": "ELB_204",
               "instructor": null,
               "dates": [
                 "8/10",
@@ -2367,7 +2398,7 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "LSB_LT3",
+              "location": "WMY_407",
               "instructor": "Professor LEUNG Yuk Ki",
               "dates": [
                 "10/9",
@@ -2685,7 +2716,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Ms. LIN Yuen Ying"
           ],
           "meetings": [
             {
@@ -2699,7 +2730,7 @@
               "startMinutes": 990,
               "endMinutes": 1275,
               "location": "TBA",
-              "instructor": "Staff",
+              "instructor": "Ms. LIN Yuen Ying",
               "dates": [
                 "10/12"
               ]
@@ -2715,7 +2746,7 @@
               "startMinutes": 1110,
               "endMinutes": 1275,
               "location": "WMY_501",
-              "instructor": "Staff",
+              "instructor": "Ms. LIN Yuen Ying",
               "dates": [
                 "10/9",
                 "17/9",
@@ -3615,7 +3646,7 @@
             "status": null
           },
           "instructors": [
-            "Ms. CHAN Sin Han Catalina"
+            "Miss LIU Lai Yung Annie - Ms. CHAN Sin Han Catalina"
           ],
           "meetings": [
             {
@@ -3629,13 +3660,28 @@
               "startMinutes": 1110,
               "endMinutes": 1275,
               "location": "WMY_504",
-              "instructor": "Ms. CHAN Sin Han Catalina",
+              "instructor": "Miss LIU Lai Yung Annie - Ms. CHAN Sin Han Catalina",
               "dates": [
                 "7/9",
                 "14/9",
                 "21/9",
                 "28/9",
-                "5/10",
+                "5/10"
+              ]
+            },
+            {
+              "timeRaw": "Mo 06:30PM - 09:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "18:30",
+              "endTime": "21:15",
+              "startMinutes": 1110,
+              "endMinutes": 1275,
+              "location": "ARC_212",
+              "instructor": "Miss LIU Lai Yung Annie - Ms. CHAN Sin Han Catalina",
+              "dates": [
                 "12/10",
                 "26/10",
                 "2/11",
@@ -3728,7 +3774,7 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "TBA",
+              "location": "UCC_514",
               "instructor": "Dr. LEUNG Kit Ting",
               "dates": [
                 "9/9",
@@ -3738,13 +3784,27 @@
                 "7/10",
                 "14/10",
                 "21/10",
-                "28/10",
+                "28/10"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ELB_202",
+              "instructor": "Dr. LEUNG Kit Ting",
+              "dates": [
                 "4/11",
                 "11/11",
                 "18/11",
                 "25/11",
-                "2/12",
-                "9/12"
+                "2/12"
               ]
             }
           ]
@@ -3842,7 +3902,7 @@
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. WAN Lap Man"
           ],
           "meetings": [
             {
@@ -3856,7 +3916,7 @@
               "startMinutes": 1110,
               "endMinutes": 1275,
               "location": "LSK_LT7",
-              "instructor": "Staff",
+              "instructor": "Dr. WAN Lap Man",
               "dates": [
                 "9/9",
                 "16/9",
@@ -3941,12 +4001,8 @@
                 "28/9",
                 "5/10",
                 "12/10",
-                "26/10",
                 "2/11",
-                "9/11",
                 "16/11",
-                "23/11",
-                "30/11",
                 "7/12",
                 "14/12"
               ]
@@ -3980,7 +4036,7 @@
               "endTime": "12:15",
               "startMinutes": 570,
               "endMinutes": 735,
-              "location": "TBA",
+              "location": "UCC_108",
               "instructor": null,
               "dates": [
                 "26/10",
@@ -4018,25 +4074,10 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "TBA",
-              "instructor": null,
-              "dates": [
-                "26/10"
-              ]
-            },
-            {
-              "timeRaw": "Mo 02:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
               "location": "FYB_107B",
               "instructor": null,
               "dates": [
+                "26/10",
                 "9/11",
                 "23/11",
                 "30/11"
@@ -4109,25 +4150,10 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "TBA",
-              "instructor": null,
-              "dates": [
-                "26/10"
-              ]
-            },
-            {
-              "timeRaw": "Mo 02:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
               "location": "FYB_403",
               "instructor": null,
               "dates": [
+                "26/10",
                 "9/11",
                 "23/11",
                 "30/11"
@@ -4162,7 +4188,7 @@
               "endTime": "12:15",
               "startMinutes": 570,
               "endMinutes": 735,
-              "location": "TBA",
+              "location": "UCC_105",
               "instructor": null,
               "dates": [
                 "26/10",
@@ -4229,7 +4255,7 @@
               "endTime": "16:15",
               "startMinutes": 810,
               "endMinutes": 975,
-              "location": "UCC_C1",
+              "location": "ELB_405",
               "instructor": "Mr. LEUNG Wing Yee",
               "dates": [
                 "11/9",
@@ -4242,7 +4268,22 @@
                 "30/10",
                 "6/11",
                 "13/11",
-                "20/11",
+                "20/11"
+              ]
+            },
+            {
+              "timeRaw": "Fr 01:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "13:30",
+              "endTime": "16:15",
+              "startMinutes": 810,
+              "endMinutes": 975,
+              "location": "WMY_305",
+              "instructor": "Mr. LEUNG Wing Yee",
+              "dates": [
                 "27/11",
                 "4/12",
                 "11/12"

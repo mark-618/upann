@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
@@ -61,8 +61,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 59,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -108,7 +108,7 @@
               "endTime": "16:15",
               "startMinutes": 930,
               "endMinutes": 975,
-              "location": "NAH_213",
+              "location": "LSK_515",
               "instructor": "Professor FU Chi Wing",
               "dates": [
                 "10/9",
@@ -136,8 +136,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 59,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -154,7 +154,7 @@
               "endTime": "17:15",
               "startMinutes": 990,
               "endMinutes": 1035,
-              "location": "NAH_213",
+              "location": "LSK_515",
               "instructor": null,
               "dates": [
                 "10/9",
@@ -209,8 +209,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 45,
+            "availableSeats": 15,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -285,8 +285,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 45,
+            "availableSeats": 15,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -359,8 +359,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 39,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -463,8 +463,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 39,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -537,8 +537,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -613,8 +613,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -686,8 +686,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 50,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -762,8 +762,8 @@
           "language": "E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 50,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -795,155 +795,6 @@
                 "19/11",
                 "26/11",
                 "3/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ESTR2100",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/eno/ENO.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "ESTR",
-      "catalogNumber": "2100",
-      "courseCode": "ESTR2100",
-      "title": "Embedded System Design 嵌入式系統設計",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, LAB",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Fac Office of Engineering",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "ESTR2100:-:LEC:7747",
-          "rawSection": "--LEC (7747)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 7747,
-          "language": "E",
-          "availability": {
-            "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Professor XU Qiang"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Mo 03:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "15:30",
-              "endTime": "16:15",
-              "startMinutes": 930,
-              "endMinutes": 975,
-              "location": "LSB_LT4",
-              "instructor": "Professor XU Qiang",
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            },
-            {
-              "timeRaw": "Tu 04:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "16:30",
-              "endTime": "18:15",
-              "startMinutes": 990,
-              "endMinutes": 1095,
-              "location": "ERB_404",
-              "instructor": "Professor XU Qiang",
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ESTR2100:-L01:LAB:no-class-number",
-          "rawSection": "-L01-LAB",
-          "sectionCode": "-L01",
-          "component": "LAB",
-          "classNumber": null,
-          "language": "E",
-          "availability": {
-            "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Mo 02:30PM - 03:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "14:30",
-              "endTime": "15:15",
-              "startMinutes": 870,
-              "endMinutes": 915,
-              "location": "SHB_102",
-              "instructor": null,
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
               ]
             }
           ]
@@ -984,8 +835,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 10,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1061,8 +912,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 10,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1151,8 +1002,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 6,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1301,8 +1152,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 1,
+            "availableSeats": 9,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1348,8 +1199,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 4,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1395,8 +1246,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 1,
+            "availableSeats": 9,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1469,8 +1320,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 10,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1546,8 +1397,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 10,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1608,8 +1459,8 @@
           "language": "E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 30,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1711,8 +1562,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 2,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1758,8 +1609,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 7,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1805,8 +1656,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 10,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1851,8 +1702,8 @@
           "language": "E",
           "availability": {
             "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "enrolled": 10,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1924,8 +1775,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2028,8 +1879,8 @@
           "language": "E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2102,8 +1953,8 @@
           "language": "E",
           "availability": {
             "capacity": 23,
-            "enrolled": 0,
-            "availableSeats": 23,
+            "enrolled": 9,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2179,8 +2030,8 @@
           "language": "E",
           "availability": {
             "capacity": 23,
-            "enrolled": 0,
-            "availableSeats": 23,
+            "enrolled": 9,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2240,9 +2091,9 @@
           "classNumber": 7646,
           "language": "E",
           "availability": {
-            "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "capacity": 9,
+            "enrolled": 9,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2289,7 +2140,7 @@
               "endTime": "16:15",
               "startMinutes": 930,
               "endMinutes": 975,
-              "location": "SWH_2",
+              "location": "UCC_C3",
               "instructor": "Professor LI Yu",
               "dates": [
                 "10/9",
@@ -2316,7 +2167,7 @@
               "endTime": "17:15",
               "startMinutes": 990,
               "endMinutes": 1035,
-              "location": "SWH_2",
+              "location": "UCC_C3",
               "instructor": "Professor LI Yu",
               "dates": [
                 "10/9",
@@ -2343,9 +2194,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "capacity": 9,
+            "enrolled": 9,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2362,7 +2213,7 @@
               "endTime": "18:15",
               "startMinutes": 1050,
               "endMinutes": 1095,
-              "location": "SWH_2",
+              "location": "UCC_C3",
               "instructor": null,
               "dates": [
                 "10/9",
@@ -2417,8 +2268,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 3,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2454,8 +2305,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 2,
+            "availableSeats": 30,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2491,8 +2342,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 3,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2528,8 +2379,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 1,
+            "availableSeats": 31,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2565,8 +2416,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 1,
+            "availableSeats": 31,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2602,8 +2453,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 4,
+            "availableSeats": 28,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2639,8 +2490,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 4,
+            "availableSeats": 28,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2676,8 +2527,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 3,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2713,8 +2564,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 3,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2750,8 +2601,8 @@
           "language": "E",
           "availability": {
             "capacity": 32,
-            "enrolled": 0,
-            "availableSeats": 32,
+            "enrolled": 1,
+            "availableSeats": 31,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2787,8 +2638,8 @@
           "language": "E",
           "availability": {
             "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "enrolled": 1,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2824,8 +2675,8 @@
           "language": "E",
           "availability": {
             "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "enrolled": 1,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2861,8 +2712,8 @@
           "language": "E",
           "availability": {
             "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "enrolled": 1,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2898,8 +2749,8 @@
           "language": "E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 2,
+            "availableSeats": 28,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2935,8 +2786,8 @@
           "language": "E",
           "availability": {
             "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "enrolled": 1,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2972,8 +2823,8 @@
           "language": "E",
           "availability": {
             "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "enrolled": 1,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3009,8 +2860,8 @@
           "language": "E",
           "availability": {
             "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "enrolled": 1,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3046,8 +2897,8 @@
           "language": "E",
           "availability": {
             "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "enrolled": 1,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3083,8 +2934,8 @@
           "language": "E",
           "availability": {
             "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "enrolled": 1,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3105,6 +2956,70 @@
               "endMinutes": null,
               "location": "NRR",
               "instructor": "Professor AHN Dohyun",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ESTR4999",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/eno/ENO.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "ESTR",
+      "catalogNumber": "4999",
+      "courseCode": "ESTR4999",
+      "title": "Graduation Thesis II 畢業專題研究（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Fac Office of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "ESTR4999:AEJ1:PRJ:10197",
+          "rawSection": "AEJ1-PRJ (10197)",
+          "sectionCode": "AEJ1",
+          "component": "PRJ",
+          "classNumber": 10197,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": 1,
+            "availableSeats": 4,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LI Yu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LI Yu",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]

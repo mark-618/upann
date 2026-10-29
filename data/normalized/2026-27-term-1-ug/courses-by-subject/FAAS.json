@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
@@ -61,8 +61,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -110,8 +110,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -157,8 +157,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 19,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -205,8 +205,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 19,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -278,14 +278,14 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. HO Weng Chi"
           ],
           "meetings": [
             {
@@ -299,7 +299,7 @@
               "startMinutes": 690,
               "endMinutes": 795,
               "location": "NAA_204",
-              "instructor": "Staff",
+              "instructor": "Dr. HO Weng Chi",
               "dates": [
                 "10/9",
                 "17/9",
@@ -326,8 +326,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -372,8 +372,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -421,8 +421,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -440,128 +440,6 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "NAA_204",
-              "instructor": null,
-              "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "FAAS1130",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/faa/FAA.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "FAAS",
-      "catalogNumber": "1130",
-      "courseCode": "FAAS1130",
-      "title": "Principles of Chi Painting 國畫基礎",
-      "units": 2,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, EXR",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Fine Arts",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "FAAS1130:-:LEC:9882",
-          "rawSection": "--LEC (9882)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 9882,
-          "language": "C",
-          "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Miss CHEUNG Fan Fong"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Mo 11:30AM - 01:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "11:30",
-              "endTime": "13:15",
-              "startMinutes": 690,
-              "endMinutes": 795,
-              "location": "NAA_207",
-              "instructor": "Miss CHEUNG Fan Fong",
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FAAS1130:-E01:EXR:no-class-number",
-          "rawSection": "-E01-EXR",
-          "sectionCode": "-E01",
-          "component": "EXR",
-          "classNumber": null,
-          "language": "C",
-          "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "We 10:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "10:30",
-              "endTime": "12:15",
-              "startMinutes": 630,
-              "endMinutes": 735,
-              "location": "NAA_207",
               "instructor": null,
               "dates": [
                 "9/9",
@@ -617,8 +495,8 @@
           "language": "C",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 14,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -666,8 +544,8 @@
           "language": "C",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 14,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -740,8 +618,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 45,
+            "availableSeats": 15,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -788,8 +666,8 @@
           "language": "E",
           "availability": {
             "capacity": 60,
-            "enrolled": 0,
-            "availableSeats": 60,
+            "enrolled": 45,
+            "availableSeats": 15,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -861,8 +739,8 @@
           "language": "P",
           "availability": {
             "capacity": 70,
-            "enrolled": 0,
-            "availableSeats": 70,
+            "enrolled": 70,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -909,8 +787,8 @@
           "language": "P",
           "availability": {
             "capacity": 70,
-            "enrolled": 0,
-            "availableSeats": 70,
+            "enrolled": 70,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -983,8 +861,8 @@
           "language": "P",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 33,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1032,8 +910,8 @@
           "language": "P",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 33,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1106,8 +984,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 17,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1155,8 +1033,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 17,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1202,8 +1080,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 17,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1276,8 +1154,8 @@
           "language": "C",
           "availability": {
             "capacity": 18,
-            "enrolled": 0,
-            "availableSeats": 18,
+            "enrolled": 13,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1324,8 +1202,8 @@
           "language": "C",
           "availability": {
             "capacity": 18,
-            "enrolled": 0,
-            "availableSeats": 18,
+            "enrolled": 13,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1397,8 +1275,8 @@
           "language": "C",
           "availability": {
             "capacity": 18,
-            "enrolled": 0,
-            "availableSeats": 18,
+            "enrolled": 13,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1446,8 +1324,8 @@
           "language": "C",
           "availability": {
             "capacity": 18,
-            "enrolled": 0,
-            "availableSeats": 18,
+            "enrolled": 13,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1520,8 +1398,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 19,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1568,8 +1446,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 19,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1640,9 +1518,9 @@
           "classNumber": 8846,
           "language": "E",
           "availability": {
-            "capacity": 13,
-            "enrolled": 0,
-            "availableSeats": 13,
+            "capacity": 15,
+            "enrolled": 12,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1688,9 +1566,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 13,
-            "enrolled": 0,
-            "availableSeats": 13,
+            "capacity": 15,
+            "enrolled": 12,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1761,9 +1639,9 @@
           "classNumber": 8842,
           "language": "C",
           "availability": {
-            "capacity": 12,
-            "enrolled": 0,
-            "availableSeats": 12,
+            "capacity": 14,
+            "enrolled": 14,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1810,9 +1688,9 @@
           "classNumber": null,
           "language": "C",
           "availability": {
-            "capacity": 12,
-            "enrolled": 0,
-            "availableSeats": 12,
+            "capacity": 14,
+            "enrolled": 14,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1830,129 +1708,6 @@
               "startMinutes": 990,
               "endMinutes": 1035,
               "location": "NAH_2",
-              "instructor": null,
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "FAAS3112",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/faa/FAA.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "FAAS",
-      "catalogNumber": "3112",
-      "courseCode": "FAAS3112",
-      "title": "Ritual Bronzes of Ancient Chi 吉金──中國古代青銅禮器",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, TUT",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Fine Arts",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "FAAS3112:-:LEC:4768",
-          "rawSection": "--LEC (4768)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 4768,
-          "language": "P",
-          "availability": {
-            "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Professor PENG Peng"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 10:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "10:30",
-              "endTime": "12:15",
-              "startMinutes": 630,
-              "endMinutes": 735,
-              "location": "UCC_201",
-              "instructor": "Professor PENG Peng",
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FAAS3112:-T01:TUT:no-class-number",
-          "rawSection": "-T01-TUT",
-          "sectionCode": "-T01",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "P",
-          "availability": {
-            "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Tu 12:30PM - 01:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "12:30",
-              "endTime": "13:15",
-              "startMinutes": 750,
-              "endMinutes": 795,
-              "location": "UCC_201",
               "instructor": null,
               "dates": [
                 "8/9",
@@ -2007,9 +1762,9 @@
           "classNumber": 8728,
           "language": "C",
           "availability": {
-            "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "capacity": 17,
+            "enrolled": 17,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2055,9 +1810,9 @@
           "classNumber": null,
           "language": "C",
           "availability": {
-            "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "capacity": 17,
+            "enrolled": 17,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2128,9 +1883,9 @@
           "classNumber": 8747,
           "language": "C",
           "availability": {
-            "capacity": 12,
-            "enrolled": 0,
-            "availableSeats": 12,
+            "capacity": 14,
+            "enrolled": 14,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2177,9 +1932,9 @@
           "classNumber": null,
           "language": "C",
           "availability": {
-            "capacity": 12,
-            "enrolled": 0,
-            "availableSeats": 12,
+            "capacity": 14,
+            "enrolled": 14,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2252,8 +2007,8 @@
           "language": "P",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2301,8 +2056,8 @@
           "language": "P",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2375,8 +2130,8 @@
           "language": "P",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2424,8 +2179,8 @@
           "language": "P",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2498,8 +2253,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 18,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2546,8 +2301,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 18,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2619,8 +2374,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 15,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2656,8 +2411,8 @@
           "language": "C",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 15,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2892,15 +2647,15 @@
           "classNumber": 9229,
           "language": "E",
           "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "capacity": 45,
+            "enrolled": 40,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Professor LI Yu Chieh"
+            "Dr. WONG Wai Yin"
           ],
           "meetings": [
             {
@@ -2914,7 +2669,7 @@
               "startMinutes": 690,
               "endMinutes": 795,
               "location": "UCC_201",
-              "instructor": "Professor LI Yu Chieh",
+              "instructor": "Dr. WONG Wai Yin",
               "dates": [
                 "10/9",
                 "17/9",
@@ -2940,9 +2695,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "capacity": 45,
+            "enrolled": 40,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3014,8 +2769,8 @@
           "language": "P",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 11,
+            "availableSeats": 9,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3062,8 +2817,8 @@
           "language": "P",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 11,
+            "availableSeats": 9,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3081,127 +2836,6 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "NAA_207",
-              "instructor": null,
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "FAAS4214",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/faa/FAA.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "FAAS",
-      "catalogNumber": "4214",
-      "courseCode": "FAAS4214",
-      "title": "Modern Ink Painting 現代水墨",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, EXR",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Fine Arts",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "FAAS4214:-:LEC:8945",
-          "rawSection": "--LEC (8945)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 8945,
-          "language": "C",
-          "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Mr. NG Kwun Lun Tony"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Mo 12:30PM - 02:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "12:30",
-              "endTime": "14:15",
-              "startMinutes": 750,
-              "endMinutes": 855,
-              "location": "NAA_204",
-              "instructor": "Mr. NG Kwun Lun Tony",
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FAAS4214:-E01:EXR:no-class-number",
-          "rawSection": "-E01-EXR",
-          "sectionCode": "-E01",
-          "component": "EXR",
-          "classNumber": null,
-          "language": "C",
-          "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Mo 10:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "10:30",
-              "endTime": "12:15",
-              "startMinutes": 630,
-              "endMinutes": 735,
-              "location": "NAA_204",
               "instructor": null,
               "dates": [
                 "7/9",
@@ -3256,8 +2890,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 4,
+            "availableSeats": 16,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3293,8 +2927,8 @@
           "language": "P",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 2,
+            "availableSeats": 18,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3330,8 +2964,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 1,
+            "availableSeats": 19,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3367,8 +3001,8 @@
           "language": "P",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 7,
+            "availableSeats": 13,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3404,8 +3038,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 13,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3441,8 +3075,8 @@
           "language": "P",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 6,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null

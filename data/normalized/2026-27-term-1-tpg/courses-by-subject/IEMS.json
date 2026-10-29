@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.633Z",
+    "generatedAt": "2026-10-28T22:20:42.612Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "TPG",
     "counts": {
-      "rawFiles": 156,
-      "rawFilesScanned": 156,
-      "rawRowsSeen": 4914,
-      "courses": 819,
-      "rawCoursesWithTargetTerm": 819,
-      "subjects": 98,
-      "sections": 1247,
-      "meetings": 1700,
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -381,15 +381,15 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Tu 07:00PM - 09:30PM",
+              "timeRaw": "Tu 07:00PM - 10:00PM",
               "isTba": false,
               "dayCode": "Tu",
               "day": "Tuesday",
               "dayIndex": 2,
               "startTime": "19:00",
-              "endTime": "21:30",
+              "endTime": "22:00",
               "startMinutes": 1140,
-              "endMinutes": 1290,
+              "endMinutes": 1320,
               "location": "CYT_LT1A",
               "instructor": "Dr. YIN Ho Fai Hoover",
               "dates": [
@@ -406,6 +406,82 @@
                 "17/11",
                 "24/11",
                 "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IEMS5719",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/iergv/IERGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "IEMS",
+      "catalogNumber": "5719",
+      "courseCode": "IEMS5719",
+      "title": "Technology Strategy 技術策略",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Information Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IEMS5719:A:LEC:10069",
+          "rawSection": "A-LEC (10069)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 10069,
+          "language": "E",
+          "availability": {
+            "capacity": 140,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. CHENG Benedict Kin Fan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 07:00PM - 10:00PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "19:00",
+              "endTime": "22:00",
+              "startMinutes": 1140,
+              "endMinutes": 1320,
+              "location": "SC_L1",
+              "instructor": "Mr. CHENG Benedict Kin Fan",
+              "dates": [
+                "11/9",
+                "18/9",
+                "25/9",
+                "2/10",
+                "9/10",
+                "16/10",
+                "23/10",
+                "30/10",
+                "6/11",
+                "13/11",
+                "20/11",
+                "27/11",
+                "4/12"
               ]
             }
           ]
@@ -457,15 +533,15 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Mo 07:00PM - 09:30PM",
+              "timeRaw": "Mo 07:00PM - 10:00PM",
               "isTba": false,
               "dayCode": "Mo",
               "day": "Monday",
               "dayIndex": 1,
               "startTime": "19:00",
-              "endTime": "21:30",
+              "endTime": "22:00",
               "startMinutes": 1140,
-              "endMinutes": 1290,
+              "endMinutes": 1320,
               "location": "LSK_LT5",
               "instructor": "Mr. NG Sau Koon",
               "dates": [
@@ -608,15 +684,15 @@
           ],
           "meetings": [
             {
-              "timeRaw": "We 07:00PM - 09:30PM",
+              "timeRaw": "We 07:00PM - 10:00PM",
               "isTba": false,
               "dayCode": "We",
               "day": "Wednesday",
               "dayIndex": 3,
               "startTime": "19:00",
-              "endTime": "21:30",
+              "endTime": "22:00",
               "startMinutes": 1140,
-              "endMinutes": 1290,
+              "endMinutes": 1320,
               "location": "CYT_LT1B",
               "instructor": "Dr. MA Pui Kit",
               "dates": [
@@ -878,7 +954,7 @@
           "classNumber": 3939,
           "language": "E",
           "availability": {
-            "capacity": 83,
+            "capacity": 80,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -927,7 +1003,7 @@
           "classNumber": 1354,
           "language": "E",
           "availability": {
-            "capacity": 83,
+            "capacity": 80,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -960,10 +1036,348 @@
                 "23/10",
                 "30/10",
                 "6/11",
-                "13/11",
                 "20/11",
                 "27/11",
                 "4/12"
+              ]
+            },
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "ERB_LT",
+              "instructor": "Dr. YIP Kit Sang Danny",
+              "dates": [
+                "13/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IEMS5910",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/iergv/IERGV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "IEMS",
+      "catalogNumber": "5910",
+      "courseCode": "IEMS5910",
+      "title": "Adv Research & Dev Project I 高級研究與開發計劃 I",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Information Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IEMS5910:CJ01:PRJ:10259",
+          "rawSection": "CJ01-PRJ (10259)",
+          "sectionCode": "CJ01",
+          "component": "PRJ",
+          "classNumber": 10259,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHAO Changhong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHAO Changhong",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IEMS5910:DJ01:PRJ:10260",
+          "rawSection": "DJ01-PRJ (10260)",
+          "sectionCode": "DJ01",
+          "component": "PRJ",
+          "classNumber": 10260,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHIU Dah Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHIU Dah Ming",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IEMS5910:GJ01:PRJ:10261",
+          "rawSection": "GJ01-PRJ (10261)",
+          "sectionCode": "GJ01",
+          "component": "PRJ",
+          "classNumber": 10261,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor XING Guoliang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor XING Guoliang",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IEMS5910:HJ01:PRJ:10262",
+          "rawSection": "HJ01-PRJ (10262)",
+          "sectionCode": "HJ01",
+          "component": "PRJ",
+          "classNumber": 10262,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEN He"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHEN He",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IEMS5910:LJ01:PRJ:10263",
+          "rawSection": "LJ01-PRJ (10263)",
+          "sectionCode": "LJ01",
+          "component": "PRJ",
+          "classNumber": 10263,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LIEW Soung Chang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LIEW Soung Chang",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IEMS5910:NJ01:PRJ:10264",
+          "rawSection": "NJ01-PRJ (10264)",
+          "sectionCode": "NJ01",
+          "component": "PRJ",
+          "classNumber": 10264,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Mr. CHENG Benedict Kin Fan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Mr. CHENG Benedict Kin Fan",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IEMS5910:SJ01:PRJ:10265",
+          "rawSection": "SJ01-PRJ (10265)",
+          "sectionCode": "SJ01",
+          "component": "PRJ",
+          "classNumber": 10265,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHOW Sze Ming"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor CHOW Sze Ming",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IEMS5910:ZJ01:PRJ:10266",
+          "rawSection": "ZJ01-PRJ (10266)",
+          "sectionCode": "ZJ01",
+          "component": "PRJ",
+          "classNumber": 10266,
+          "language": "E",
+          "availability": {
+            "capacity": 99,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor YAN Zhenyu"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor YAN Zhenyu",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
               ]
             }
           ]

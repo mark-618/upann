@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
@@ -61,8 +61,8 @@
           "language": "E",
           "availability": {
             "capacity": 72,
-            "enrolled": 0,
-            "availableSeats": 72,
+            "enrolled": 72,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -136,14 +136,14 @@
           "language": "C#E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 36,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. LAM Ho Yan Dominic"
           ],
           "meetings": [
             {
@@ -157,7 +157,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "LHCH",
-              "instructor": "Staff",
+              "instructor": "Mr. LAM Ho Yan Dominic",
               "dates": [
                 "10/9",
                 "17/9",
@@ -211,8 +211,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 13,
+            "availableSeats": 27,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -275,8 +275,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 24,
+            "availableSeats": 16,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -339,8 +339,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 1,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -350,19 +350,30 @@
           ],
           "meetings": [
             {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "TBA",
+              "timeRaw": "Mo 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "HYS_LG01",
               "instructor": "Mr LEUNG Wai Wa Raymond",
               "dates": [
-                "07/09/2026 - 30/11/2026"
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
               ]
             }
           ]
@@ -403,8 +414,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 6,
+            "availableSeats": 34,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -434,7 +445,7 @@
       ]
     },
     {
-      "id": "MUSC1017",
+      "id": "MUSC1018",
       "source": {
         "id": "cuhk-official-public-timetable",
         "rawFile": "by-org/mus/MUS.json"
@@ -444,9 +455,9 @@
         "name": "2026-27 Term 1"
       },
       "subject": "MUSC",
-      "catalogNumber": "1017",
-      "courseCode": "MUSC1017",
-      "title": "Javanese Gamelan Ensemble I 印尼爪哇甘美朗理論與實技一",
+      "catalogNumber": "1018",
+      "courseCode": "MUSC1018",
+      "title": "Jazz Ensemble I 爵士樂合奏一",
       "units": 1,
       "career": "UG",
       "gradingBasis": null,
@@ -459,50 +470,38 @@
       "description": null,
       "sections": [
         {
-          "id": "MUSC1017:-:LEC:8298",
-          "rawSection": "--LEC (8298)",
+          "id": "MUSC1018:-:LEC:10248",
+          "rawSection": "--LEC (10248)",
           "sectionCode": "-",
           "component": "LEC",
-          "classNumber": 8298,
+          "classNumber": 10248,
           "language": "E",
           "availability": {
-            "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "capacity": 30,
+            "enrolled": 1,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Professor Deborah Jane WAUGH"
+            "Professor Adam Joseph KIELMAN"
           ],
           "meetings": [
             {
-              "timeRaw": "Tu 02:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "14:30",
-              "endTime": "16:15",
-              "startMinutes": 870,
-              "endMinutes": 975,
-              "location": "HYS_LG02",
-              "instructor": "Professor Deborah Jane WAUGH",
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Adam Joseph KIELMAN",
               "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
+                "07/09/2026 - 30/11/2026"
               ]
             }
           ]
@@ -543,8 +542,8 @@
           "language": "C#E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 7,
+            "availableSeats": 23,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -618,8 +617,8 @@
           "language": "C#E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 6,
+            "availableSeats": 24,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -694,8 +693,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 7,
+            "availableSeats": 33,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -758,8 +757,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 40,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -834,14 +833,14 @@
           "language": "C#E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 29,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. LAM Ho Yan Dominic"
           ],
           "meetings": [
             {
@@ -855,7 +854,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "LHCH",
-              "instructor": "Staff",
+              "instructor": "Mr. LAM Ho Yan Dominic",
               "dates": [
                 "10/9",
                 "17/9",
@@ -909,8 +908,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 11,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -973,8 +972,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 26,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1037,8 +1036,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 1,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1048,19 +1047,30 @@
           ],
           "meetings": [
             {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "TBA",
+              "timeRaw": "Mo 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "HYS_LG01",
               "instructor": "Mr LEUNG Wai Wa Raymond",
               "dates": [
-                "07/09/2026 - 30/11/2026"
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
               ]
             }
           ]
@@ -1101,8 +1111,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 11,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1165,8 +1175,8 @@
           "language": "E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 1,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1208,6 +1218,70 @@
       ]
     },
     {
+      "id": "MUSC2018",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "2018",
+      "courseCode": "MUSC2018",
+      "title": "Jazz Ensemble III 爵士樂合奏三",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC2018:-:LEC:10249",
+          "rawSection": "--LEC (10249)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10249,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 1,
+            "availableSeats": 29,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Adam Joseph KIELMAN"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Adam Joseph KIELMAN",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "MUSC2031",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -1241,8 +1315,8 @@
           "language": "C#E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 4,
+            "availableSeats": 26,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1316,8 +1390,8 @@
           "language": "C#E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 8,
+            "availableSeats": 22,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1392,8 +1466,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 3,
+            "availableSeats": 37,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1456,14 +1530,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 36,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. WONG Chun Wai"
           ],
           "meetings": [
             {
@@ -1477,7 +1551,7 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "HYS_LG04",
-              "instructor": "Staff",
+              "instructor": "Dr. WONG Chun Wai",
               "dates": [
                 "7/9",
                 "14/9",
@@ -1531,8 +1605,8 @@
           "language": "C",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 32,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1606,14 +1680,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 40,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor WONG Hei Yin"
           ],
           "meetings": [
             {
@@ -1627,7 +1701,7 @@
               "startMinutes": 690,
               "endMinutes": 795,
               "location": "HYS_LG04",
-              "instructor": "Staff",
+              "instructor": "Professor WONG Hei Yin",
               "dates": [
                 "9/9",
                 "16/9",
@@ -1642,70 +1716,6 @@
                 "18/11",
                 "25/11",
                 "2/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "MUSC2913",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/mus/MUS.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "MUSC",
-      "catalogNumber": "2913",
-      "courseCode": "MUSC2913",
-      "title": "Selected Study I 專題研讀一",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Music",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "MUSC2913:-:LEC:8073",
-          "rawSection": "--LEC (8073)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 8073,
-          "language": "C&E",
-          "availability": {
-            "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": "Staff",
-              "dates": [
-                "07/09/2026 - 30/11/2026"
               ]
             }
           ]
@@ -1746,14 +1756,14 @@
           "language": "C#E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 5,
+            "availableSeats": 25,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. LAM Ho Yan Dominic"
           ],
           "meetings": [
             {
@@ -1767,7 +1777,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "LHCH",
-              "instructor": "Staff",
+              "instructor": "Mr. LAM Ho Yan Dominic",
               "dates": [
                 "10/9",
                 "17/9",
@@ -1821,8 +1831,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 10,
+            "availableSeats": 30,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1885,8 +1895,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 10,
+            "availableSeats": 30,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1949,8 +1959,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 11,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1960,19 +1970,30 @@
           ],
           "meetings": [
             {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "TBA",
+              "timeRaw": "Mo 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "HYS_LG01",
               "instructor": "Mr LEUNG Wai Wa Raymond",
               "dates": [
-                "07/09/2026 - 30/11/2026"
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
               ]
             }
           ]
@@ -2013,8 +2034,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 10,
+            "availableSeats": 30,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2077,8 +2098,8 @@
           "language": "E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 4,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2120,6 +2141,70 @@
       ]
     },
     {
+      "id": "MUSC3018",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "3018",
+      "courseCode": "MUSC3018",
+      "title": "Jazz Ensemble V 爵士樂合奏五",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC3018:-:LEC:10250",
+          "rawSection": "--LEC (10250)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10250,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 4,
+            "availableSeats": 26,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Adam Joseph KIELMAN"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Adam Joseph KIELMAN",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "MUSC3031",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -2153,8 +2238,8 @@
           "language": "C#E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 4,
+            "availableSeats": 26,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2228,8 +2313,8 @@
           "language": "C#E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 6,
+            "availableSeats": 24,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2304,8 +2389,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 15,
+            "availableSeats": 25,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2367,9 +2452,9 @@
           "classNumber": 8712,
           "language": "C&E",
           "availability": {
-            "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "capacity": 16,
+            "enrolled": 16,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2443,9 +2528,9 @@
           "classNumber": 8976,
           "language": "C&E",
           "availability": {
-            "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "capacity": 18,
+            "enrolled": 18,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2519,9 +2604,9 @@
           "classNumber": 7267,
           "language": "C&E",
           "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "capacity": 16,
+            "enrolled": 16,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2594,15 +2679,15 @@
           "classNumber": 6545,
           "language": "C&E",
           "availability": {
-            "capacity": 10,
-            "enrolled": 0,
-            "availableSeats": 10,
+            "capacity": 11,
+            "enrolled": 11,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. WONG Chun Wai"
           ],
           "meetings": [
             {
@@ -2616,7 +2701,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "HYS_101",
-              "instructor": "Staff",
+              "instructor": "Dr. WONG Chun Wai",
               "dates": [
                 "10/9",
                 "17/9",
@@ -2643,7 +2728,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Dr. WONG Chun Wai",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -2685,9 +2770,9 @@
           "classNumber": 6236,
           "language": "C&E",
           "availability": {
-            "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "capacity": 10,
+            "enrolled": 7,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2777,9 +2862,9 @@
           "classNumber": 8858,
           "language": "C&E",
           "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "capacity": 22,
+            "enrolled": 21,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2845,22 +2930,22 @@
       "description": null,
       "sections": [
         {
-          "id": "MUSC3923:-:LEC:8252",
-          "rawSection": "--LEC (8252)",
-          "sectionCode": "-",
+          "id": "MUSC3923:A:LEC:10109",
+          "rawSection": "A-LEC (10109)",
+          "sectionCode": "A",
           "component": "LEC",
-          "classNumber": 8252,
+          "classNumber": 10109,
           "language": "C&E",
           "availability": {
-            "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "capacity": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor CHOW Man Ying"
           ],
           "meetings": [
             {
@@ -2874,57 +2959,30 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor CHOW Man Ying",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "MUSC3933",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/mus/MUS.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "MUSC",
-      "catalogNumber": "3933",
-      "courseCode": "MUSC3933",
-      "title": "Selected Study III 專題研讀三",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Music",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
+        },
         {
-          "id": "MUSC3933:-:LEC:8074",
-          "rawSection": "--LEC (8074)",
-          "sectionCode": "-",
+          "id": "MUSC3923:B:LEC:10110",
+          "rawSection": "B-LEC (10110)",
+          "sectionCode": "B",
           "component": "LEC",
-          "classNumber": 8074,
+          "classNumber": 10110,
           "language": "C&E",
           "availability": {
-            "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "capacity": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor LEE Wan Ki Wendy"
           ],
           "meetings": [
             {
@@ -2938,7 +2996,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor LEE Wan Ki Wendy",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -2981,8 +3039,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 12,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3045,14 +3103,14 @@
           "language": "C#E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 5,
+            "availableSeats": 25,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. LAM Ho Yan Dominic"
           ],
           "meetings": [
             {
@@ -3066,7 +3124,7 @@
               "startMinutes": 990,
               "endMinutes": 1095,
               "location": "LHCH",
-              "instructor": "Staff",
+              "instructor": "Mr. LAM Ho Yan Dominic",
               "dates": [
                 "10/9",
                 "17/9",
@@ -3120,8 +3178,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 15,
+            "availableSeats": 15,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3184,8 +3242,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 4,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3195,19 +3253,30 @@
           ],
           "meetings": [
             {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "TBA",
+              "timeRaw": "Mo 10:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "11:15",
+              "startMinutes": 630,
+              "endMinutes": 675,
+              "location": "HYS_LG01",
               "instructor": "Mr LEUNG Wai Wa Raymond",
               "dates": [
-                "07/09/2026 - 30/11/2026"
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
               ]
             }
           ]
@@ -3248,8 +3317,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 16,
+            "availableSeats": 24,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3312,8 +3381,8 @@
           "language": "E",
           "availability": {
             "capacity": 15,
-            "enrolled": 0,
-            "availableSeats": 15,
+            "enrolled": 4,
+            "availableSeats": 11,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3355,6 +3424,70 @@
       ]
     },
     {
+      "id": "MUSC4018",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/mus/MUS.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "MUSC",
+      "catalogNumber": "4018",
+      "courseCode": "MUSC4018",
+      "title": "Jazz Ensemble VII 爵士樂合奏七",
+      "units": 1,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of Music",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "MUSC4018:-:LEC:10251",
+          "rawSection": "--LEC (10251)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10251,
+          "language": "E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 3,
+            "availableSeats": 27,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Adam Joseph KIELMAN"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Adam Joseph KIELMAN",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "MUSC4031",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -3388,8 +3521,8 @@
           "language": "C#E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 3,
+            "availableSeats": 27,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3463,8 +3596,8 @@
           "language": "C#E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 8,
+            "availableSeats": 22,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3539,8 +3672,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 16,
+            "availableSeats": 24,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3603,14 +3736,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Miss IP Wing Wun"
           ],
           "meetings": [
             {
@@ -3624,7 +3757,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Miss IP Wing Wun",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -3640,14 +3773,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor CHOW Man Ying"
           ],
           "meetings": [
             {
@@ -3661,7 +3794,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor CHOW Man Ying",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -3676,15 +3809,15 @@
           "classNumber": 6338,
           "language": "C&E",
           "availability": {
-            "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
+            "capacity": 2,
+            "enrolled": 2,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Dr. POON Kiu Tung"
           ],
           "meetings": [
             {
@@ -3698,7 +3831,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Dr. POON Kiu Tung",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -3714,14 +3847,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor LI Ka Chi"
           ],
           "meetings": [
             {
@@ -3735,7 +3868,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor LI Ka Chi",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -3751,14 +3884,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor LEE Wan Ki Wendy"
           ],
           "meetings": [
             {
@@ -3772,7 +3905,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor LEE Wan Ki Wendy",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -3787,15 +3920,15 @@
           "classNumber": 8077,
           "language": "C&E",
           "availability": {
-            "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
+            "capacity": 2,
+            "enrolled": 2,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor LIAO Yvonne"
           ],
           "meetings": [
             {
@@ -3809,155 +3942,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "MUSC4513:G:LEC:8062",
-          "rawSection": "G-LEC (8062)",
-          "sectionCode": "G",
-          "component": "LEC",
-          "classNumber": 8062,
-          "language": "C&E",
-          "availability": {
-            "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": "Staff",
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "MUSC4513:H:LEC:8078",
-          "rawSection": "H-LEC (8078)",
-          "sectionCode": "H",
-          "component": "LEC",
-          "classNumber": 8078,
-          "language": "C&E",
-          "availability": {
-            "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": "Staff",
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "MUSC4513:I:LEC:8079",
-          "rawSection": "I-LEC (8079)",
-          "sectionCode": "I",
-          "component": "LEC",
-          "classNumber": 8079,
-          "language": "C&E",
-          "availability": {
-            "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": "Staff",
-              "dates": [
-                "07/09/2026 - 30/11/2026"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "MUSC4513:J:LEC:8080",
-          "rawSection": "J-LEC (8080)",
-          "sectionCode": "J",
-          "component": "LEC",
-          "classNumber": 8080,
-          "language": "C&E",
-          "availability": {
-            "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor LIAO Yvonne",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -4064,14 +4049,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor LIAO Yvonne"
           ],
           "meetings": [
             {
@@ -4085,7 +4070,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor LIAO Yvonne",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -4101,14 +4086,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 1,
-            "enrolled": 0,
-            "availableSeats": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor WONG Hei Yin"
           ],
           "meetings": [
             {
@@ -4122,7 +4107,81 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor WONG Hei Yin",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4813:C:LEC:10111",
+          "rawSection": "C-LEC (10111)",
+          "sectionCode": "C",
+          "component": "LEC",
+          "classNumber": 10111,
+          "language": "E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Adam Joseph KIELMAN"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor Adam Joseph KIELMAN",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "MUSC4813:D:LEC:10112",
+          "rawSection": "D-LEC (10112)",
+          "sectionCode": "D",
+          "component": "LEC",
+          "classNumber": 10112,
+          "language": "C&E",
+          "availability": {
+            "capacity": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WONG Chun Wai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. WONG Chun Wai",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -4164,15 +4223,15 @@
           "classNumber": 6049,
           "language": "C&E",
           "availability": {
-            "capacity": 5,
-            "enrolled": 0,
-            "availableSeats": 5,
+            "capacity": 1,
+            "enrolled": 1,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor CHOW Man Ying"
           ],
           "meetings": [
             {
@@ -4186,7 +4245,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Staff",
+              "instructor": "Professor CHOW Man Ying",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]

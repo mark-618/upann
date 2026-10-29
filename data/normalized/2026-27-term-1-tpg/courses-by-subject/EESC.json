@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.633Z",
+    "generatedAt": "2026-10-28T22:20:42.612Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "TPG",
     "counts": {
-      "rawFiles": 156,
-      "rawFilesScanned": 156,
-      "rawRowsSeen": 4914,
-      "courses": 819,
-      "rawCoursesWithTargetTerm": 819,
-      "subjects": 98,
-      "sections": 1247,
-      "meetings": 1700,
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -31,7 +31,7 @@
       "id": "EESC5720",
       "source": {
         "id": "cuhk-official-public-timetable",
-        "rawFile": "catalog-supplement/eesc/EESC.json"
+        "rawFile": "by-org/eescv/EESCV.json"
       },
       "term": {
         "code": "2420",
@@ -40,7 +40,7 @@
       "subject": "EESC",
       "catalogNumber": "5720",
       "courseCode": "EESC5720",
-      "title": "Frontiers of Climate and Environmental Sciences",
+      "title": "Climate and Environment 氣候與環境科學前沿",
       "units": 3,
       "career": "TPG",
       "gradingBasis": null,
@@ -53,14 +53,14 @@
       "description": null,
       "sections": [
         {
-          "id": "EESC5720:main:LEC:3910",
-          "rawSection": "main-LEC (3910)",
-          "sectionCode": null,
+          "id": "EESC5720:-:LEC:3910",
+          "rawSection": "--LEC (3910)",
+          "sectionCode": "-",
           "component": "LEC",
           "classNumber": 3910,
-          "language": "English",
+          "language": "E",
           "availability": {
-            "capacity": null,
+            "capacity": 65,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -68,11 +68,11 @@
             "status": null
           },
           "instructors": [
-            "Professor TAI Pui Kuen Amos, Professor TSUI Tsz Ki Martin, Professor ZHAI Shixian"
+            "Professor TAI Pui Kuen Amos - Professor TSUI Tsz Ki Martin - Professor ZHAI Shixian"
           ],
           "meetings": [
             {
-              "timeRaw": "Fr 10:30AM - 1:15PM",
+              "timeRaw": "Fr 10:30AM - 01:15PM",
               "isTba": false,
               "dayCode": "Fr",
               "day": "Friday",
@@ -81,8 +81,8 @@
               "endTime": "13:15",
               "startMinutes": 630,
               "endMinutes": 795,
-              "location": "Lee Shau Kee Building LT3",
-              "instructor": "Professor TAI Pui Kuen Amos, Professor TSUI Tsz Ki Martin, Professor ZHAI Shixian",
+              "location": "LSK_LT3",
+              "instructor": "Professor TAI Pui Kuen Amos - Professor TSUI Tsz Ki Martin - Professor ZHAI Shixian",
               "dates": [
                 "11/9",
                 "18/9",
@@ -107,7 +107,7 @@
       "id": "EESC5740",
       "source": {
         "id": "cuhk-official-public-timetable",
-        "rawFile": "catalog-supplement/eesc/EESC.json"
+        "rawFile": "by-org/eescv/EESCV.json"
       },
       "term": {
         "code": "2420",
@@ -116,7 +116,7 @@
       "subject": "EESC",
       "catalogNumber": "5740",
       "courseCode": "EESC5740",
-      "title": "Systems Thinking and Diagnostics for Sustainable Earth and Environment",
+      "title": "Systems Thinking 可持續地球與環境系統思考與診斷",
       "units": 3,
       "career": "TPG",
       "gradingBasis": null,
@@ -129,14 +129,14 @@
       "description": null,
       "sections": [
         {
-          "id": "EESC5740:main:LEC:3896",
-          "rawSection": "main-LEC (3896)",
-          "sectionCode": null,
+          "id": "EESC5740:-:LEC:3896",
+          "rawSection": "--LEC (3896)",
+          "sectionCode": "-",
           "component": "LEC",
           "classNumber": 3896,
-          "language": "English",
+          "language": "E",
           "availability": {
-            "capacity": null,
+            "capacity": 40,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -148,7 +148,7 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Mo 10:30AM - 1:15PM",
+              "timeRaw": "Mo 10:30AM - 01:15PM",
               "isTba": false,
               "dayCode": "Mo",
               "day": "Monday",
@@ -157,7 +157,7 @@
               "endTime": "13:15",
               "startMinutes": 630,
               "endMinutes": 795,
-              "location": "Mong Man Wai Bldg 710",
+              "location": "MMW_710",
               "instructor": "Professor Benoit THIBODEAU",
               "dates": [
                 "7/9",
@@ -182,7 +182,7 @@
       "id": "EESC5750",
       "source": {
         "id": "cuhk-official-public-timetable",
-        "rawFile": "catalog-supplement/eesc/EESC.json"
+        "rawFile": "by-org/eescv/EESCV.json"
       },
       "term": {
         "code": "2420",
@@ -191,7 +191,7 @@
       "subject": "EESC",
       "catalogNumber": "5750",
       "courseCode": "EESC5750",
-      "title": "Cutting-edge Topics in Earth and Environmental Analytics",
+      "title": "Cutting-edge Topics 地球與環境分析學前沿課題",
       "units": 3,
       "career": "TPG",
       "gradingBasis": null,
@@ -204,14 +204,14 @@
       "description": null,
       "sections": [
         {
-          "id": "EESC5750:D01:DIS:3887",
-          "rawSection": "D01-DIS (3887)",
-          "sectionCode": "D01",
+          "id": "EESC5750:-D01:DIS:3887",
+          "rawSection": "-D01-DIS (3887)",
+          "sectionCode": "-D01",
           "component": "DIS",
           "classNumber": 3887,
-          "language": "English",
+          "language": "E",
           "availability": {
-            "capacity": null,
+            "capacity": 65,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -219,7 +219,7 @@
             "status": null
           },
           "instructors": [
-            "Dr. AU-YEUNG Yee Man, Dr. LI Kwan Kit Ronald, Dr. TAM Pui Yuk, Dr. ZHANG Li, Professor Benoit THIBODEAU, Professor CHAN Man Nin, Professor CHOW Tat Shing, Professor LIU Lin, Professor TAI Pui Kuen Amos, Professor TAM Chi Yung Francis, Professor TAN Yen Joe, Professor YANG Hongfeng, Professor ZHAI Shixian, Professor ZHAN Yan"
+            "Dr. AU-YEUNG Yee Man - Dr. LEUNG Chun Kai - Dr. LI Kwan Kit Ronald - Dr. NG Tsin Hung - Dr. ZHANG Li - Professor Benoit THIBODEAU - Professor CHAN Man Nin - Professor CHOW Tat Shing - Professor LIU Lin - Professor LIU Xueying"
           ],
           "meetings": [
             {
@@ -232,8 +232,8 @@
               "endTime": null,
               "startMinutes": null,
               "endMinutes": null,
-              "location": "No Room Required",
-              "instructor": "Dr. AU-YEUNG Yee Man, Dr. LI Kwan Kit Ronald, Dr. TAM Pui Yuk, Dr. ZHANG Li, Professor Benoit THIBODEAU, Professor CHAN Man Nin, Professor CHOW Tat Shing, Professor LIU Lin, Professor TAI Pui Kuen Amos, Professor TAM Chi Yung Francis, Professor TAN Yen Joe, Professor YANG Hongfeng, Professor ZHAI Shixian, Professor ZHAN Yan",
+              "location": "NRR",
+              "instructor": "Dr. AU-YEUNG Yee Man - Dr. LEUNG Chun Kai - Dr. LI Kwan Kit Ronald - Dr. NG Tsin Hung - Dr. ZHANG Li - Professor Benoit THIBODEAU - Professor CHAN Man Nin - Professor CHOW Tat Shing - Professor LIU Lin - Professor LIU Xueying",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]
@@ -246,7 +246,7 @@
       "id": "EESC5760",
       "source": {
         "id": "cuhk-official-public-timetable",
-        "rawFile": "catalog-supplement/eesc/EESC.json"
+        "rawFile": "by-org/eescv/EESCV.json"
       },
       "term": {
         "code": "2420",
@@ -255,7 +255,7 @@
       "subject": "EESC",
       "catalogNumber": "5760",
       "courseCode": "EESC5760",
-      "title": "Scientific Applications in Environmental, Social and Governance (ESG) Analysis",
+      "title": "Science and ESG Anslysis 環境、社會與治理 (ESG) 分析中的科學應用",
       "units": 3,
       "career": "TPG",
       "gradingBasis": null,
@@ -268,14 +268,14 @@
       "description": null,
       "sections": [
         {
-          "id": "EESC5760:main:LEC:3897",
-          "rawSection": "main-LEC (3897)",
-          "sectionCode": null,
+          "id": "EESC5760:-:LEC:3897",
+          "rawSection": "--LEC (3897)",
+          "sectionCode": "-",
           "component": "LEC",
           "classNumber": 3897,
-          "language": "English",
+          "language": "E",
           "availability": {
-            "capacity": null,
+            "capacity": 65,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -283,11 +283,11 @@
             "status": null
           },
           "instructors": [
-            "Professor TAI Pui Kuen Amos"
+            "Dr. LEUNG Chun Kai - Professor TAI Pui Kuen Amos"
           ],
           "meetings": [
             {
-              "timeRaw": "We 6:30PM - 9:15PM",
+              "timeRaw": "We 06:30PM - 09:15PM",
               "isTba": false,
               "dayCode": "We",
               "day": "Wednesday",
@@ -296,8 +296,8 @@
               "endTime": "21:15",
               "startMinutes": 1110,
               "endMinutes": 1275,
-              "location": "Wu Ho Man Yuen Bldg 505",
-              "instructor": "Professor TAI Pui Kuen Amos",
+              "location": "WMY_505",
+              "instructor": "Dr. LEUNG Chun Kai - Professor TAI Pui Kuen Amos",
               "dates": [
                 "9/9",
                 "16/9",
@@ -322,7 +322,7 @@
       "id": "EESC5770",
       "source": {
         "id": "cuhk-official-public-timetable",
-        "rawFile": "catalog-supplement/eesc/EESC.json"
+        "rawFile": "by-org/eescv/EESCV.json"
       },
       "term": {
         "code": "2420",
@@ -331,7 +331,7 @@
       "subject": "EESC",
       "catalogNumber": "5770",
       "courseCode": "EESC5770",
-      "title": "Research Projects in Earth and Environmental Analytics",
+      "title": "Research Projects 地球與環境分析學研究項目",
       "units": 3,
       "career": "TPG",
       "gradingBasis": null,
@@ -344,14 +344,14 @@
       "description": null,
       "sections": [
         {
-          "id": "EESC5770:D01:DIS:3888",
-          "rawSection": "D01-DIS (3888)",
-          "sectionCode": "D01",
+          "id": "EESC5770:-D01:DIS:3888",
+          "rawSection": "-D01-DIS (3888)",
+          "sectionCode": "-D01",
           "component": "DIS",
           "classNumber": 3888,
-          "language": "English",
+          "language": "E",
           "availability": {
-            "capacity": null,
+            "capacity": 65,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -359,7 +359,7 @@
             "status": null
           },
           "instructors": [
-            "Dr. AU-YEUNG Yee Man, Dr. LI Kwan Kit Ronald, Dr. TAM Pui Yuk, Dr. ZHANG Li, Professor Benoit THIBODEAU, Professor CHAN Man Nin, Professor CHOW Tat Shing, Professor LIU Lin, Professor TAI Pui Kuen Amos, Professor TAM Chi Yung Francis, Professor TAN Yen Joe, Professor YANG Hongfeng, Professor ZHAI Shixian, Professor ZHAN Yan"
+            "Dr. NG Tsin Hung - Dr. ZHANG Li - Professor LIU Xueying - Professor ZHAN Yan"
           ],
           "meetings": [
             {
@@ -373,7 +373,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "TBA",
-              "instructor": "Dr. AU-YEUNG Yee Man, Dr. LI Kwan Kit Ronald, Dr. TAM Pui Yuk, Dr. ZHANG Li, Professor Benoit THIBODEAU, Professor CHAN Man Nin, Professor CHOW Tat Shing, Professor LIU Lin, Professor TAI Pui Kuen Amos, Professor TAM Chi Yung Francis, Professor TAN Yen Joe, Professor YANG Hongfeng, Professor ZHAI Shixian, Professor ZHAN Yan",
+              "instructor": "Dr. NG Tsin Hung - Dr. ZHANG Li - Professor LIU Xueying - Professor ZHAN Yan",
               "dates": [
                 "07/09/2026 - 30/11/2026"
               ]

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
@@ -61,8 +61,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 80,
-            "enrolled": 0,
-            "availableSeats": 80,
+            "enrolled": 80,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -110,8 +110,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 80,
-            "enrolled": 0,
-            "availableSeats": 80,
+            "enrolled": 80,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -129,53 +129,6 @@
               "startMinutes": 1050,
               "endMinutes": 1095,
               "location": "YIA_405",
-              "instructor": null,
-              "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CURE1000:-T02:TUT:no-class-number",
-          "rawSection": "-T02-TUT",
-          "sectionCode": "-T02",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "C&E",
-          "availability": {
-            "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "We 05:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "17:30",
-              "endTime": "18:15",
-              "startMinutes": 1050,
-              "endMinutes": 1095,
-              "location": "WMY_405",
               "instructor": null,
               "dates": [
                 "9/9",
@@ -325,8 +278,8 @@
           "language": "E",
           "availability": {
             "capacity": 65,
-            "enrolled": 0,
-            "availableSeats": 65,
+            "enrolled": 61,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -373,8 +326,8 @@
           "language": "E",
           "availability": {
             "capacity": 65,
-            "enrolled": 0,
-            "availableSeats": 65,
+            "enrolled": 61,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -437,53 +390,7 @@
               "endTime": "12:15",
               "startMinutes": 690,
               "endMinutes": 735,
-              "location": "ERB_408",
-              "instructor": null,
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CURE1004:-T03:TUT:no-class-number",
-          "rawSection": "-T03-TUT",
-          "sectionCode": "-T03",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Mo 11:30AM - 12:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "11:30",
-              "endTime": "12:15",
-              "startMinutes": 690,
-              "endMinutes": 735,
-              "location": "ERB_402",
+              "location": "LSK_410",
               "instructor": null,
               "dates": [
                 "7/9",
@@ -538,14 +445,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 65,
-            "enrolled": 0,
-            "availableSeats": 65,
+            "enrolled": 62,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Professor YEUNG Kwok Keung"
+            "Miss HON Lok Man - Professor YEUNG Kwok Keung"
           ],
           "meetings": [
             {
@@ -559,7 +466,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "WMY_506",
-              "instructor": "Professor YEUNG Kwok Keung",
+              "instructor": "Miss HON Lok Man - Professor YEUNG Kwok Keung",
               "dates": [
                 "10/9",
                 "17/9",
@@ -586,8 +493,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 65,
-            "enrolled": 0,
-            "availableSeats": 65,
+            "enrolled": 62,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -668,52 +575,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "CURE1110:-T03:TUT:no-class-number",
-          "rawSection": "-T03-TUT",
-          "sectionCode": "-T03",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "C&E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Th 12:30PM - 01:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "12:30",
-              "endTime": "13:15",
-              "startMinutes": 750,
-              "endMinutes": 795,
-              "location": "YIA_501",
-              "instructor": null,
-              "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
-              ]
-            }
-          ]
         }
       ]
     },
@@ -751,8 +612,8 @@
           "language": "E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 37,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -800,8 +661,8 @@
           "language": "E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 37,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -865,7 +726,7 @@
               "endTime": "17:15",
               "startMinutes": 990,
               "endMinutes": 1035,
-              "location": "ERB_713",
+              "location": "LSK_401",
               "instructor": null,
               "dates": [
                 "9/9",
@@ -921,8 +782,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 20,
+            "availableSeats": 20,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -970,8 +831,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 20,
+            "availableSeats": 20,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1091,8 +952,8 @@
           "language": "E",
           "availability": {
             "capacity": 70,
-            "enrolled": 0,
-            "availableSeats": 70,
+            "enrolled": 55,
+            "availableSeats": 15,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1166,14 +1027,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 65,
-            "enrolled": 0,
-            "availableSeats": 65,
+            "enrolled": 62,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. LUI Tsz Hing - Ms. WONG Ada Ying Kay"
           ],
           "meetings": [
             {
@@ -1187,7 +1048,7 @@
               "startMinutes": 630,
               "endMinutes": 795,
               "location": "ELB_403",
-              "instructor": "Staff",
+              "instructor": "Mr. LUI Tsz Hing - Ms. WONG Ada Ying Kay",
               "dates": [
                 "10/9",
                 "17/9",
@@ -1240,9 +1101,9 @@
           "classNumber": 8392,
           "language": "P&E",
           "availability": {
-            "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "capacity": 51,
+            "enrolled": 51,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1289,9 +1150,9 @@
           "classNumber": null,
           "language": "P&E",
           "availability": {
-            "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "capacity": 51,
+            "enrolled": 51,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1309,53 +1170,6 @@
               "startMinutes": 750,
               "endMinutes": 795,
               "location": "ELB_203",
-              "instructor": null,
-              "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9",
-                "6/10",
-                "13/10",
-                "20/10",
-                "27/10",
-                "3/11",
-                "10/11",
-                "17/11",
-                "24/11",
-                "1/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CURE2006:-T02:TUT:no-class-number",
-          "rawSection": "-T02-TUT",
-          "sectionCode": "-T02",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "P&E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Tu 12:30PM - 01:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "12:30",
-              "endTime": "13:15",
-              "startMinutes": 750,
-              "endMinutes": 795,
-              "location": "ARC_G02",
               "instructor": null,
               "dates": [
                 "8/9",
@@ -1411,8 +1225,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 36,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1460,8 +1274,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 11,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1507,8 +1321,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 25,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1581,8 +1395,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 37,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1629,8 +1443,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 37,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1711,98 +1525,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "CURE2030:-T03:TUT:no-class-number",
-          "rawSection": "-T03-TUT",
-          "sectionCode": "-T03",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "C&E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Mo 05:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "17:30",
-              "endTime": "18:15",
-              "startMinutes": 1050,
-              "endMinutes": 1095,
-              "location": "LSK_206",
-              "instructor": null,
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CURE2030:-T04:TUT:no-class-number",
-          "rawSection": "-T04-TUT",
-          "sectionCode": "-T04",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "C&E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Mo 05:30PM - 06:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "17:30",
-              "endTime": "18:15",
-              "startMinutes": 1050,
-              "endMinutes": 1095,
-              "location": "LSK_202",
-              "instructor": null,
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1839,9 +1561,9 @@
           "classNumber": 8870,
           "language": "P&E",
           "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "capacity": 21,
+            "enrolled": 21,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1914,9 +1636,9 @@
           "classNumber": 6630,
           "language": "C&E",
           "availability": {
-            "capacity": 45,
-            "enrolled": 0,
-            "availableSeats": 45,
+            "capacity": 49,
+            "enrolled": 49,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -1962,9 +1684,9 @@
           "classNumber": null,
           "language": "C&E",
           "availability": {
-            "capacity": 45,
-            "enrolled": 0,
-            "availableSeats": 45,
+            "capacity": 49,
+            "enrolled": 23,
+            "availableSeats": 26,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2009,8 +1731,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 26,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2082,8 +1804,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 45,
-            "enrolled": 0,
-            "availableSeats": 45,
+            "enrolled": 40,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2130,8 +1852,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 45,
-            "enrolled": 0,
-            "availableSeats": 45,
+            "enrolled": 40,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2149,52 +1871,6 @@
               "startMinutes": 750,
               "endMinutes": 795,
               "location": "LDS_214",
-              "instructor": null,
-              "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CURE2160:-T02:TUT:no-class-number",
-          "rawSection": "-T02-TUT",
-          "sectionCode": "-T02",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "C&E",
-          "availability": {
-            "capacity": 25,
-            "enrolled": 0,
-            "availableSeats": 25,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Th 12:30PM - 01:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "12:30",
-              "endTime": "13:15",
-              "startMinutes": 750,
-              "endMinutes": 795,
-              "location": "LDS_218",
               "instructor": null,
               "dates": [
                 "10/9",
@@ -2249,8 +1925,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 45,
-            "enrolled": 0,
-            "availableSeats": 45,
+            "enrolled": 39,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2298,8 +1974,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 45,
-            "enrolled": 0,
-            "availableSeats": 45,
+            "enrolled": 39,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2419,8 +2095,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 45,
-            "enrolled": 0,
-            "availableSeats": 45,
+            "enrolled": 20,
+            "availableSeats": 25,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2467,8 +2143,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 45,
-            "enrolled": 0,
-            "availableSeats": 45,
+            "enrolled": 20,
+            "availableSeats": 25,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2500,222 +2176,6 @@
                 "16/11",
                 "23/11",
                 "30/11"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CURE2170:-T02:TUT:no-class-number",
-          "rawSection": "-T02-TUT",
-          "sectionCode": "-T02",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "C&E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Mo 04:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "16:30",
-              "endTime": "17:15",
-              "startMinutes": 990,
-              "endMinutes": 1035,
-              "location": "ERB_713",
-              "instructor": null,
-              "dates": [
-                "7/9",
-                "14/9",
-                "21/9",
-                "28/9",
-                "5/10",
-                "12/10",
-                "26/10",
-                "2/11",
-                "9/11",
-                "16/11",
-                "23/11",
-                "30/11"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CURE2181",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/crs/CRS.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "CURE",
-      "catalogNumber": "2181",
-      "courseCode": "CURE2181",
-      "title": "Classical Arabic Beginners II 基礎古典阿拉伯文（二）",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, TUT",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Cultural & Rel Studies",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "CURE2181:-:LEC:8207",
-          "rawSection": "--LEC (8207)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 8207,
-          "language": "P&E",
-          "availability": {
-            "capacity": 45,
-            "enrolled": 0,
-            "availableSeats": 45,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Mr YANG Xing Wen"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "We 02:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "14:30",
-              "endTime": "16:15",
-              "startMinutes": 870,
-              "endMinutes": 975,
-              "location": "LHC_G06",
-              "instructor": "Mr YANG Xing Wen",
-              "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CURE2181:-T01:TUT:no-class-number",
-          "rawSection": "-T01-TUT",
-          "sectionCode": "-T01",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "P&E",
-          "availability": {
-            "capacity": 45,
-            "enrolled": 0,
-            "availableSeats": 45,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "We 04:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "16:30",
-              "endTime": "17:15",
-              "startMinutes": 990,
-              "endMinutes": 1035,
-              "location": "LHC_G06",
-              "instructor": null,
-              "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CURE2181:-T02:TUT:no-class-number",
-          "rawSection": "-T02-TUT",
-          "sectionCode": "-T02",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "P&E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "We 04:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "16:30",
-              "endTime": "17:15",
-              "startMinutes": 990,
-              "endMinutes": 1035,
-              "location": "ERB_408",
-              "instructor": null,
-              "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
               ]
             }
           ]
@@ -2753,17 +2213,17 @@
           "sectionCode": "-",
           "component": "LEC",
           "classNumber": 6636,
-          "language": "E",
+          "language": "C&E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 29,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor HO Tsz Wai"
           ],
           "meetings": [
             {
@@ -2777,7 +2237,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "LSK_302",
-              "instructor": "Staff",
+              "instructor": "Professor HO Tsz Wai",
               "dates": [
                 "10/9",
                 "17/9",
@@ -2801,11 +2261,11 @@
           "sectionCode": "-T01",
           "component": "TUT",
           "classNumber": null,
-          "language": "E",
+          "language": "C&E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 29,
+            "availableSeats": 1,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2823,52 +2283,6 @@
               "startMinutes": 750,
               "endMinutes": 795,
               "location": "LSK_302",
-              "instructor": null,
-              "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CURE2404:-T02:TUT:no-class-number",
-          "rawSection": "-T02-TUT",
-          "sectionCode": "-T02",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "E",
-          "availability": {
-            "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Th 12:30PM - 01:15PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "12:30",
-              "endTime": "13:15",
-              "startMinutes": 750,
-              "endMinutes": 795,
-              "location": "LSK_206",
               "instructor": null,
               "dates": [
                 "10/9",
@@ -2922,9 +2336,9 @@
           "classNumber": 6644,
           "language": "C&E",
           "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "capacity": 33,
+            "enrolled": 33,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2934,31 +2348,30 @@
           ],
           "meetings": [
             {
-              "timeRaw": "We 10:30AM - 01:15PM",
+              "timeRaw": "Th 02:30PM - 05:15PM",
               "isTba": false,
-              "dayCode": "We",
-              "day": "Wednesday",
-              "dayIndex": 3,
-              "startTime": "10:30",
-              "endTime": "13:15",
-              "startMinutes": 630,
-              "endMinutes": 795,
-              "location": "LDS_214",
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "LSK_301",
               "instructor": "Professor LEUNG Hok Bun Isaac",
               "dates": [
-                "9/9",
-                "16/9",
-                "23/9",
-                "30/9",
-                "7/10",
-                "14/10",
-                "21/10",
-                "28/10",
-                "4/11",
-                "11/11",
-                "18/11",
-                "25/11",
-                "2/12"
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
               ]
             }
           ]
@@ -2998,9 +2411,9 @@
           "classNumber": 8264,
           "language": "E",
           "availability": {
-            "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "capacity": 40,
+            "enrolled": 40,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3019,7 +2432,7 @@
               "endTime": "14:15",
               "startMinutes": 750,
               "endMinutes": 855,
-              "location": "LSK_302",
+              "location": "NRR",
               "instructor": "Professor CHUNG Pei Chi",
               "dates": [
                 "7/9",
@@ -3046,9 +2459,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "capacity": 40,
+            "enrolled": 17,
+            "availableSeats": 23,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3065,7 +2478,7 @@
               "endTime": "15:15",
               "startMinutes": 870,
               "endMinutes": 915,
-              "location": "LSK_302",
+              "location": "NRR",
               "instructor": null,
               "dates": [
                 "7/9",
@@ -3093,8 +2506,8 @@
           "language": "E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 24,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3111,7 +2524,7 @@
               "endTime": "15:15",
               "startMinutes": 870,
               "endMinutes": 915,
-              "location": "LSK_301",
+              "location": "NRR",
               "instructor": null,
               "dates": [
                 "7/9",
@@ -3166,8 +2579,8 @@
           "language": "E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 22,
+            "availableSeats": 18,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3215,8 +2628,8 @@
           "language": "E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 22,
+            "availableSeats": 18,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3336,14 +2749,14 @@
           "language": "E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 10,
+            "availableSeats": 30,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Professor WU Jiang"
           ],
           "meetings": [
             {
@@ -3357,7 +2770,7 @@
               "startMinutes": 690,
               "endMinutes": 795,
               "location": "LSK_514",
-              "instructor": "Staff",
+              "instructor": "Professor WU Jiang",
               "dates": [
                 "7/9",
                 "14/9",
@@ -3384,8 +2797,8 @@
           "language": "E",
           "availability": {
             "capacity": 40,
-            "enrolled": 0,
-            "availableSeats": 40,
+            "enrolled": 10,
+            "availableSeats": 30,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3503,8 +2916,8 @@
           "language": "E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 17,
+            "availableSeats": 13,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3578,8 +2991,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 13,
+            "availableSeats": 17,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3589,30 +3002,31 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Th 02:30PM - 05:15PM",
+              "timeRaw": "We 10:30AM - 01:15PM",
               "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "14:30",
-              "endTime": "17:15",
-              "startMinutes": 870,
-              "endMinutes": 1035,
-              "location": "LSK_301",
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "LDS_214",
               "instructor": "Professor LEUNG Hok Bun Isaac",
               "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
+                "9/9",
+                "16/9",
+                "23/9",
+                "30/9",
+                "7/10",
+                "14/10",
+                "21/10",
+                "28/10",
+                "4/11",
+                "11/11",
+                "18/11",
+                "25/11",
+                "2/12"
               ]
             }
           ]
@@ -3653,8 +3067,8 @@
           "language": "E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 30,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3729,8 +3143,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 15,
+            "availableSeats": 35,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3766,8 +3180,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 50,
-            "enrolled": 0,
-            "availableSeats": 50,
+            "enrolled": 15,
+            "availableSeats": 35,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3784,10 +3198,10 @@
               "endTime": null,
               "startMinutes": null,
               "endMinutes": null,
-              "location": "TBA",
+              "location": "NRR",
               "instructor": null,
               "dates": [
-                "TBA"
+                "07/09/2026 - 30/11/2026"
               ]
             }
           ]
@@ -3828,8 +3242,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 14,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3892,14 +3306,14 @@
           "language": "C&E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 17,
+            "availableSeats": 13,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
           },
           "instructors": [
-            "Staff"
+            "Mr. CHOY Chun Yip Terence"
           ],
           "meetings": [
             {
@@ -3913,7 +3327,7 @@
               "startMinutes": 870,
               "endMinutes": 1035,
               "location": "LSK_204",
-              "instructor": "Staff",
+              "instructor": "Mr. CHOY Chun Yip Terence",
               "dates": [
                 "8/9",
                 "15/9",

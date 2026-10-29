@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.991Z",
+    "generatedAt": "2026-10-28T22:28:52.727Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "RPG",
     "counts": {
-      "rawFiles": 134,
-      "rawFilesScanned": 134,
-      "rawRowsSeen": 5288,
-      "courses": 564,
-      "rawCoursesWithTargetTerm": 564,
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5420,
+      "courses": 573,
+      "rawCoursesWithTargetTerm": 573,
       "subjects": 75,
-      "sections": 2482,
-      "meetings": 2525,
+      "sections": 2532,
+      "meetings": 2586,
       "warnings": 0
     }
   },
@@ -72,94 +72,30 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Th 11:30AM - 02:15PM",
+              "timeRaw": "Mo 09:30AM - 12:15PM",
               "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "11:30",
-              "endTime": "14:15",
-              "startMinutes": 690,
-              "endMinutes": 855,
-              "location": "YIA_410",
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "CKB_UG03",
               "instructor": "Professor KO Chiu Yu",
               "dates": [
-                "10/9",
-                "17/9",
-                "24/9",
-                "8/10",
-                "15/10",
-                "22/10",
-                "29/10",
-                "5/11",
-                "12/11",
-                "19/11",
-                "26/11",
-                "3/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "DOTE7111",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/badmv/BADMV.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "DOTE",
-      "catalogNumber": "7111",
-      "courseCode": "DOTE7111",
-      "title": "Independent Study 專題研究",
-      "units": 3,
-      "career": "RPG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Div of Business Administration",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "DOTE7111:-:LEC:4446",
-          "rawSection": "--LEC (4446)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 4446,
-          "language": "E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": null,
-            "availableSeats": null,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Staff"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "TBA",
-              "instructor": "Staff",
-              "dates": [
-                "07/09/2026 - 30/11/2026"
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
               ]
             }
           ]

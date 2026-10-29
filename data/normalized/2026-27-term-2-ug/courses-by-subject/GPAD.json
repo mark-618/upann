@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:40.834Z",
+    "generatedAt": "2026-10-28T22:43:53.318Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 31745,
-      "courses": 1719,
-      "rawCoursesWithTargetTerm": 1719,
+      "rawRowsSeen": 32053,
+      "courses": 1721,
+      "rawCoursesWithTargetTerm": 1721,
       "subjects": 124,
-      "sections": 4911,
-      "meetings": 5532,
+      "sections": 4931,
+      "meetings": 5552,
       "warnings": 0
     }
   },
@@ -298,31 +298,31 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Tu 10:30AM - 01:15PM",
+              "timeRaw": "Th 11:30AM - 02:15PM",
               "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "10:30",
-              "endTime": "13:15",
-              "startMinutes": 630,
-              "endMinutes": 795,
-              "location": "UCC_C2",
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "11:30",
+              "endTime": "14:15",
+              "startMinutes": 690,
+              "endMinutes": 855,
+              "location": "BMS_LT",
               "instructor": "Dr. LI Qin",
               "dates": [
-                "12/1",
-                "19/1",
-                "26/1",
-                "2/2",
-                "16/2",
-                "23/2",
-                "2/3",
-                "16/3",
-                "23/3",
-                "30/3",
-                "6/4",
-                "13/4",
-                "20/4"
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
               ]
             }
           ]
@@ -774,6 +774,55 @@
                 "8/4",
                 "15/4",
                 "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GPAD1095:B:LEC:10054",
+          "rawSection": "B-LEC (10054)",
+          "sectionCode": "B",
+          "component": "LEC",
+          "classNumber": 10054,
+          "language": "E",
+          "availability": {
+            "capacity": 69,
+            "enrolled": 0,
+            "availableSeats": 69,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor William James Clark SMITH"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "UCC_C2",
+              "instructor": "Professor William James Clark SMITH",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
               ]
             }
           ]

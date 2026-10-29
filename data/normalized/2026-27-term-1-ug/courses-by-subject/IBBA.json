@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.193Z",
+    "generatedAt": "2026-10-28T22:10:56.278Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,17 +16,192 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 16610,
-      "courses": 1612,
-      "rawCoursesWithTargetTerm": 1612,
-      "subjects": 121,
-      "sections": 5144,
-      "meetings": 5858,
+      "rawRowsSeen": 16267,
+      "courses": 1567,
+      "rawCoursesWithTargetTerm": 1567,
+      "subjects": 123,
+      "sections": 5015,
+      "meetings": 5718,
       "warnings": 0
     }
   },
   "subject": "IBBA",
   "courses": [
+    {
+      "id": "IBBA3032",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/bbapc/BBAPC.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "IBBA",
+      "catalogNumber": "3032",
+      "courseCode": "IBBA3032",
+      "title": "Corporate Project 企業專題研討",
+      "units": 2,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "PRJ",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Integrated BBA Pgm Comm",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "IBBA3032:ADJ1:PRJ:10200",
+          "rawSection": "ADJ1-PRJ (10200)",
+          "sectionCode": "ADJ1",
+          "component": "PRJ",
+          "classNumber": 10200,
+          "language": "E",
+          "availability": {
+            "capacity": 12,
+            "enrolled": 12,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. NG Wing Fung"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. NG Wing Fung",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IBBA3032:AEJ1:PRJ:10201",
+          "rawSection": "AEJ1-PRJ (10201)",
+          "sectionCode": "AEJ1",
+          "component": "PRJ",
+          "classNumber": 10201,
+          "language": "E",
+          "availability": {
+            "capacity": 8,
+            "enrolled": 7,
+            "availableSeats": 1,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor ZHOU Xiang"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor ZHOU Xiang",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IBBA3032:AFJ1:PRJ:10202",
+          "rawSection": "AFJ1-PRJ (10202)",
+          "sectionCode": "AFJ1",
+          "component": "PRJ",
+          "classNumber": 10202,
+          "language": "E",
+          "availability": {
+            "capacity": 8,
+            "enrolled": 6,
+            "availableSeats": 2,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LEUNG Hang Yee"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. LEUNG Hang Yee",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "IBBA3032:AGJ1:PRJ:10203",
+          "rawSection": "AGJ1-PRJ (10203)",
+          "sectionCode": "AGJ1",
+          "component": "PRJ",
+          "classNumber": 10203,
+          "language": "E",
+          "availability": {
+            "capacity": 6,
+            "enrolled": 6,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. KU Kei Tat"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. KU Kei Tat",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "IBBA3040",
       "source": {
@@ -61,8 +236,8 @@
           "language": "E",
           "availability": {
             "capacity": 270,
-            "enrolled": 0,
-            "availableSeats": 270,
+            "enrolled": 270,
+            "availableSeats": 0,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null

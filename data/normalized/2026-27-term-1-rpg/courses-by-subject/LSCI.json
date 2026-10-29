@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.991Z",
+    "generatedAt": "2026-10-28T22:28:52.727Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "RPG",
     "counts": {
-      "rawFiles": 134,
-      "rawFilesScanned": 134,
-      "rawRowsSeen": 5288,
-      "courses": 564,
-      "rawCoursesWithTargetTerm": 564,
+      "rawFiles": 135,
+      "rawFilesScanned": 135,
+      "rawRowsSeen": 5420,
+      "courses": 573,
+      "rawCoursesWithTargetTerm": 573,
       "subjects": 75,
-      "sections": 2482,
-      "meetings": 2525,
+      "sections": 2532,
+      "meetings": 2586,
       "warnings": 0
     }
   },
@@ -260,7 +260,7 @@
             "status": null
           },
           "instructors": [
-            "Professor CHOW Hei Man - Professor LAU Kwok Fai"
+            "Professor CHEN Zhefan - Professor LAU Kwok Fai"
           ],
           "meetings": [
             {
@@ -274,7 +274,7 @@
               "startMinutes": 690,
               "endMinutes": 735,
               "location": "LHC_103",
-              "instructor": "Professor CHOW Hei Man - Professor LAU Kwok Fai",
+              "instructor": "Professor CHEN Zhefan - Professor LAU Kwok Fai",
               "dates": [
                 "7/9",
                 "14/9",
@@ -301,7 +301,7 @@
               "startMinutes": 630,
               "endMinutes": 735,
               "location": "MMW_703",
-              "instructor": "Professor CHOW Hei Man - Professor LAU Kwok Fai",
+              "instructor": "Professor CHEN Zhefan - Professor LAU Kwok Fai",
               "dates": [
                 "10/9",
                 "17/9",
@@ -604,6 +604,109 @@
       ]
     },
     {
+      "id": "LSCI5523",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lsciv/LSCIV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "5523",
+      "courseCode": "LSCI5523",
+      "title": "Global Change Biology 全球變化生物學",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI5523:-:LEC:10142",
+          "rawSection": "--LEC (10142)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10142,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CUI Guoxin - Professor Shelby Eileen MC SHARRY MC ILROY"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "LPN_LT",
+              "instructor": "Professor CUI Guoxin - Professor Shelby Eileen MC SHARRY MC ILROY",
+              "dates": [
+                "8/9",
+                "15/9",
+                "22/9",
+                "29/9",
+                "6/10",
+                "13/10",
+                "20/10",
+                "27/10",
+                "3/11",
+                "10/11",
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 10:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "10:30",
+              "endTime": "12:15",
+              "startMinutes": 630,
+              "endMinutes": 735,
+              "location": "MMW_710",
+              "instructor": "Professor CUI Guoxin - Professor Shelby Eileen MC SHARRY MC ILROY",
+              "dates": [
+                "10/9",
+                "17/9",
+                "24/9",
+                "8/10",
+                "15/10",
+                "22/10",
+                "29/10",
+                "5/11",
+                "12/11",
+                "19/11",
+                "26/11",
+                "3/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "LSCI5601",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -799,6 +902,81 @@
                 "17/11",
                 "24/11",
                 "1/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI5750",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lsciv/LSCIV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "5750",
+      "courseCode": "LSCI5750",
+      "title": "Environmental Health 環境衛生學",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI5750:-:LEC:10071",
+          "rawSection": "--LEC (10071)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10071,
+          "language": "E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Benoit THIBODEAU"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "MMW_710",
+              "instructor": "Professor Benoit THIBODEAU",
+              "dates": [
+                "7/9",
+                "14/9",
+                "21/9",
+                "28/9",
+                "5/10",
+                "12/10",
+                "26/10",
+                "2/11",
+                "9/11",
+                "16/11",
+                "23/11",
+                "30/11"
               ]
             }
           ]
@@ -1436,7 +1614,7 @@
             "status": null
           },
           "instructors": [
-            "Professor CHEUNG Chi Keung Peter - Professor HUI Jerome Ho Lam - Professor SHAW Pang Chui - Professor WONG Kam Bo - Professor ZHONG Silin"
+            "Professor HUI Jerome Ho Lam - Professor SHAW Pang Chui - Professor WONG Kam Bo - Professor ZHONG Silin"
           ],
           "meetings": [
             {
@@ -1450,7 +1628,7 @@
               "startMinutes": 810,
               "endMinutes": 975,
               "location": "SC_LG23",
-              "instructor": "Professor CHEUNG Chi Keung Peter - Professor HUI Jerome Ho Lam - Professor SHAW Pang Chui - Professor WONG Kam Bo - Professor ZHONG Silin",
+              "instructor": "Professor HUI Jerome Ho Lam - Professor SHAW Pang Chui - Professor WONG Kam Bo - Professor ZHONG Silin",
               "dates": [
                 "11/9",
                 "18/9",
@@ -1467,6 +1645,70 @@
                 "4/12",
                 "11/12",
                 "18/12"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LSCI6108",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lsciv/LSCIV.json"
+      },
+      "term": {
+        "code": "2420",
+        "name": "2026-27 Term 1"
+      },
+      "subject": "LSCI",
+      "catalogNumber": "6108",
+      "courseCode": "LSCI6108",
+      "title": "Tech. in Metabolic Profiling 代謝組學技術",
+      "units": 1,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "LAB",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Division of Life Sciences",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LSCI6108:-L01:LAB:10105",
+          "rawSection": "-L01-LAB (10105)",
+          "sectionCode": "-L01",
+          "component": "LAB",
+          "classNumber": 10105,
+          "language": "E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor GUO Dianjing"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "TBA",
+              "instructor": "Professor GUO Dianjing",
+              "dates": [
+                "07/09/2026 - 30/11/2026"
               ]
             }
           ]
@@ -1608,6 +1850,11 @@
               "location": "BMS_1",
               "instructor": "Professor ZHAO Yunde - Professor ZHUANG Xiaohong",
               "dates": [
+                "3/8",
+                "10/8",
+                "17/8",
+                "24/8",
+                "31/8",
                 "7/9",
                 "14/9",
                 "21/9",

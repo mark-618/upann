@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:58:39.633Z",
+    "generatedAt": "2026-10-28T22:20:42.612Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -14,14 +14,14 @@
     },
     "career": "TPG",
     "counts": {
-      "rawFiles": 156,
-      "rawFilesScanned": 156,
-      "rawRowsSeen": 4914,
-      "courses": 819,
-      "rawCoursesWithTargetTerm": 819,
-      "subjects": 98,
-      "sections": 1247,
-      "meetings": 1700,
+      "rawFiles": 161,
+      "rawFilesScanned": 161,
+      "rawRowsSeen": 5407,
+      "courses": 821,
+      "rawCoursesWithTargetTerm": 821,
+      "subjects": 101,
+      "sections": 1278,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -259,6 +259,10 @@
               "location": "PWH",
               "instructor": "Professor LAI Bo San Paul",
               "dates": [
+                "3/8",
+                "10/8",
+                "24/8",
+                "31/8",
                 "7/9",
                 "14/9",
                 "21/9",
@@ -373,89 +377,6 @@
       ]
     },
     {
-      "id": "HSYS5017",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/pubhv/PUBHV.json"
-      },
-      "term": {
-        "code": "2420",
-        "name": "2026-27 Term 1"
-      },
-      "subject": "HSYS",
-      "catalogNumber": "5017",
-      "courseCode": "HSYS5017",
-      "title": "Health Innovation & Tech Mgt 醫療創新及科技管理",
-      "units": 1,
-      "career": "TPG",
-      "gradingBasis": null,
-      "components": "LEC",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Div of Public Health",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "HSYS5017:-:LEC:1571",
-          "rawSection": "--LEC (1571)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 1571,
-          "language": "E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": null,
-            "availableSeats": null,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Dr. YAU Zi May Susan - Professor FUNG Hong"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Th 06:30PM - 09:30PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "18:30",
-              "endTime": "21:30",
-              "startMinutes": 1110,
-              "endMinutes": 1290,
-              "location": "PWH",
-              "instructor": "Dr. YAU Zi May Susan - Professor FUNG Hong",
-              "dates": [
-                "12/11",
-                "19/11"
-              ]
-            },
-            {
-              "timeRaw": "Th 07:00PM - 09:00PM",
-              "isTba": false,
-              "dayCode": "Th",
-              "day": "Thursday",
-              "dayIndex": 4,
-              "startTime": "19:00",
-              "endTime": "21:00",
-              "startMinutes": 1140,
-              "endMinutes": 1260,
-              "location": "PWH",
-              "instructor": "Dr. YAU Zi May Susan - Professor FUNG Hong",
-              "dates": [
-                "26/11",
-                "3/12",
-                "10/12"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "HSYS5018",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -488,7 +409,7 @@
           "classNumber": 1605,
           "language": "C&E",
           "availability": {
-            "capacity": 50,
+            "capacity": 60,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -512,6 +433,7 @@
               "location": "PWH",
               "instructor": "Dr. AU Kit Sing Derrick - Dr. YAU Zi May Susan - Professor CHUNG Roger Yat Nork",
               "dates": [
+                "3/9",
                 "10/9",
                 "17/9",
                 "24/9"
@@ -633,11 +555,11 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Tu 06:30PM - 09:30PM",
+              "timeRaw": "Fr 06:30PM - 09:30PM",
               "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
               "startTime": "18:30",
               "endTime": "21:30",
               "startMinutes": 1110,
@@ -645,10 +567,11 @@
               "location": "PWH",
               "instructor": "Dr. LEUNG Yee Man - Dr. YAU Zi May Susan",
               "dates": [
-                "8/9",
-                "15/9",
-                "22/9",
-                "29/9"
+                "4/9",
+                "11/9",
+                "18/9",
+                "2/10",
+                "9/10"
               ]
             }
           ]
