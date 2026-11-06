@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T22:43:53.318Z",
+    "generatedAt": "2026-11-04T23:45:55.100Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 32053,
-      "courses": 1721,
-      "rawCoursesWithTargetTerm": 1721,
+      "rawRowsSeen": 32036,
+      "courses": 1720,
+      "rawCoursesWithTargetTerm": 1720,
       "subjects": 124,
-      "sections": 4931,
-      "meetings": 5552,
+      "sections": 4921,
+      "meetings": 5546,
       "warnings": 0
     }
   },
@@ -2097,9 +2097,9 @@
           "classNumber": 9675,
           "language": "E",
           "availability": {
-            "capacity": 72,
+            "capacity": 70,
             "enrolled": 0,
-            "availableSeats": 72,
+            "availableSeats": 70,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2146,9 +2146,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 18,
+            "capacity": 14,
             "enrolled": 0,
-            "availableSeats": 18,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2193,9 +2193,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 18,
+            "capacity": 14,
             "enrolled": 0,
-            "availableSeats": 18,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2240,9 +2240,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 18,
+            "capacity": 14,
             "enrolled": 0,
-            "availableSeats": 18,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2250,16 +2250,16 @@
           "instructors": [],
           "meetings": [
             {
-              "timeRaw": "Th 02:30PM - 04:15PM",
+              "timeRaw": "Th 09:30AM - 11:15AM",
               "isTba": false,
               "dayCode": "Th",
               "day": "Thursday",
               "dayIndex": 4,
-              "startTime": "14:30",
-              "endTime": "16:15",
-              "startMinutes": 870,
-              "endMinutes": 975,
-              "location": "UCC_109",
+              "startTime": "09:30",
+              "endTime": "11:15",
+              "startMinutes": 570,
+              "endMinutes": 675,
+              "location": "UCC_205",
               "instructor": null,
               "dates": [
                 "14/1",
@@ -2287,9 +2287,9 @@
           "classNumber": null,
           "language": "E",
           "availability": {
-            "capacity": 18,
+            "capacity": 14,
             "enrolled": 0,
-            "availableSeats": 18,
+            "availableSeats": 14,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2307,6 +2307,53 @@
               "startMinutes": 870,
               "endMinutes": 975,
               "location": "UCC_108",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SOWK3320:-T05:TUT:no-class-number",
+          "rawSection": "-T05-TUT",
+          "sectionCode": "-T05",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "E",
+          "availability": {
+            "capacity": 14,
+            "enrolled": 0,
+            "availableSeats": 14,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "UCC_109",
               "instructor": null,
               "dates": [
                 "14/1",

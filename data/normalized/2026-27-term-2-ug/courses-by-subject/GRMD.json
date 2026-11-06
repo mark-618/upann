@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T22:43:53.318Z",
+    "generatedAt": "2026-11-04T23:45:55.100Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 32053,
-      "courses": 1721,
-      "rawCoursesWithTargetTerm": 1721,
+      "rawRowsSeen": 32036,
+      "courses": 1720,
+      "rawCoursesWithTargetTerm": 1720,
       "subjects": 124,
-      "sections": 4931,
-      "meetings": 5552,
+      "sections": 4921,
+      "meetings": 5546,
       "warnings": 0
     }
   },
@@ -2211,129 +2211,6 @@
               "instructor": null,
               "dates": [
                 "11/01/2027 - 19/04/2027"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "GRMD3304",
-      "source": {
-        "id": "cuhk-official-public-timetable",
-        "rawFile": "by-org/geo/GEO.json"
-      },
-      "term": {
-        "code": "2430",
-        "name": "2026-27 Term 2"
-      },
-      "subject": "GRMD",
-      "catalogNumber": "3304",
-      "courseCode": "GRMD3304",
-      "title": "Cultural Geography 文化地理學",
-      "units": 3,
-      "career": "UG",
-      "gradingBasis": null,
-      "components": "LEC, TUT",
-      "campus": null,
-      "academicGroup": null,
-      "academicOrg": "Dept of Geo & Resource Mgt",
-      "courseAttributes": null,
-      "enrollmentRequirement": null,
-      "description": null,
-      "sections": [
-        {
-          "id": "GRMD3304:-:LEC:8205",
-          "rawSection": "--LEC (8205)",
-          "sectionCode": "-",
-          "component": "LEC",
-          "classNumber": 8205,
-          "language": "E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [
-            "Dr. WONG Yu Hin Sampson"
-          ],
-          "meetings": [
-            {
-              "timeRaw": "Tu 02:30PM - 04:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "14:30",
-              "endTime": "16:15",
-              "startMinutes": 870,
-              "endMinutes": 975,
-              "location": "HYS_G06",
-              "instructor": "Dr. WONG Yu Hin Sampson",
-              "dates": [
-                "12/1",
-                "19/1",
-                "26/1",
-                "2/2",
-                "16/2",
-                "23/2",
-                "2/3",
-                "16/3",
-                "23/3",
-                "30/3",
-                "6/4",
-                "13/4",
-                "20/4"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "GRMD3304:-T01:TUT:no-class-number",
-          "rawSection": "-T01-TUT",
-          "sectionCode": "-T01",
-          "component": "TUT",
-          "classNumber": null,
-          "language": "E",
-          "availability": {
-            "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
-            "waitlistCapacity": null,
-            "waitlistTotal": null,
-            "status": null
-          },
-          "instructors": [],
-          "meetings": [
-            {
-              "timeRaw": "Tu 04:30PM - 05:15PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "16:30",
-              "endTime": "17:15",
-              "startMinutes": 990,
-              "endMinutes": 1035,
-              "location": "HYS_G06",
-              "instructor": null,
-              "dates": [
-                "12/1",
-                "19/1",
-                "26/1",
-                "2/2",
-                "16/2",
-                "23/2",
-                "2/3",
-                "16/3",
-                "23/3",
-                "30/3",
-                "6/4",
-                "13/4",
-                "20/4"
               ]
             }
           ]

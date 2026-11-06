@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T22:43:53.318Z",
+    "generatedAt": "2026-11-04T23:45:55.100Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 32053,
-      "courses": 1721,
-      "rawCoursesWithTargetTerm": 1721,
+      "rawRowsSeen": 32036,
+      "courses": 1720,
+      "rawCoursesWithTargetTerm": 1720,
       "subjects": 124,
-      "sections": 4931,
-      "meetings": 5552,
+      "sections": 4921,
+      "meetings": 5546,
       "warnings": 0
     }
   },
@@ -2928,6 +2928,54 @@
                 "6/4",
                 "13/4",
                 "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CLCC2903:A:LEC:10098",
+          "rawSection": "A-LEC (10098)",
+          "sectionCode": "A",
+          "component": "LEC",
+          "classNumber": 10098,
+          "language": "C&E",
+          "availability": {
+            "capacity": 19,
+            "enrolled": 0,
+            "availableSeats": 19,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 08:30AM - 11:15AM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "08:30",
+              "endTime": "11:15",
+              "startMinutes": 510,
+              "endMinutes": 675,
+              "location": "WMY_401",
+              "instructor": "Staff",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
               ]
             }
           ]

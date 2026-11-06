@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T22:43:53.318Z",
+    "generatedAt": "2026-11-04T23:45:55.100Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 32053,
-      "courses": 1721,
-      "rawCoursesWithTargetTerm": 1721,
+      "rawRowsSeen": 32036,
+      "courses": 1720,
+      "rawCoursesWithTargetTerm": 1720,
       "subjects": 124,
-      "sections": 4931,
-      "meetings": 5552,
+      "sections": 4921,
+      "meetings": 5546,
       "warnings": 0
     }
   },
@@ -982,7 +982,7 @@
                 "14/1",
                 "21/1",
                 "28/1",
-                "11/2",
+                "4/2",
                 "18/2",
                 "25/2",
                 "4/3",
@@ -1029,7 +1029,7 @@
                 "14/1",
                 "21/1",
                 "28/1",
-                "11/2",
+                "4/2",
                 "18/2",
                 "25/2",
                 "4/3",
@@ -4277,6 +4277,198 @@
                 "8/4",
                 "15/4",
                 "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFH1000:V:LEC:10109",
+          "rawSection": "V-LEC (10109)",
+          "sectionCode": "V",
+          "component": "LEC",
+          "classNumber": 10109,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. MA Chun Fai"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "17:15",
+              "startMinutes": 990,
+              "endMinutes": 1035,
+              "location": "YIA_506",
+              "instructor": "Dr. MA Chun Fai",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFH1000:VT01:TUT:no-class-number",
+          "rawSection": "VT01-TUT",
+          "sectionCode": "VT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Th 02:30PM - 04:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "16:15",
+              "startMinutes": 870,
+              "endMinutes": 975,
+              "location": "YIA_506",
+              "instructor": null,
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFH1000:W:LEC:10111",
+          "rawSection": "W-LEC (10111)",
+          "sectionCode": "W",
+          "component": "LEC",
+          "classNumber": 10111,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 01:30PM - 02:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "13:30",
+              "endTime": "14:15",
+              "startMinutes": 810,
+              "endMinutes": 855,
+              "location": "TBA",
+              "instructor": "Staff",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "UGFH1000:WT01:TUT:no-class-number",
+          "rawSection": "WT01-TUT",
+          "sectionCode": "WT01",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "C",
+          "availability": {
+            "capacity": 25,
+            "enrolled": 0,
+            "availableSeats": 25,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "Tu 11:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "11:30",
+              "endTime": "13:15",
+              "startMinutes": 690,
+              "endMinutes": 795,
+              "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
               ]
             }
           ]

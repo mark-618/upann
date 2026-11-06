@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T22:43:53.318Z",
+    "generatedAt": "2026-11-04T23:45:55.100Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 32053,
-      "courses": 1721,
-      "rawCoursesWithTargetTerm": 1721,
+      "rawRowsSeen": 32036,
+      "courses": 1720,
+      "rawCoursesWithTargetTerm": 1720,
       "subjects": 124,
-      "sections": 4931,
-      "meetings": 5552,
+      "sections": 4921,
+      "meetings": 5546,
       "warnings": 0
     }
   },
@@ -2455,6 +2455,43 @@
           ]
         },
         {
+          "id": "HIST4811:WYM1:TMC:10107",
+          "rawSection": "WYM1-TMC (10107)",
+          "sectionCode": "WYM1",
+          "component": "TMC",
+          "classNumber": 10107,
+          "language": "C&E",
+          "availability": {
+            "capacity": 8,
+            "enrolled": 0,
+            "availableSeats": 8,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. CHEN Wenyan"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. CHEN Wenyan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
           "id": "HIST4811:YYM1:TMC:10067",
           "rawSection": "YYM1-TMC (10067)",
           "sectionCode": "YYM1",
@@ -2463,8 +2500,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 1,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null

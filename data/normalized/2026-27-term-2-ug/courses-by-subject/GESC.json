@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T22:43:53.318Z",
+    "generatedAt": "2026-11-04T23:45:55.100Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 32053,
-      "courses": 1721,
-      "rawCoursesWithTargetTerm": 1721,
+      "rawRowsSeen": 32036,
+      "courses": 1720,
+      "rawCoursesWithTargetTerm": 1720,
       "subjects": 124,
-      "sections": 4931,
-      "meetings": 5552,
+      "sections": 4921,
+      "meetings": 5546,
       "warnings": 0
     }
   },
@@ -109,8 +109,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 2000,
-            "enrolled": 977,
-            "availableSeats": 1023,
+            "enrolled": 976,
+            "availableSeats": 1024,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -637,6 +637,54 @@
           ]
         },
         {
+          "id": "GESC1230:NAJ1:PRJ:10090",
+          "rawSection": "NAJ1-PRJ (10090)",
+          "sectionCode": "NAJ1",
+          "component": "PRJ",
+          "classNumber": 10090,
+          "language": "P",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. LI Chun Hong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "WMY_506",
+              "instructor": "Dr. LI Chun Hong",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
           "id": "GESC1230:PBJ1:PRJ:6754",
           "rawSection": "PBJ1-PRJ (6754)",
           "sectionCode": "PBJ1",
@@ -686,6 +734,54 @@
           ]
         },
         {
+          "id": "GESC1230:TBJ1:PRJ:10091",
+          "rawSection": "TBJ1-PRJ (10091)",
+          "sectionCode": "TBJ1",
+          "component": "PRJ",
+          "classNumber": 10091,
+          "language": "P",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. GAO Xin"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 03:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "15:30",
+              "endTime": "18:15",
+              "startMinutes": 930,
+              "endMinutes": 1095,
+              "location": "WMY_508",
+              "instructor": "Dr. GAO Xin",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
           "id": "GESC1230:UAJ1:PRJ:7010",
           "rawSection": "UAJ1-PRJ (7010)",
           "sectionCode": "UAJ1",
@@ -729,6 +825,103 @@
                 "9/4",
                 "16/4",
                 "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GESC1230:VAJ1:PRJ:10093",
+          "rawSection": "VAJ1-PRJ (10093)",
+          "sectionCode": "VAJ1",
+          "component": "PRJ",
+          "classNumber": 10093,
+          "language": "P&E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 0,
+            "availableSeats": 20,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "YIA_503",
+              "instructor": "Staff",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GESC1230:WAJ1:PRJ:10092",
+          "rawSection": "WAJ1-PRJ (10092)",
+          "sectionCode": "WAJ1",
+          "component": "PRJ",
+          "classNumber": 10092,
+          "language": "P&E",
+          "availability": {
+            "capacity": 30,
+            "enrolled": 0,
+            "availableSeats": 30,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 10:30AM - 01:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "10:30",
+              "endTime": "13:15",
+              "startMinutes": 630,
+              "endMinutes": 795,
+              "location": "NRR",
+              "instructor": "Staff",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
               ]
             }
           ]
@@ -1105,8 +1298,8 @@
           "language": "C",
           "availability": {
             "capacity": 25,
-            "enrolled": 0,
-            "availableSeats": 25,
+            "enrolled": 8,
+            "availableSeats": 17,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
