@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-04T23:56:10.879Z",
+    "generatedAt": "2026-11-12T00:44:35.951Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 161,
       "rawFilesScanned": 161,
-      "rawRowsSeen": 6674,
-      "courses": 894,
-      "rawCoursesWithTargetTerm": 894,
+      "rawRowsSeen": 6768,
+      "courses": 895,
+      "rawCoursesWithTargetTerm": 895,
       "subjects": 103,
-      "sections": 1370,
-      "meetings": 1814,
+      "sections": 1397,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -1277,7 +1277,7 @@
               "endTime": "12:30",
               "startMinutes": 570,
               "endMinutes": 750,
-              "location": "CYT_613",
+              "location": "CYT_611",
               "instructor": "Professor GAO Xiangyu",
               "dates": [
                 "5/3"
@@ -1293,7 +1293,7 @@
               "endTime": "12:30",
               "startMinutes": 570,
               "endMinutes": 750,
-              "location": "CYT_611",
+              "location": "CYT_613",
               "instructor": "Professor GAO Xiangyu",
               "dates": [
                 "5/3"
@@ -1984,34 +1984,23 @@
             "status": null
           },
           "instructors": [
-            "Professor ZHANG Dongcheng"
+            "Staff"
           ],
           "meetings": [
             {
-              "timeRaw": "Tu 06:45PM - 09:30PM",
-              "isTba": false,
-              "dayCode": "Tu",
-              "day": "Tuesday",
-              "dayIndex": 2,
-              "startTime": "18:45",
-              "endTime": "21:30",
-              "startMinutes": 1125,
-              "endMinutes": 1290,
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
               "location": "TBA",
-              "instructor": "Professor ZHANG Dongcheng",
+              "instructor": "Staff",
               "dates": [
-                "8/12",
-                "15/12",
-                "22/12",
-                "29/12",
-                "5/1",
-                "12/1",
-                "19/1",
-                "26/1",
-                "2/2",
-                "16/2",
-                "23/2",
-                "2/3"
+                "TBA"
               ]
             }
           ]

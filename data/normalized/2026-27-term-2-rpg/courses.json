@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-05T00:04:38.721Z",
+    "generatedAt": "2026-11-12T00:53:09.382Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 135,
       "rawFilesScanned": 135,
-      "rawRowsSeen": 5740,
-      "courses": 557,
-      "rawCoursesWithTargetTerm": 557,
+      "rawRowsSeen": 5742,
+      "courses": 558,
+      "rawCoursesWithTargetTerm": 558,
       "subjects": 73,
-      "sections": 2493,
-      "meetings": 2526,
+      "sections": 2494,
+      "meetings": 2527,
       "warnings": 0
     }
   },
@@ -99523,6 +99523,70 @@
       ]
     },
     {
+      "id": "RELS6132",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/relsv/RELSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "RELS",
+      "catalogNumber": "6132",
+      "courseCode": "RELS6132",
+      "title": "Biblical Studies: Seminar II 聖經研究：專題討論(二)",
+      "units": 3,
+      "career": "RPG",
+      "gradingBasis": null,
+      "components": "SEM",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Religious Studies",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "RELS6132:-S01:SEM:10149",
+          "rawSection": "-S01-SEM (10149)",
+          "sectionCode": "-S01",
+          "component": "SEM",
+          "classNumber": 10149,
+          "language": "E",
+          "availability": {
+            "capacity": 5,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor WONG Sonia Kwok"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor WONG Sonia Kwok",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "RELS6152",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -99555,7 +99619,7 @@
           "classNumber": 3940,
           "language": "E",
           "availability": {
-            "capacity": 15,
+            "capacity": 25,
             "enrolled": null,
             "availableSeats": null,
             "waitlistCapacity": null,
@@ -99567,19 +99631,33 @@
           ],
           "meetings": [
             {
-              "timeRaw": "TBA",
-              "isTba": true,
-              "dayCode": null,
-              "day": null,
-              "dayIndex": null,
-              "startTime": null,
-              "endTime": null,
-              "startMinutes": null,
-              "endMinutes": null,
-              "location": "NRR",
+              "timeRaw": "We 02:15PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:15",
+              "endTime": "17:15",
+              "startMinutes": 855,
+              "endMinutes": 1035,
+              "location": "TBA",
               "instructor": "Professor LAI Pan Chiu",
               "dates": [
-                "11/01/2027 - 19/04/2027"
+                "13/1",
+                "20/1",
+                "27/1",
+                "3/2",
+                "10/2",
+                "17/2",
+                "24/2",
+                "3/3",
+                "10/3",
+                "17/3",
+                "24/3",
+                "31/3",
+                "7/4",
+                "14/4",
+                "21/4"
               ]
             }
           ]
@@ -110449,7 +110527,7 @@
             "status": null
           },
           "instructors": [
-            "Professor Duncan James POUPARD - Professor James George ST ANDRE - Professor WEI Ling Chia - Professor ZHOU Mengyuan"
+            "Professor Duncan James POUPARD - Professor James George ST ANDRE - Professor WEI Ling Chia - Professor WONG Wang Chi - Professor ZHOU Mengyuan"
           ],
           "meetings": [
             {
@@ -110463,7 +110541,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Professor Duncan James POUPARD - Professor James George ST ANDRE - Professor WEI Ling Chia - Professor ZHOU Mengyuan",
+              "instructor": "Professor Duncan James POUPARD - Professor James George ST ANDRE - Professor WEI Ling Chia - Professor WONG Wang Chi - Professor ZHOU Mengyuan",
               "dates": [
                 "11/01/2027 - 19/04/2027"
               ]

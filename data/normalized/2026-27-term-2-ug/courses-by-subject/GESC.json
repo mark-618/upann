@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-04T23:45:55.100Z",
+    "generatedAt": "2026-11-12T00:34:31.514Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 32036,
-      "courses": 1720,
-      "rawCoursesWithTargetTerm": 1720,
+      "rawRowsSeen": 32099,
+      "courses": 1723,
+      "rawCoursesWithTargetTerm": 1723,
       "subjects": 124,
-      "sections": 4921,
-      "meetings": 5546,
+      "sections": 4930,
+      "meetings": 5556,
       "warnings": 0
     }
   },
@@ -109,8 +109,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 2000,
-            "enrolled": 976,
-            "availableSeats": 1024,
+            "enrolled": 975,
+            "availableSeats": 1025,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -597,8 +597,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 1,
+            "availableSeats": 29,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -645,8 +645,8 @@
           "language": "P",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 23,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -693,8 +693,8 @@
           "language": "P",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 11,
+            "availableSeats": 19,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -742,8 +742,8 @@
           "language": "P",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 22,
+            "availableSeats": 8,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -810,7 +810,7 @@
               "endTime": "17:15",
               "startMinutes": 870,
               "endMinutes": 1035,
-              "location": "WMY_405",
+              "location": "WMY_505",
               "instructor": "Dr. NG Kit Ying",
               "dates": [
                 "15/1",
@@ -838,8 +838,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 20,
-            "enrolled": 0,
-            "availableSeats": 20,
+            "enrolled": 17,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -886,8 +886,8 @@
           "language": "P&E",
           "availability": {
             "capacity": 30,
-            "enrolled": 0,
-            "availableSeats": 30,
+            "enrolled": 8,
+            "availableSeats": 22,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -922,6 +922,54 @@
                 "6/4",
                 "13/4",
                 "20/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GESC1230:XAJ1:PRJ:10118",
+          "rawSection": "XAJ1-PRJ (10118)",
+          "sectionCode": "XAJ1",
+          "component": "PRJ",
+          "classNumber": 10118,
+          "language": "E",
+          "availability": {
+            "capacity": 20,
+            "enrolled": 20,
+            "availableSeats": 0,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Fr 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Fr",
+              "day": "Friday",
+              "dayIndex": 5,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "WMY_405",
+              "instructor": "Staff",
+              "dates": [
+                "15/1",
+                "22/1",
+                "29/1",
+                "12/2",
+                "19/2",
+                "26/2",
+                "5/3",
+                "19/3",
+                "2/4",
+                "9/4",
+                "16/4",
+                "23/4"
               ]
             }
           ]

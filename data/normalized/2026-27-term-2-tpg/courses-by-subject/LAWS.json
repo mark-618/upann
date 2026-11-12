@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-04T23:56:10.879Z",
+    "generatedAt": "2026-11-12T00:44:35.951Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 161,
       "rawFilesScanned": 161,
-      "rawRowsSeen": 6674,
-      "courses": 894,
-      "rawCoursesWithTargetTerm": 894,
+      "rawRowsSeen": 6768,
+      "courses": 895,
+      "rawCoursesWithTargetTerm": 895,
       "subjects": 103,
-      "sections": 1370,
-      "meetings": 1814,
+      "sections": 1397,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -3519,6 +3519,172 @@
       ]
     },
     {
+      "id": "LAWS6219",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lawsv/LAWSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LAWS",
+      "catalogNumber": "6219",
+      "courseCode": "LAWS6219",
+      "title": "Global Issues in Law",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Law",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LAWS6219:-:LEC:10147",
+          "rawSection": "--LEC (10147)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10147,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Mo 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Mo",
+              "day": "Monday",
+              "dayIndex": 1,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "GLC",
+              "instructor": "Staff",
+              "dates": [
+                "16/11"
+              ]
+            },
+            {
+              "timeRaw": "Tu 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "GLC",
+              "instructor": "Staff",
+              "dates": [
+                "17/11",
+                "24/11",
+                "1/12"
+              ]
+            },
+            {
+              "timeRaw": "We 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "GLC",
+              "instructor": "Staff",
+              "dates": [
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            },
+            {
+              "timeRaw": "We 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "We",
+              "day": "Wednesday",
+              "dayIndex": 3,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "GLC",
+              "instructor": "Staff",
+              "dates": [
+                "18/11",
+                "25/11",
+                "2/12"
+              ]
+            },
+            {
+              "timeRaw": "Th 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "GLC",
+              "instructor": "Staff",
+              "dates": [
+                "26/11"
+              ]
+            },
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "GLC",
+              "instructor": "Staff",
+              "dates": [
+                "28/11"
+              ]
+            },
+            {
+              "timeRaw": "Sa 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "GLC",
+              "instructor": "Staff",
+              "dates": [
+                "28/11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "LAWS6221",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -4229,6 +4395,83 @@
       ]
     },
     {
+      "id": "LAWS6401",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/lawsv/LAWSV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "LAWS",
+      "catalogNumber": "6401",
+      "courseCode": "LAWS6401",
+      "title": "Project Fin & Infrastructure L",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Law",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "LAWS6401:-:LEC:10148",
+          "rawSection": "--LEC (10148)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10148,
+          "language": "E",
+          "availability": {
+            "capacity": 70,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor Paul Caleb DEEMER"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Tu 02:30PM - 05:15PM",
+              "isTba": false,
+              "dayCode": "Tu",
+              "day": "Tuesday",
+              "dayIndex": 2,
+              "startTime": "14:30",
+              "endTime": "17:15",
+              "startMinutes": 870,
+              "endMinutes": 1035,
+              "location": "GLC",
+              "instructor": "Professor Paul Caleb DEEMER",
+              "dates": [
+                "12/1",
+                "19/1",
+                "26/1",
+                "2/2",
+                "16/2",
+                "23/2",
+                "2/3",
+                "9/3",
+                "16/3",
+                "23/3",
+                "30/3",
+                "6/4",
+                "13/4",
+                "20/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "LAWS6402",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -4721,7 +4964,7 @@
             "status": null
           },
           "instructors": [
-            "Professor Evan Corby GIBSON"
+            "Professor LIN Yuping"
           ],
           "meetings": [
             {
@@ -4735,7 +4978,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Professor Evan Corby GIBSON",
+              "instructor": "Professor LIN Yuping",
               "dates": [
                 "11/01/2027 - 19/04/2027"
               ]
@@ -4785,7 +5028,7 @@
             "status": null
           },
           "instructors": [
-            "Professor Evan Corby GIBSON"
+            "Professor LIN Yuping"
           ],
           "meetings": [
             {
@@ -4799,7 +5042,7 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "NRR",
-              "instructor": "Professor Evan Corby GIBSON",
+              "instructor": "Professor LIN Yuping",
               "dates": [
                 "11/01/2027 - 19/04/2027"
               ]

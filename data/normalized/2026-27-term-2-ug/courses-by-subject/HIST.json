@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-04T23:45:55.100Z",
+    "generatedAt": "2026-11-12T00:34:31.514Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 32036,
-      "courses": 1720,
-      "rawCoursesWithTargetTerm": 1720,
+      "rawRowsSeen": 32099,
+      "courses": 1723,
+      "rawCoursesWithTargetTerm": 1723,
       "subjects": 124,
-      "sections": 4921,
-      "meetings": 5546,
+      "sections": 4930,
+      "meetings": 5556,
       "warnings": 0
     }
   },
@@ -283,8 +283,8 @@
           "language": "E",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 9,
+            "availableSeats": 91,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -332,8 +332,8 @@
           "language": "E",
           "availability": {
             "capacity": 100,
-            "enrolled": 0,
-            "availableSeats": 100,
+            "enrolled": 9,
+            "availableSeats": 91,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2184,29 +2184,31 @@
           ],
           "meetings": [
             {
-              "timeRaw": "Mo 04:30PM - 06:15PM",
+              "timeRaw": "Th 12:30PM - 02:15PM",
               "isTba": false,
-              "dayCode": "Mo",
-              "day": "Monday",
-              "dayIndex": 1,
-              "startTime": "16:30",
-              "endTime": "18:15",
-              "startMinutes": 990,
-              "endMinutes": 1095,
-              "location": "LHC_G04",
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "12:30",
+              "endTime": "14:15",
+              "startMinutes": 750,
+              "endMinutes": 855,
+              "location": "YIA_403",
               "instructor": "Staff",
               "dates": [
-                "11/1",
-                "18/1",
-                "25/1",
-                "1/2",
-                "15/2",
-                "22/2",
-                "1/3",
-                "15/3",
-                "22/3",
-                "12/4",
-                "19/4"
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
               ]
             }
           ]
@@ -2239,6 +2241,117 @@
               "startMinutes": null,
               "endMinutes": null,
               "location": "TBA",
+              "instructor": null,
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "HIST4700",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/his/HIS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "HIST",
+      "catalogNumber": "4700",
+      "courseCode": "HIST4700",
+      "title": "TS in Public History 公眾歷史專題研究",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC, TUT",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of History",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "HIST4700:ZG:LEC:10150",
+          "rawSection": "ZG-LEC (10150)",
+          "sectionCode": "ZG",
+          "component": "LEC",
+          "classNumber": 10150,
+          "language": "P",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 04:30PM - 06:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "16:30",
+              "endTime": "18:15",
+              "startMinutes": 990,
+              "endMinutes": 1095,
+              "location": "WMY_402",
+              "instructor": "Staff",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "HIST4700:ZGT1:TUT:no-class-number",
+          "rawSection": "ZGT1-TUT",
+          "sectionCode": "ZGT1",
+          "component": "TUT",
+          "classNumber": null,
+          "language": "P",
+          "availability": {
+            "capacity": 50,
+            "enrolled": 0,
+            "availableSeats": 50,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
               "instructor": null,
               "dates": [
                 "11/01/2027 - 19/04/2027"
@@ -2393,6 +2506,70 @@
       ]
     },
     {
+      "id": "HIST4802",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/his/HIS.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "HIST",
+      "catalogNumber": "4802",
+      "courseCode": "HIST4802",
+      "title": "Graduation Thesis 畢業論文",
+      "units": 6,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "IND",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Dept of History",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "HIST4802:WCI1:IND:10152",
+          "rawSection": "WCI1-IND (10152)",
+          "sectionCode": "WCI1",
+          "component": "IND",
+          "classNumber": 10152,
+          "language": "C&E",
+          "availability": {
+            "capacity": 10,
+            "enrolled": 0,
+            "availableSeats": 10,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAM Weng Cheong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LAM Weng Cheong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "HIST4811",
       "source": {
         "id": "cuhk-official-public-timetable",
@@ -2418,6 +2595,43 @@
       "description": null,
       "sections": [
         {
+          "id": "HIST4811:WCM1:TMC:10154",
+          "rawSection": "WCM1-TMC (10154)",
+          "sectionCode": "WCM1",
+          "component": "TMC",
+          "classNumber": 10154,
+          "language": "C&E",
+          "availability": {
+            "capacity": 8,
+            "enrolled": 1,
+            "availableSeats": 7,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor LAM Weng Cheong"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Professor LAM Weng Cheong",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
           "id": "HIST4811:WTM1:TMC:8053",
           "rawSection": "WTM1-TMC (8053)",
           "sectionCode": "WTM1",
@@ -2426,8 +2640,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 1,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2485,6 +2699,43 @@
               "endMinutes": null,
               "location": "NRR",
               "instructor": "Dr. CHEN Wenyan",
+              "dates": [
+                "11/01/2027 - 19/04/2027"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "HIST4811:YQM1:TMC:10153",
+          "rawSection": "YQM1-TMC (10153)",
+          "sectionCode": "YQM1",
+          "component": "TMC",
+          "classNumber": 10153,
+          "language": "C&E",
+          "availability": {
+            "capacity": 8,
+            "enrolled": 1,
+            "availableSeats": 7,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Dr. WANG Yiqiao"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "TBA",
+              "isTba": true,
+              "dayCode": null,
+              "day": null,
+              "dayIndex": null,
+              "startTime": null,
+              "endTime": null,
+              "startMinutes": null,
+              "endMinutes": null,
+              "location": "NRR",
+              "instructor": "Dr. WANG Yiqiao",
               "dates": [
                 "11/01/2027 - 19/04/2027"
               ]
@@ -2564,8 +2815,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 5,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2601,8 +2852,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 6,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2638,8 +2889,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 5,
+            "availableSeats": 3,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2675,8 +2926,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 3,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2712,8 +2963,8 @@
           "language": "E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 2,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2749,8 +3000,8 @@
           "language": "E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 2,
+            "availableSeats": 6,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2786,8 +3037,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 3,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2823,8 +3074,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 6,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2860,8 +3111,8 @@
           "language": "E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 1,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -2971,8 +3222,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 3,
+            "availableSeats": 5,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3008,8 +3259,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 6,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3045,8 +3296,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 6,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3082,8 +3333,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 6,
+            "availableSeats": 2,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3119,8 +3370,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 1,
+            "availableSeats": 7,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null
@@ -3156,8 +3407,8 @@
           "language": "C&E",
           "availability": {
             "capacity": 8,
-            "enrolled": 0,
-            "availableSeats": 8,
+            "enrolled": 4,
+            "availableSeats": 4,
             "waitlistCapacity": null,
             "waitlistTotal": null,
             "status": null

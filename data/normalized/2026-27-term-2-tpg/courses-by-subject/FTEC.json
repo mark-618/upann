@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-04T23:56:10.879Z",
+    "generatedAt": "2026-11-12T00:44:35.951Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 161,
       "rawFilesScanned": 161,
-      "rawRowsSeen": 6674,
-      "courses": 894,
-      "rawCoursesWithTargetTerm": 894,
+      "rawRowsSeen": 6768,
+      "courses": 895,
+      "rawCoursesWithTargetTerm": 895,
       "subjects": 103,
-      "sections": 1370,
-      "meetings": 1814,
+      "sections": 1397,
+      "meetings": 1860,
       "warnings": 0
     }
   },
@@ -553,6 +553,84 @@
                 "12/4",
                 "19/4",
                 "26/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FTEC5690",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/engiv/ENGIV.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "FTEC",
+      "catalogNumber": "5690",
+      "courseCode": "FTEC5690",
+      "title": "Advanced Topics in FinTech 金融科技高級專題",
+      "units": 3,
+      "career": "TPG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Div of Engineering",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "FTEC5690:-:LEC:10119",
+          "rawSection": "--LEC (10119)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10119,
+          "language": "E",
+          "availability": {
+            "capacity": 80,
+            "enrolled": null,
+            "availableSeats": null,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Professor CHEW Seen Meng"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Sa 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Sa",
+              "day": "Saturday",
+              "dayIndex": 6,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "TBA",
+              "instructor": "Professor CHEW Seen Meng",
+              "dates": [
+                "16/1",
+                "23/1",
+                "30/1",
+                "6/2",
+                "13/2",
+                "20/2",
+                "27/2",
+                "6/3",
+                "13/3",
+                "20/3",
+                "27/3",
+                "3/4",
+                "10/4",
+                "17/4",
+                "24/4"
               ]
             }
           ]

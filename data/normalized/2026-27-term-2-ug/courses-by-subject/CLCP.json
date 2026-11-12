@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-04T23:45:55.100Z",
+    "generatedAt": "2026-11-12T00:34:31.514Z",
     "source": {
       "id": "cuhk-official-public-timetable",
       "page": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
@@ -16,12 +16,12 @@
     "counts": {
       "rawFiles": 223,
       "rawFilesScanned": 223,
-      "rawRowsSeen": 32036,
-      "courses": 1720,
-      "rawCoursesWithTargetTerm": 1720,
+      "rawRowsSeen": 32099,
+      "courses": 1723,
+      "rawCoursesWithTargetTerm": 1723,
       "subjects": 124,
-      "sections": 4921,
-      "meetings": 5546,
+      "sections": 4930,
+      "meetings": 5556,
       "warnings": 0
     }
   },
@@ -1162,7 +1162,7 @@
               "endTime": "12:15",
               "startMinutes": 630,
               "endMinutes": 735,
-              "location": "WMY_401",
+              "location": "TBA",
               "instructor": "Staff",
               "dates": [
                 "14/1",
@@ -4759,6 +4759,82 @@
                 "22/3",
                 "12/4",
                 "19/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CLCP4543",
+      "source": {
+        "id": "cuhk-official-public-timetable",
+        "rawFile": "by-org/clc/CLC.json"
+      },
+      "term": {
+        "code": "2430",
+        "name": "2026-27 Term 2"
+      },
+      "subject": "CLCP",
+      "catalogNumber": "4543",
+      "courseCode": "CLCP4543",
+      "title": "Adv Com Skills on Bus Top II 高級溝通技巧訓練 - 商貿專題（二）",
+      "units": 3,
+      "career": "UG",
+      "gradingBasis": null,
+      "components": "LEC",
+      "campus": null,
+      "academicGroup": null,
+      "academicOrg": "Yale-China Chin Lang Acad",
+      "courseAttributes": null,
+      "enrollmentRequirement": null,
+      "description": null,
+      "sections": [
+        {
+          "id": "CLCP4543:-:LEC:10155",
+          "rawSection": "--LEC (10155)",
+          "sectionCode": "-",
+          "component": "LEC",
+          "classNumber": 10155,
+          "language": "P&E",
+          "availability": {
+            "capacity": 15,
+            "enrolled": 0,
+            "availableSeats": 15,
+            "waitlistCapacity": null,
+            "waitlistTotal": null,
+            "status": null
+          },
+          "instructors": [
+            "Staff"
+          ],
+          "meetings": [
+            {
+              "timeRaw": "Th 09:30AM - 12:15PM",
+              "isTba": false,
+              "dayCode": "Th",
+              "day": "Thursday",
+              "dayIndex": 4,
+              "startTime": "09:30",
+              "endTime": "12:15",
+              "startMinutes": 570,
+              "endMinutes": 735,
+              "location": "WMY_401",
+              "instructor": "Staff",
+              "dates": [
+                "14/1",
+                "21/1",
+                "28/1",
+                "4/2",
+                "18/2",
+                "25/2",
+                "4/3",
+                "18/3",
+                "25/3",
+                "1/4",
+                "8/4",
+                "15/4",
+                "22/4"
               ]
             }
           ]
